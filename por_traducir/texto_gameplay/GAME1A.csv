@@ -1,0 +1,192 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x99E,redirect,0x9A1,148,   Lorraine is murdered by an unknown\n assailant after requesting Jonathan's help. \n The perpetrator is a mysterious individual\n with white blood.{0D},,1 isla(s) 91 inline
+1,0xA05,redirect,0xA38,103,"   Jonathan returns to Beyond, taking the\n four capsules and the leaf he got from\n Lorraine with him.{0D}",,1 isla(s) 91 inline
+2,0xA6E,redirect,0xAA2,63,   He first sets out to get Ed's help.  Ed\n should be at BCP.{0D},,1 isla(s) 91 inline
+3,0xAAB,redirect,0xAE4,106,"   Jonathan heads back to Beyond, taking\n the four capsules and the leaf he got from\n Lorraine with him.{0D}",,1 isla(s) 91 inline
+4,0xB12,redirect,0xB54,59,   He gathers information on the plane until\n it arrives.{0D},,
+5,0xB51,redirect,0xB8F,139,"   Jonathan's ex-wife, Lorraine, says her\n husband, Kenzo Hojo, has disappeared. \n The only clues are four capsules and a leaf\n fragment.{0D}",,1 isla(s) 91 inline
+6,0xBDC,redirect,0xC1D,133,"   However, Lorraine is critically injured by\n an unknown assailant.  The perpetrator is\n a mysterious individual with white blood.{0D}",,2 isla(s) 91 inline
+7,0xC35,redirect,0xCA8,110,"   He manages to elude Jonathan and\n escapes on a motorcycle.  Frustrated,\n Jonathan heads back to Lorraine.{0D}",,1 isla(s) 91 inline
+8,0xC8C,redirect,0xD19,85,"   After engaging Jonathan in a shootout\n again, he escapes further down the alley.{0D}",,1 isla(s) 91 inline
+9,0xCDD,redirect,0xD71,82,"   Jonathan's ex-wife, Lorraine, says her\n husband, Kenzo Hojo, has disappeared.{0D}",,1 isla(s) 91 inline
+10,0xD32,redirect,0xDC6,77,"   The only clues are four capsules, a leaf\n fragment and the word ""Plato"".{0D}",,1 isla(s) 91 inline
+11,0xD8D,redirect,0xE16,167,"   However, Lorraine is critically injured by\n an unknown assailant.  Jonathan becomes\n involved in a shootout with the perpetrator\n before he escapes down an alley.{0D}",,1 isla(s) 91 inline
+12,0xE02,redirect,0xEC0,140,"   Jonathan Ingram {D0}{06} after losing\n everything in an EMPS accident 30 years\n ago, he now struggles to survive as a\n private eye in Old LA.{0D}",,2 isla(s) 91 inline
+13,0xE91,redirect,0xF52,118,"   One day Jonathan is visited by his\n ex-wife, Lorraine, who wants his help\n with something related to her husband.{0D}",,2 isla(s) 91 inline
+14,0xEE0,redirect,0xFCE,52,   He reluctantly listens to what she has to\n say.{0D},,
+15,0xF29,redirect,0x1002,78,"   Jonathan Ingram {D0}{06} 30 years ago, he\n lost everything in an EMPS accident.{0D}",,2 isla(s) 91 inline
+16,0xF6E,redirect,0x1056,111,"   One day Jonathan is visited by his\n ex-wife, Lorraine, who says her husband,\n Kenzo Hojo, has disappeared.{0D}",,1 isla(s) 91 inline
+17,0xFBD,redirect,0x10C8,90,   The only clues are four capsules and a\n leaf fragment.  All signs point to foul play.{0D},,
+18,0x1014,redirect,0x1122,49,   He continues to listen to Lorraine's\n story.{0D},,1 isla(s) 91 inline
+19,0x103B,redirect,0x1156,98,"   Former Policenaut Jonathan searches\n for Kenzo Hojo at the request of his\n ex-wife, Lorraine.{0D}",,1 isla(s) 91 inline
+20,0x108A,redirect,0x11BB,102,"   Jonathan and Ed visit the Tokugawa\n Building, where they get in a heated\n argument with Tokugawa.{0D}",,1 isla(s) 91 inline
+21,0x1129,redirect,0x1224,121,"   Although it appears as if they failed to\n obtain anything, Jonathan believes their\n actions will provoke a response.{0D}",,1 isla(s) 91 inline
+22,0x1182,redirect,0x12A0,58,   Jonathan begins his search for Kenzo\n Hojo on Beyond.{0D},,1 isla(s) 91 inline
+23,0x11D1,redirect,0x12DD,129,"   He and Ed make their way to the\n Tokugawa Building, where Hojo met with\n President Tokugawa and was never heard\n from again.{0D}",,1 isla(s) 91 inline
+24,0x1244,redirect,0x1361,115,   Tokugawa is attending a launch party for\n a new DDS product in the building's\n Garden.  They talk to Tokugawa.{0D},,1 isla(s) 91 inline
+25,0x12B9,redirect,0x13D7,128,   Tokugawa is apparently attending a\n launch party for a new DDS product in the\n building's Garden.  Will he meet with\n them?{0D},,2 isla(s) 91 inline
+26,0x1342,redirect,0x145D,77,"   Jonathan's ex-wife, Lorraine, has asked\n him to look for her Kenzo Hojo.{0D}",,1 isla(s) 91 inline
+27,0x136F,redirect,0x14AD,167,"   Teaming up with Ed, they visit Tokugawa\n Pharmaceuticals, Hojo's place of\n employment.  It seems he was involved in\n the development of a DDS capsule called\n K-9.{0D}",,1 isla(s) 91 inline
+28,0x13F8,redirect,0x1557,96,"   Taking note of the whiteboard in the\n DDS Room, they continue their\n investigation at BCCH.{0D}",,1 isla(s) 91 inline
+29,0x1445,redirect,0x15BA,92,"   They head to Hojo's house for more\n information.  There they meet his\n daughter, Karen.{0D}",,1 isla(s) 91 inline
+30,0x1492,redirect,0x1619,113,"   They head to the Tokugawa Building,\n where Hojo met with President Tokugawa\n and was never heard from again.{0D}",,2 isla(s) 91 inline
+31,0x14F5,redirect,0x1690,165,"   Jonathan's ex-wife, Lorraine, requests\n he look for her husband.  Jonathan\n returns to Beyond, taking the four\n capsules and the leaf he got from her with\n him.{0D}",,1 isla(s) 91 inline
+32,0x157E,redirect,0x1738,142,"   According to BCCH's pharmacist, Ishida,\n on the day Hojo disappeared, he went to\n the Tokugawa Building to meet with\n President Tokugawa.{0D}",,1 isla(s) 91 inline
+33,0x15EB,redirect,0x17C9,94,   Jonathan and Ed make their way to the\n Tokugawa Building.  Will Tokugawa meet\n with them?{0D},,2 isla(s) 91 inline
+34,0x1636,redirect,0x182D,98,"   Asked by Lorraine to look for her\n husband, Jonathan secures Ed's help in his\n investigation.{0D}",,1 isla(s) 91 inline
+35,0x1683,redirect,0x1892,209,"   They visit Hojo's house after obtaining\n his address at Tokugawa Pharmaceuticals. \n There they find Karen, who is the mirror\n image of Lorraine.  Before moving on, they\n take possession of Hojo's ID card.{0D}",,2 isla(s) 91 inline
+36,0x1720,redirect,0x1969,111,"   Asked by his ex-wife, Lorraine, to look\n for Kenzo Hojo, Jonathan secures Ed's\n help in his investigation.{0D}",,1 isla(s) 91 inline
+37,0x177D,redirect,0x19DB,149,"   They visit Hojo's house after obtaining\n his address at Tokugawa Pharmaceuticals. \n Living there is Karen, who is the mirror\n image of Lorraine.{0D}",,2 isla(s) 91 inline
+38,0x17E0,redirect,0x1A76,52,   They must now question Karen about\n her father.{0D},,
+39,0x1811,redirect,0x1AAA,108,"   Accepting Lorraine's request, Jonathan\n returns to Beyond and starts his\n investigation with Ed's help.{0D}",,1 isla(s) 91 inline
+40,0x187C,redirect,0x1B19,189,"   At BCCH they meet Ishida, an employee\n of Tokugawa Pharmaceuticals.  According\n to him, on the day Hojo disappeared, he\n went to the Tokugawa Building to meet\n with President Tokugawa.{0D}",,2 isla(s) 91 inline
+41,0x1943,redirect,0x1BDC,46,   They next head to the Tokugawa\n Building.{0D},,
+42,0x195C,redirect,0x1C0A,90,"   Having obtained Ed's help, Jonathan\n heads to BCCH to determine what Hojo did\n there.{0D}",,1 isla(s) 91 inline
+43,0x19B3,redirect,0x1C67,131,"   According to Chris, BCCH's director, an\n employee from Tokugawa Pharmaceuticals\n called Ishida handles their drug\n management.{0D}",,3 isla(s) 91 inline
+44,0x1A22,redirect,0x1CF3,30,   They next talk to Ishida.{0D},,
+45,0x1A37,redirect,0x1D11,179,"   Having obtained Ed's help, Jonathan visits\n Tokugawa Pharmaceuticals, Hojo's place of\n employment.  It seems he was involved in\n the development of a DDS capsule called\n K-9.{0D}",,1 isla(s) 91 inline
+46,0x1AC0,redirect,0x1DC7,101,"   Jonathan next heads to BCCH, the\n largest hospital on Beyond, to determine\n what Hojo did there.{0D}",,1 isla(s) 91 inline
+47,0x1B39,redirect,0x1E2F,72,   Some suspicious writing on the\n whiteboard leads them next to BCCH.{0D},,2 isla(s) 91 inline
+48,0x1B9F,redirect,0x1E7D,149,"   Asked by his ex-wife, Lorraine, to look\n for her husband, Jonathan returns to\n Beyond, where he obtains Ed's help and\n begins his investigation.{0D}",,1 isla(s) 91 inline
+49,0x1C18,redirect,0x1F15,109,   The four capsules he got from Lorraine\n turn out to be ordinary products from\n Tokugawa Pharmaceuticals.{0D},,1 isla(s) 91 inline
+50,0x1C6B,redirect,0x1F85,78,"   He and Ed head to Tokugawa\n Pharmaceuticals, Hojo's place of\n employment.{0D}",,1 isla(s) 91 inline
+51,0x1CA2,redirect,0x1FD6,54,   There they look for clues to Hojo's\n whereabouts.{0D},,
+52,0x1CDF,redirect,0x200C,226,"   Jonathan's ex-wife, Lorraine, requests\n he look for her husband, but shortly after\n is murdered by an unknown assailant. \n Jonathan returns to Beyond, taking the\n four capsules and the leaf he got from\n Lorraine with him.{0D}",,3 isla(s) 91 inline
+53,0x1DAA,redirect,0x20F7,71,"   Having obtained Ed's help, Jonathan now\n begins his investigation.{0D}",,
+54,0x1E0B,redirect,0x213E,73,"   They head to Tokugawa\n Pharmaceuticals, Hojo's place of\n employment.{0D}",,1 isla(s) 91 inline
+55,0x1E3C,redirect,0x218A,54,   Ed shows Jonathan around BCP for the\n time being.{0D},,
+56,0x1E65,redirect,0x21C0,125,"   Jonathan's ex-wife, Lorraine, requests\n he look for her husband, but shortly after\n is murdered by an unknown assailant.{0D}",,2 isla(s) 91 inline
+57,0x1ECA,redirect,0x2243,103,"   Jonathan returns to Beyond, taking the\n four capsules and the leaf he got from\n Lorraine with him.{0D}",,2 isla(s) 91 inline
+58,0x1F33,redirect,0x22B0,73,"   Once there he visits BCP to obtain the\n help of his old partner, Ed.{0D}",,
+59,0x1F8E,redirect,0x22F9,152,"   Jonathan returns to Beyond, taking the\n four capsules and the leaf he got from\n Lorraine with him.  Where is Hojo? What\n is the meaning of ""Plato""?{0D}",,2 isla(s) 91 inline
+60,0x2035,redirect,0x2397,62,"   He visits BCP to obtain the help of his\n old partner, Ed.{0D}",,1 isla(s) 91 inline
+61,0x206E,redirect,0x23D8,152,"   Jonathan searches for Kenzo Hojo at the\n request of his ex-wife, Lorraine.  It\n seems his work with K-9 got him involved\n in something much bigger.{0D}",,1 isla(s) 91 inline
+62,0x20DF,redirect,0x2473,167,"   Having learned the secret to K-9 from\n Ishida, Jonathan and Ed encounter the\n biker again.  They get into a car chase,\n followed by a shootout on the linear rail.{0D}",,3 isla(s) 91 inline
+63,0x215A,redirect,0x2523,101,   Is Redwood the biker? What happened\n to Dave's body? Isolation and new\n mysteries surround them.{0D},,1 isla(s) 91 inline
+64,0x21CF,redirect,0x258B,60,   Jonathan and Ed encounter the biker\n again outside AMM.{0D},,
+65,0x220C,redirect,0x25C7,142,"   After an intense car chase, they get into\n a shootout on the linear rail.  The biker\n then leaves behind a bomb before fleeing\n the area.{0D}",,2 isla(s) 91 inline
+66,0x2275,redirect,0x265B,38,   They get to work on defusing it. {0D},,
+67,0x229A,redirect,0x2681,150,"   Jonathan and Ed encounter the biker\n again outside AMM.  After an intense car\n chase and a shootout on the linear rail,\n Dave is shot and killed.{0D}",,3 isla(s) 91 inline
+68,0x232F,redirect,0x2720,53,   They storm into the store in search of\n revenge.{0D},,
+69,0x2364,redirect,0x2755,92,"   Jonathan and Ed search for Kenzo Hojo\n at the request of Jonathan's ex-wife,\n Lorraine.{0D}",,
+70,0x23A7,redirect,0x27B1,135,"   Called to AMM again, they are attacked\n by a swarm of massquitoes, making it out\n by the skin of their teeth thanks to the\n coral.{0D}",,2 isla(s) 91 inline
+71,0x2418,redirect,0x283E,139,"   However, they encounter the biker\n outside.  He soon engages them in a\n shootout on the linear rail, escaping\n further down the train.{0D}",,
+72,0x248F,redirect,0x28C9,26,   They hurry after him.{0D},,1 isla(s) 91 inline
+73,0x24A4,redirect,0x28E6,81,"   However, they encounter the biker\n outside and an intense car chase ensues. {0D}",,1 isla(s) 91 inline
+74,0x2507,redirect,0x293A,133,"   The biker soon engages them in a\n shootout on the linear rail, using civilians\n as shields.  He escapes further down the\n train.{0D}",,1 isla(s) 91 inline
+75,0x2558,redirect,0x29C2,146,"   However, they encounter the biker\n outside and an intense car chase ensues. \n He eventually abandons his bike and heads\n for the linear rail.{0D}",,1 isla(s) 91 inline
+76,0x25F1,redirect,0x2A57,84,"   Called to AMM again, they learn the\n identity of the informant.  It was Ishida.{0D}",,1 isla(s) 91 inline
+77,0x264C,redirect,0x2AAE,147,"   Attacked by the massquitoes swarming\n around Ishida's head, they make it out of\n the building by the skin of their teeth\n thanks to the coral.{0D}",,1 isla(s) 91 inline
+78,0x26A7,redirect,0x2B44,5,   {0D},,
+79,0x26CC,redirect,0x2B49,79,"   Jonathan searches for Kenzo Hojo at the\n request of his ex-wife, Lorraine.{0D}",,1 isla(s) 91 inline
+80,0x2709,redirect,0x2B9B,179,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed return to\n BCP to reanalyze the capsules they gave to\n Victor.  However, the capsules have been\n switched.{0D}",,2 isla(s) 91 inline
+81,0x27BC,redirect,0x2C54,109,"   Just as they feel they have hit a dead\n end, the informant contacts them again. \n They hurry to Pioneer.{0D}",,1 isla(s) 91 inline
+82,0x281D,redirect,0x2CC4,179,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed return to\n BCP to reanalyze the capsules they gave to\n Victor.  However, the capsules have been\n switched.{0D}",,1 isla(s) 91 inline
+83,0x28D2,redirect,0x2D7A,105,"   Just as they feel they have hit a dead\n end, the informant contacts them again. \n They hurry to AMM.{0D}",,1 isla(s) 91 inline
+84,0x292D,redirect,0x2DE6,92,   Jonathan and Ed confirm the secret to\n K-9 from Hojo's CD {D0}{06} K-9 is a vessel\n for Narc.{0D},,1 isla(s) 91 inline
+85,0x299E,redirect,0x2E45,111,"   They hurry to BCP to reanalyze the\n capsules they gave Victor.  However, the\n capsules have been switched.{0D}",,1 isla(s) 91 inline
+86,0x2A0D,redirect,0x2EB7,143,"   They hurry to BCP to reanalyze the\n capsules they gave Victor.  However, AP\n came and took the capsules away.  They\n hurry to the AP Room.{0D}",,2 isla(s) 91 inline
+87,0x2A86,redirect,0x2F4C,177,"   Jonathan searches for Kenzo Hojo at the\n request of his ex-wife, Lorraine.  He\n learns of the existence of a CD containing\n the secret to K-9 from a man called Nine\n Stars.{0D}",,2 isla(s) 91 inline
+88,0x2B29,redirect,0x3003,86,"   Having obtained the CD, he and Ed\n hurry to BCCH to use the T-Gear99 to\n load it.{0D}",,1 isla(s) 91 inline
+89,0x2B8C,redirect,0x305C,30,   What secret does it hold?{0D},,
+90,0x2BBB,redirect,0x307A,134,   Jonathan searches for Kenzo Hojo at\n Lorraine's request.  It seems his work\n with K-9 got him involved in something\n much bigger.{0D},,
+91,0x2C2A,redirect,0x3100,145,"   Jonathan and Ed locate at Hojo's house\n the CD containing the secret to K-9,\n having learned of its existence from a man\n called Nine Stars.{0D}",,3 isla(s) 91 inline
+92,0x2CAF,redirect,0x319A,95,"   What secret does it hold? They search\n for a T-Gear99, the only machine that can\n load it.{0D}",,1 isla(s) 91 inline
+93,0x2D16,redirect,0x31FC,152,"   Jonathan searches for Kenzo Hojo at the\n request of his ex-wife, Lorraine.  It\n seems his work with K-9 got him involved\n in something much bigger.{0D}",,1 isla(s) 91 inline
+94,0x2D8B,redirect,0x3297,109,"   Jonathan and Ed meet a man called Nine\n Stars, who says the secret to K-9 is\n outlined in a CD Hojo had.{0D}",,1 isla(s) 91 inline
+95,0x2E10,redirect,0x3307,50,   They return to Hojo's house in search\n of it.{0D},,
+96,0x2E47,redirect,0x3339,109,"   Jonathan and Ed meet a man called Nine\n Stars, who says the secret to K-9 is\n outlined in a CD Hojo had.{0D}",,1 isla(s) 91 inline
+97,0x2ED6,redirect,0x33A9,50,   They return to Hojo's house in search\n of it.{0D},,
+98,0x2F03,redirect,0x33DB,120,"   While eating at Ed's house they are\n contacted by a man called Nine Stars, who\n says he has information about Hojo.{0D}",,1 isla(s) 91 inline
+99,0x2F90,redirect,0x3456,90,   They head to AMM and meet the\n informant at the scheduled place.  What\n does he know?{0D},,1 isla(s) 91 inline
+100,0x2FF1,redirect,0x34B3,79,"   Jonathan searches for Kenzo Hojo at the\n request of his ex-wife, Lorraine.{0D}",,
+101,0x3030,redirect,0x3502,181,"   While eating at Ed's house they are\n contacted by a man called Nine Stars, who\n instructs them to come to AMM.  Is this\n the lead Jonathan talked about, or could it\n be a trap?{0D}",,1 isla(s) 91 inline
+102,0x310D,redirect,0x35BA,38,   They try to locate the informant.{0D},,1 isla(s) 91 inline
+103,0x312C,redirect,0x35E3,110,"   After their scene at the Tokugawa\n Building, Ed invites Jonathan back to his\n house for something to eat.{0D}",,1 isla(s) 91 inline
+104,0x318B,redirect,0x3654,47,   There they catch up on the last 28\n years.{0D},,
+105,0x31D2,redirect,0x3683,98,"   Former Policenaut Jonathan searches\n for Kenzo Hojo at the request of his\n ex-wife, Lorraine.{0D}",,1 isla(s) 91 inline
+106,0x3225,redirect,0x36E8,190,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed infiltrate\n Tokugawa Pharmaceuticals only to\n discover a secret Narc factory.  However,\n the entire thing is a setup.{0D}",,2 isla(s) 91 inline
+107,0x32C8,redirect,0x37AC,140,"   Jonathan is rescued from his prison van\n after his arrest, but is now a wanted\n fugitive.  Ed advises him to check out a\n lead at BCCH.{0D}",,2 isla(s) 91 inline
+108,0x3363,redirect,0x383E,155,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed raid\n Tokugawa Pharmaceuticals with Gates. \n However, the entire thing is a setup.{0D}",,2 isla(s) 91 inline
+109,0x33F4,redirect,0x38DF,152,"   Jonathan is rescued from his prison van\n after his arrest, but is now wanted as a\n serial killer and has to lay low.  He then\n gets a call from Ed.{0D}",,2 isla(s) 91 inline
+110,0x3493,redirect,0x397D,170,"   Jonathan is rescued from his prison van\n after his arrest, but is now wanted as a\n serial killer and has to lay low.  He remains\n at Hojo's house for the time being.{0D}",,1 isla(s) 91 inline
+111,0x352A,redirect,0x3A2A,155,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed raid\n Tokugawa Pharmaceuticals with Gates. \n However, the entire thing is a setup.{0D}",,1 isla(s) 91 inline
+112,0x35C5,redirect,0x3AC8,63,"   Jonathan is soon arrested, charged with\n multiple murders.{0D}",,1 isla(s) 91 inline
+113,0x3612,redirect,0x3B0A,175,"   Jonathan and Ed discover the Narc\n factory and raid Tokugawa Pharmaceuticals\n with Gates.  However, the black poppies\n are no longer there, replaced by some\n other plant.{0D}",,1 isla(s) 91 inline
+114,0x36CD,redirect,0x3BBC,90,"   They head to the factory at the back,\n hoping the evidence they need is still\n there.{0D}",,2 isla(s) 91 inline
+115,0x3710,redirect,0x3C1C,94,   Jonathan and Ed discover the Narc\n factory and raid Tokugawa Pharmaceuticals\n with Gates.{0D},,
+116,0x3789,redirect,0x3C7A,121,"   While perplexed by Tokugawa's relaxed\n attitude, Jonathan leads Gates to the poppy\n fields, confident they have won.{0D}",,2 isla(s) 91 inline
+117,0x37E4,redirect,0x3CF9,5,   {0D},,
+118,0x3803,redirect,0x3CFE,154,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed infiltrate\n Tokugawa Pharmaceuticals, where they\n discover a secret Narc factory.{0D}",,1 isla(s) 91 inline
+119,0x3882,redirect,0x3D9B,94,"   They raid Tokugawa Pharmaceuticals\n with Gates, knowing the evidence they\n need is there.{0D}",,1 isla(s) 91 inline
+120,0x38CF,redirect,0x3DFC,5,   {0D},,
+121,0x38F0,redirect,0x3E01,149,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed infiltrate\n Tokugawa Pharmaceuticals, where they\n make a shocking discovery.{0D}",,1 isla(s) 91 inline
+122,0x396B,redirect,0x3E99,129,   Poppy fields and a secret Narc factory. \n Tokugawa is growing black poppies on\n Beyond and turning them into Narc\n capsules.{0D},,2 isla(s) 91 inline
+123,0x39E2,redirect,0x3F20,182,"   Jonathan searches for Kenzo Hojo at\n Lorraine's request.  Having confirmed the\n secret to K-9 from Hojo's CD, he and Ed\n infiltrate Tokugawa Pharmaceuticals to\n obtain evidence.{0D}",,3 isla(s) 91 inline
+124,0x3A85,redirect,0x3FDF,126,   There they make a shocking discovery\n {D0}{06} poppy fields as far as the eye can see. \n Tokugawa is growing poppies on Beyond.{0D},,2 isla(s) 91 inline
+125,0x3AF2,redirect,0x4063,64,   They must be producing the Narc\n capsules somewhere nearby.{0D},,
+126,0x3B4F,redirect,0x40A3,140,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed decide to\n infiltrate Tokugawa Pharmaceuticals to\n obtain evidence.{0D}",,2 isla(s) 91 inline
+127,0x3BD4,redirect,0x4135,33,   What exactly will they find?{0D},,
+128,0x3C17,redirect,0x4156,140,"   Having confirmed the secret to K-9\n from Hojo's CD, Jonathan and Ed decide to\n infiltrate Tokugawa Pharmaceuticals to\n obtain evidence.{0D}",,2 isla(s) 91 inline
+129,0x3C9A,redirect,0x41E8,33,   What exactly will they find?{0D},,
+130,0x3CD9,redirect,0x4209,114,"   Searching for Kenzo Hojo at Lorraine's\n request, Jonathan is framed by Tokugawa\n and Gates for Hojo's murder.{0D}",,1 isla(s) 91 inline
+131,0x3D48,redirect,0x427E,154,"   After infiltrating BCCH to clear his name,\n he learns a terrifying secret {D0}{06} all bodies\n on Beyond are being sent to Tokugawa's\n Moon Plant via BCCH.{0D}",,2 isla(s) 91 inline
+132,0x3DE3,redirect,0x431E,80,   He and Ed head to Plato Crater on the\n Moon to figure out what is going on.{0D},,
+133,0x3E3C,redirect,0x436E,157,"   After infiltrating BCCH's morgue to clear\n his name, Jonathan and Karen discover\n one of Dave's kidneys and Ishida's heart. \n What are they doing there?{0D}",,1 isla(s) 91 inline
+134,0x3EBF,redirect,0x440E,40,   They continue to search the morgue.{0D},,
+135,0x3ED8,redirect,0x4436,113,"   He infiltrates BCCH's morgue with Karen\n to clear his name.  Where is Hojo's body,\n and what will it reveal?{0D}",,2 isla(s) 91 inline
+136,0x3F65,redirect,0x44AD,37,   They begin to search the morgue.{0D},,
+137,0x3F84,redirect,0x44D2,37,   They begin to search the morgue.{0D},,
+138,0x3FA5,redirect,0x44F7,113,"   He infiltrates BCCH's morgue with Karen\n to clear his name.  Where is Hojo's body,\n and what will it reveal?{0D}",,2 isla(s) 91 inline
+139,0x402C,redirect,0x456E,56,   They begin to make their way through\n the hospital.{0D},,1 isla(s) 91 inline
+140,0x404D,redirect,0x45A9,114,"   Searching for Kenzo Hojo at Lorraine's\n request, Jonathan is framed by Tokugawa\n and Gates for Hojo's murder.{0D}",,1 isla(s) 91 inline
+141,0x40BE,redirect,0x461E,115,"   After infiltrating the Moon Plant to clear\n Jonathan's name, Jonathan and Ed make\n another shocking discovery.{0D}",,2 isla(s) 91 inline
+142,0x4125,redirect,0x4697,107,   Tokugawa has created a secret organ\n trading network where he auctions off\n illegally obtained organs.{0D},,2 isla(s) 91 inline
+143,0x417A,redirect,0x4708,89,"   The data from the virtual recorders in\n their possession, they head back to\n Beyond.{0D}",,
+144,0x41CD,redirect,0x4761,132,"   After infiltrating the Moon Plant to clear\n Jonathan's name, Jonathan and Ed learn of\n Tokugawa's secret organ trading network.{0D}",,2 isla(s) 91 inline
+145,0x423A,redirect,0x47EB,122,"   The data from the virtual recorders in\n their possession, they prepare to board\n the mass driver to return to Beyond.{0D}",,1 isla(s) 91 inline
+146,0x429F,redirect,0x4868,114,"   Searching for Kenzo Hojo at Lorraine's\n request, Jonathan is framed by Tokugawa\n and Gates for Hojo's murder.{0D}",,1 isla(s) 91 inline
+147,0x4310,redirect,0x48DD,65,"   After defeating the Oberths, they hurry\n to the mass driver.{0D}",,1 isla(s) 91 inline
+148,0x4381,redirect,0x4921,221,"   After infiltrating the Moon Plant to clear\n Jonathan's name, Jonathan and Ed make\n another shocking discovery {D0}{06} Tokugawa\n has created a secret organ trading\n network where he auctions off illegally\n obtained organs.{0D}",,1 isla(s) 91 inline
+149,0x443A,redirect,0x4A01,77,"   Defeating Salvatore, they hurry to the\n mass driver to return to Beyond.{0D}",,1 isla(s) 91 inline
+150,0x4487,redirect,0x4A51,114,"   Searching for Kenzo Hojo at Lorraine's\n request, Jonathan is framed by Tokugawa\n and Gates for Hojo's murder.{0D}",,1 isla(s) 91 inline
+151,0x4500,redirect,0x4AC6,115,"   After infiltrating the Moon Plant to clear\n Jonathan's name, Jonathan and Ed make\n another shocking discovery.{0D}",,1 isla(s) 91 inline
+152,0x4561,redirect,0x4B3C,98,   Biomort preservation capsules stretch as\n far as the eye can see. Hojo's body is\n among them.{0D},,1 isla(s) 91 inline
+153,0x45A4,redirect,0x4BA1,73,   What in the world is going on? They\n continue to search the factory.{0D},,1 isla(s) 91 inline
+154,0x45DF,redirect,0x4BED,103,   Biomort preservation capsules stretch as\n far as the eye can see.  What in the world\n is going on?{0D},,1 isla(s) 91 inline
+155,0x4628,redirect,0x4C57,31,   They look for Hojo's body.{0D},,
+156,0x4647,redirect,0x4C76,112,"   Having gone to the Moon Plant to clear\n Jonathan's name, an incognito Jonathan and\n Ed encounter Salvatore.{0D}",,1 isla(s) 91 inline
+157,0x46AC,redirect,0x4CE9,122,   They begin searching the No. 7 Factory\n after confirming its existence from\n Salvatore's explanation of the facility.{0D},,1 isla(s) 91 inline
+158,0x46FF,redirect,0x4D66,120,   They hurry over to the No. 7 Factory\n after confirming its existence from\n Salvatore's explanation of the facility.{0D},,1 isla(s) 91 inline
+159,0x4770,redirect,0x4DE1,94,   They listen to Salvatore's explanation of\n the facility.  They must be hiding\n something.{0D},,1 isla(s) 91 inline
+160,0x47A9,redirect,0x4E42,135,"   Asked to look for Kenzo Hojo by his\n ex-wife, Lorraine, Jonathan uncovers\n Tokugawa's secret operations during his\n investigation.{0D}",,1 isla(s) 91 inline
+161,0x4858,redirect,0x4ECC,207,"   Under Tokugawa's orders, Ed and Chris\n are targeted by Redwood {D0}{06} Ed lying in\n critical condition, Chris not as lucky. \n Meanwhile, Karen, suffering from aplastic\n anemia, collapses and is hospitalized.{0D}",,3 isla(s) 91 inline
+162,0x48C7,redirect,0x4FA4,72,"   Facing off against Tokugawa and AP,\n Jonathan's lone battle begins.{0D}",,
+163,0x4904,redirect,0x4FEF,146,"   As Jonathan watches over Karen, Marc\n shows him a drawing he did of the\n perpetrators.  The question is, who is the\n person in the spacesuit?{0D}",,3 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+164,0x4991,redirect,0x50DA,135,"   Asked to look for Kenzo Hojo by his\n ex-wife, Lorraine, Jonathan uncovers\n Tokugawa's secret operations during his\n investigation.{0D}",,
+165,0x4A04,redirect,0x5161,86,"   Having gone to AMM to rescue Marc, Ed\n is shot and critically wounded by Redwood.{0D}",,
+166,0x4A65,redirect,0x51B7,133,"   Furthermore, Karen collapses from the\n effects of her aplastic anemia.  Jonathan\n inquires about her condition at the\n hospital.{0D}",,
+167,0x4AD6,redirect,0x523C,135,"   Asked to look for Kenzo Hojo by his\n ex-wife, Lorraine, Jonathan uncovers\n Tokugawa's secret operations during his\n investigation.{0D}",,
+168,0x4B7D,redirect,0x52C3,75,"   Furthermore, Karen collapses from the\n effects of her aplastic anemia.{0D}",,
+169,0x4BC2,redirect,0x530E,135,"   Asked to look for Kenzo Hojo by his\n ex-wife, Lorraine, Jonathan uncovers\n Tokugawa's secret operations during his\n investigation.{0D}",,
+170,0x4C31,redirect,0x5395,123,"   No sooner having returned from the\n Moon with the evidence they need,\n Jonathan and Ed learn Marc has been\n kidnapped.{0D}",,
+171,0x4CB0,redirect,0x5410,86,   They use the monitors in a BBC news\n van to help rescue him.  Will they\n succeed?{0D},,
+172,0x4D11,redirect,0x5466,216,"   Asked to look for Kenzo Hojo by his\n ex-wife, Lorraine, Jonathan uncovers\n Tokugawa's secret operations during his\n investigation.  He heads to the Tokugawa\n Building, the faces of the fallen fresh in his\n mind.{0D}",,
+173,0x4DC6,redirect,0x553E,134,"   A duel with Redwood unfolds.  Redwood\n ultimately throws himself from the spiral\n staircase, disappearing into the depths\n below.{0D}",,
+174,0x4E2B,redirect,0x55C4,70,   Tokugawa and Gates await in the Garden.\n  Jonathan hurries ahead.{0D},,
+175,0x4E66,redirect,0x560A,107,"   A duel with Redwood unfolds.  Injured,\n Redwood continues up the stairs. \n Jonathan hurries after him.{0D}",,
+176,0x4ECD,redirect,0x5675,140,"   Jonathan faces off with Redwood in a\n duel.  Abandoning his EMPS, Redwood\n escapes to the 30th floor.  Jonathan now\n tries to find him.{0D}",,
+177,0x4F36,redirect,0x5701,120,"   Facing off with Redwood in a battle to\n the death, Jonathan reaches the 20th\n floor.  He now tries to find Redwood.{0D}",,
+178,0x4F8F,redirect,0x5779,126,"   A duel with Redwood unfolds. \n Abandoning his EMPS, Redwood escapes\n to the 20th floor.  Jonathan now tries to\n find him.{0D}",,
+179,0x4FEC,redirect,0x57F7,91,"   Jonathan survives a brutal shootout in\n the lobby, though his true enemies lie\n above.{0D}",,
+180,0x5037,redirect,0x5852,25,   View Summary Screen?{0D},,
+181,0x5056,redirect,0x586B,5,Yes{0D},,
+182,0x505B,redirect,0x5870,4,No{0D},,
+183,0x5062,inplace,0x5062,9,act7.pak,,sin codigo 91: revisar
+184,0x506B,inplace,0x506B,9,act6.pak,,sin codigo 91: revisar
+185,0x5074,inplace,0x5074,9,act5.pak,,sin codigo 91: revisar
+186,0x507D,inplace,0x507D,9,act4.pak,,sin codigo 91: revisar
+187,0x5086,inplace,0x5086,9,act3.pak,,sin codigo 91: revisar
+188,0x508F,inplace,0x508F,9,act2.pak,,sin codigo 91: revisar
+189,0x5098,inplace,0x5098,9,act1.pak,,sin codigo 91: revisar
+190,0x50A1,inplace,0x50A1,13,prologue.pak,,sin codigo 91: revisar

@@ -1,0 +1,285 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x2084,redirect,0x177B,42,"Try and find the light switch,\nJonathan.{0D}",,2 isla(s) 91 inline
+1,0x20AB,redirect,0x17AB,29,Will you turn on the light?{0D},,
+2,0x20C8,redirect,0x17C8,8,System{0D},,
+3,0x20D1,redirect,0x17D0,46,I'm fine.  Could you just turn on\nthe light?{0D},,1 isla(s) 91 inline
+4,0x20F0,redirect,0x1801,41,Surely you can see me.  I'm right\nhere.{0D},,
+5,0x211B,redirect,0x182A,5,Ow!{0D},,
+6,0x2126,redirect,0x182F,18,"That you, Karen?{0D}",,
+7,0x213B,redirect,0x1841,37,Of course it's me.  I'm right here.{0D},,1 isla(s) 91 inline
+8,0x215A,redirect,0x1869,19,Oh.  I apologize.{0D},,1 isla(s) 91 inline
+9,0x2167,redirect,0x187F,14,What's this?{0D},,
+10,0x216E,redirect,0x1890,61,"Karen? Oh, didn't know you were\nthere.  Try to stand still.{0D}",,3 isla(s) 91 inline
+11,0x219B,redirect,0x18D6,32,"I am standing still, Jonathan.{0D}",,1 isla(s) 91 inline
+12,0x21B8,redirect,0x18F9,47,Funny.  I thought you were over\non the right.{0D},,1 isla(s) 91 inline
+13,0x21E3,redirect,0x192B,7,Okay.{0D},,
+14,0x21F4,redirect,0x1932,37,"It's me, Jonathan.  I'm right here.{0D}",,2 isla(s) 91 inline
+15,0x2215,redirect,0x195D,32,Is there something on my face?{0D},,
+16,0x222C,redirect,0x197D,23,"What is it, Jonathan?{0D}",,1 isla(s) 91 inline
+17,0x2245,redirect,0x1997,34,I figured this was your face....{0D},,1 isla(s) 91 inline
+18,0x2262,redirect,0x19BC,18,Hm? What's this?{0D},,
+19,0x2275,redirect,0x19CE,52,Will you please take your hands\naway from my face?{0D},,1 isla(s) 91 inline
+20,0x22A2,redirect,0x1A05,23,It feels like a face.{0D},,
+21,0x22AF,redirect,0x1A1C,27,"That's my face, Jonathan.{0D}",,1 isla(s) 91 inline
+22,0x22CC,redirect,0x1A3A,13,"Oh, my bad.{0D}",,
+23,0x22D5,redirect,0x1A47,32,Is there something in my hair?{0D},,1 isla(s) 91 inline
+24,0x22EA,redirect,0x1A6A,27,"That's my hair, Jonathan.{0D}",,
+25,0x230B,redirect,0x1A85,35,"It's just... so pretty, you know?{0D}",,1 isla(s) 91 inline
+26,0x232A,redirect,0x1AAB,47,I'm sure you can't see THAT well\nin the dark.{0D},,1 isla(s) 91 inline
+27,0x2343,redirect,0x1ADD,29,Hm? What's this soft thing?{0D},,2 isla(s) 91 inline
+28,0x2360,redirect,0x1B00,27,"That's my hair, Jonathan.{0D}",,
+29,0x238B,redirect,0x1B1B,5,Oh.{0D},,
+30,0x239E,redirect,0x1B23,21,It's nice and soft.{0D},,
+31,0x23B7,redirect,0x1B38,37,"My hair isn't the switch, Jonathan.{0D}",,
+32,0x23E2,redirect,0x1B5D,29,"Will you stop it, Jonathan!{0D}",,1 isla(s) 91 inline
+33,0x2401,redirect,0x1B7D,29,"Stop touching me, Jonathan!{0D}",,
+34,0x2424,redirect,0x1B9A,45,Are you finished acting like a\n16-year-old?{0D},,1 isla(s) 91 inline
+35,0x2445,redirect,0x1BCA,38,You expect to find the switch\nthere?{0D},,2 isla(s) 91 inline
+36,0x246C,redirect,0x1BF6,34,(Maybe another kinda switch....){0D},,
+37,0x2499,redirect,0x1C18,29,Aaahh! What are you doing?!{0D},,1 isla(s) 91 inline
+38,0x24B8,redirect,0x1C38,39,(They're even bigger than I\nthought.){0D},,2 isla(s) 91 inline
+39,0x24ED,redirect,0x1C65,36,"Oh, sorry, I didn't see you there.{0D}",,1 isla(s) 91 inline
+40,0x2506,redirect,0x1C8C,36,You honestly think I believe that?{0D},,
+41,0x2521,redirect,0x1CB0,16,...No.  Sorry.{0D},,1 isla(s) 91 inline
+42,0x253C,redirect,0x1CC3,32,"Stop messing around, Jonathan.{0D}",,1 isla(s) 91 inline
+43,0x2561,redirect,0x1CE6,40,Oh! What are these soft little\nthings?{0D},,1 isla(s) 91 inline
+44,0x2578,redirect,0x1D11,23,Those are my breasts!{0D},,
+45,0x258B,redirect,0x1D28,23,"Heh, sorry, sorry....{0D}",,
+46,0x25A4,redirect,0x1D3F,24,"Get serious, Jonathan.{0D}",,
+47,0x25C5,redirect,0x1D57,26,Aaahh! You did it again!{0D},,
+48,0x25DE,redirect,0x1D71,26,Really? I got 'em again?{0D},,1 isla(s) 91 inline
+49,0x25F7,redirect,0x1D8E,51,"Those are my breasts! You must\nknow that, surely!{0D}",,
+50,0x2624,redirect,0x1DC1,37,It was an accident.  Honest!\nSorry.{0D},,1 isla(s) 91 inline
+51,0x263F,redirect,0x1DE9,28,Oh! What are these I feel?{0D},,1 isla(s) 91 inline
+52,0x2658,redirect,0x1E08,14,Jonathan....{0D},,
+53,0x266D,redirect,0x1E16,16,Breasts again?{0D},,
+54,0x2678,redirect,0x1E26,37,I'm going to get angry in a minute.{0D},,
+55,0x2687,redirect,0x1E4B,30,"Okay.  I'm sorry, I'm sorry.{0D}",,1 isla(s) 91 inline
+56,0x2694,redirect,0x1E6C,35,"Hmm, now what do we have\nhere....{0D}",,2 isla(s) 91 inline
+57,0x26A3,redirect,0x1E95,11,Jonathan!{0D},,1 isla(s) 91 inline
+58,0x26B8,redirect,0x1EA3,41,Oh! What might these bundles of\njoy be?{0D},,2 isla(s) 91 inline
+59,0x26C9,redirect,0x1ED2,48,I'm really going to kick your ass in\na minute.{0D},,3 isla(s) 91 inline
+60,0x26F4,redirect,0x1F0B,33,(Guess I've squeezed that dry.){0D},,2 isla(s) 91 inline
+61,0x270F,redirect,0x1F32,25,"Just stop it, Jonathan!{0D}",,1 isla(s) 91 inline
+62,0x272A,redirect,0x1F4E,37,Hurry up and find the light switch.{0D},,
+63,0x2745,redirect,0x1F73,35,We need to find the light switch.{0D},,1 isla(s) 91 inline
+64,0x2764,redirect,0x1F99,70,"We set off the alarm, remember?\nWe can't hang around here all\nnight.{0D}",,1 isla(s) 91 inline
+65,0x2791,redirect,0x1FE2,44,I guess they do feel like\nantidepressants.{0D},,1 isla(s) 91 inline
+66,0x27AC,redirect,0x2011,100,"Can't really blame me, can you?\nThey are bigger than they look.{80238057}Heck, it's a compliment, Karen.{0D}",,7 isla(s) 91 inline
+67,0x27C9,redirect,0x208A,46,"You're not going to start up again,\nare you?{0D}",,1 isla(s) 91 inline
+68,0x27F4,redirect,0x20BB,16,Start up what?{0D},,1 isla(s) 91 inline
+69,0x2807,redirect,0x20CE,20,Are you a pervert?{0D},,1 isla(s) 91 inline
+70,0x281C,redirect,0x20E5,63,"I'm sorry I touched your... your\nyou-know-whats, I really am.{0D}",,3 isla(s) 91 inline
+71,0x283B,redirect,0x212D,32,"You are a pervert, aren't you?{0D}",,1 isla(s) 91 inline
+72,0x285A,redirect,0x2150,31,{D0}{06}derisive snort{D0}{06} Excuse me?{0D},,3 isla(s) 91 inline
+73,0x2861,redirect,0x2178,34,I asked you if you're a pervert.{0D},,
+74,0x286C,redirect,0x219A,28,"...Like I said, I'm sorry.{0D}",,2 isla(s) 91 inline
+75,0x2877,redirect,0x21BC,45,It's a little hard to see in this\nlight....{0D},,1 isla(s) 91 inline
+76,0x2892,redirect,0x21EC,43,Imagine that.  It was a sheet of\nplastic.{0D},,2 isla(s) 91 inline
+77,0x28B7,redirect,0x221D,52,It's not Karen.  It looks like a\nsheet of plastic.{0D},,2 isla(s) 91 inline
+78,0x28E2,redirect,0x2257,32,It's some kinda plastic thing.{0D},,2 isla(s) 91 inline
+79,0x28F9,redirect,0x227D,38,Probably a plastic bag or\nsomething.{0D},,1 isla(s) 91 inline
+80,0x2912,redirect,0x22A6,32,Hm? Must've touched her again.{0D},,1 isla(s) 91 inline
+81,0x292B,redirect,0x22C9,44,"Wait, this feels too muscular to be\nKaren.{0D}",,3 isla(s) 91 inline
+82,0x294E,redirect,0x22FE,37,The surface feels like plastic too.{0D},,1 isla(s) 91 inline
+83,0x2987,redirect,0x2326,30,What are you mumbling about?{0D},,2 isla(s) 91 inline
+84,0x29A0,redirect,0x234A,8,Karen?{0D},,
+85,0x29A9,redirect,0x2352,32,Strange.  You don't feel that?{0D},,1 isla(s) 91 inline
+86,0x29CE,redirect,0x2375,12,Feel what?{0D},,
+87,0x29E7,redirect,0x2381,8,Weird.{0D},,
+88,0x29F0,redirect,0x2389,21,"Is this you, Karen?{0D}",,2 isla(s) 91 inline
+89,0x2A0D,redirect,0x23A4,13,Is what me?{0D},,
+90,0x2A1A,redirect,0x23B1,26,Karen? You're over here?{0D},,1 isla(s) 91 inline
+91,0x2A3D,redirect,0x23CE,29,What are you talking about?{0D},,1 isla(s) 91 inline
+92,0x2A4E,redirect,0x23EE,29,Sorry for bumping into you.{0D},,1 isla(s) 91 inline
+93,0x2A63,redirect,0x240E,43,What do you mean? I didn't feel\nanything.{0D},,1 isla(s) 91 inline
+94,0x2A8E,redirect,0x243C,57,No need to feel embarrassed.  It\nwas entirely my fault.{0D},,2 isla(s) 91 inline
+95,0x2AAB,redirect,0x247B,18,"That you, Karen?{0D}",,
+96,0x2AC4,redirect,0x248D,47,That's the panel.  Press one of the\nswitches.{0D},,2 isla(s) 91 inline
+97,0x2AED,redirect,0x24C2,43,"Press one of the switches, not the\npanel.{0D}",,
+98,0x2B12,redirect,0x24F0,2,{0D},,
+99,0x2B2D,redirect,0x24F2,2,{0D},,
+100,0x2B4E,redirect,0x24F4,2,{0D},,
+101,0x2B71,redirect,0x24F6,2,{0D},,
+102,0x2B88,redirect,0x24F8,2,{0D},,
+103,0x2BA1,redirect,0x24FA,37,I'll try one of the other switches.{0D},,2 isla(s) 91 inline
+104,0x2BBE,redirect,0x2525,60,"This is the air conditioning switch,\nnot the light switch.{0D}",,2 isla(s) 91 inline
+105,0x2BEF,redirect,0x2567,2,{0D},,
+106,0x2C06,redirect,0x2569,2,{0D},,
+107,0x2C1D,redirect,0x256B,2,{0D},,
+108,0x2C28,redirect,0x256D,2,{0D},,
+109,0x2C3F,redirect,0x256F,2,{0D},,
+110,0x2C56,redirect,0x2571,2,{0D},,
+111,0x2C65,redirect,0x2573,2,{0D},,
+112,0x2C7C,redirect,0x2575,2,{0D},,
+113,0x2C97,redirect,0x2577,55,This is the alarm switch.  Better\nnot press it again.{0D},,3 isla(s) 91 inline
+114,0x2CCC,redirect,0x25B7,2,{0D},,
+115,0x2CED,redirect,0x25B9,2,{0D},,
+116,0x2D08,redirect,0x25BB,39,This is the switch for the PA\nsystem.{0D},,2 isla(s) 91 inline
+117,0x2D25,redirect,0x25E8,38,I probably shouldn't touch it again.{0D},,1 isla(s) 91 inline
+118,0x2D3C,redirect,0x2611,33,"Okay, let's try this one first.{0D}",,1 isla(s) 91 inline
+119,0x2D5D,redirect,0x2635,24,How about this one....{0D},,1 isla(s) 91 inline
+120,0x2D7E,redirect,0x2650,25,I'll try this one next.{0D},,1 isla(s) 91 inline
+121,0x2D93,redirect,0x266C,23,"Be careful, Jonathan.{0D}",,3 isla(s) 91 inline
+122,0x2DAA,redirect,0x268C,49,This is the last switch.  This has\ngotta be it.{0D},,3 isla(s) 91 inline
+123,0x2DCD,redirect,0x26C6,45,"Come on, Jonathan, get it together\nalready!{0D}",,2 isla(s) 91 inline
+124,0x2DF2,redirect,0x26F9,28,"Are you alright, Jonathan?{0D}",,1 isla(s) 91 inline
+125,0x2E0B,redirect,0x2718,40,"Are you sure you're alright,\nJonathan?{0D}",,1 isla(s) 91 inline
+126,0x2E36,redirect,0x2743,49,There's a panel with some kinda\nswitches on it.{0D},,2 isla(s) 91 inline
+127,0x2E67,redirect,0x277A,42,It's one of these touch sensor\nthingies.{0D},,1 isla(s) 91 inline
+128,0x2E7C,redirect,0x27A7,60,The switches are glowing.  We can\nsee a little better now.{0D},,2 isla(s) 91 inline
+129,0x2EAF,redirect,0x27E9,45,"Oh, so THAT'S where you were. \nI'd no idea.{0D}",,2 isla(s) 91 inline
+130,0x2EEE,redirect,0x281F,10,Sure....{0D},,
+131,0x2F01,redirect,0x2829,42,"Let's see, which one's the light\nswitch?{0D}",,1 isla(s) 91 inline
+132,0x2F34,redirect,0x2856,43,Careful.  We don't know what\nthey're for.{0D},,4 isla(s) 91 inline
+133,0x2F61,redirect,0x288D,52,That's the wall.  There aren't any\nswitches there.{0D},,2 isla(s) 91 inline
+134,0x2F8C,redirect,0x28C7,44,"There aren't any switches there,\nJonathan.{0D}",,1 isla(s) 91 inline
+135,0x2FB5,redirect,0x28F6,50,This feels like the wall.  There's\nnothing here.{0D},,3 isla(s) 91 inline
+136,0x2FE6,redirect,0x2931,51,This is just more of the wall.  No\nswitches here.{0D},,1 isla(s) 91 inline
+137,0x300F,redirect,0x2967,44,It's the wall.  I don't feel any\nswitches.{0D},,1 isla(s) 91 inline
+138,0x303A,redirect,0x2996,58,Maybe we should check all the\nbodies hanging over there.{0D},,3 isla(s) 91 inline
+139,0x3067,redirect,0x29D9,57,Maybe we should take a look\ninside that storage closet.{0D},,4 isla(s) 91 inline
+140,0x3086,redirect,0x2A1E,63,"We came here to look for clues,\nremember? We can't leave yet.{0D}",,2 isla(s) 91 inline
+141,0x30B9,redirect,0x2A66,88,We still don't have any evidence\nthat can prove your innocence. \nLet's keep searching.{0D},,2 isla(s) 91 inline
+142,0x30FA,redirect,0x2AC7,81,I came all the way out here in my\ncondition and you want to just\nleave already?{0D},,2 isla(s) 91 inline
+143,0x3129,redirect,0x2B1E,6,Open{0D},,
+144,0x3130,redirect,0x2B24,30,I gotta get him outta there.{0D},,1 isla(s) 91 inline
+145,0x3159,redirect,0x2B45,46,"It's too late, Jonathan.  He's\nalready dead.{0D}",,2 isla(s) 91 inline
+146,0x3184,redirect,0x2B79,43,"Who knows, there still might be a\nchance.{0D}",,2 isla(s) 91 inline
+147,0x3199,redirect,0x2BAA,50,We don't know what could happen\nif we open this.{0D},,1 isla(s) 91 inline
+148,0x31D0,redirect,0x2BDF,62,"Let it go, Jonathan.  There's\nnothing we can do for him now.{0D}",,3 isla(s) 91 inline
+149,0x31F5,redirect,0x2C26,29,It's no good.  It's sealed.{0D},,2 isla(s) 91 inline
+150,0x321A,redirect,0x2C49,67,It's a mass driver pod.  You'd need\nspecial equipment to open it.{0D},,3 isla(s) 91 inline
+151,0x325F,redirect,0x2C95,6,Look{0D},,1 isla(s) 91 inline
+152,0x3264,redirect,0x2C9E,86,It's a container for transporting\nLunar minerals.  It's got the\nTokugawa logo on it.{0D},,2 isla(s) 91 inline
+153,0x32A1,redirect,0x2CFA,102,"Maybe they didn't have enough\nroom on the last flight? This will\nbe going to the Moon too, I'll bet.{0D}",,4 isla(s) 91 inline
+154,0x32D2,redirect,0x2D6C,40,What's something like this doing\nhere?{0D},,2 isla(s) 91 inline
+155,0x32F7,redirect,0x2D9A,29,This is Victor's coffin....{0D},,1 isla(s) 91 inline
+156,0x3316,redirect,0x2DBA,47,What do they plan to do with him\non the Moon?{0D},,1 isla(s) 91 inline
+157,0x3343,redirect,0x2DEC,118,"It definitely says the destination is\nthe Tokugawa No. 7 Factory, Mare\nImbrium.{80238057}In other words, the Plato Crater.{0D}",,4 isla(s) 91 inline
+158,0x33BC,redirect,0x2E6E,131,"It's got its destination on it.  The\nTokugawa No. 7 Factory, Mare\nImbrium.{80238057}Maybe it didn't make it in time for\ntoday's flight.{0D}",,3 isla(s) 91 inline
+159,0x342D,redirect,0x2EFA,57,They must use this kind of box for\nshipping organs too.{0D},,2 isla(s) 91 inline
+160,0x344C,redirect,0x2F39,54,"Look, there's a window on it.  Go\nsee what's inside.{0D}",,1 isla(s) 91 inline
+161,0x3491,redirect,0x2F72,13,Look inside{0D},,
+162,0x349A,redirect,0x2F7F,25,I wonder what's inside.{0D},,1 isla(s) 91 inline
+163,0x34BD,redirect,0x2F9B,15,No... Victor!{0D},,
+164,0x34DE,redirect,0x2FAA,13,Is he dead?{0D},,1 isla(s) 91 inline
+165,0x34EB,redirect,0x2FBA,127,"No, look at his skin.  He's probably\na biomort, meaning he's only brain\ndead.  It's about as good as the\n real thing, though.{0D}",,3 isla(s) 91 inline
+166,0x3552,redirect,0x3042,57,"See, they've hooked him up to an\nartificial respirator.{0D}",,1 isla(s) 91 inline
+167,0x3575,redirect,0x307E,37,Who would do such a terrible\nthing?{0D},,1 isla(s) 91 inline
+168,0x358C,redirect,0x30A6,57,Tokugawa.  Victor must've learned\nsomething about Hojo.{0D},,1 isla(s) 91 inline
+169,0x35D7,redirect,0x30E2,51,"First Dave, now Victor... god damn\nyou, Tokugawa.{0D}",,1 isla(s) 91 inline
+170,0x35FA,redirect,0x3118,48,"What happened, Victor? What the\nhell happened?{0D}",,2 isla(s) 91 inline
+171,0x3629,redirect,0x314E,39,How many people do they have to\nkill?{0D},,1 isla(s) 91 inline
+172,0x3646,redirect,0x3178,114,It's a terminal for managing the\nbodies.{80238057}Look! It's got a list of all the\nbodies that have been through\nhere.{0D},,3 isla(s) 91 inline
+173,0x369D,redirect,0x31F3,54,This type of terminal is automated\nby 3D data codes.{0D},,2 isla(s) 91 inline
+174,0x36CA,redirect,0x322F,135,Let's see....  There were five\nbodies sent to a No. 7 Factory on\nthe Moon today.{80238057}We just missed them.  They left\nhere 5 hours ago.{0D},,3 isla(s) 91 inline
+175,0x3731,redirect,0x32BF,73,Those organ containers we saw\nhad the stamp of a No. 7 Factory\non them.{0D},,2 isla(s) 91 inline
+176,0x376C,redirect,0x330E,33,A No. 7 Factory on the Moon....{0D},,1 isla(s) 91 inline
+177,0x3787,redirect,0x3332,30,Where is this No. 7 Factory?{0D},,1 isla(s) 91 inline
+178,0x379C,redirect,0x3353,82,"Hold on, I'll check.{80238057}Mare Imbrium... Plato Crater...\nthe Tokugawa Moon Plant.{0D}",,
+179,0x37E5,redirect,0x33A5,65,Why are bodies from Beyond\nbeing sent to Tokugawa's Moon\nPlant?{0D},,1 isla(s) 91 inline
+180,0x3828,redirect,0x33E9,130,Plato? ...That's it!{80238057}The Plato your father was talking\nabout before he disappeared\n\n wasn't Pluto {D0}{06} it was the Plato\nCrater!{0D},,2 isla(s) 91 inline
+181,0x38BF,redirect,0x3471,38,Was my father's body sent there\ntoo?{0D},,1 isla(s) 91 inline
+182,0x38D2,redirect,0x349D,30,What about my father's body?{0D},,
+183,0x38DF,redirect,0x34BB,47,His name's on here.  He was sent\nthere today.{0D},,3 isla(s) 91 inline
+184,0x3916,redirect,0x34F3,20,What about Victor?{0D},,
+185,0x3937,redirect,0x3507,66,I don't see him here.  I'm\nguessing he'll be on the next\nflight.{0D},,
+186,0x395A,redirect,0x3549,88,"If what this terminal says is right,\nwe'll have to go to the Moon to\nfind your father.{0D}",,3 isla(s) 91 inline
+187,0x3997,redirect,0x35AA,109,There's all that Lunar regolith\nlying around too.{80238057}Looks like we figured out another\npiece of the puzzle.{0D},,2 isla(s) 91 inline
+188,0x39CA,redirect,0x361D,70,"We'll have to go to the Moon to\nget my father's body back, won't\nwe?{0D}",,2 isla(s) 91 inline
+189,0x39FB,redirect,0x3669,31,Yeah.  All these are dummies.{0D},,
+190,0x3A28,redirect,0x3688,37,So all the bodies here are\ndummies?{0D},,1 isla(s) 91 inline
+191,0x3A51,redirect,0x36B0,41,We should check the other ones\nas well.{0D},,1 isla(s) 91 inline
+192,0x3A76,redirect,0x36DC,33,So is he among the bodies here?{0D},,
+193,0x3A99,redirect,0x36FD,42,We should check those bodies\nover there.{0D},,
+194,0x3AC4,redirect,0x3727,63,These are hangers for the bodies.\nIt's like a slaughterhouse.{0D},,1 isla(s) 91 inline
+195,0x3AEF,redirect,0x3769,28,"Not the best taste, is it.{0D}",,2 isla(s) 91 inline
+196,0x3AFE,redirect,0x378B,39,Not the kinda way you'd wanna\nend up.{0D},,1 isla(s) 91 inline
+197,0x3B2D,redirect,0x37B5,41,"Well, all of these are dummies,\nthough.{0D}",,
+198,0x3B52,redirect,0x37DE,71,"It's the emergency lighting.  It's\ndim, but it's better than nothing.{0D}",,1 isla(s) 91 inline
+199,0x3B7B,redirect,0x382B,32,That's the emergency lighting.{0D},,
+200,0x3B8A,redirect,0x384B,42,It feels like we're down in a\nmineshaft.{0D},,
+201,0x3BAD,redirect,0x3875,31,What's all this on the floor?{0D},,
+202,0x3BD2,redirect,0x3894,23,"Look, it's that dust!{0D}",,
+203,0x3BE5,redirect,0x38AB,22,Some kind of powder?{0D},,1 isla(s) 91 inline
+204,0x3BF8,redirect,0x38C4,36,This is Lunar regolith.  Moondust.{0D},,2 isla(s) 91 inline
+205,0x3C23,redirect,0x38EE,60,There's regolith all over the place.\nWatch you don't slip.{0D},,1 isla(s) 91 inline
+206,0x3C6A,redirect,0x392D,52,"Regolith, huh... fits with what the\nterminal says.{0D}",,2 isla(s) 91 inline
+207,0x3C8B,redirect,0x3967,49,This is probably what we saw on\nthat container.{0D},,1 isla(s) 91 inline
+208,0x3CB6,redirect,0x399B,35,What's Lunar regolith doing\nhere?{0D},,
+209,0x3CE9,redirect,0x39BE,40,"Alright, let's see what's inside\nhere.{0D}",,1 isla(s) 91 inline
+210,0x3D02,redirect,0x39E9,23,Let's go take a look.{0D},,1 isla(s) 91 inline
+211,0x3D17,redirect,0x3A03,40,I don't think I wanna see those\nagain.{0D},,1 isla(s) 91 inline
+212,0x3D4E,redirect,0x3A2E,49,It's a container for storing\ntransplant organs.{0D},,1 isla(s) 91 inline
+213,0x3D65,redirect,0x3A62,34,It's an organ storage container.{0D},,1 isla(s) 91 inline
+214,0x3D8C,redirect,0x3A87,63,It's some sort of storage\ncontainer.  I wonder what it's for.{0D},,2 isla(s) 91 inline
+215,0x3DAD,redirect,0x3ACC,82,This door's incredibly thick.  They\nmust really wanna protect\nwhatever's inside.{0D},,2 isla(s) 91 inline
+216,0x3DCE,redirect,0x3B24,23,...Transplant organs?{0D},,1 isla(s) 91 inline
+217,0x3DE3,redirect,0x3B3E,25,Looks like it... gross.{0D},,1 isla(s) 91 inline
+218,0x3DFE,redirect,0x3B5A,44,What are these peoples' organs\ndoing here?{0D},,1 isla(s) 91 inline
+219,0x3E27,redirect,0x3B89,66,The answer should be around\nhere somewhere.  Let's keep\nlooking.{0D},,2 isla(s) 91 inline
+220,0x3E5C,redirect,0x3BD1,102,Look! This is Ishida's heart! He\nwas the pharmacist here.  The\ndonor's data is listed on this plate.{0D},,4 isla(s) 91 inline
+221,0x3EAD,redirect,0x3C43,33,It's an organ donor data plate.{0D},,
+222,0x3ED4,redirect,0x3C64,27,It's a picture of Ishida.{0D},,1 isla(s) 91 inline
+223,0x3EE9,redirect,0x3C82,57,It's got the stamp of the Tokugawa\nNo. 7 Factory on it.{0D},,2 isla(s) 91 inline
+224,0x3F12,redirect,0x3CC1,50,This is the Tokugawa logo.  No\ndoubt about that.{0D},,1 isla(s) 91 inline
+225,0x3F3B,redirect,0x3CF6,126,"It's a diagram of the body.  The\nheart area's been highlighted in\nred.{80238057}So has one of the kidneys, the\nliver and the eyes.{0D}",,4 isla(s) 91 inline
+226,0x3FA0,redirect,0x3D80,84,The heart's time of removal and\ndonor compatibility data have been\nfilled in here.{0D},,3 isla(s) 91 inline
+227,0x3FE9,redirect,0x3DDD,6,Back{0D},,
+228,0x3FF2,redirect,0x3DE6,28,This is Ishida's heart....{0D},,1 isla(s) 91 inline
+229,0x4009,redirect,0x3E05,18,It's... a heart.{0D},,
+230,0x401E,redirect,0x3E17,33,So who does this one belong to?{0D},,1 isla(s) 91 inline
+231,0x403B,redirect,0x3E3B,28,"Look, this one's the same.{0D}",,
+232,0x4054,redirect,0x3E57,39,What?! This is one of Dave's\nkidneys!{0D},,1 isla(s) 91 inline
+233,0x4083,redirect,0x3E81,13,Who's Dave?{0D},,
+234,0x4094,redirect,0x3E8E,41,He was a cop at BCP.  One of Ed's\nguys.{0D},,1 isla(s) 91 inline
+235,0x40B7,redirect,0x3EBA,33,Why is this Dave's kidney here?{0D},,1 isla(s) 91 inline
+236,0x40EE,redirect,0x3EDE,25,It's a picture of Dave.{0D},,1 isla(s) 91 inline
+237,0x4101,redirect,0x3EFA,87,It's got the Tokugawa No. 7\nFactory stamp on it.  That's\nprobably where it came from.{0D},,2 isla(s) 91 inline
+238,0x413C,redirect,0x3F57,50,"This is the Tokugawa logo, the\nthree hollyhocks.{0D}",,
+239,0x415B,redirect,0x3F89,83,It's a diagram of the body.  One of\nthe kidney areas has been\nhighlighted in red.{0D},,1 isla(s) 91 inline
+240,0x418A,redirect,0x3FDF,77,The kidney's time of removal and\ndonor compatibility data are\nwritten here.{0D},,4 isla(s) 91 inline
+241,0x41E7,redirect,0x4038,35,This is one of Dave's kidneys....{0D},,2 isla(s) 91 inline
+242,0x4200,redirect,0x4061,19,It's... a kidney.{0D},,
+243,0x4215,redirect,0x4074,43,They have the same factory stamp\non them.{0D},,2 isla(s) 91 inline
+244,0x4246,redirect,0x40A5,44,Both of these had to have come\nfrom there.{0D},,1 isla(s) 91 inline
+245,0x4275,redirect,0x40D4,47,From Tokugawa's No. 7 Factory on\nthe Moon....{0D},,2 isla(s) 91 inline
+246,0x4298,redirect,0x4109,22,At the Plato Crater.{0D},,
+247,0x42B7,redirect,0x411F,52,Is Victor gonna be sent to this No.\n7 Factory too?{0D},,1 isla(s) 91 inline
+248,0x42DC,redirect,0x4156,33,They've got it on this one too.{0D},,1 isla(s) 91 inline
+249,0x42EF,redirect,0x417A,52,Look at him.  Even sticks his\ndamned logo on them.{0D},,1 isla(s) 91 inline
+250,0x4314,redirect,0x41B1,40,Amazing how they feel safe doing\nthat.{0D},,
+251,0x4341,redirect,0x41D9,105,This is a diagram of the organs\nthat have been removed.{80238057}The red dots are the ones they've\ntaken out.{0D},,4 isla(s) 91 inline
+252,0x4388,redirect,0x424E,43,Look! There's some of that dust\nhere too.{0D},,1 isla(s) 91 inline
+253,0x43A9,redirect,0x427C,35,What's this dust? It's very fine.{0D},,1 isla(s) 91 inline
+254,0x43C6,redirect,0x42A2,39,It's Lunar regolith.  I'm sure of it.{0D},,1 isla(s) 91 inline
+255,0x43E1,redirect,0x42CC,78,These containers must have been\nsent here along with minerals\nfrom the Moon.{0D},,3 isla(s) 91 inline
+256,0x4410,redirect,0x4323,53,Why would there be regolith in\nthis storage closet?{0D},,1 isla(s) 91 inline
+257,0x4443,redirect,0x435B,21,What's this liquid?{0D},,
+258,0x4450,redirect,0x4370,191,It's a preservation liquid for\nstoring organs for extended\nperiods of time.{80238057}It was developed as a replacement\nfor Euro-Collins solution.{80238057}This is also made by Tokugawa\nPharmaceuticals.{0D},,5 isla(s) 91 inline
+259,0x44DB,redirect,0x443E,130,"After an organ is removed, they'll\nnormally wash the blood off with a\nlow-temperature cleanser and\n then put it in one of these.{0D}",,2 isla(s) 91 inline
+260,0x4514,redirect,0x44C6,41,You really know a lot about this\nstuff.{0D},,1 isla(s) 91 inline
+261,0x4525,redirect,0x44F2,68,"Yeah, I've read up on it.  It's\nimportant for me to know all this.{0D}",,2 isla(s) 91 inline
+262,0x454C,redirect,0x453C,46,So this liquid's used to preserve\norgans....{0D},,1 isla(s) 91 inline
+263,0x457B,redirect,0x456D,43,Apparently it's similar to liquid\noxygen.{0D},,2 isla(s) 91 inline
+264,0x4598,redirect,0x459E,46,It's a special storage container for\norgans.{0D},,1 isla(s) 91 inline
+265,0x45AF,redirect,0x45CF,79,This container can store organs\nfor long periods of time after their\nremoval.{0D},,3 isla(s) 91 inline
+266,0x45D6,redirect,0x4627,44,The donor's data is written at the\nbottom.{0D},,1 isla(s) 91 inline
+267,0x45FF,redirect,0x4656,26,This is definitely Dave.{0D},,1 isla(s) 91 inline
+268,0x461E,redirect,0x4673,22,It's Ishida alright.{0D},,1 isla(s) 91 inline
+269,0x463F,redirect,0x468C,29,These are really well made.{0D},,
+270,0x4666,redirect,0x46A9,35,What are these things doing\nhere?{0D},,1 isla(s) 91 inline
+271,0x4681,redirect,0x46CF,73,"So like that terminal says, my\nfather's body has been sent to the\nMoon?{0D}",,3 isla(s) 91 inline
+272,0x46B0,redirect,0x4721,37,"My father's body isn't here, is it.{0D}",,2 isla(s) 91 inline
+273,0x46D3,redirect,0x474C,24,What about the others?{0D},,1 isla(s) 91 inline
+274,0x46F4,redirect,0x4767,22,What about the rest?{0D},,1 isla(s) 91 inline
+275,0x4701,redirect,0x4780,30,"Alright, let's try this one.{0D}",,1 isla(s) 91 inline
+276,0x4728,redirect,0x47A1,28,Let's check this one here.{0D},,
+277,0x4743,redirect,0x47BD,32,Let's take a look at this one.{0D},,1 isla(s) 91 inline
+278,0x475A,redirect,0x47E0,30,"Hmm, this one's a dummy too.{0D}",,1 isla(s) 91 inline
+279,0x4777,redirect,0x4801,13,Same thing.{0D},,
+280,0x4796,redirect,0x480E,67,What in the world? This one's\nalso fake.  Seems they're all fake.{0D},,1 isla(s) 91 inline
+281,0x47C1,redirect,0x4854,63,Strange... a hospital this big\nhaving no actual bodies in it.{0D},,
+282,0x47F8,redirect,0x4893,64,Isn't this where most bodies on\nBeyond are sent for autopsies?{0D},,cadena 92: 2 fragmentos unidos
+283,0x4849,redirect,0x48D6,108,And why are they covering up for\nthe missing bodies with these\ndummies like this?{80238057}Could Chris not know?{0D},,

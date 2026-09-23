@@ -1,0 +1,16 @@
+offset,offset_fin,largo_original,encoding,chunk,texto,ruido_probable,palabra_reconocible,traduccion
+0x14654,0x1466C,24,ascii,3,The year was 2010.,,si,Corría el año 2010
+0x1806C,0x180A9,61,ascii,5,"Mankind had completed its first\nspace colony, Beyond Coast.",,si,"La humanidad completó la primera\ncolonia, Beyond Coast."
+0x23994,0x239B3,31,ascii,9,We finally outgrew our cradle.,,si,Ya la tierra quedó pequeña.
+0x35B94,0x35BF0,92,ascii,16,A group of police officers trained\nas astronauts was charged with\nproviding security,,si,Un grupo de policías entrenados\ncomo astronautas a cargo de\nproveer seguridad
+0x454B8,0x454F0,56,ascii,22,for those expected to immigrate to\nthe colony in 2013.,,si,para quienes esperaban inmigrar a\nla colonia en 2013
+0x5C720,0x5C734,20,ascii,30,"From Scotland Yard,",,si,"De Scotland Yard,"
+0x65800,0x6580E,14,ascii,32,Gates Becker.,,,
+0x6AA14,0x6AA38,36,ascii,34,"From Tokyo Metropolitan Police,",,si,"De la Policía de Metro-Tokio,"
+0x6FE04,0x6FE1D,25,ascii,36,Joseph Sadaoki Tokugawa.,,,
+0x79384,0x7938F,11,ascii,38,"From NYPD,",,si,"del NYPD,"
+0x864F4,0x86503,15,ascii,42,"And from LAPD,",,si,"y del LAPD,"
+0x8EB3C,0x8EB4D,17,ascii,45,Ed Brown and me.,,si,Ed Brown y yo.
+0x986AC,0x986CF,35,ascii,47,"The five of us, the world's elite,",,si,"Nosotros 5, la élite del mundo,"
+0xA1414,0xA1440,44,ascii,50,became astronauts with police\nauthority.,,si,eramos astronautas con autoridad\npolicial.
+0xB15B3,0xB15DC,41,ascii,54,"rWe were called the\n""Policenauts"".",,si,rNos llamaban los\n"Policenauts".

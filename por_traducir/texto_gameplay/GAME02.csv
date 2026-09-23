@@ -1,0 +1,581 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x226E,redirect,0x209C,7,nojiri,,
+1,0x2275,redirect,0x20A3,1,,,
+2,0x229E,redirect,0x20A4,1,,,
+3,0x22B7,redirect,0x20A5,1,,,
+4,0x22F2,redirect,0x20A6,1,,,
+5,0x2311,redirect,0x20A7,1,,,
+6,0x2320,redirect,0x20A8,12,Go to sleep,,
+7,0x2339,redirect,0x20B4,7,System,,1 isla(s) 91 inline
+8,0x2342,redirect,0x20BE,73,"We've only just left Home.  I don't\nmind talking, if you're in the mood.",,2 isla(s) 91 inline
+9,0x239D,redirect,0x210D,77,Why don't we talk for a bit? We\nwon't be arriving at Beyond for a\nwhile yet.,,1 isla(s) 91 inline
+10,0x23DC,redirect,0x215D,40,"If you're bored, I don't mind\nchatting.",,1 isla(s) 91 inline
+11,0x23FB,redirect,0x2188,45,You don't want to talk? It'll help\nyour SAS.,,1 isla(s) 91 inline
+12,0x242F,redirect,0x21B8,5,Look,,
+13,0x2434,redirect,0x21BD,47,Kinda hard trying to judge myself\nobjectively.,,1 isla(s) 91 inline
+14,0x245B,redirect,0x21EF,27,Jonathan Ingram.  It's me.,,cadena 92: 2 fragmentos unidos
+15,0x247E,redirect,0x2223,33,I must look like hell right now.,,
+16,0x24A1,redirect,0x2244,28,What sort of badge is that?,,
+17,0x24B6,redirect,0x2260,56,"Oh, just this thing I have.  Kind of\na good luck charm.",,2 isla(s) 91 inline
+18,0x24E3,redirect,0x22A1,58,(It's my Policenauts badge I always\nwear around my neck.),,1 isla(s) 91 inline
+19,0x2518,redirect,0x22DE,34,What's that crest on your jacket?,,1 isla(s) 91 inline
+20,0x2529,redirect,0x2303,34,This? It's the Policenauts crest.,,2 isla(s) 91 inline
+21,0x254A,redirect,0x232B,54,The Policenauts again? You must\nbe a big fan of them.,,2 isla(s) 91 inline
+22,0x256B,redirect,0x2367,41,Is that also related to the\nPolicenauts?,,
+23,0x2586,redirect,0x2390,47,The Policenauts? They're from\nback in the day.,,1 isla(s) 91 inline
+24,0x25AB,redirect,0x23C2,63,(It's the Policenauts crest.  This\nthing is 30 years old now.),,2 isla(s) 91 inline
+25,0x25E2,redirect,0x2407,82,You don't see many watches like\nthose nowadays.  Is that a\nradio-controlled type?,,3 isla(s) 91 inline
+26,0x2617,redirect,0x2462,133,"Yeah, this model is actually one of\nthe first watches ever used in\nouter space.{80238057}It's been modified into a\nradio-controlled watch.",,4 isla(s) 91 inline
+27,0x2662,redirect,0x24F3,20,We're almost there.,,
+28,0x2679,redirect,0x2507,22,Day 2.  Not long now.,,1 isla(s) 91 inline
+29,0x2698,redirect,0x2520,51,Another 12 hours or so and it'll\nhave been 2 days.,,2 isla(s) 91 inline
+30,0x26B5,redirect,0x2559,35,"Finally, the end of the first day.",,1 isla(s) 91 inline
+31,0x26CC,redirect,0x257F,65,"Let's see, we've already been in\nthe air for overrr... 12 hours.",,2 isla(s) 91 inline
+32,0x26F7,redirect,0x25C6,37,We just left Home not that long\nago.,,1 isla(s) 91 inline
+33,0x2736,redirect,0x25EE,81,You're better off leaving the belt\nbuckled even if it is a little\nuncomfortable.,,1 isla(s) 91 inline
+34,0x2779,redirect,0x2642,79,"I thought I'd be used to zero\ngravity, but I suppose that was a\nlong time ago.",,2 isla(s) 91 inline
+35,0x27B8,redirect,0x2697,34,Only a little bit left to go now.,,2 isla(s) 91 inline
+36,0x27CF,redirect,0x26BF,92,I'm guessing you're a heavy\nsmoker.{80238057}Did you know that smoking isn't\npermitted on Beyond?,,2 isla(s) 91 inline
+37,0x2828,redirect,0x2721,54,It's just to help my nerves.  I'm\nnot gonna light it.,,1 isla(s) 91 inline
+38,0x284B,redirect,0x275A,44,I'm surprised they let you board\nwith that.,,1 isla(s) 91 inline
+39,0x286E,redirect,0x2789,32,"It got pretty ugly, believe me.",,
+40,0x2891,redirect,0x27A9,6,I do.,,
+41,0x289C,redirect,0x27AF,26,Is that a bent cigarette?,,1 isla(s) 91 inline
+42,0x28B1,redirect,0x27CC,169,"Sort of.  This is a mixed cigarette,\nthe only cigarette that gives off\nsecondary smoke anymore.{80238057}It's a type of bent cigarette. \nThey're hard to come by even on\nHome.",,4 isla(s) 91 inline
+43,0x290C,redirect,0x2881,51,Guess I'll be saying goodbye to\nthese for a while.,,3 isla(s) 91 inline
+44,0x2951,redirect,0x28BD,6,Light,,
+45,0x295C,redirect,0x28C3,41,Smoking is prohibited onboard the\nplane.,,
+46,0x296F,redirect,0x28EC,48,The smoke detector will go off if\nyou light it!,,1 isla(s) 91 inline
+47,0x2986,redirect,0x291F,34,You look concerned with the time.,,
+48,0x29B1,redirect,0x2941,34,I just can't seem to settle down.,,2 isla(s) 91 inline
+49,0x29C6,redirect,0x2969,115,"Your sense of time on Beyond is\ndifferent from when you're on\nHome.{80238057}It's really nothing to worry about,\nthough.",,4 isla(s) 91 inline
+50,0x2A27,redirect,0x29E8,36,Didn't you just ask the\nstewardess?,,
+51,0x2A68,redirect,0x2A0C,47,"You know, I can understand why\nyou're nervous.",,1 isla(s) 91 inline
+52,0x2A8D,redirect,0x2A3E,49,Why not try talking to the\nstewardess for a bit?,,1 isla(s) 91 inline
+53,0x2AC0,redirect,0x2A72,57,"If you're bored, why don't you call\nthe stewardess over?",,1 isla(s) 91 inline
+54,0x2AF1,redirect,0x2AAE,69,You can call the stewardess by\npressing the call button on the\nwall.,,2 isla(s) 91 inline
+55,0x2B38,redirect,0x2AF9,38,The call button is on the wall\nthere.,,
+56,0x2B69,redirect,0x2B1F,37,You must have a real thing for\nthem.,,1 isla(s) 91 inline
+57,0x2BAA,redirect,0x2B47,22,"Remarkable, isn't it?",,
+58,0x2BC9,redirect,0x2B5D,67,"An emotionless vacuum, silencing\nall but the tiniest of organisms.",,1 isla(s) 91 inline
+59,0x2BF8,redirect,0x2BA3,34,We'll be able to see Beyond soon.,,1 isla(s) 91 inline
+60,0x2C31,redirect,0x2BC8,24,We're almost at Beyond.,,1 isla(s) 91 inline
+61,0x2C68,redirect,0x2BE3,127,"Beyond is still quite a distance\naway.{80238057}Unlike an airplane, out here\nlooking out the window doesn't\nhelp pass the time much.",,2 isla(s) 91 inline
+62,0x2CE1,redirect,0x2C6B,54,Moving your head a lot will only\nmake your SAS worse.,,
+63,0x2D20,redirect,0x2CA1,46,"The stewardess said the same\nthing, remember?",,
+64,0x2D55,redirect,0x2CCF,26,That's an air circulator.,,1 isla(s) 91 inline
+65,0x2D6C,redirect,0x2CEC,186,"When you go to sleep in zero\ngravity, the carbon dioxide you\nexhale collects around your head,\n which can make it difficult to\nbreathe.  That device creates an\nair flow to prevent that.",,3 isla(s) 91 inline
+66,0x2DF5,redirect,0x2DAF,76,It's a device for circulating air.  It's\ndifferent from an air conditioner.,,1 isla(s) 91 inline
+67,0x2E24,redirect,0x2DFE,112,"All the know-how we've acquired\nthrough space development comes\nin handy for a lot of things, don't\n you think?",,2 isla(s) 91 inline
+68,0x2E6D,redirect,0x2E74,38,Especially in regard to zero\ngravity.,,1 isla(s) 91 inline
+69,0x2E8E,redirect,0x2E9D,44,You seem like an old-fashioned\nkind of guy.,,
+70,0x2EDB,redirect,0x2EC9,54,You could say I don't... keep up\nwith all the trends.,,2 isla(s) 91 inline
+71,0x2EF8,redirect,0x2F08,18,Press call button,,
+72,0x2F05,redirect,0x2F1A,31,I'll call the stewardess over.,,1 isla(s) 91 inline
+73,0x2F1E,redirect,0x2F3C,32,I'll call the stewardess again.,,1 isla(s) 91 inline
+74,0x2F41,redirect,0x2F5F,33,"I think you like her, don't you?",,1 isla(s) 91 inline
+75,0x2F62,redirect,0x2F83,36,I don't think the feeling's mutual.,,1 isla(s) 91 inline
+76,0x2F89,redirect,0x2FAA,42,Beyonds aren't as amorous as\nother women.,,1 isla(s) 91 inline
+77,0x2FCE,redirect,0x2FD7,11,Turn on TV,,1 isla(s) 91 inline
+78,0x2FD9,redirect,0x2FE5,63,"The stewardess said I should try\nwatching some TV, didn't she.",,2 isla(s) 91 inline
+79,0x2FFC,redirect,0x302D,30,Let's see what's on the tube.,,
+80,0x300F,redirect,0x304B,28,Let's give it another look.,,
+81,0x302A,redirect,0x3067,71,There's a button to call the\nstewardess and a button for the\nTV there.,,5 isla(s) 91 inline
+82,0x3079,redirect,0x30BD,5,Talk,,
+83,0x3084,redirect,0x30C2,21,You mind if we talk?,,3 isla(s) 91 inline
+84,0x3099,redirect,0x30E0,8,Umm....,,
+85,0x30A6,redirect,0x30E8,12,What is it?,,
+86,0x30B7,redirect,0x30F4,5,Yes?,,
+87,0x30CE,redirect,0x30F9,10,Ask about,,1 isla(s) 91 inline
+88,0x30D3,redirect,0x3106,15,His background,,
+89,0x30DC,redirect,0x3115,96,About your skin color....  It's\nreally like that because of the\nartificial blood? All the time?,,3 isla(s) 91 inline
+90,0x3101,redirect,0x317E,32,Your skin... looks a little....,,
+91,0x3118,redirect,0x319E,28,"It's always like this, yes.",,
+92,0x3141,redirect,0x31BA,21,Are you from Beyond?,,1 isla(s) 91 inline
+93,0x3170,redirect,0x31D2,34,"Yes, I was born and raised there.",,
+94,0x31C5,redirect,0x31F4,44,I had a family matter to attend to\non Home.,,1 isla(s) 91 inline
+95,0x320A,redirect,0x3223,37,And yourself? Are you a\nTerrestrial?,,1 isla(s) 91 inline
+96,0x323B,redirect,0x324B,41,Not exactly.  I used to be an\nAmphibian.,,
+97,0x327A,redirect,0x3274,56,"You know, going back and forth\nbetween Home and Beyond.",,1 isla(s) 91 inline
+98,0x32BF,redirect,0x32AF,46,An Amphibian? You were one of\nthe Amphibians?,,1 isla(s) 91 inline
+99,0x3346,redirect,0x32E0,64,"It was a long time ago.  Back when\nwe were called ""astronauts"".",,
+100,0x3395,redirect,0x3320,72,"It might not make much sense to\nTerrestrials, but Beyond is home\nto me.",,1 isla(s) 91 inline
+101,0x341E,redirect,0x336B,66,"To be honest, though, I guess\nFrozeners don't really have a\nhome.",,1 isla(s) 91 inline
+102,0x3465,redirect,0x33B0,8,His job,,
+103,0x346E,redirect,0x33B8,57,First-generation artificial blood.... \nAre you military?,,
+104,0x34A3,redirect,0x33F1,55,"Something like that, yes.  I am a\nFrozener, after all.",,1 isla(s) 91 inline
+105,0x34E4,redirect,0x342B,39,So what about that injury to your\narm?,,
+106,0x34FF,redirect,0x3452,20,Yes? What about it?,,1 isla(s) 91 inline
+107,0x350C,redirect,0x3469,19,Uhh... never mind.,,1 isla(s) 91 inline
+108,0x351D,redirect,0x347F,31,You must be a pretty busy guy.,,
+109,0x3538,redirect,0x349E,29,My job isn't that involving.,,1 isla(s) 91 inline
+110,0x3561,redirect,0x34BE,72,"Not really, no.  After all, space has\nbeen at peace the entire century.",,2 isla(s) 91 inline
+111,0x359C,redirect,0x350F,29,What kind of work do you do?,,1 isla(s) 91 inline
+112,0x35AB,redirect,0x352F,82,"I suppose you could call me an\nordinary civil servant, like most\nother Frozeners.",,2 isla(s) 91 inline
+113,0x3604,redirect,0x3587,75,Civil servants on Beyond perform\nthe same sorts of duties as ones\non Home.,,2 isla(s) 91 inline
+114,0x3653,redirect,0x35D8,7,Beyond,,
+115,0x3668,redirect,0x35DF,49,If you're going to Beyond for a sex\nvacation....,,1 isla(s) 91 inline
+116,0x3689,redirect,0x3613,32,What?! What makes you say\nthat?,,
+117,0x36A4,redirect,0x3633,35,I think I know a place you'd like.,,1 isla(s) 91 inline
+118,0x36CD,redirect,0x3659,28,It's called Kabuki Quarter.,,1 isla(s) 91 inline
+119,0x36FA,redirect,0x3678,128,Beyond is a very nice place.{80238057}It has 1G artificial gravity and its\nown plant life....  Terrestrials\nenjoy it a lot there too.,,4 isla(s) 91 inline
+120,0x377B,redirect,0x3704,116,It'll be hitting its 30th birthday\nsoon.{80238057}There are festivities going on all\nover Beyond to mark the\nanniversary.,,
+121,0x37E6,redirect,0x3778,81,There's really nothing else for me\nto say.  The stewardess mentioned\neverything.,,1 isla(s) 91 inline
+122,0x3831,redirect,0x37CC,59,Why not try talking to the\nstewardess again instead of me?,,1 isla(s) 91 inline
+123,0x3874,redirect,0x380A,69,"If you want detailed information,\nyou should talk to the stewardess.",,1 isla(s) 91 inline
+124,0x38B7,redirect,0x3852,12,"""Frozeners""",,
+125,0x38CC,redirect,0x385E,32,"What do you mean by\n""Frozener""?",,1 isla(s) 91 inline
+126,0x38E7,redirect,0x3881,239,"A Frozener is someone created\nfrom an artificially fertilized egg\nheld in cryogenic storage by the\n government, or the ""Breeders"",\nas some people call them.{80238057}The egg is later transferred to a\nsurrogate mother for gestation\nand delivery.",,5 isla(s) 91 inline
+127,0x3956,redirect,0x397F,41,"Oh yeah, I've heard a little about\nthem.",,1 isla(s) 91 inline
+128,0x396F,redirect,0x39AB,66,There's still a severe shortage of\nmanpower in space development.,,2 isla(s) 91 inline
+129,0x399C,redirect,0x39F3,38,You... you sound like I'm boring\nyou.,,
+130,0x39B7,redirect,0x3A19,53,You were asking about the writing\non my forehead....,,1 isla(s) 91 inline
+131,0x39CA,redirect,0x3A51,110,"All Frozeners have an identification\ncode like this tagged into our\n\n foreheads, surprising as it might\nseem.",,1 isla(s) 91 inline
+132,0x3A41,redirect,0x3AC2,47,There's a great number of\nFrozeners on Beyond.,,
+133,0x3A96,redirect,0x3AF1,98,"When I was talking about\ndiscrimination, that was in\nreference to the Terrestrials who\n go there.",,2 isla(s) 91 inline
+134,0x3B01,redirect,0x3B59,113,"There's no discrimination against\nus on Beyond like there is on\nHome.{80238057}If anything, we're considered\nsuperior.",,3 isla(s) 91 inline
+135,0x3B48,redirect,0x3BD3,46,"Yeah, I can see why with that\nblood of yours.",,1 isla(s) 91 inline
+136,0x3B77,redirect,0x3C04,17,Artificial blood,,
+137,0x3B88,redirect,0x3C15,51,What does having artificial blood\ndo for somebody?,,1 isla(s) 91 inline
+138,0x3BA7,redirect,0x3C4B,150,"Artificial blood has a higher\noxygen transportation efficiency\nthan normal blood, so it makes\n heavy blood loss less of a\nlife-threatening condition.",,3 isla(s) 91 inline
+139,0x3BF4,redirect,0x3CEA,87,The body's functions aren't\nnegatively affected in areas of low\noxygen density either.,,2 isla(s) 91 inline
+140,0x3C33,redirect,0x3D47,50,"Yeah, that's perfect for people\nworking in space.",,2 isla(s) 91 inline
+141,0x3C68,redirect,0x3D7F,50,So why hasn't it been adopted for\nwidespread use?,,1 isla(s) 91 inline
+142,0x3C8F,redirect,0x3DB4,95,A normal person's kidneys and\nlungs wouldn't be able to process\nthis type of artificial blood.,,3 isla(s) 91 inline
+143,0x3CCA,redirect,0x3E1C,120,"You need to make slight\nimprovements to the kidneys and\nlungs via gene therapy, and also\n undergo regular hemodialysis.",,4 isla(s) 91 inline
+144,0x3D05,redirect,0x3EA0,69,That requires incredible amounts\nof money and the proper facilities.,,3 isla(s) 91 inline
+145,0x3D2C,redirect,0x3EEE,72,"Guess we can't really expect the\npublic to be on it anytime soon,\nthen.",,2 isla(s) 91 inline
+146,0x3D5F,redirect,0x3F3C,13,Arrival time,,1 isla(s) 91 inline
+147,0x3D68,redirect,0x3F4C,29,When are we going to arrive?,,
+148,0x3D97,redirect,0x3F69,31,Beyond isn't much further now.,,1 isla(s) 91 inline
+149,0x3DC6,redirect,0x3F8B,41,We're about two-thirds of the\nway there.,,1 isla(s) 91 inline
+150,0x3DE1,redirect,0x3FB7,37,We've just passed the halfway\npoint.,,3 isla(s) 91 inline
+151,0x3E02,redirect,0x3FE5,40,We're about one-third of the way\nthere.,,1 isla(s) 91 inline
+152,0x3E1D,redirect,0x4010,32,We just left Home a moment ago!,,1 isla(s) 91 inline
+153,0x3E54,redirect,0x4033,37,We just left Home not that long\nago.,,1 isla(s) 91 inline
+154,0x3E8B,redirect,0x405B,5,Show,,
+155,0x3E96,redirect,0x4060,11,Hojo photo,,2 isla(s) 91 inline
+156,0x3EA5,redirect,0x4071,44,"I'm sorry, who are they? I don't\nknow them.",,1 isla(s) 91 inline
+157,0x3EC2,redirect,0x40A0,32,"Yeah, I wouldn't expect you to.",,1 isla(s) 91 inline
+158,0x3ED3,redirect,0x40C3,35,They look Asian.  Are they\nfamous?,,1 isla(s) 91 inline
+159,0x3EFC,redirect,0x40E9,37,"Are they... Japanese, by any\nchance?",,2 isla(s) 91 inline
+160,0x3F31,redirect,0x4114,16,Why do you ask?,,
+161,0x3F44,redirect,0x4124,38,There are a lot of Japanese in\nspace.,,2 isla(s) 91 inline
+162,0x3F7F,redirect,0x4150,50,And nearly all of them are\nconnected to Tokugawa.,,1 isla(s) 91 inline
+163,0x3FAC,redirect,0x4188,15,Lorraine photo,,
+164,0x3FB9,redirect,0x4197,19,Is that your wife?,,
+165,0x3FD2,redirect,0x41AA,12,"Uhh, no....",,
+166,0x3FE1,redirect,0x41B6,31,"Oh, so is she your girlfriend?",,1 isla(s) 91 inline
+167,0x3FFE,redirect,0x41D8,34,That photograph looks really old.,,
+168,0x402D,redirect,0x41FA,27,"Hey, is that date correct?",,
+169,0x404E,redirect,0x4215,9,Yeah....,,2 isla(s) 91 inline
+170,0x4061,redirect,0x4224,9,Capsules,,
+171,0x406A,redirect,0x422D,48,Are those the capsules the\nstewardess gave you?,,1 isla(s) 91 inline
+172,0x4093,redirect,0x4260,40,"If those are for SAS, I don't need\nany.",,1 isla(s) 91 inline
+173,0x40B0,redirect,0x428B,30,"I'm a Beyond, so I'm alright.",,1 isla(s) 91 inline
+174,0x40E3,redirect,0x42AC,5,Leaf,,
+175,0x40EE,redirect,0x42B1,27,What kind of leaf is that?,,
+176,0x40FD,redirect,0x42CC,34,Is that from a Terrestrial plant?,,
+177,0x412A,redirect,0x42EE,18,Policenauts photo,,
+178,0x413D,redirect,0x4300,45,A Policenauts photo? Why am I\nnot surprised!,,1 isla(s) 91 inline
+179,0x4168,redirect,0x4330,34,It's about as rare as that crest.,,1 isla(s) 91 inline
+180,0x4185,redirect,0x4355,84,You don't see that photo much\nanymore.  The Policenauts are\nfrom before I was born.,,2 isla(s) 91 inline
+181,0x41CE,redirect,0x43AF,44,Now virtually anyone can go to\nouter space.,,2 isla(s) 91 inline
+182,0x4217,redirect,0x43E1,5,Back,,
+183,0x4220,redirect,0x43E6,49,Are you really that surprised to\nsee a Frozener?,,2 isla(s) 91 inline
+184,0x4257,redirect,0x441D,17,"Oh, yeah, kinda.",,
+185,0x4268,redirect,0x442E,78,Sorry if I've offended you.  This is\nthe first time I've met one of you\nguys.,,2 isla(s) 91 inline
+186,0x4295,redirect,0x4482,104,Just be careful when you're on\nBeyond.{80238057}The people there don't like to see\ndiscrimination against us.,,3 isla(s) 91 inline
+187,0x4320,redirect,0x44F3,60,"But you said there was no\ndiscrimination there, didn't you?",,2 isla(s) 91 inline
+188,0x4337,redirect,0x4535,34,"Yes, between Beyonds there isn't.",,
+189,0x436C,redirect,0x4557,29,I'm not that kind of person.,,1 isla(s) 91 inline
+190,0x4385,redirect,0x4577,30,Were you really an Amphibian?,,1 isla(s) 91 inline
+191,0x43BA,redirect,0x4598,28,"A long, long time ago, yes.",,
+192,0x43CD,redirect,0x45B4,53,"It doesn't feel very nice to be\nstared at, you know.",,1 isla(s) 91 inline
+193,0x43EE,redirect,0x45EC,50,I really wish you wouldn't stare at\nme like that.,,1 isla(s) 91 inline
+194,0x4413,redirect,0x4621,29,(He's an unusual kinda guy.),,
+195,0x4442,redirect,0x463E,37,What is it? Something bothering\nyou?,,
+196,0x446B,redirect,0x4666,28,I see you injured your arm.,,
+197,0x4488,redirect,0x4682,26,Did it happen on the job?,,1 isla(s) 91 inline
+198,0x44B3,redirect,0x469F,27,I just burned it a little.,,1 isla(s) 91 inline
+199,0x44E8,redirect,0x46BD,17,Must be painful.,,
+200,0x4503,redirect,0x46CE,58,The best environment for treating\na burn is zero gravity.,,2 isla(s) 91 inline
+201,0x4528,redirect,0x470E,68,Is that writing on your forehead\nthat Frozener thing you\nmentioned?,,2 isla(s) 91 inline
+202,0x4559,redirect,0x4758,70,"Sorry if I'm being rude, but...\nwhat's that writing on your\nforehead?",,1 isla(s) 91 inline
+203,0x457C,redirect,0x47A1,41,This is my tag.  All Frozeners have\none.,,1 isla(s) 91 inline
+204,0x45CB,redirect,0x47CD,42,I've never seen writing like that\nbefore.,,1 isla(s) 91 inline
+205,0x4612,redirect,0x47FA,159,These tags have been designed to\nprevent a person from being able\nto distinguish between them.{80238057}That therefore prevents them\nfrom being analyzed and forged.,,5 isla(s) 91 inline
+206,0x4663,redirect,0x48A8,87,"(As advanced as it might be, that\nblood sure does take all the color\nout of his face.)",,2 isla(s) 91 inline
+207,0x468C,redirect,0x4905,37,(He's got a really pale complexion.),,1 isla(s) 91 inline
+208,0x46A7,redirect,0x492D,35,(He's like a zombie or something.),,1 isla(s) 91 inline
+209,0x46DE,redirect,0x4953,43,(It doesn't even look like he's\nblinking.),,1 isla(s) 91 inline
+210,0x46F9,redirect,0x4981,31,Please don't unfasten my belt.,,1 isla(s) 91 inline
+211,0x471E,redirect,0x49A3,38,You don't mind the belt after\nawhile.,,
+212,0x4749,redirect,0x49C9,71,This is the photo of me and\nLorraine from when we went to\nLucas World.,,2 isla(s) 91 inline
+213,0x478E,redirect,0x4A16,52,The one I had sitting on my desk\nback in my office.,,
+214,0x47AD,redirect,0x4A4A,28,Never hurts to think ahead.,,1 isla(s) 91 inline
+215,0x47D4,redirect,0x4A69,67,Something about her reminds me\nof the woman from that other\nphoto.,,2 isla(s) 91 inline
+216,0x4811,redirect,0x4AB2,44,"I guess the ages are too far apart,\nthough.",,2 isla(s) 91 inline
+217,0x482E,redirect,0x4AE4,26,What are these belts for?,,
+218,0x483D,redirect,0x4AFE,88,"In zero gravity your blood collects\nin your head and chest, which can\nlead to insomnia.",,3 isla(s) 91 inline
+219,0x4876,redirect,0x4B5F,41,"The stewardess mentioned that,\nremember?",,2 isla(s) 91 inline
+220,0x489F,redirect,0x4B8E,97,This belt holds you firmly in your\nseat to help promote more even\ndistribution of bodily fluids.,,5 isla(s) 91 inline
+221,0x48C8,redirect,0x4BFE,50,This is the same type of belt as\neveryone else's.,,3 isla(s) 91 inline
+222,0x48ED,redirect,0x4C39,48,"As you can see, it's different from\na seatbelt.",,2 isla(s) 91 inline
+223,0x4922,redirect,0x4C6F,44,"(He's just like any normal person,\nthough.)",,3 isla(s) 91 inline
+224,0x4945,redirect,0x4CA4,31,(He looks awkward to talk to.),,1 isla(s) 91 inline
+225,0x4976,redirect,0x4CC6,32,Why... is your skin that color?,,
+226,0x4993,redirect,0x4CE6,72,Because of my artificial blood.  My\nred blood cells are actually white.,,2 isla(s) 91 inline
+227,0x49D6,redirect,0x4D34,18,(White blood....),,
+228,0x49E7,redirect,0x4D46,112,"I use first-generation artificial\nblood, which is less complex than\nthe third-generation kind you see\n on Home.",,3 isla(s) 91 inline
+229,0x4A50,redirect,0x4DBF,32,We still have awhile to go yet.,,
+230,0x4A71,redirect,0x4DDF,31,You should try and relax more.,,1 isla(s) 91 inline
+231,0x4A8E,redirect,0x4E01,68,"There's no need to worry.  We'll\nget there in one piece, I promise.",,2 isla(s) 91 inline
+232,0x4AB9,redirect,0x4E4B,19,Please just relax.,,1 isla(s) 91 inline
+233,0x4AD4,redirect,0x4E61,1,,,
+234,0x4B03,redirect,0x4E62,1,,,
+235,0x4B20,redirect,0x4E63,1,,,
+236,0x4B3B,redirect,0x4E64,1,,,
+237,0x4B74,redirect,0x4E65,1,,,
+238,0x4B83,redirect,0x4E66,1,,,
+239,0x4BA6,redirect,0x4E67,1,,,
+240,0x4BC1,redirect,0x4E68,1,,,
+241,0x4BDA,redirect,0x4E69,11,Let her go,,
+242,0x4BED,redirect,0x4E74,7,System,,
+243,0x4BF6,redirect,0x4E7B,5,Talk,,
+244,0x4C01,redirect,0x4E80,13,Umm... miss?,,
+245,0x4C20,redirect,0x4E8D,11,Excuse me?,,
+246,0x4C33,redirect,0x4E98,57,"What do you need? Sorry, can I\nask you to make it quick?",,
+247,0x4C58,redirect,0x4ED1,5,Yes?,,
+248,0x4C6B,redirect,0x4ED6,10,Ask about,,1 isla(s) 91 inline
+249,0x4C74,redirect,0x4EE3,7,Beyond,,
+250,0x4C89,redirect,0x4EEA,5,Size,,
+251,0x4C90,redirect,0x4EEF,50,"Well, first of all the colony is a\ncylinder type.",,
+252,0x4CB3,redirect,0x4F21,61,It's 6.5 kilometers in diameter and\n32 kilometers in length.,,
+253,0x4CF4,redirect,0x4F5E,116,"It makes one complete rotation\nevery 2 minutes, creating artificial\ngravity virtually equal to that of\n Earth's 1G.",,3 isla(s) 91 inline
+254,0x4D2F,redirect,0x4FDB,150,"The colony's surfaces and mirrors\nare divided into three sections\naround its central axis, with each\n section having an area of 90\nsquare kilometers.",,2 isla(s) 91 inline
+255,0x4D84,redirect,0x5077,45,It's the first and last O'Neill-type\ncolony.,,
+256,0x4DAD,redirect,0x50A4,9,Distance,,
+257,0x4DB2,redirect,0x50AD,53,Beyond isn't as far from Earth as\nsome people think.,,1 isla(s) 91 inline
+258,0x4DE5,redirect,0x50E5,119,"It's approximately 380,000\nkilometers from Earth, which is\nabout the same as the distance\n between Earth and the Moon.",,3 isla(s) 91 inline
+259,0x4E2C,redirect,0x5165,8,Climate,,
+260,0x4E31,redirect,0x516D,51,That's what people tend to be\nmost curious about! ,,1 isla(s) 91 inline
+261,0x4E54,redirect,0x51A3,157,"By changing the angles of its three\nsolar mirrors, Beyond is able to\ncreate the effect of a day-night\n cycle and maintain a mild\ntemperature all year round.",,1 isla(s) 91 inline
+262,0x4EDF,redirect,0x5243,136,Its climate is virtually identical to\nthat of the west coast of the\nUnited States.{80238057}That's the other reason it's called\nBeyond Coast.,,1 isla(s) 91 inline
+263,0x4F62,redirect,0x52CE,12,Environment,,1 isla(s) 91 inline
+264,0x4F67,redirect,0x52DD,54,Its environment isn't as alien as\nsome people expect.,,
+265,0x4F8A,redirect,0x5316,130,"It's an almost perfect recreation of\nEarth's.{80238057}It has artificial clouds, various\nforms of precipitation, and even\nwind as well.",,1 isla(s) 91 inline
+266,0x5011,redirect,0x539B,92,The partial pressures of the\noxygen and carbon dioxide in its\natmosphere are also the same.,,1 isla(s) 91 inline
+267,0x5050,redirect,0x53FA,200,"Beyond Coast, mankind's first\nspace colony, was completed in\n2010.{80238057}Since immigration was opened to\nthe general public in 2013, the\ncolony's population has grown to\n approximately 1 million people.",,3 isla(s) 91 inline
+268,0x50E1,redirect,0x54CB,90,Nearly one-third of the current\npopulation is comprised of\nsecond-generation inhabitants.,,1 isla(s) 91 inline
+269,0x5134,redirect,0x5528,4,SAS,,
+270,0x5145,redirect,0x552C,6,Cause,,
+271,0x514A,redirect,0x5532,73,Much was revealed about the\nnature of SAS after the turn of the\ncentury.,,2 isla(s) 91 inline
+272,0x5191,redirect,0x5581,196,"The previously held Barany theory\nwas rejected, with the cause of\n\n SAS now said to be a vestibular\ndisorder.{80238057}The vestibular system undergoes\na paralysis, throwing off one's\ncenter of balance.",,2 isla(s) 91 inline
+273,0x523C,redirect,0x564B,173,"It's called the vestibular disorder\ntheory.{80238057}It states that several organs that\nperceive gravity are involved in\nthis disruption, not just the\n otoliths of the inner ear.",,2 isla(s) 91 inline
+274,0x52C7,redirect,0x56FE,10,Treatment,,
+275,0x52D0,redirect,0x5708,93,"I'm surprised you're asking me\nthis after you just took something\nfor it, but never mind....",,1 isla(s) 91 inline
+276,0x5313,redirect,0x5768,252,"Generally speaking, the most\neffective form of treatment\navailable would be to give an\n intramuscular injection of\npromethazine, but because SAS\nvaries from person to person,\n there are currently no medications\ncapable of alleviating all its\nsymptoms.",,2 isla(s) 91 inline
+277,0x5376,redirect,0x586A,111,"While it's somewhat rudimentary,\nkeeping your head as still as\n\n possible will reduce a lot of the\ndiscomfort.",,3 isla(s) 91 inline
+278,0x53B7,redirect,0x58E2,127,"For Terrestrials, it might be\nhelpful to do some zero gravity\nsensory training on an adaptation\n training unit before you fly.",,1 isla(s) 91 inline
+279,0x5436,redirect,0x5964,9,Symptoms,,
+280,0x543B,redirect,0x596D,181,"Symptoms include dizziness, cold\nsweats, vomiting, headache and\nfatigue, and are often accompanied\n by a false feeling of falling over\nthat doesn't occur in normal\nmotion sickness.",,4 isla(s) 91 inline
+281,0x549A,redirect,0x5A2E,103,"The longest they last is about 2\ndays, however, so I think you\n\n should be feeling better pretty\nsoon.",,1 isla(s) 91 inline
+282,0x54E5,redirect,0x5A98,93,"The longest they last is about 2\ndays, however, so you should be\nfine by the time we arrive.",,1 isla(s) 91 inline
+283,0x5536,redirect,0x5AF8,23,Zero gravity's effects,,2 isla(s) 91 inline
+284,0x5543,redirect,0x5B15,161,"There is no hydrostatic pressure\nin zero gravity, so much of your\nbodily fluids collect in the upper\n half of your body in an attempt to\nevenly distribute them.",,1 isla(s) 91 inline
+285,0x5592,redirect,0x5BB9,198,"When this happens, your body\nthinks the amount of blood in the\nbloodstream has increased,\n causing the brain to send a\nmessage to the kidneys.{80238057}Basically, you end up having to\nurinate more often.",,2 isla(s) 91 inline
+286,0x5631,redirect,0x5C85,122,There are efforts underway to try\nand control this misperception in\nthe brain through methods like\n biofeedback and yoga.,,2 isla(s) 91 inline
+287,0x568A,redirect,0x5D05,124,"Also, because your bones, joints\nand muscles don't undergo any\nstress in zero gravity, your bone\n cells lose their calcium.",,4 isla(s) 91 inline
+288,0x56ED,redirect,0x5D8D,168,"Long-distance spaceships create\nartificial gravity through\ncentrifugal force, but the only\n thing you can do to prevent\ncalcium loss on this type of plane\nis exercise.",,4 isla(s) 91 inline
+289,0x5730,redirect,0x5E41,79,"We have equipment such as\nergometers, treadmills and\nresistance bands onboard.",,
+290,0x57A5,redirect,0x5E90,81,You could also try chewing some\ngum made from the leaf of the\nhardy rubber tree.,,2 isla(s) 91 inline
+291,0x57EC,redirect,0x5EE7,252,"The medical definition of Space\nAdaptation Syndrome, or SAS, is\nthe symptoms one experiences\n during adaptation to zero gravity. \nIt varies from person to person,\nbut over 50% of people develop\n symptoms within 1 to 2 hours of\nentering weightlessness.",,4 isla(s) 91 inline
+292,0x5895,redirect,0x5FEF,10,The plane,,
+293,0x58A6,redirect,0x5FF9,7,Course,,
+294,0x58AD,redirect,0x6000,138,"Normally we would spend the\nnight in an Earth-orbiting space\nstation and then travel the rest of\n the way in an orbital transfer\nvehicle,",,4 isla(s) 91 inline
+295,0x5930,redirect,0x6096,65,"but this is a direct flight to\nBeyond, which takes about 2 days.",,2 isla(s) 91 inline
+296,0x597F,redirect,0x60DD,25,"So, we'll be there soon!",,
+297,0x599E,redirect,0x60F9,8,Toilets,,
+298,0x59A5,redirect,0x6101,113,"In accordance with stricter space\ndebris regulations, the plane\ndoesn't eject waste out into space\n like before.",,3 isla(s) 91 inline
+299,0x59F6,redirect,0x617B,151,"So you won't get the chance to\nsee any ""space fireflies"" like\nProject Mercury's Astronaut\n Glenn, or ""milky ways"" like\nAurora 7's Astronaut Carpenter.",,4 isla(s) 91 inline
+300,0x5A89,redirect,0x621E,86,"The toilet uses a vacuum waste\ncollection system, so it might feel a\nlittle ticklish.",,2 isla(s) 91 inline
+301,0x5AD2,redirect,0x627A,42,Ticklish? I see that part hasn't\nchanged.,,1 isla(s) 91 inline
+302,0x5B03,redirect,0x62A7,6,Meals,,
+303,0x5B08,redirect,0x62AD,161,"Space food has vastly improved\nover the years, and is actually\nquite tasty now.{80238057}Following the latest trends on\nEarth, we even offer Japanese\ncuisine as well.",,3 isla(s) 91 inline
+304,0x5B8D,redirect,0x6357,134,"However, because flavors aren't\npreserved very well under low air\npressure, we don't bother using\n any exotic flavorings in our food.",,2 isla(s) 91 inline
+305,0x5BE0,redirect,0x63E3,78,You'll remember I was talking\nabout the effects of zero gravity a\nmoment ago?,,1 isla(s) 91 inline
+306,0x5C0D,redirect,0x6434,233,"Space travel also causes changes\nin your body's internal secretions\nand metabolism, which can affect\n your sense of taste.{80238057}You may not be completely\nsatisfied with certain aspects of\n\n the food, but we ask for your\nunderstanding.",,10 isla(s) 91 inline
+307,0x5C9E,redirect,0x653B,11,Passengers,,
+308,0x5CA3,redirect,0x6546,159,"The fuel tank, which contains\nliquid hydrogen and liquid oxygen,\nis considerably big, so there's only\n enough seating space for thirty\npeople, including crew.",,6 isla(s) 91 inline
+309,0x5D10,redirect,0x65FA,84,"Since there are less than thirty\npassengers, there are no separate\nclasses onboard.",,1 isla(s) 91 inline
+310,0x5D5B,redirect,0x6651,50,"That's why the lifepod holds\nexactly thirty, huh?",,1 isla(s) 91 inline
+311,0x5D84,redirect,0x6686,5,Body,,
+312,0x5D89,redirect,0x668B,43,I've noticed it's extremely quiet\nonboard.,,1 isla(s) 91 inline
+313,0x5D9C,redirect,0x66B9,67,The walls of the plane are\nreinforced with piezoelectric\nelements.,,3 isla(s) 91 inline
+314,0x5DC7,redirect,0x6705,107,They cancel out the noise from\nthe plane by bending in the\n\n opposite direction of the vibrations\noutside.,,2 isla(s) 91 inline
+315,0x5E12,redirect,0x6776,72,"That's why it was so quiet when\nwe were leaving the atmosphere,\nwas it?",,4 isla(s) 91 inline
+316,0x5E3B,redirect,0x67CA,129,"There are optical fibers running all\nover the body of the plane.{80238057}If any problems should occur\noutside, we'll know right away.",,3 isla(s) 91 inline
+317,0x5EAE,redirect,0x6854,59,World of difference from the\nShuttles we had 30 years ago.,,2 isla(s) 91 inline
+318,0x5ED9,redirect,0x6895,173,"Sensors on the outside of the\nplane check for any changes in\nconditions like pressure or\n temperature, and automatically\nmake adjustments to the plane's\ncourse accordingly.",,9 isla(s) 91 inline
+319,0x5F38,redirect,0x695D,67,"The plane, unlike a conventional\nairplane, is a flat lifting body.",,1 isla(s) 91 inline
+320,0x5F75,redirect,0x69A3,71,"Yeah, the actual plane itself\ncreates lift, not just the wings,\nright?",,4 isla(s) 91 inline
+321,0x5FBC,redirect,0x69F6,40,"Yes, that's why the wings are so\nsmall.",,1 isla(s) 91 inline
+322,0x5FE3,redirect,0x6A21,51,I know a little bit about the old\nShuttles myself.,,2 isla(s) 91 inline
+323,0x6006,redirect,0x6A5D,36,All spaceplanes are lifting bodies.,,
+324,0x603F,redirect,0x6A81,13,Arrival time,,
+325,0x6048,redirect,0x6A8E,44,How much longer will it be until\nwe arrive?,,2 isla(s) 91 inline
+326,0x6083,redirect,0x6AC0,15,How about now?,,1 isla(s) 91 inline
+327,0x609A,redirect,0x6AD2,31,We're not far from Beyond now.,,1 isla(s) 91 inline
+328,0x60D5,redirect,0x6AF4,37,We've just passed the halfway\npoint.,,1 isla(s) 91 inline
+329,0x60F6,redirect,0x6B1C,61,Everything will be fine.  We'll be\nthere before you know it.,,
+330,0x612F,redirect,0x6B59,30,The flight's only just begun!,,2 isla(s) 91 inline
+331,0x614A,redirect,0x6B7D,77,We still have a long way to go yet. \nJust try to relax and enjoy the\nflight.,,1 isla(s) 91 inline
+332,0x6177,redirect,0x6BCD,17,Ask for medicine,,
+333,0x6186,redirect,0x6BDE,46,Taking any more than that isn't\ngood for you!,,1 isla(s) 91 inline
+334,0x61A9,redirect,0x6C0F,38,You shouldn't take that many at\nonce.,,
+335,0x61CE,redirect,0x6C35,54,You think you could you give me\nsomething for my SAS?,,1 isla(s) 91 inline
+336,0x6207,redirect,0x6C6E,66,"You're feeling sick already?\nGoodness, the flight's just started.",,2 isla(s) 91 inline
+337,0x6238,redirect,0x6CB6,82,"With things like this, I feel it's\nbetter to take something in\nadvance, you know?",,5 isla(s) 91 inline
+338,0x625F,redirect,0x6D17,141,"It must be really uncomfortable for\nyou.  But these things do take\nawhile to take effect, you know. \n You might not need it in a little bit.",,4 isla(s) 91 inline
+339,0x62A2,redirect,0x6DB3,51,"Yeah, I know, but I'd still rather\ntake something.",,1 isla(s) 91 inline
+340,0x62AF,redirect,0x6DE9,60,"You don't seem very sick to me,\nmy perverted little friend.",,2 isla(s) 91 inline
+341,0x62E2,redirect,0x6E2B,65,I think you'll be alright.  We'll be\narriving at Beyond shortly.,,1 isla(s) 91 inline
+342,0x632B,redirect,0x6E6F,47,I think you'll start to feel better\nvery soon.,,
+343,0x635A,redirect,0x6E9E,84,"This is around the time your SAS\nwill be at its worst, but you'll feel\nbetter soon.",,3 isla(s) 91 inline
+344,0x639F,redirect,0x6EFB,138,"We have oral drugs as well as\nelectroporation patches, but\nthey're really only placebos for the\n most part.{80238057}What would you like to do?",,2 isla(s) 91 inline
+345,0x6420,redirect,0x6F8B,29,Would you like another pill?,,1 isla(s) 91 inline
+346,0x6437,redirect,0x6FAB,21,"Another pill, right?",,1 isla(s) 91 inline
+347,0x6454,redirect,0x6FC3,14,Take medicine,,
+348,0x645B,redirect,0x6FD1,28,"Here is a Relaxaphex, then.",,2 isla(s) 91 inline
+349,0x648C,redirect,0x6FF3,28,Relaxaphex? Who makes this?,,1 isla(s) 91 inline
+350,0x64AD,redirect,0x7012,26,Tokugawa Pharmaceuticals.,,1 isla(s) 91 inline
+351,0x64C2,redirect,0x702F,31,"Tokugawa Pharmaceuticals, huh?",,1 isla(s) 91 inline
+352,0x64D3,redirect,0x7051,33,You'd like another? Here you go.,,1 isla(s) 91 inline
+353,0x64F0,redirect,0x7075,40,Still not feeling better? Here you\nare.,,1 isla(s) 91 inline
+354,0x6515,redirect,0x70A0,28,Thanks.  Here goes nothing.,,1 isla(s) 91 inline
+355,0x6534,redirect,0x70BF,28,Thanks.  Lemme try another.,,
+356,0x655F,redirect,0x70DB,20,Last one.  Promise.,,1 isla(s) 91 inline
+357,0x6582,redirect,0x70F2,20,Don't take medicine,,
+358,0x658D,redirect,0x7106,31,I think I'll hold off for now.,,1 isla(s) 91 inline
+359,0x65A8,redirect,0x7128,22,"It's okay, I'll pass.",,
+360,0x65C5,redirect,0x713E,6,Flirt,,
+361,0x65CC,redirect,0x7144,71,How does you and me having\ndinner under the stars after we\nland sound?,,1 isla(s) 91 inline
+362,0x65F7,redirect,0x718E,60,"If you're free, how about showing\na stranger around Beyond?",,
+363,0x663A,redirect,0x71CA,66,"Sorry, but I wouldn't feel\ncomfortable around a pervert like\nyou.",,2 isla(s) 91 inline
+364,0x667F,redirect,0x7212,57,"I'm sorry, but... I'd rather not. \nNot with you, anyway.",,2 isla(s) 91 inline
+365,0x66A6,redirect,0x7251,34,Please stop trying to ask me out!,,1 isla(s) 91 inline
+366,0x66C5,redirect,0x7276,41,I don't know if that's such a good\nidea.,,1 isla(s) 91 inline
+367,0x66E0,redirect,0x72A2,40,"I'm trying to do my job here, you\nknow.",,1 isla(s) 91 inline
+368,0x66FB,redirect,0x72CD,27,Man....  What should I do?,,1 isla(s) 91 inline
+369,0x6714,redirect,0x72EB,44,I'd consider it if you worked for\nTokugawa.,,1 isla(s) 91 inline
+370,0x6741,redirect,0x731A,61,"Okay, I can't promise you anything,\nbut I'll think about it.",,
+371,0x6784,redirect,0x7357,8,Really?,,1 isla(s) 91 inline
+372,0x678D,redirect,0x7362,20,Feeling better now?,,
+373,0x67B8,redirect,0x7376,13,What the....,,
+374,0x67C5,redirect,0x7383,45,"Let's take care of that SAS first,\nshall we?",,1 isla(s) 91 inline
+375,0x67F8,redirect,0x73B3,66,"I thought you had a wife, sir? A\nvery beautiful one, might I add.",,2 isla(s) 91 inline
+376,0x6835,redirect,0x73FB,51,"Oh, you mean that photo? That's\njust... my sister.",,2 isla(s) 91 inline
+377,0x6844,redirect,0x7434,32,I'm sure it is.  And that ring?,,
+378,0x6863,redirect,0x7454,25,"Aren't you married, sir?",,
+379,0x688A,redirect,0x746D,55,"Oh, you mean this? This is just...\nmy fraternity ring.",,
+380,0x68B1,redirect,0x74A7,5,Show,,
+381,0x68BC,redirect,0x74AC,11,Hojo photo,,
+382,0x68CB,redirect,0x74B7,44,You ever seen the man in this\nphoto before?,,2 isla(s) 91 inline
+383,0x68E4,redirect,0x74E9,40,"I'm sorry, I don't know either of\nthem.",,2 isla(s) 91 inline
+384,0x6907,redirect,0x7517,34,Are they family members of\nyours?,,1 isla(s) 91 inline
+385,0x691C,redirect,0x753C,15,Lorraine photo,,1 isla(s) 91 inline
+386,0x6929,redirect,0x754E,35,What do you think of this\npicture?,,1 isla(s) 91 inline
+387,0x693E,redirect,0x7574,22,"Wow, she's beautiful.",,1 isla(s) 91 inline
+388,0x6957,redirect,0x758D,30,She's a very beautiful woman.,,2 isla(s) 91 inline
+389,0x6972,redirect,0x75B1,79,I can't believe you're trying to ask\nme out when you've got someone\nlike that.,,3 isla(s) 91 inline
+390,0x69A7,redirect,0x7609,9,Capsules,,
+391,0x69B0,redirect,0x7612,42,You ever seen capsules like these\nbefore?,,1 isla(s) 91 inline
+392,0x69CF,redirect,0x763F,60,Taking that many pills at once can't\nbe good for your body.,,2 isla(s) 91 inline
+393,0x69EC,redirect,0x7681,43,"You just took something for SAS,\nremember?",,1 isla(s) 91 inline
+394,0x6A13,redirect,0x76AF,32,"Oh, you're carrying medication?",,1 isla(s) 91 inline
+395,0x6A34,redirect,0x76D2,30,What kind of pills are those?,,
+396,0x6A43,redirect,0x76F0,18,Do you feel sick?,,1 isla(s) 91 inline
+397,0x6A5A,redirect,0x7705,59,"If you're feeling sick, I have\nmedication for SAS with me.",,1 isla(s) 91 inline
+398,0x6AA1,redirect,0x7743,5,Leaf,,1 isla(s) 91 inline
+399,0x6AAC,redirect,0x774B,34,Any idea what kinda leaf this is?,,1 isla(s) 91 inline
+400,0x6AC3,redirect,0x7770,30,"It doesn't look familiar, no.",,1 isla(s) 91 inline
+401,0x6AD8,redirect,0x7791,35,Is that a pressed leaf from Earth?,,1 isla(s) 91 inline
+402,0x6AFD,redirect,0x77B7,98,Don't forget that if you're taking\nplants into Beyond they need to be\ninspected at the spaceport.,,2 isla(s) 91 inline
+403,0x6B5A,redirect,0x7822,18,Policenauts photo,,
+404,0x6B6D,redirect,0x7834,26,You recognize this photo?,,1 isla(s) 91 inline
+405,0x6B82,redirect,0x7851,67,"Yes, I've seen it in textbooks. \nThey were Beyond's Original Cops.",,1 isla(s) 91 inline
+406,0x6BFF,redirect,0x7897,64,"You're going to Beyond to learn\nabout the Policenauts, are you?",,1 isla(s) 91 inline
+407,0x6C3E,redirect,0x78DA,73,There's an exhibit on the\nPolicenauts at the Astronauts\nMemorial Museum.,,1 isla(s) 91 inline
+408,0x6CA7,redirect,0x7929,5,Back,,
+409,0x6CB0,redirect,0x792E,14,Have her stay,,
+410,0x6CBD,redirect,0x793C,30,Can you stay a little longer?,,1 isla(s) 91 inline
+411,0x6CD6,redirect,0x795D,5,....,,
+412,0x6CDD,redirect,0x7965,11,Certainly.,,
+413,0x6CF4,redirect,0x7970,27,"Sure, if I can be of help.",,1 isla(s) 91 inline
+414,0x6D11,redirect,0x798E,11,Let her go,,
+415,0x6D1E,redirect,0x7999,5,Look,,
+416,0x6D23,redirect,0x799E,39,"Please don't look at me that way,\nsir.",,2 isla(s) 91 inline
+417,0x6D54,redirect,0x79CB,95,Am I glad I picked this flight.{80238057}I might not have met such a\nbeautiful stewardess otherwise.,,4 isla(s) 91 inline
+418,0x6D9B,redirect,0x7A36,19,Well... thank you.,,
+419,0x6DB0,redirect,0x7A49,29,You've got a very nice body.,,1 isla(s) 91 inline
+420,0x6DC9,redirect,0x7A69,36,This is taking the SAS off my mind.,,
+421,0x6DFA,redirect,0x7A8D,30,I suppose if it's helping....,,
+422,0x6E1F,redirect,0x7AAB,59,"You're really cute.  Your face is a\nlittle chubby, though.",,2 isla(s) 91 inline
+423,0x6E4A,redirect,0x7AEC,136,"In zero gravity, your blood collects\nin the upper half of your body,\n\n causing your face to swell a\nlittle.{80238057}It's called ""Moon face"".",,2 isla(s) 91 inline
+424,0x6EAD,redirect,0x7B7A,79,"I think I'm gonna enjoy my trip, if\nthere are girls as beautiful as you\nthere.",,1 isla(s) 91 inline
+425,0x6EDC,redirect,0x7BCC,11,Thank you.,,
+426,0x6EEF,redirect,0x7BD7,32,I'll take that as a compliment.,,1 isla(s) 91 inline
+427,0x6F06,redirect,0x7BFA,60,Oh...! Are you... not wearing a\nbra? They look so... perky.,,1 isla(s) 91 inline
+428,0x6F37,redirect,0x7C39,123,"That's right.  You don't need a bra\nin zero gravity, nor do you need to\nworry about your hips, breasts or\n cheeks sagging.",,3 isla(s) 91 inline
+429,0x6F9E,redirect,0x7CBD,36,"Hmm....  Yeah, I see what you\nmean.",,
+430,0x6FBF,redirect,0x7CE1,35,Please don't look at me like that.,,5 isla(s) 91 inline
+431,0x6FD8,redirect,0x7D13,6,Touch,,
+432,0x6FDD,redirect,0x7D19,73,"You know, I don't think I've ever\nfelt a pair in zero gravity before....",,2 isla(s) 91 inline
+433,0x7004,redirect,0x7D68,39,"This would really, really help my\nSAS.",,1 isla(s) 91 inline
+434,0x701F,redirect,0x7D92,55,Stop that! Or we'll... we'll throw\nyou off the flight!,,1 isla(s) 91 inline
+435,0x7046,redirect,0x7DCC,20,What are you doing!,,
+436,0x705D,redirect,0x7DE0,47,Stop it! I'll call one of the male\nattendants!,,1 isla(s) 91 inline
+437,0x7088,redirect,0x7E12,29,That's a really tight skirt.,,3 isla(s) 91 inline
+438,0x70A3,redirect,0x7E38,49,This is a special skirt designed to\nprevent SAS.,,1 isla(s) 91 inline
+439,0x70E6,redirect,0x7E6C,29,It works just like my shirt.,,1 isla(s) 91 inline
+440,0x7109,redirect,0x7E8C,164,It puts pressure on the abdomen\nto prevent excess blood from\nmoving to the upper half of the\n body as much as possible.{80238057}Our entire uniform is designed\nthis way.,,4 isla(s) 91 inline
+441,0x7180,redirect,0x7F3C,80,We also wear elastic stockings to\nhelp stimulate blood flow to the\nextremities.,,3 isla(s) 91 inline
+442,0x71CF,redirect,0x7F95,55,Wonder if I can sneak a peek up\nthis heavenly body....,,1 isla(s) 91 inline
+443,0x71F6,redirect,0x7FCF,37,...I forgot how nice zero-Gs can\nbe.,,
+444,0x7213,redirect,0x7FF4,33,I thought you were feeling sick!,,2 isla(s) 91 inline
+445,0x724A,redirect,0x801B,25,I'm a little better now.,,
+446,0x7261,redirect,0x8034,57,I can see why someone like you\nwould enjoy zero gravity.,,1 isla(s) 91 inline
+447,0x7294,redirect,0x8070,30,Your uniform is a nice color.,,
+448,0x72BD,redirect,0x808E,38,It really brings out your curves\ntoo.,,1 isla(s) 91 inline
+449,0x72E4,redirect,0x80B7,29,It works just like my skirt.,,
+450,0x7309,redirect,0x80D4,120,You may not know that we wear a\nrubber undershirt too.{80238057}It helps prevent the muscles from\natrophying in zero gravity.,,4 isla(s) 91 inline
+451,0x735C,redirect,0x8158,76,"Contrary to its appearance, this is\nan excellent material for zero\ngravity.",,1 isla(s) 91 inline
+452,0x73A1,redirect,0x81A7,42,"It doesn't feel very comfortable,\nthough.",,1 isla(s) 91 inline
+453,0x73C4,redirect,0x81D4,53,As long as it looks good.  As long\nas it looks good.,,1 isla(s) 91 inline
+454,0x73DD,redirect,0x820C,26,Is that all you ever do?!,,
+455,0x7406,redirect,0x8226,25,You have exquisite legs.,,
+456,0x7419,redirect,0x823F,157,"Thank you.  But in zero gravity,\nthe legs appear thinner than\nnormal because your blood\n collects in the upper half of your\nbody.{80238057}It's called ""bird leg"".",,3 isla(s) 91 inline
+457,0x74A4,redirect,0x82E5,30,You really do have nice legs.,,
+458,0x74B9,redirect,0x8303,46,I can see you're one of those\nsmooth talkers.,,1 isla(s) 91 inline
+459,0x74D4,redirect,0x8334,40,Stop it! I'm going to get really\nangry!,,1 isla(s) 91 inline
+460,0x74F3,redirect,0x835F,44,Would it bother you if I touched\nyour legs?,,
+461,0x750A,redirect,0x838B,28,Aah! Get your hands off me!,,1 isla(s) 91 inline
+462,0x7523,redirect,0x83AA,103,"I just thought I'd take a hands-on\napproach to learning about the\neffects of zero gravity, that's all.",,2 isla(s) 91 inline
+463,0x754A,redirect,0x8417,13,You pervert!,,
+464,0x755D,redirect,0x8424,41,Is there anything else I can do for\nyou?,,
+465,0x757C,redirect,0x844D,37,Can I assist you with anything\nelse?,,1 isla(s) 91 inline
+466,0x7595,redirect,0x8475,14,Thanks a lot.,,
+467,0x75A8,redirect,0x8483,22,Thanks for your time.,,
+468,0x75C7,redirect,0x8499,10,I'll bet.,,
+469,0x75D8,redirect,0x84A3,14,"Be good, now.",,
+470,0x75F5,redirect,0x84B1,53,You're welcome.  Call me again if\nyou need anything.,,2 isla(s) 91 inline
+471,0x761E,redirect,0x84EC,51,You seem to be apprehensive\nabout going to Beyond.,,1 isla(s) 91 inline
+472,0x7663,redirect,0x8522,19,"No, not really....",,1 isla(s) 91 inline
+473,0x766E,redirect,0x8538,121,"You'll be fine when you get\nthere.{80238057}There's artificial gravity and nice,\nclean air....  It truly is a wonderful\nplace.",,1 isla(s) 91 inline
+474,0x76A9,redirect,0x85B4,35,I'm sure you'll have a great time.,,1 isla(s) 91 inline
+475,0x76C6,redirect,0x85DA,65,"We still have a long way to go yet. \nWe can talk, if you'd like?",,2 isla(s) 91 inline
+476,0x76F3,redirect,0x8621,44,You don't feel like talking about\nanything?,,1 isla(s) 91 inline
+477,0x7714,redirect,0x8650,72,"This is one of the effects of zero\ngravity, as I was mentioning\nbefore.",,1 isla(s) 91 inline
+478,0x7747,redirect,0x869B,26,"Okay, I'll explain again.",,1 isla(s) 91 inline
+479,0x776C,redirect,0x86B8,30,"I can go over it again, sure.",,2 isla(s) 91 inline
+480,0x7787,redirect,0x86DC,46,You seem to be really interested\nin all this.,,1 isla(s) 91 inline
+481,0x77A6,redirect,0x870D,44,Was my explanation difficult to\nunderstand?,,2 isla(s) 91 inline
+482,0x77C5,redirect,0x873F,45,"Don't worry, SAS isn't a disease,\nafter all.",,1 isla(s) 91 inline
+483,0x77F4,redirect,0x876F,50,It's nothing to worry about.  It'll\ngo away soon.,,2 isla(s) 91 inline
+484,0x781F,redirect,0x87A7,58,"Plus you took something for it,\nremember? You'll be fine.",,2 isla(s) 91 inline
+485,0x7848,redirect,0x87E7,72,"SAS is a perfectly normal reaction\nto entering outer space, believe\nme.",,2 isla(s) 91 inline
+486,0x7883,redirect,0x8835,66,"If you're that concerned about it,\nwhy not take something for it?",,1 isla(s) 91 inline
+487,0x78AA,redirect,0x887A,71,"If it's bothering you that much, do\nyou want to take something for\nit?",,1 isla(s) 91 inline
+488,0x78DD,redirect,0x88C4,97,That's the monitor attached to the\nback of every seat.{80238057}We're showing news from BBC\nright now.,,1 isla(s) 91 inline
+489,0x7926,redirect,0x8928,57,That's the monitor attached to the\nseat in front of you.,,1 isla(s) 91 inline
+490,0x7949,redirect,0x8964,31,Have you watched some already?,,cadena 92: 2 fragmentos unidos
+491,0x7962,redirect,0x8986,24,"Yeah, I have, actually.",,
+492,0x797F,redirect,0x899E,68,If you want to watch TV you can\npress the button on the wall\nthere.,,
+493,0x79B6,redirect,0x89E2,8,Thanks.,,
+494,0x79C3,redirect,0x89EA,30,That light's hurting my eyes.,,
+495,0x79E4,redirect,0x8A08,21,It's awfully bright.,,
+496,0x79FB,redirect,0x8A1D,29,It's a blinding kinda light.,,
+497,0x7A10,redirect,0x8A3A,68,"Speaking of dizziness, I am feeling\na little dizzy all of a sudden.",,
+498,0x7A1B,redirect,0x8A7E,28,It must be from that light.,,
+499,0x7A4C,redirect,0x8A9A,106,We store hard spacesuits for\neveryone in there.{80238057}They're designed to open in the\nevent of an emergency.,,
+500,0x7AAF,redirect,0x8B04,75,"There's no need to worry, the\ncompartments will only open in an\nemergency.",,
+501,0x7AE0,redirect,0x8B4F,45,Emergency? You mean when we\nuse the lifepod?,,
+502,0x7B21,redirect,0x8B7C,53,"Don't worry, a lifepod has only\never been used once.",,
+503,0x7B6E,redirect,0x8BB1,79,That's an explanation of the\nemergency lifepod.  Please be\nsure to go over it.,,
+504,0x7BB5,redirect,0x8C00,41,A lifepod? Is that like a survival\nball?,,
+505,0x7BEE,redirect,0x8C29,42,"No, a lifepod has room for thirty\npeople.",,
+506,0x7C11,redirect,0x8C53,133,"In the event we have to use the\nlifepod, remember that you would\n\n be putting on your spacesuit\nfirst.{80238057}Those are stored up above.",,
+507,0x7C7E,redirect,0x8CD8,41,"Where you were showing me\nbefore, right?",,
+508,0x7C97,redirect,0x8D01,21,"Yes, that's correct.",,
+509,0x7CA2,redirect,0x8D16,87,The lifepod is only there in case of\nan emergency.  Try to relax and\nenjoy the flight.,,
+510,0x7CED,redirect,0x8D6D,1,,,
+511,0x7CF6,redirect,0x8D6E,6,1-1-4,,
+512,0x7CFC,redirect,0x8D74,5,Move,,
+513,0x7D01,redirect,0x8D79,4,BCP,,
+514,0x7D08,redirect,0x8D7D,1,,,
+515,0x7D35,redirect,0x8D7E,13,Hojo's House,,
+516,0x7D3C,redirect,0x8D8B,66,"I'd like to check out Hojo's place,\nbut I've no idea where it is.",,
+517,0x7D7B,redirect,0x8DCD,99,I don't think their daughter would\nbe very happy if I just showed up\nthere out of the blue anyway.,,
+518,0x7DC2,redirect,0x8E30,55,I should make my way to BCP and\nlink up with Ed first.,,
+519,0x7E0B,redirect,0x8E67,8,Gate 28,,
+520,0x7E18,redirect,0x8E6F,7,System,,
+521,0x7E21,redirect,0x8E76,5,Look,,
+522,0x7E26,redirect,0x8E7B,66,They look like they're here to\nmeet someone getting off a flight.,,
+523,0x7E4B,redirect,0x8EBD,48,I can't imagine there's anyone\nhere to meet me.,,
+524,0x7E80,redirect,0x8EED,57,There are people gathered over\nthere to meet passengers.,,
+525,0x7EA3,redirect,0x8F26,41,The spaceplane gates are up\nahead there.,,
+526,0x7ECE,redirect,0x8F4F,38,I think it was Gate 28 I came out\nof.,,
+527,0x7EF3,redirect,0x8F75,84,"Jeez, look at all the gates.  Just\ngoes to show how many flights\nthey have running.",,
+528,0x7F32,redirect,0x8FC9,14,Go to Gate 28,,
+529,0x7F45,redirect,0x8FD7,47,There's no point going back to the\nspaceplane.,,
+530,0x7F72,redirect,0x9006,55,I just came from there.  It'd be\npointless going back.,,
+531,0x7F8F,redirect,0x903D,78,It's a board displaying information\nabout spaceplane departures and\narrivals.,,
+532,0x7FCA,redirect,0x908B,45,I can't get over how many flights\nthere are.,,
+533,0x7FF7,redirect,0x90B8,44,The information's being updated\nconstantly.,,
+534,0x8012,redirect,0x90E4,49,The plane I was on is listed under\nthe arrivals.,,
+535,0x8069,redirect,0x9115,62,The arrival area's full of people\nwaiting to meet passengers.,,
+536,0x809A,redirect,0x9153,108,It's the spaceport's arrival area. \nSure are a lot of happy faces.{80238057}There won't be anyone waiting for\nme.,,
+537,0x80DD,redirect,0x91BF,72,"As much as I'd like to think\notherwise, there's nobody here to\nmeet me.",,
+538,0x811C,redirect,0x9207,45,"I can't make out everyone from\nhere, though.",,
+539,0x813D,redirect,0x9234,33,I still don't see anyone I know.,,
+540,0x8150,redirect,0x9255,79,It's the spaceport's arrival area. \nThese sorts of places never really\nchange.,,
+541,0x8187,redirect,0x92A4,134,There's another arrival area over\nthere too.{80238057}It's designed so the people waiting\ncan look down on the passengers\nas they come out.,,
+542,0x81BE,redirect,0x932A,61,"Space travel's a heckuva lot easier\nnow, compared to before.",,
+543,0x81F1,redirect,0x9367,86,In our day we had to undergo a\n150-point medical exam in order\nto get off the ground.,,
+544,0x8256,redirect,0x93BD,127,"There's a ton of Japanese people\nhere, not surprisingly.{80238057}First they have the overseas travel\nboom, now a space travel boom?",,
+545,0x8295,redirect,0x943C,103,Any serious tourist hotspot\nanywhere these days is always full\n\n of people peddling stuff in\nJapanese.,,
+546,0x82C8,redirect,0x94A3,67,Soon Japanese might become an\nofficial language here at this rate.,,
+547,0x8307,redirect,0x94E6,103,"With the world's economy\nrevolving around the yen like it\n\n does today, that could just be\ninevitable.",,
+548,0x835A,redirect,0x954D,45,They look like they're waiting for a\nflight.,,
+549,0x838F,redirect,0x957A,77,There's passengers everywhere. \nSpace is within reach of the\ncommon man now.,,
+550,0x83C6,redirect,0x95C7,47,It looks like they've only got a\ncarry-on bag.,,
+551,0x83F9,redirect,0x95F6,95,It's a spaceplane pilot.{80238057}Active Amphibians can adapt to a\n1G environment almost right away.,,
+552,0x846C,redirect,0x9655,97,He's a civilian pilot.{80238057}The days when space was\nreserved for astronauts died while\nI was away.,,
+553,0x84CB,redirect,0x96B6,44,That escalator goes up to the\nsecond floor.,,
+554,0x84E6,redirect,0x96E2,30,It's a low-gravity escalator.,,
+555,0x8507,redirect,0x9700,31,It leads to that arrival area.,,
+556,0x852A,redirect,0x971F,166,"The spaceport is near the center\nof the colony, so they've covered\nthe floor with adhesive carpet to\n counteract the low gravity.{80238057}People call it ""theater carpet"".",,
+557,0x8597,redirect,0x97C5,48,That's why I can walk fine in\nregular sneakers.,,
+558,0x85C0,redirect,0x97F5,99,"The soles of your shoes stick to\nthe carpet as you go along, so you\nend up walking a little funny.",,
+559,0x85F5,redirect,0x9858,62,"That person looks like an\nemployee, judging from the\nuniform.",,
+560,0x861C,redirect,0x9896,43,It's a spaceport employee.  He\nlooks busy.,,
+561,0x8641,redirect,0x98C1,92,This is one of the spaceport's\ninformation areas.  There's a\nwoman sitting behind the desk.,,
+562,0x8676,redirect,0x991D,40,A young woman's sitting at\nInformation.,,
+563,0x869F,redirect,0x9945,47,It looks like she's talking to that\npassenger.,,
+564,0x86C4,redirect,0x9974,6,Watch,,
+565,0x86D3,redirect,0x997A,60,Now's not the time to be standing\naround watching the news.,,
+566,0x86F8,redirect,0x99B6,37,I haven't got time to waste on this.,,
+567,0x870F,redirect,0x99DB,38,I can watch the news some other\ntime.,,
+568,0x8730,redirect,0x9A01,45,Maybe I'll watch a little of the\nnews first.,,
+569,0x874F,redirect,0x9A2E,37,They might have some new stories\non.,,
+570,0x8776,redirect,0x9A53,28,Guess I'll watch some more.,,
+571,0x8799,redirect,0x9A6F,12,Don't watch,,
+572,0x87AA,redirect,0x9A7B,22,"Yeah, I'd better not.",,
+573,0x87B7,redirect,0x9A91,68,This isn't the time to be watching\nTV.  I've gotta get over to BCP.,,
+574,0x87FC,redirect,0x9AD5,61,They probably aren't running any\ninteresting stories anyway.,,
+575,0x8831,redirect,0x9B12,53,It's a jumbo TV screen.  It's\nshowing news from BBC.,,
+576,0x8866,redirect,0x9B47,70,Sadly I didn't come here for a\nvacation.  I should hurry over to\nBCP.,,
+577,0x88B3,redirect,0x9B8D,89,I'll never get anything done\nstanding around here.  I should\nget over to BCP and see Ed.,,
+578,0x890A,redirect,0x9BE6,166,These plants have been selectively\nbred to photosynthesize artificial\nlight as well as natural light.{80238057}They're perfect for replenishing\nthe colony's oxygen supply.,,
+579,0x8953,redirect,0x9C8C,45,It's always nice seeing other life\nout here.,,

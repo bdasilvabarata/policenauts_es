@@ -1,0 +1,749 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x29D4,redirect,0x29E4,16,Shooting Range{0D},,2 isla(s) 91 inline
+1,0x29DF,redirect,0x29FA,8,System{0D},,1 isla(s) 91 inline
+2,0x29E8,redirect,0x2A05,6,Look{0D},,
+3,0x29ED,redirect,0x2A0B,30,What's on these bookshelves?{0D},,
+4,0x29FC,redirect,0x2A29,43,Them? Old books on anatomy and\npathology.{0D},,1 isla(s) 91 inline
+5,0x2A2F,redirect,0x2A57,35,I brought them with me from\nHome.{0D},,2 isla(s) 91 inline
+6,0x2A5C,redirect,0x2A80,21,You still use them?{0D},,
+7,0x2A6B,redirect,0x2A95,50,Of course not.  I get all my\ninformation online.{0D},,1 isla(s) 91 inline
+8,0x2AA8,redirect,0x2ACA,47,Nobody uses antique media like\nthose anymore.{0D},,2 isla(s) 91 inline
+9,0x2AEF,redirect,0x2AFF,30,So they're like... mementos?{0D},,
+10,0x2AFA,redirect,0x2B1D,60,I suppose.  I could never bring\nmyself to throw them away.{0D},,1 isla(s) 91 inline
+11,0x2B43,redirect,0x2B5C,38,"I bet you know the feeling,\ndon'cha?{0D}",,1 isla(s) 91 inline
+12,0x2B60,redirect,0x2B85,46,They're medical texts from the\n20th century.{0D},,2 isla(s) 91 inline
+13,0x2B97,redirect,0x2BB9,26,What's on these shelves?{0D},,1 isla(s) 91 inline
+14,0x2BA8,redirect,0x2BD6,25,Drugs I use in my work.{0D},,1 isla(s) 91 inline
+15,0x2BC3,redirect,0x2BF2,51,"I hardly use them anymore, to tell\nyou the truth.{0D}",,2 isla(s) 91 inline
+16,0x2BE0,redirect,0x2C2B,52,I don't know how you could ever\nreach them anyway.{0D},,1 isla(s) 91 inline
+17,0x2C05,redirect,0x2C62,45,They're shelves full of all kinds of\ndrugs.{0D},,
+18,0x2C26,redirect,0x2C8F,15,Where's this?{0D},,
+19,0x2C49,redirect,0x2C9E,131,"It's Russia.  The old Soviet Union, I\nshould say.  That's where I'm\nfrom.{80238057}Been about 50 years since the last\ntime I was there.{0D}",,2 isla(s) 91 inline
+20,0x2CBA,redirect,0x2D27,41,"It's Russia, Dr. Jurgens' home\ncountry.{0D}",,1 isla(s) 91 inline
+21,0x2D03,redirect,0x2D53,66,Reminiscing about Home is a\nprivilege reserved for\nTerrestrials.{0D},,1 isla(s) 91 inline
+22,0x2D42,redirect,0x2D98,89,I wonder what it's like now.  I\nhave to go back at least once\nbefore I kick the bucket.{0D},,2 isla(s) 91 inline
+23,0x2D79,redirect,0x2DF7,95,It's a lot different from when you\nwere a kid.  They've had a\ncomplete economic recovery too.{0D},,
+24,0x2DBC,redirect,0x2E56,31,This chair looks prehistoric.{0D},,1 isla(s) 91 inline
+25,0x2DD1,redirect,0x2E78,209,"I don't like the chairs APs use.{80238057}I know they're ergonomically\ndesigned and supposedly won't\ngive you sore legs or a sore back\n no matter how long you sit on\nthem, but they just don't... ahem,\nsit with me.{0D}",,3 isla(s) 91 inline
+26,0x2E62,redirect,0x2F52,70,I prefer this kind of chair.  Too\nbad they don't sell these anymore.{0D},,1 isla(s) 91 inline
+27,0x2EA1,redirect,0x2F9B,63,The field of ergonomics still lacks\nadequate mental research.{0D},,1 isla(s) 91 inline
+28,0x2EEA,redirect,0x2FDD,132,Those pieces of paper have\nchemical formulas of transfer\nenzymes on them.{80238057}I discovered them myself {D0}{06} not\nthat long ago either.{0D},,4 isla(s) 91 inline
+29,0x2F35,redirect,0x306D,27,You're still using paper?{0D},,
+30,0x2F60,redirect,0x3088,99,Writing out ring structures is\ncomplicated stuff.  It takes longer\ntrying to do them on computer.{0D},,4 isla(s) 91 inline
+31,0x2FB7,redirect,0x30F7,39,I don't like to waste any of my\ntime.{0D},,1 isla(s) 91 inline
+32,0x2FE2,redirect,0x3121,53,It's a piece of paper with chemical\nformulas on it.{0D},,2 isla(s) 91 inline
+33,0x3005,redirect,0x315C,75,"That, my friends, is a clipping of a\nthesis.  To be specific, THE thesis.{0D}",,1 isla(s) 91 inline
+34,0x3028,redirect,0x31AA,49,It was in this famous academic\njournal on Home.{0D},,1 isla(s) 91 inline
+35,0x3069,redirect,0x31DE,50,I decided to major in pathology\nafter I read it.{0D},,1 isla(s) 91 inline
+36,0x30A6,redirect,0x3213,37,That paper changed my life\nforever.{0D},,
+37,0x30C9,redirect,0x3238,32,Is this... what I think it is?{0D},,1 isla(s) 91 inline
+38,0x30D8,redirect,0x325E,12,What's up?{0D},,
+39,0x30E9,redirect,0x326A,17,"No, never mind.{0D}",,1 isla(s) 91 inline
+40,0x3102,redirect,0x327E,19,That's sunscreen.{0D},,2 isla(s) 91 inline
+41,0x312D,redirect,0x3297,12,Sunscreen?{0D},,
+42,0x3152,redirect,0x32A3,98,"Yeah, for ultraviolet rays.{80238057}Well, something like that won't\nkeep out the cosmic rays, though.{0D}",,2 isla(s) 91 inline
+43,0x319F,redirect,0x330B,64,It's for research purposes.  It's\nnot like I use it on myself.{0D},,1 isla(s) 91 inline
+44,0x31D4,redirect,0x334E,39,I've seen this logo somewhere\nbefore.{0D},,
+45,0x3205,redirect,0x3375,59,That wouldn't surprise me.  I got\nit sent here from Home.{0D},,2 isla(s) 91 inline
+46,0x3248,redirect,0x33B6,30,I just can't remember where.{0D},,1 isla(s) 91 inline
+47,0x325B,redirect,0x33D7,96,I can't remember for the life of me\nwhere I've seen this logo.{80238057}This is gonna drive me nuts.{0D},,2 isla(s) 91 inline
+48,0x3274,redirect,0x343D,44,This is some amazing equipment\nyou've got.{0D},,
+49,0x3283,redirect,0x3469,20,Amazing? Think so?{0D},,1 isla(s) 91 inline
+50,0x3290,redirect,0x3480,69,"Well, amazing in the sense that\nthey're all ancient analog devices.{0D}",,1 isla(s) 91 inline
+51,0x32BB,redirect,0x34C8,63,I've had these a long time.  I still\nuse them in my research.{0D},,1 isla(s) 91 inline
+52,0x32EA,redirect,0x350A,133,"I bought most of them myself.{80238057}If you don't know your equipment\ninside out, you'll end up missing\nsomething important eventually.{0D}",,2 isla(s) 91 inline
+53,0x333D,redirect,0x3595,86,"Those kids in AP think they're a\nbunch of junk, but digital\nequipment isn't perfect.{0D}",,2 isla(s) 91 inline
+54,0x338A,redirect,0x35F1,52,You really do have a lot of analog\nmachinery here.{0D},,
+55,0x33A9,redirect,0x3625,64,"Definitely, compared to the setup\nat Tokugawa Pharmaceuticals.{0D}",,2 isla(s) 91 inline
+56,0x33D2,redirect,0x366B,49,"To be honest, I use my AID for\nmost of my work.{0D}",,
+57,0x3411,redirect,0x369C,34,So they're more of a collection?{0D},,1 isla(s) 91 inline
+58,0x3434,redirect,0x36C1,57,You could say that.  I have a lot of\nmemories of these.{0D},,1 isla(s) 91 inline
+59,0x3477,redirect,0x36FD,40,"It's Victor's forensic robot, the\nAID.{0D}",,2 isla(s) 91 inline
+60,0x34B4,redirect,0x372B,53,You'll use this to analyze those\nthings I gave you?{0D},,1 isla(s) 91 inline
+61,0x34D9,redirect,0x3763,39,You got it.  He does all my\nanalyses.{0D},,1 isla(s) 91 inline
+62,0x350C,redirect,0x378D,82,"Since we can't count on AP's help,\nI guess this whatchamacallit's our\nonly hope.{0D}",,4 isla(s) 91 inline
+63,0x355B,redirect,0x37EB,75,"It's like his assistant, his wife, his\nson....  It must serve many roles.{0D}",,1 isla(s) 91 inline
+64,0x359A,redirect,0x3839,73,What you see on the monitor is a\nvisual representation of the AID's\nAI.{0D},,3 isla(s) 91 inline
+65,0x35ED,redirect,0x388B,47,"I call him ""Gorby"".  He responds\nto my voice.{0D}",,1 isla(s) 91 inline
+66,0x362C,redirect,0x38BD,54,"I call him ""Gorby"".  You know\nthat already, don'cha?{0D}",,2 isla(s) 91 inline
+67,0x3667,redirect,0x38F9,45,Gorby's mood is translated onto\nthe screen.{0D},,1 isla(s) 91 inline
+68,0x36AC,redirect,0x3929,25,Who's he based on? You?{0D},,1 isla(s) 91 inline
+69,0x36D7,redirect,0x3945,48,Nope.  The last president of the\nSoviet Union.{0D},,
+70,0x3708,redirect,0x3975,15,"Oh, I get it.{0D}",,1 isla(s) 91 inline
+71,0x3719,redirect,0x3987,61,"Goes with that photo on the wall. \nRemind you of home, huh?{0D}",,1 isla(s) 91 inline
+72,0x374E,redirect,0x39C7,39,It's almost like he's alive in there.{0D},,
+73,0x3765,redirect,0x39EE,30,So Gorby's your only family?{0D},,
+74,0x378E,redirect,0x3A0C,67,Gorby's the only one around here\nwho can put up with Dr. Jurgens.{0D},,1 isla(s) 91 inline
+75,0x37C3,redirect,0x3A52,6,Talk{0D},,
+76,0x37C8,redirect,0x3A58,13,"Hey, Gorby!{0D}",,1 isla(s) 91 inline
+77,0x37DD,redirect,0x3A68,140,"I wouldn't bother.  He's an AI to a\npoint.{80238057}He can tell you what's in the dirt\non your shoes, but he can't talk. \nJust blips and bleeps.{0D}",,2 isla(s) 91 inline
+78,0x382E,redirect,0x3AFA,29,"How you doing there, Gorby?{0D}",,
+79,0x3847,redirect,0x3B17,20,"How's life, Gorby?{0D}",,
+80,0x3860,redirect,0x3B2B,27,"Hey, he's in a good mood.{0D}",,1 isla(s) 91 inline
+81,0x387D,redirect,0x3B49,33,"I think he likes you, Jonathan.{0D}",,2 isla(s) 91 inline
+82,0x38A2,redirect,0x3B70,48,"He's processing something right\nnow, actually.{0D}",,
+83,0x38C7,redirect,0x3BA0,63,Sometimes I'm glad he can't talk. \nProbably wouldn't shut up.{0D},,2 isla(s) 91 inline
+84,0x38F2,redirect,0x3BE5,55,"Those are his visual sensors.  His\neyes, so to speak.{0D}",,
+85,0x391D,redirect,0x3C1C,34,They're different from his hand.{0D},,1 isla(s) 91 inline
+86,0x3936,redirect,0x3C41,85,"I say ""eyes"", but they're just for\nmoving around.  He doesn't use\nthem in analyses.{0D}",,2 isla(s) 91 inline
+87,0x397B,redirect,0x3C9C,62,Those are his eyes.  He might\nrecognize you if you're lucky.{0D},,1 isla(s) 91 inline
+88,0x39BC,redirect,0x3CDD,103,That's his keyboard.  I use it for\nanalyses.  There are limits to his\nvoice recognition capabilities.{0D},,6 isla(s) 91 inline
+89,0x3A27,redirect,0x3D56,50,The keyboard comes out when\nyou open this cover.{0D},,4 isla(s) 91 inline
+90,0x3A5A,redirect,0x3D94,38,That's where his keyboard is\nstored.{0D},,
+91,0x3A7B,redirect,0x3DBA,129,That's his arm.  The hand contains\nsensors made out of materials like\npressure-sensitive rubber and\n conductive silicon rubber.{0D},,2 isla(s) 91 inline
+92,0x3AE2,redirect,0x3E41,84,It allows him to determine the\nshape and composition of the\nobject he's analyzing.{0D},,1 isla(s) 91 inline
+93,0x3B35,redirect,0x3E98,44,That's his arm.  Don't expect a\nhandshake.{0D},,2 isla(s) 91 inline
+94,0x3B5A,redirect,0x3ECA,22,This is an analyzer?{0D},,
+95,0x3B6B,redirect,0x3EE0,54,"What do you think? Pretty nice\nfor an analyzer, huh?{0D}",,1 isla(s) 91 inline
+96,0x3BD6,redirect,0x3F19,14,What's this?{0D},,
+97,0x3BDF,redirect,0x3F27,26,This is my AID analyzer.{0D},,1 isla(s) 91 inline
+98,0x3C30,redirect,0x3F44,29,This is my little AID here.{0D},,
+99,0x3C6D,redirect,0x3F61,30,"Quite the machine, isn't he?{0D}",,1 isla(s) 91 inline
+100,0x3C98,redirect,0x3F82,55,"Yeah, if I was in OLA all that\nwould've taken a week.{0D}",,
+101,0x3CC9,redirect,0x3FB9,36,"Don't kid yourself, he's no robot.{0D}",,2 isla(s) 91 inline
+102,0x3D04,redirect,0x3FE3,6,Talk{0D},,
+103,0x3D0F,redirect,0x3FE9,9,Victor?{0D},,
+104,0x3D1A,redirect,0x3FF2,9,Doctor?{0D},,
+105,0x3D21,redirect,0x3FFB,13,What is it?{0D},,
+106,0x3D2E,redirect,0x4008,16,I'm listening.{0D},,1 isla(s) 91 inline
+107,0x3D47,redirect,0x401B,51,"You got questions, I'll try and give\nyou answers.{0D}",,1 isla(s) 91 inline
+108,0x3D62,redirect,0x4051,17,Hit me with it.{0D},,
+109,0x3D77,redirect,0x4062,11,Ask about{0D},,
+110,0x3D7C,redirect,0x406D,5,Him{0D},,
+111,0x3D89,redirect,0x4072,33,So when did you move to\nBeyond?{0D},,1 isla(s) 91 inline
+112,0x3DDA,redirect,0x4096,68,"Are you a Terrestrial? You'd\nhave to be at your age, wouldn't\nyou?{0D}",,1 isla(s) 91 inline
+113,0x3E05,redirect,0x40DD,62,I was born in Moscow.  Back\nwhen socialists ran the country.{0D},,1 isla(s) 91 inline
+114,0x3E6A,redirect,0x411E,52,That picture was taken around the\ntime I was born.{0D},,1 isla(s) 91 inline
+115,0x3E9B,redirect,0x4155,63,That picture back there was taken\naround the time I was born.{0D},,2 isla(s) 91 inline
+116,0x3EC2,redirect,0x419A,124,"After the collapse of the Soviet\nUnion, I went to America to study\nforensic medicine and later\n became a medical examiner.{0D}",,5 isla(s) 91 inline
+117,0x3F01,redirect,0x4225,65,"I've done autopsies on over 30,000\nbodies throughout my career.{0D}",,1 isla(s) 91 inline
+118,0x3F36,redirect,0x4269,78,In my forties I became interested\nin studying bodies in space and\ncame here.{0D},,1 isla(s) 91 inline
+119,0x3F77,redirect,0x42BA,98,You should see the bodies you\nget in zero gravity.{80238057}The decomposition stages are\nfreaky stuff.{0D},,2 isla(s) 91 inline
+120,0x3FC4,redirect,0x4322,42,Why'd you become a forensic\npathologist?{0D},,2 isla(s) 91 inline
+121,0x3FD7,redirect,0x4352,100,Doctors deal with the living.{80238057}There's always the possibility\nthey'll screw up and kill the guy.{0D},,2 isla(s) 91 inline
+122,0x400E,redirect,0x43BC,58,"You can't kill someone if they're\nalready dead, can you?{0D}",,1 isla(s) 91 inline
+123,0x403B,redirect,0x43F9,78,"Forensic medicine is less stressful\nthan regular medicine, wouldn't\nyou say?{0D}",,2 isla(s) 91 inline
+124,0x4078,redirect,0x444D,138,I've done this my whole life.  I\ndon't really have any other\ninterests.{80238057}I probably seem like some\nnarrow-minded old fool to you\nguys.{0D},,1 isla(s) 91 inline
+125,0x40C1,redirect,0x44DA,103,"No, you're not, Victor.  You're\nperfectly normal.  You're just\nbeing yourself.{80238057}I know how that is.{0D}",,1 isla(s) 91 inline
+126,0x4104,redirect,0x4544,61,Thanks.  Maybe you and I have\nmore in common than we think.{0D},,1 isla(s) 91 inline
+127,0x4133,redirect,0x4584,69,"By the way, uhh... we hear you're\nsomewhat of a degenerate, Victor.{0D}",,1 isla(s) 91 inline
+128,0x415C,redirect,0x45CC,35,Now who said something like\nthat?{0D},,
+129,0x417D,redirect,0x45EF,37,"You like to touch butts, don't\nyou?{0D}",,1 isla(s) 91 inline
+130,0x41A2,redirect,0x4617,22,"Oh, that? Yeah.  So?{0D}",,
+131,0x41C1,redirect,0x462D,35,It's the secret to staying young.{0D},,1 isla(s) 91 inline
+132,0x41DE,redirect,0x4653,51,And I'm a doctor.  I know what I'm\ntalking about.{0D},,1 isla(s) 91 inline
+133,0x41FF,redirect,0x4689,57,The secret to staying young? I\ngotta remember that one.{0D},,1 isla(s) 91 inline
+134,0x421E,redirect,0x46C5,80,You don't mind looking at dead\nbodies everyday? You don't have\ntrouble eating?{0D},,1 isla(s) 91 inline
+135,0x4259,redirect,0x4718,174,"We have a famous joke in our\nprofession.{80238057}""If we didn't perform the\nautopsy, we'd end up eating the\nbody.""{80238057}Do you know how many autopsy\nfindings are named after foods?{0D}",,4 isla(s) 91 inline
+136,0x42AC,redirect,0x47D2,30,"You have any family, Victor?{0D}",,1 isla(s) 91 inline
+137,0x42BF,redirect,0x47F3,18,Just Gorby here.{0D},,
+138,0x42DC,redirect,0x4805,81,My work is everything to me.  I\nwant to continue doing it as long\nas I'm alive.{0D},,
+139,0x4323,redirect,0x4856,48,"What are you gonna do when you\nretire, Victor?{0D}",,
+140,0x4346,redirect,0x4886,37,I love what I do.  This is my life.{0D},,1 isla(s) 91 inline
+141,0x436F,redirect,0x48AE,79,You think I'm going to retire?\nThis job and my research are\neverything to me.{0D},,
+142,0x43A2,redirect,0x48FD,83,Even that's slowly disappearing. \nIt's terrible.  If only I was a little\nyounger.{0D},,2 isla(s) 91 inline
+143,0x43F3,redirect,0x4956,111,I wish I could see some action\nagain sometime.{80238057}Who knows how much longer this\nold nuisance will be around.{0D},,2 isla(s) 91 inline
+144,0x4438,redirect,0x49CB,9,His job{0D},,
+145,0x4443,redirect,0x49D4,104,"My area of expertise is medical\nexaminations, but with my AID I\n\n can perform most other analyses\ntoo.{0D}",,1 isla(s) 91 inline
+146,0x44B2,redirect,0x4A3F,93,"AP has its own Science Unit, so\nwe're on a shoestring budget\nhere.  It's just me and Gorby.{0D}",,3 isla(s) 91 inline
+147,0x44F9,redirect,0x4AA5,83,"The further computer analyses\nprogress, the less use there is for\npeople like me.{0D}",,4 isla(s) 91 inline
+148,0x4554,redirect,0x4B04,76,"Frankly, AP gets most of the real\nwork.  I hardly ever get to do\nanything.{0D}",,3 isla(s) 91 inline
+149,0x45AF,redirect,0x4B59,110,I'm still just as good as any of\nthem!{80238057}All they ever do is throw things in\ntheir fancy shmancy analyzers.{0D},,4 isla(s) 91 inline
+150,0x4604,redirect,0x4BD3,71,You sound just like Meryl and\nDave.  None of you guys are fans\nof AP.{0D},,1 isla(s) 91 inline
+151,0x4645,redirect,0x4C1D,121,There's no substitute for\nexperience when it comes to this\nstuff.{80238057}I bet you I could outperform their\nsupercomputers.{0D},,1 isla(s) 91 inline
+152,0x467C,redirect,0x4C99,122,I won't let some damned quantum\nflux parametrons outsmart me.{80238057}So what if they've got ultra\nhigh-speed logic elements?{0D},,2 isla(s) 91 inline
+153,0x46BD,redirect,0x4D19,164,"They might be good at crunching\nnumbers, but they can't think\noutside their box.{80238057}How could they react to new types\nof cases? That's the thing {D0}{06}\nthey couldn't.{0D}",,2 isla(s) 91 inline
+154,0x4710,redirect,0x4DC3,62,The most important thing in\nforensics is a good imagination.{0D},,
+155,0x4735,redirect,0x4E01,64,"I'll analyze those things you gave\nme personally, don't worry.{0D}",,1 isla(s) 91 inline
+156,0x477A,redirect,0x4E44,5,AID{0D},,
+157,0x4785,redirect,0x4E49,45,Can you tell me more about that\nAID thingy?{0D},,
+158,0x47AE,redirect,0x4E76,48,What's that AID thingy you were\ntalking about?{0D},,1 isla(s) 91 inline
+159,0x47D3,redirect,0x4EA9,59,"""AID"" is short for\n""Auto-analysis Identification\nDevice"".{0D}",,
+160,0x489E,redirect,0x4EE7,143,"It's an AI gadget for doing\nanalyses.{80238057}It's got a number of sensors, like a\nspectrograph, a gas\n\n chromatograph and a geotechnical\nsounder.{0D}",,1 isla(s) 91 inline
+161,0x4923,redirect,0x4F79,23,You make it yourself?{0D},,1 isla(s) 91 inline
+162,0x493A,redirect,0x4F93,59,Ha! Are you kidding? I wouldn't\neven know where to start.{0D},,
+163,0x496F,redirect,0x4FCE,65,AID and its analysis programs\nwere created by somebody on\nHome.{0D},,1 isla(s) 91 inline
+164,0x49C6,redirect,0x5012,111,"He's a big help around here.  He's\na wiz when it comes to analyses. \n\n Doesn't make for much company,\nthough.{0D}",,2 isla(s) 91 inline
+165,0x4A1D,redirect,0x5087,25,This is AID next to me.{0D},,
+166,0x4A54,redirect,0x50A0,22,Hojo's disappearance{0D},,1 isla(s) 91 inline
+167,0x4A67,redirect,0x50B9,52,Are those things connected to this\nmissing person?{0D},,2 isla(s) 91 inline
+168,0x4A90,redirect,0x50F3,23,They belonged to him.{0D},,
+169,0x4AA9,redirect,0x510A,33,You have any leads or anything?{0D},,
+170,0x4AC2,redirect,0x512B,39,I have a few things belonging to\nhim.{0D},,
+171,0x4AD5,redirect,0x5152,29,Let me take a look at them.{0D},,
+172,0x4AE2,redirect,0x516F,46,Show me those things you were\ntalking about.{0D},,1 isla(s) 91 inline
+173,0x4B09,redirect,0x51A0,22,The analysis results{0D},,
+174,0x4B12,redirect,0x51B6,24,How'd the analysis go?{0D},,1 isla(s) 91 inline
+175,0x4B29,redirect,0x51D1,145,"Well, somebody's impatient.  I\ndon't have the results yet.  Come\nback later.{80238057}Why don't you go take a wander\naround the station or something?{0D}",,1 isla(s) 91 inline
+176,0x4B68,redirect,0x5265,58,I don't have them yet.  It shouldn't\nbe too much longer.{0D},,1 isla(s) 91 inline
+177,0x4B8F,redirect,0x52A2,54,He's not finished.  Try coming\nback in a little bit.{0D},,1 isla(s) 91 inline
+178,0x4BB8,redirect,0x52DB,6,Narc{0D},,
+179,0x4BC5,redirect,0x52E1,75,What can you tell us about Narc?\nI saw a little bit about it on the\nnews.{0D},,1 isla(s) 91 inline
+180,0x4BEE,redirect,0x532F,155,It's a drug that first became\npopular with astronauts for\n\n relieving the pressures of the\njob.{80238057}It's since spread across Beyond\nand the rest of space.{0D},,5 isla(s) 91 inline
+181,0x4C89,redirect,0x53D9,75,It's a semi-synthetic narcotic\ncreated through supercomputer\ndrug design.{0D},,1 isla(s) 91 inline
+182,0x4CC2,redirect,0x5427,45,Black poppy opium still serves as\nits base.{0D},,
+183,0x4CF5,redirect,0x5454,56,Even a couple of milligrams can be\nenough to kill you.{0D},,1 isla(s) 91 inline
+184,0x4D1C,redirect,0x548F,129,It's difficult to detect in drug tests\nbecause it's taken in such small\namounts.{80238057}That's why it's so hard to\nprosecute users.{0D},,1 isla(s) 91 inline
+185,0x4D83,redirect,0x5513,142,"They just need to look harder,\nthat's all.{80238057}We've had ways of detecting trace\namounts of drugs for a long time. \nRIA testing, for example.{0D}",,2 isla(s) 91 inline
+186,0x4E0C,redirect,0x55A7,192,"Well, that's true, yeah.  Some\nscreeners have just stopped\ntrying.{80238057}Anyway, that's one of the reasons\nNarc's become so popular {D0}{06}\npeople know the chances of being\n caught are next to none.{0D}",,3 isla(s) 91 inline
+187,0x4E8D,redirect,0x5670,63,Narc is made by first extracting\nopium from black poppy pods.{0D},,
+188,0x4EE4,redirect,0x56AF,132,"After that you combine it with a\nsynthetic drug made from\npethidine and other compounds,\n and then to that you add a\nhallucinogen.{0D}",,2 isla(s) 91 inline
+189,0x4F43,redirect,0x5739,115,"You end up with the effects of a\nnatural drug, a synthetic drug and\n\n a hallucinogen {D0}{06} one horrific\ncombination.{0D}",,4 isla(s) 91 inline
+190,0x4F82,redirect,0x57B8,89,"Some people call it ""the drug of\nthe 21st century"" because of the\nway it was developed.{0D}",,2 isla(s) 91 inline
+191,0x4FD7,redirect,0x5817,80,It's been nearly 250 years since\nSerturner first isolated morphine\nfrom opium.{0D},,1 isla(s) 91 inline
+192,0x5024,redirect,0x586A,73,You can blame all the advances of\nmodern pharmacology for that\nmonster.{0D},,1 isla(s) 91 inline
+193,0x5069,redirect,0x58B6,56,The number of Narc users\ncontinues to grow every year.{0D},,
+194,0x50A2,redirect,0x58EE,60,It's just as big a problem on\nBeyond as anywhere in space.{0D},,1 isla(s) 91 inline
+195,0x50DF,redirect,0x592D,15,Black poppies{0D},,1 isla(s) 91 inline
+196,0x50EA,redirect,0x593F,193,"The black poppy is a delicate plant,\nsimilar in ways to some orchids.{80238057}Cultivating them would require a\nlot of money, effort and the right\ntechnology.{80238057}It's more than a one-man\noperation.{0D}",,4 isla(s) 91 inline
+197,0x5181,redirect,0x5A0C,47,It isn't easy growing black poppies\nin space.{0D},,1 isla(s) 91 inline
+198,0x51BA,redirect,0x5A3E,138,That's why the Mafia gave up on it\nseveral years ago.{80238057}You couldn't grow them in such a\nharsh environment without\nadequate facilities.{0D},,4 isla(s) 91 inline
+199,0x5261,redirect,0x5AD4,33,So the Mafia isn't behind this?{0D},,1 isla(s) 91 inline
+200,0x5288,redirect,0x5AF8,74,"We can't say for sure, but it's not\none of their main areas of interest.{0D}",,2 isla(s) 91 inline
+201,0x52B9,redirect,0x5B48,107,You'd need the most up-to-date\nequipment to do it.{80238057}It wouldn't be like bootlegging\nduring Prohibition.{0D},,3 isla(s) 91 inline
+202,0x5302,redirect,0x5BBC,62,The risks would be too great.  It\nwouldn't be good business.{0D},,1 isla(s) 91 inline
+203,0x5349,redirect,0x5BFD,49,"But nevertheless, someone's\nresponsible for it.{0D}",,
+204,0x5378,redirect,0x5C2E,8,Right.{0D},,1 isla(s) 91 inline
+205,0x5383,redirect,0x5C39,26,Then who the hell is it?{0D},,
+206,0x5392,redirect,0x5C53,26,Tokugawa Pharmaceuticals{0D},,1 isla(s) 91 inline
+207,0x539F,redirect,0x5C70,152,"Tokugawa Pharmaceuticals is the\nTokugawa Group's biggest\nmoney-maker after Tokugawa\n Heavy Industries, Tokugawa\nElectronics and Tokugawa\nConstruction.{0D}",,4 isla(s) 91 inline
+208,0x53EA,redirect,0x5D14,209,They were one of the first\ncompanies to expand into space\ndevelopment.{80238057}They developed the first Made in\nSpace versions of drugs like\ninterferon and urokinase.  They\n were practically an overnight\nsuccess.{0D},,5 isla(s) 91 inline
+209,0x5477,redirect,0x5DF4,126,"The development of their\nimmunosuppressive wonderdrug\ncypusloidine, used in organ\n transplants, revolutionized\npharmacology.{0D}",,3 isla(s) 91 inline
+210,0x54DC,redirect,0x5E7B,176,"Though, of course, the\ndevelopment of masked\ntransplantation, where you mask\n the organ's antigens with antibody\nfragments and avoid post-op\nrejection, ended the need for it.{0D}",,3 isla(s) 91 inline
+211,0x5543,redirect,0x5F34,80,They lead the pharmaceutical\nindustry not only on Beyond but\nthroughout space.{0D},,1 isla(s) 91 inline
+212,0x5598,redirect,0x5F87,126,"Their work with the cancer drug\npaclitaxel, their SAS medicine,\ncalcium foods....{80238057}Their list of successes goes on\nand on.{0D}",,1 isla(s) 91 inline
+213,0x5617,redirect,0x6008,112,"They've had a lot of good results,\nbut you don't hear very nice\nstories about what goes on behind\n the scenes.{0D}",,1 isla(s) 91 inline
+214,0x5646,redirect,0x607B,29,What did you think of them?{0D},,1 isla(s) 91 inline
+215,0x566B,redirect,0x609B,71,"Well, we talked to somebody\nthere, but there was something\nabout him.{0D}",,1 isla(s) 91 inline
+216,0x56B4,redirect,0x60E5,93,"I said before it isn't easy growing\nblack poppies in space, but I bet\nyou they could do it.{0D}",,1 isla(s) 91 inline
+217,0x571B,redirect,0x6145,59,It would only be a question of\ndeveloping the technology.{0D},,1 isla(s) 91 inline
+218,0x573E,redirect,0x6183,37,Why don't you try going over\nthere?{0D},,1 isla(s) 91 inline
+219,0x5763,redirect,0x61AB,20,Hojo's whereabouts{0D},,1 isla(s) 91 inline
+220,0x576E,redirect,0x61C2,14,The capsules{0D},,
+221,0x577B,redirect,0x61D0,66,The capsules have been switched.\nThe ones we got back are fakes.{0D},,3 isla(s) 91 inline
+222,0x57CA,redirect,0x621B,105,Blia! I should never have handed\nthem over to them!{80238057}Think you can make a fool out of\nVictor Jurgens!{0D},,2 isla(s) 91 inline
+223,0x5811,redirect,0x628A,31,"Sorry, guys, it was my fault.{0D}",,
+224,0x582E,redirect,0x62A9,140,"If those capsules work like you\nsay they do... boy, the shit's really\ngoing to splatter now!{80238057}Narc will spread to every corner\nof space.{0D}",,2 isla(s) 91 inline
+225,0x58B1,redirect,0x633B,84,There's a number of designer\nfoods and functional foods that\ncome in capsule form.{0D},,2 isla(s) 91 inline
+226,0x58F8,redirect,0x6398,45,They might not even be limited to\ncapsules.{0D},,1 isla(s) 91 inline
+227,0x5931,redirect,0x63C8,48,We absolutely have to get those\ncapsules back.{0D},,2 isla(s) 91 inline
+228,0x5960,redirect,0x63FE,62,He said he was going to have AP's\nScience Unit analyze them.{0D},,1 isla(s) 91 inline
+229,0x599F,redirect,0x643F,67,I didn't think much of it at the\ntime.  Looks like he tricked me.{0D},,
+230,0x59E0,redirect,0x6482,31,I gave them all four of them.{0D},,
+231,0x59FF,redirect,0x64A1,46,"Along with the black poppy leaf,\nI'm afraid.{0D}",,1 isla(s) 91 inline
+232,0x5A32,redirect,0x64D2,25,They took the leaf too?{0D},,
+233,0x5A5D,redirect,0x64EB,20,Son of a bitch....{0D},,
+234,0x5A70,redirect,0x64FF,46,A binary narcotic....  Who\nwould've thought.{0D},,1 isla(s) 91 inline
+235,0x5AB3,redirect,0x6530,41,I figured we were years away\nfrom that.{0D},,1 isla(s) 91 inline
+236,0x5ACC,redirect,0x655C,9,Redwood{0D},,
+237,0x5AD9,redirect,0x6565,46,"You gave them to Redwood\npersonally, Victor?{0D}",,
+238,0x5B04,redirect,0x6593,40,"Yeah, it was him {D0}{06} no doubt\nabout it.{0D}",,1 isla(s) 91 inline
+239,0x5B3B,redirect,0x65BE,43,It must have been him that\nswitched them.{0D},,1 isla(s) 91 inline
+240,0x5B64,redirect,0x65EC,30,Bastard! Trying to blame me.{0D},,1 isla(s) 91 inline
+241,0x5B89,redirect,0x660D,31,"I'm sorry, guys, I really am.{0D}",,
+242,0x5BA0,redirect,0x662C,43,You're sure it was Redwood who\ntook them?{0D},,2 isla(s) 91 inline
+243,0x5BDB,redirect,0x665D,67,"Yeah, he was the one.  I don't like\nthat guy.  Nor do I trust AP.{0D}",,3 isla(s) 91 inline
+244,0x5C32,redirect,0x66A9,59,Why don't you go talk to him?\nHe's the one who took them.{0D},,
+245,0x5C65,redirect,0x66E4,40,You know an AP by the name of\nRedwood?{0D},,2 isla(s) 91 inline
+246,0x5C8C,redirect,0x6712,79,"Yeah, just the name, though.  The\nguy who's good at flying the\nrobots, right?{0D}",,
+247,0x5CC9,redirect,0x6761,7,Yeah.{0D},,
+248,0x5CD2,redirect,0x6768,58,I don't like Frozeners.  I never\nbother talking to them.{0D},,1 isla(s) 91 inline
+249,0x5CF9,redirect,0x67A5,55,Frozeners all look the same to me.\nFeel the same too.{0D},,1 isla(s) 91 inline
+250,0x5D38,redirect,0x67DF,64,Gates said they use sperm from\npast astronauts to father them.{0D},,3 isla(s) 91 inline
+251,0x5D7D,redirect,0x6828,75,"Yeah, I've heard about that.  I\nsuppose some of them might be\nyours, huh?{0D}",,1 isla(s) 91 inline
+252,0x5DCC,redirect,0x6876,36,I don't even wanna think about it.{0D},,
+253,0x5DDD,redirect,0x689A,12,Me either.{0D},,
+254,0x5DE6,redirect,0x68A6,58,"Well, none of the ones I've seen\nresemble either of you.{0D}",,2 isla(s) 91 inline
+255,0x5E19,redirect,0x68E6,66,If you're gonna have kids you\nshould at least do it the fun way.{0D},,1 isla(s) 91 inline
+256,0x5E4E,redirect,0x692B,10,Tokugawa{0D},,
+257,0x5E5F,redirect,0x6935,56,You suspect Tokugawa really are\nbehind these capsules?{0D},,1 isla(s) 91 inline
+258,0x5E8C,redirect,0x6970,88,Only an organization with some\nhefty resources could come up\nwith something like that.{0D},,1 isla(s) 91 inline
+259,0x5ED9,redirect,0x69CB,81,"With everything Tokugawa has at\ntheir disposal, I figure it's totally\nfeasible.{0D}",,2 isla(s) 91 inline
+260,0x5F26,redirect,0x6A22,114,I can't imagine any other company\nor the Mafia being able to pull it\noff and make it look like\n Tokugawa's work.{0D},,1 isla(s) 91 inline
+261,0x5F79,redirect,0x6A97,86,"It is definitely their drug code on\nthem, but that's not the complete\nproof we need.{0D}",,1 isla(s) 91 inline
+262,0x5FD6,redirect,0x6AF0,161,It's one of their employees and it's\ntheir capsules.{80238057}There's no way they've got\nabsolutely nothing to do with it. \n\n I'm sure they're involved in some\nform.{0D},,3 isla(s) 91 inline
+263,0x604F,redirect,0x6B9A,69,How far do you think Tokugawa's\ninvolved with Hojo's\ndisappearance?{0D},,1 isla(s) 91 inline
+264,0x6082,redirect,0x6BE2,156,"An employee of Tokugawa\nPharmaceuticals has gone missing,\nand the capsules he was holding\n onto for whatever reason were\nmade by Tokugawa\nPharmaceuticals.{0D}",,2 isla(s) 91 inline
+265,0x60DF,redirect,0x6C84,84,"Right now that's all we know, but\nTokugawa Pharmaceuticals is\ndefinitely involved.{0D}",,1 isla(s) 91 inline
+266,0x6122,redirect,0x6CDB,67,And if that's the case... the Group\nitself could be involved too.{0D},,
+267,0x6161,redirect,0x6D1E,78,I don't doubt Tokugawa is involved\nwith all this.  The question is how\ndeep.{0D},,3 isla(s) 91 inline
+268,0x61A4,redirect,0x6D75,7,Yeah?{0D},,
+269,0x61B1,redirect,0x6D7C,98,"If you can figure out how deep\ntheir involvement goes, you'll\nknow how big this thing really is.{0D}",,1 isla(s) 91 inline
+270,0x61DC,redirect,0x6DE1,6,Dave{0D},,
+271,0x61E7,redirect,0x6DE7,43,Did you know Dave's body has\ndisappeared?{0D},,1 isla(s) 91 inline
+272,0x6206,redirect,0x6E15,73,Really? I hadn't heard anything\nabout it.  I can't believe Dave's\ndead.{0D},,1 isla(s) 91 inline
+273,0x624D,redirect,0x6E61,53,"I didn't know him that well, but he\nwas a nice kid.{0D}",,
+274,0x6284,redirect,0x6E96,50,He always liked listening to me talk\nabout Home.{0D},,2 isla(s) 91 inline
+275,0x62BF,redirect,0x6ECE,68,He was good company for\nsomeone like me.  What a shame. \nSo young.{0D},,1 isla(s) 91 inline
+276,0x630E,redirect,0x6F15,29,"Dave liked you too, Victor.{0D}",,
+277,0x6341,redirect,0x6F32,11,The biker{0D},,
+278,0x634E,redirect,0x6F3D,97,"Victor, I shot that guy over a\ndozen times and he still didn't go\ndown.  Is that even possible?{0D}",,2 isla(s) 91 inline
+279,0x6395,redirect,0x6FA4,21,Shot him with what?{0D},,1 isla(s) 91 inline
+280,0x63B0,redirect,0x6FBC,12,My recoil.{0D},,
+281,0x63D5,redirect,0x6FC8,24,You use hollow points?{0D},,1 isla(s) 91 inline
+282,0x63E8,redirect,0x6FE3,85,"No, armor-piercing.  They go\nstraight through the body. \nThey're not like dum-dums.{0D}",,4 isla(s) 91 inline
+283,0x6439,redirect,0x7047,119,"Well, if he's a heavy Narc user it's\npossible.{80238057}And if he's using artificial blood, it\nwouldn't surprise me at all.{0D}",,2 isla(s) 91 inline
+284,0x64BC,redirect,0x70C4,187,"You don't have to worry about\nblood loss if you're using artificial\nblood.{80238057}But if you hit him with a number\nof rounds in one or more of his\n\n vitals, he'd be in some serious\ntrouble.{0D}",,7 isla(s) 91 inline
+285,0x6517,redirect,0x7194,31,Suppose Redwood is the biker.{0D},,2 isla(s) 91 inline
+286,0x6542,redirect,0x71B9,190,"If he is, he'd be in pretty bad\nshape right now.{80238057}He may be a Frozener, but he's\nstill flesh and blood.  Might even\nbe dead.{80238057}You tried checking all the\nhospitals to see if he's there?{0D}",,4 isla(s) 91 inline
+287,0x65A7,redirect,0x7283,54,We should know pretty soon if it's\nactually Redwood.{0D},,2 isla(s) 91 inline
+288,0x65DC,redirect,0x72BF,37,Good thing we picked up that\nblood.{0D},,3 isla(s) 91 inline
+289,0x65FF,redirect,0x72ED,38,We have a sample of the guy's\nblood.{0D},,1 isla(s) 91 inline
+290,0x662E,redirect,0x7316,16,Let me see it.{0D},,1 isla(s) 91 inline
+291,0x663F,redirect,0x7329,64,Show me the blood sample you've\ngot.  I'll analyze it for you.{0D},,1 isla(s) 91 inline
+292,0x666E,redirect,0x736C,18,Ishida's autopsy{0D},,1 isla(s) 91 inline
+293,0x667D,redirect,0x7381,48,Tell us about the results of\nIshida's autopsy.{0D},,1 isla(s) 91 inline
+294,0x66A4,redirect,0x73B7,88,"Actually, BCCH's pathology\ndepartment will be performing\nIshida's medical examination.{0D}",,2 isla(s) 91 inline
+295,0x66E5,redirect,0x7415,12,BCCH? Why?{0D},,
+296,0x6700,redirect,0x7421,149,"That's the way it's been the past\nfew years.{80238057}I don't agree with it myself, but it\nhas to do with removing and\npreserving organs for transplants.{0D}",,3 isla(s) 91 inline
+297,0x6787,redirect,0x74BF,203,"The results of all autopsies BCCH\ndoes are sent to AP.  They don't\nlet me touch them.{80238057}It is unusual for them to do the\nautopsy in cases like this, but they\ninsisted.{80238057}Might be to do with Tokugawa.{0D}",,5 isla(s) 91 inline
+298,0x67CE,redirect,0x7599,38,So we've got absolutely nothing\nnow.{0D},,1 isla(s) 91 inline
+299,0x67E5,redirect,0x75C2,47,"Well, I did see some VREs of the\ncrime scene.{0D}",,
+300,0x6814,redirect,0x75F1,17,The body at AMM{0D},,1 isla(s) 91 inline
+301,0x681F,redirect,0x7605,87,I shot and killed this guy at AMM\nwho attacked us.  Did you hear\nanything about that?{0D},,1 isla(s) 91 inline
+302,0x6868,redirect,0x765F,63,"No, first I've heard.  Maybe he\nwas sent to BCCH like Ishida?{0D}",,1 isla(s) 91 inline
+303,0x68C7,redirect,0x76A1,21,His thoughts on AMM{0D},,2 isla(s) 91 inline
+304,0x68D6,redirect,0x76BC,51,Did you learn anything from the\ncrime scene VREs?{0D},,
+305,0x6903,redirect,0x76EF,136,"It's hard to say from just the\nVREs, but with the amount of\nblood I saw, I'd say Ishida's head\n was cut off after he was already\ndead.{0D}",,4 isla(s) 91 inline
+306,0x695C,redirect,0x7783,85,I don't think the massquitoes are\nwhat killed him.  He wasn't killed\nat AMM either.{0D},,2 isla(s) 91 inline
+307,0x69A5,redirect,0x77DE,99,"It's kind of strange, but it looked\nlike Ishida put up almost no fight\nat all when he was killed.{0D}",,2 isla(s) 91 inline
+308,0x69E4,redirect,0x7847,22,Why do you say that?{0D},,
+309,0x69EF,redirect,0x785D,216,"His body was too clean.{80238057}Normally when someone is killed\nlike that, you see clues on the\nbody that point to homicide {D0}{06}\n defense wounds like\nsubcutaneous bleeding.{80238057}It didn't look like he died instantly\neither.{0D}",,2 isla(s) 91 inline
+310,0x6A6A,redirect,0x793B,152,"I won't be able to tell you the\nexact cause of death unless I can\nperform an autopsy on him myself,\n before any discoloration of the\nbody takes place.{0D}",,3 isla(s) 91 inline
+311,0x6AA5,redirect,0x79DC,100,There's almost no doubt in my\nmind Ishida was killed somewhere\n\n else and taken to AMM\nafterwards.{0D},,1 isla(s) 91 inline
+312,0x6AFC,redirect,0x7A43,17,Body management{0D},,2 isla(s) 91 inline
+313,0x6B07,redirect,0x7A5A,56,Who's in charge of a person's\nbody here when they die?{0D},,2 isla(s) 91 inline
+314,0x6B2E,redirect,0x7A98,139,Beyond doesn't have a medical\nexaminer system like most big\ncities on Home.{80238057}They've got it that way for the\nsake of organ transplants.{0D},,3 isla(s) 91 inline
+315,0x6BB7,redirect,0x7B2C,111,Bodies are usually sent to\ntransplant hospitals like BCCH for\nany postmortem examinations that\n are required.{0D},,2 isla(s) 91 inline
+316,0x6C10,redirect,0x7BA1,78,If you wait too long to extract the\norgans after the examination they\nspoil.{0D},,1 isla(s) 91 inline
+317,0x6C47,redirect,0x7BF2,205,As a forensic pathologist I'm not\nexactly happy with that... but we\n\n are dealing with a severe organ\nshortage.{80238057}Those autopsy preservation laws\nyou find in places on Home simply\ncan't be applied here.{0D},,4 isla(s) 91 inline
+318,0x6CCA,redirect,0x7CCB,161,"The use of artificial organs is still a\nlong way down the road.{80238057}Until then, medicolegal death\ninvestigations will always take a\nbackseat to securing organs.{0D}",,5 isla(s) 91 inline
+319,0x6D2D,redirect,0x7D7B,19,Artificial organs{0D},,2 isla(s) 91 inline
+320,0x6D36,redirect,0x7D94,79,How much longer are we from\nusing artificial organs among the\ngeneral public?{0D},,3 isla(s) 91 inline
+321,0x6D57,redirect,0x7DEC,87,"They're using AP to look into the\npossibility, but the results aren't\nvery promising.{0D}",,2 isla(s) 91 inline
+322,0x6D96,redirect,0x7E49,116,It seems it'll be too expensive and\nrequire a number of special\nfacilities.{80238057}It won't be happening anytime\nsoon.{0D},,4 isla(s) 91 inline
+323,0x6DFB,redirect,0x7EC9,31,That's what Chris was saying.{0D},,
+324,0x6E1A,redirect,0x7EE8,198,"Sure, modern medical science has\ngiven us good antithrombic drugs\nand whatnot, but there are still a\n mountain of problems to overcome\nbefore we can talk about applying\nthose to artificial organs.{0D}",,4 isla(s) 91 inline
+325,0x6EA1,redirect,0x7FBA,47,What about the results of the\nblood analysis?{0D},,1 isla(s) 91 inline
+326,0x6EC2,redirect,0x7FEC,62,"I haven't finished it yet.  It's not\nthat easy, even for me.{0D}",,
+327,0x6F0B,redirect,0x802A,86,That kind of analysis won't be as\nsimple as before.{80238057}It might be too much for AID.{0D},,3 isla(s) 91 inline
+328,0x6F6A,redirect,0x8089,37,It's probably going to take awhile.{0D},,
+329,0x6F85,redirect,0x80AE,108,Why don't you just continue your\ninvestigation for now? Maybe I'll\n\n have it done the next time I see\nyou.{0D},,2 isla(s) 91 inline
+330,0x6FAE,redirect,0x8120,74,How about we go check out\nTokugawa Pharmaceuticals like\nMeryl suggested?{0D},,2 isla(s) 91 inline
+331,0x6FD7,redirect,0x8170,17,It's too risky.{0D},,
+332,0x6FE6,redirect,0x8181,6,Show{0D},,
+333,0x6FF1,redirect,0x818A,12,Hojo photo{0D},,
+334,0x7000,redirect,0x8196,41,Who are these guys? They look\nJapanese.{0D},,
+335,0x701B,redirect,0x81BF,90,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.{0D},,2 isla(s) 91 inline
+336,0x7044,redirect,0x821F,56,Anyone who wears glasses here\nhas to be a Terrestrial.{0D},,2 isla(s) 91 inline
+337,0x7083,redirect,0x825D,48,"This is Kenzo Hojo, the man who's\ndisappeared.{0D}",,2 isla(s) 91 inline
+338,0x70B2,redirect,0x8293,37,This is the guy you're looking\nfor?{0D},,1 isla(s) 91 inline
+339,0x70D1,redirect,0x82BB,31,I wonder if he's still alive.{0D},,
+340,0x70EA,redirect,0x82DA,22,I hope he's alright.{0D},,1 isla(s) 91 inline
+341,0x7107,redirect,0x82F3,26,What a shame.  So young.{0D},,
+342,0x7128,redirect,0x830D,35,It might be too late for him too.{0D},,2 isla(s) 91 inline
+343,0x714F,redirect,0x8336,30,Let's hope he's still alive.{0D},,
+344,0x717A,redirect,0x8354,16,Lorraine photo{0D},,
+345,0x7187,redirect,0x8364,17,Oh? Who's this?{0D},,1 isla(s) 91 inline
+346,0x719A,redirect,0x8378,40,What are you talking about?\nThat's me.{0D},,
+347,0x71A9,redirect,0x83A0,40,Not you.  I meant the fox next to\nyou.{0D},,1 isla(s) 91 inline
+348,0x71CE,redirect,0x83CB,56,You could call it an old memory.  A\nreally old memory.{0D},,1 isla(s) 91 inline
+349,0x71F9,redirect,0x8406,44,That's what I'd expect from a\nTerrestrial.{0D},,1 isla(s) 91 inline
+350,0x7238,redirect,0x8435,52,Beyonds don't look back on the\npast the way we do.{0D},,1 isla(s) 91 inline
+351,0x726B,redirect,0x846C,53,Maybe you understand what that\npicture means to me.{0D},,
+352,0x7298,redirect,0x84A1,7,I do.{0D},,
+353,0x72A3,redirect,0x84A8,34,"Cherish your memories, Jonathan.{0D}",,
+354,0x72C8,redirect,0x84CA,10,Capsules{0D},,1 isla(s) 91 inline
+355,0x72D1,redirect,0x84D7,6,Leaf{0D},,
+356,0x72DC,redirect,0x84DD,19,Policenauts photo{0D},,
+357,0x72EF,redirect,0x84F0,44,I still remember it.  That famous\npicture.{0D},,1 isla(s) 91 inline
+358,0x7324,redirect,0x851F,56,Look at you.  We all thought you\nguys were incredible.{0D},,
+359,0x734B,redirect,0x8557,35,You've never told me that before.{0D},,1 isla(s) 91 inline
+360,0x736E,redirect,0x857D,29,"Really? Well, now you know.{0D}",,
+361,0x7387,redirect,0x859A,52,"It was a nice time, wasn't it? Full\nof... romance.{0D}",,1 isla(s) 91 inline
+362,0x73B4,redirect,0x85D1,62,"Memories are important, guys.  I\ncan't tell you that enough.{0D}",,1 isla(s) 91 inline
+363,0x73D7,redirect,0x8612,58,You have to believe in yourselves.\nYou were Policenauts.{0D},,1 isla(s) 91 inline
+364,0x7410,redirect,0x864F,36,"That means a lot from you, Victor.{0D}",,
+365,0x7431,redirect,0x8673,9,ID card{0D},,
+366,0x743C,redirect,0x867C,67,"You might be able to get past\nTokugawa's security with that,\nhuh?{0D}",,1 isla(s) 91 inline
+367,0x7483,redirect,0x86C2,94,He was probably supposed to\nkeep that to himself.{80238057}Don't go around showing it to\neveryone.{0D},,1 isla(s) 91 inline
+368,0x74C4,redirect,0x8723,82,Japanese people tend to kick up a\nlot of fuss when it comes to things\nlike that.{0D},,1 isla(s) 91 inline
+369,0x74EF,redirect,0x8778,124,"That's an optical ID, isn't it?{80238057}They must have a lot of money to\nthrow around if they're not\nsatisfied with an IC card.{0D}",,3 isla(s) 91 inline
+370,0x7538,redirect,0x87FD,101,"I don't like that kind of card.{80238057}That's someone from the age of\nmagnetic stripes talking, though.{0D}",,3 isla(s) 91 inline
+371,0x7583,redirect,0x886B,4,CD{0D},,
+372,0x7590,redirect,0x886F,59,This disc contains the secret\nbehind Tokugawa's capsules.{0D},,
+373,0x75BD,redirect,0x88AA,60,"Regardless of what's on it, we still\nneed actual evidence.{0D}",,1 isla(s) 91 inline
+374,0x75F2,redirect,0x88E9,57,We'll need more than that before\nwe can prove anything.{0D},,2 isla(s) 91 inline
+375,0x7623,redirect,0x8928,127,"Is that a CD? I haven't seen one\nof those in goodness knows how\nlong.{80238057}It's one of those old acrylic resin\ndiscs, isn't it?{0D}",,2 isla(s) 91 inline
+376,0x766C,redirect,0x89AD,62,Our generation grew up with\ndiscs for portable data storage.{0D},,1 isla(s) 91 inline
+377,0x76A5,redirect,0x89EE,14,Blood sample{0D},,
+378,0x76B2,redirect,0x89FC,2,{0D},,
+379,0x7707,redirect,0x89FE,2,{0D},,cadena 92: 2 fragmentos unidos
+380,0x7722,redirect,0x8A10,2,{0D},,
+381,0x7749,redirect,0x8A12,2,{0D},,
+382,0x7764,redirect,0x8A14,2,{0D},,
+383,0x7799,redirect,0x8A16,2,{0D},,
+384,0x77C4,redirect,0x8A18,2,{0D},,
+385,0x77F9,redirect,0x8A1A,2,{0D},,
+386,0x7842,redirect,0x8A1C,2,{0D},,
+387,0x78C5,redirect,0x8A1E,2,{0D},,
+388,0x7926,redirect,0x8A20,2,{0D},,
+389,0x7979,redirect,0x8A22,2,{0D},,
+390,0x7984,redirect,0x8A24,2,{0D},,
+391,0x79AB,redirect,0x8A26,2,{0D},,
+392,0x7A28,redirect,0x8A28,2,{0D},,
+393,0x7A47,redirect,0x8A2A,6,Back{0D},,
+394,0x7A50,redirect,0x8A30,59,"I'm sorry, but I can't help but\nthink hardheaded old man.{0D}",,1 isla(s) 91 inline
+395,0x7A69,redirect,0x8A6E,25,Hardheaded? Absolutely.{0D},,
+396,0x7A92,redirect,0x8A87,56,I suppose we can add\nstraightforward to that list too.{0D},,
+397,0x7AB3,redirect,0x8ABF,91,"I don't look my age, do I? I don't\nwant to be grouped in with all the\nold folks just yet.{0D}",,2 isla(s) 91 inline
+398,0x7AEA,redirect,0x8B23,42,"You seem like a real nice guy,\nJonathan.{0D}",,
+399,0x7B0D,redirect,0x8B4D,62,He looks like one stubborn SOB. \nHe's a Terrestrial alright.{0D},,4 isla(s) 91 inline
+400,0x7B5C,redirect,0x8B97,78,A face is like... the rings of a tree.\nWhat else can you tell from this\nmug?{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+401,0x7B97,redirect,0x8BF9,59,What? Don't see many people my\nage? Plenty of us on Home.{0D},,1 isla(s) 91 inline
+402,0x7BE6,redirect,0x8C37,29,Got something on your mind?{0D},,
+403,0x7C03,redirect,0x8C54,67,"You combed your hair today,\nVictor? It's sticking up at the\nback.{0D}",,1 isla(s) 91 inline
+404,0x7C24,redirect,0x8C9A,160,"Sticking up? That's all you can\nsay?{80238057}What about, ""That's some pretty\nthick hair you got there,\nVictor!""{80238057}Every hair on my head is mine. \nNot bad, eh, Ed?{0D}",,2 isla(s) 91 inline
+405,0x7C81,redirect,0x8D40,31,"Yeah, heh, not bad. {D0}{06}cough{D0}{06}{0D}",,
+406,0x7C9C,redirect,0x8D5F,60,Doesn't look like it's going\nanywhere anytime soon either.{0D},,1 isla(s) 91 inline
+407,0x7CD5,redirect,0x8D9E,59,Victor's hair is always like that. \nHe says it's bristly.{0D},,1 isla(s) 91 inline
+408,0x7D00,redirect,0x8DDC,42,Victor's hair never seems any\ndifferent.{0D},,1 isla(s) 91 inline
+409,0x7D27,redirect,0x8E09,70,"Victor does have very nice hair for\nsomeone his age, doesn't he, Ed?{0D}",,1 isla(s) 91 inline
+410,0x7D46,redirect,0x8E52,31,What's that supposed to mean?{0D},,2 isla(s) 91 inline
+411,0x7D61,redirect,0x8E77,57,"Well, some people do lose their\nhair as they get older.{0D}",,2 isla(s) 91 inline
+412,0x7D7C,redirect,0x8EB9,27,Hey! What did I tell you!{0D},,1 isla(s) 91 inline
+413,0x7D89,redirect,0x8ED7,17,I don't get it.{0D},,
+414,0x7D9E,redirect,0x8EE8,54,"Just... the comedy stylings of\nJonathan Ingram, heh.{0D}",,1 isla(s) 91 inline
+415,0x7DC5,redirect,0x8F21,21,Christ almighty....{0D},,1 isla(s) 91 inline
+416,0x7DD0,redirect,0x8F39,41,A moustache suits a scientist like\nyou.{0D},,1 isla(s) 91 inline
+417,0x7E05,redirect,0x8F65,77,I've had this since my twenties. \nDrives the ladies crazy when I\nwiggle it.{0D},,1 isla(s) 91 inline
+418,0x7E42,redirect,0x8FB5,38,It's Victor's beloved soup strainer.{0D},,
+419,0x7E5B,redirect,0x8FDB,52,I never liked the idea of\nmaintaining facial hair.{0D},,1 isla(s) 91 inline
+420,0x7E86,redirect,0x9012,63,"What, you trying to say something\nabout guys with moustaches?{0D}",,1 isla(s) 91 inline
+421,0x7EA9,redirect,0x9054,47,I haven't seen many people with\nglasses here.{0D},,
+422,0x7EC4,redirect,0x9083,33,"Just you and Hojo, practically.{0D}",,1 isla(s) 91 inline
+423,0x7EE9,redirect,0x90AA,34,What made you start on that\nnow?{0D},,
+424,0x7F04,redirect,0x90CC,145,"I like glasses.  They have a\ncertain... je ne sais quoi.{80238057}When I was younger, I would\nchange mine whenever something\nbig happened in my life.{0D}",,3 isla(s) 91 inline
+425,0x7F5B,redirect,0x9166,70,What would you do if they broke\nwhile you were in a weightless\narea?{0D},,1 isla(s) 91 inline
+426,0x7F7C,redirect,0x91AF,107,"This pair is made from an\nunbreakable polymer.{80238057}Besides, I hardly ever go to\nzero-gravity areas anyway.{0D}",,2 isla(s) 91 inline
+427,0x7FC1,redirect,0x9220,108,"I'll tell you something.{80238057}Everyone I know who wears\nglasses out here... they're all\ngood, honest people.{0D}",,3 isla(s) 91 inline
+428,0x8034,redirect,0x9295,53,Something to do with how we\nstick to an old custom.{0D},,2 isla(s) 91 inline
+429,0x805F,redirect,0x92D0,32,There's blood on your clothes.{0D},,2 isla(s) 91 inline
+430,0x8074,redirect,0x92F6,64,I should think so.  I've had this\ngown since my first autopsy.{0D},,2 isla(s) 91 inline
+431,0x80B9,redirect,0x933C,121,It's seen the blood of every single\nbody I've looked at over the\nyears.{80238057}Guess you could say part of their\nsouls too.{0D},,2 isla(s) 91 inline
+432,0x8100,redirect,0x93BB,81,It's Victor's medical gown.  It looks\nmore like a piece of military\ncamouflage.{0D},,1 isla(s) 91 inline
+433,0x812F,redirect,0x940F,49,Heckuva difference from Chris\nand her lab coat.{0D},,1 isla(s) 91 inline
+434,0x8154,redirect,0x9443,50,Any fresh blood that gets on it\nblends right in.{0D},,3 isla(s) 91 inline
+435,0x8187,redirect,0x947E,76,I don't think you've washed that\nthing since I met you.  Doesn't it\nsmell?{0D},,2 isla(s) 91 inline
+436,0x81D0,redirect,0x94D0,37,Of course not.  This gown's\nsacred.{0D},,1 isla(s) 91 inline
+437,0x8201,redirect,0x94F8,48,That's no way to treat something\nthat special.{0D},,1 isla(s) 91 inline
+438,0x8228,redirect,0x952B,24,This for Dave too now.{0D},,1 isla(s) 91 inline
+439,0x8253,redirect,0x9546,63,I never examine a body without\nthis.  Wouldn't be good karma.{0D},,3 isla(s) 91 inline
+440,0x827E,redirect,0x958E,36,Is that armband a mark of\nrespect?{0D},,1 isla(s) 91 inline
+441,0x828F,redirect,0x95B8,19,You just noticed?{0D},,
+442,0x82AE,redirect,0x95CB,62,"Yeah, it's a crape.  It's for all the\ndecedents I work with.{0D}",,3 isla(s) 91 inline
+443,0x82ED,redirect,0x9612,37,Victor wears that armband\neveryday.{0D},,1 isla(s) 91 inline
+444,0x830E,redirect,0x963A,18,Is that your ID?{0D},,
+445,0x831B,redirect,0x964C,68,"Yeah.  I don't like my hologram, so\nI've got this sticker over it.{0D}",,1 isla(s) 91 inline
+446,0x8374,redirect,0x9693,62,Causes problems with the readers\nwhenever I have to scan it.{0D},,2 isla(s) 91 inline
+447,0x83A5,redirect,0x96D7,64,It's Victor's ID card.  There's a\nsticker on top of his photo.{0D},,2 isla(s) 91 inline
+448,0x83E4,redirect,0x971D,47,My picture's terrible.  I had to\ncover it up.{0D},,2 isla(s) 91 inline
+449,0x8425,redirect,0x9752,87,You can get one of these for\npennies on the dollar compared to\nthat ID you showed me.{0D},,3 isla(s) 91 inline
+450,0x8456,redirect,0x97B2,148,"I'm actually here looking for a\nmissing person.{80238057}Supposing he's already dead, how\npossible would it be to transport\nhis body outside the colony?{0D}",,3 isla(s) 91 inline
+451,0x84CB,redirect,0x984F,101,"Supposing Hojo's already dead,\nhow possible would it be to\n\n transport his body outside the\ncolony?{0D}",,2 isla(s) 91 inline
+452,0x8514,redirect,0x98BA,115,You could never take a body\noutside Beyond single-handed.{80238057}They've got a pretty tight security\nsystem in place.{0D},,3 isla(s) 91 inline
+453,0x856F,redirect,0x9936,98,It would be easier to transport\nthem out while they're still alive\nand kill them somewhere else.{0D},,1 isla(s) 91 inline
+454,0x85B0,redirect,0x999B,71,They're becoming stricter and\nstricter about space debris every\nyear.{0D},,3 isla(s) 91 inline
+455,0x8601,redirect,0x99EB,104,What about getting rid of a body\ninside the colony?{80238057}Say the person had been dead for\nseveral weeks.{0D},,2 isla(s) 91 inline
+456,0x8644,redirect,0x9A59,160,Hmm....{80238057}Burning it would attract too much\nattention.  Dumping it underwater\nwouldn't work either.{80238057}They'd detect the gases released\nduring decomposition.{0D},,4 isla(s) 91 inline
+457,0x86B7,redirect,0x9B05,65,"Well, it's kind of crude, but\nburying it might be the best way.{0D}",,1 isla(s) 91 inline
+458,0x86F2,redirect,0x9B49,97,The colony has several meters of\nsoil in its surface areas to help\nprotect against cosmic rays.{0D},,1 isla(s) 91 inline
+459,0x8737,redirect,0x9BAD,76,You wouldn't smell it if you buried\nit at least 20 to 30 centimeters\ndown.{0D},,1 isla(s) 91 inline
+460,0x8786,redirect,0x9BFC,85,"In any case, you could never hide\na body or get it out without help\nfrom the Mafia.{0D}",,2 isla(s) 91 inline
+461,0x87CD,redirect,0x9C57,33,The Mafia? What about\nTokugawa?{0D},,1 isla(s) 91 inline
+462,0x87E2,redirect,0x9C7B,125,"It would be extremely risky for\nthem to get involved with\nsomething like that, but it's\n certainly not out of the question.{0D}",,3 isla(s) 91 inline
+463,0x880B,redirect,0x9D01,40,"Seeing you reminds me of Home,\nVictor.{0D}",,
+464,0x884E,redirect,0x9D29,23,Feel like going back?{0D},,1 isla(s) 91 inline
+465,0x8861,redirect,0x9D43,79,I guess you don't realize what a\ngreat place it is until you're away\nfrom it.{0D},,2 isla(s) 91 inline
+466,0x88D6,redirect,0x9D98,69,Right.  There's a lot space can\nteach us about the meaning of life.{0D},,2 isla(s) 91 inline
+467,0x8909,redirect,0x9DE3,2,{0D},,
+468,0x8922,redirect,0x9DE5,2,{0D},,
+469,0x8967,redirect,0x9DE7,2,{0D},,
+470,0x8990,redirect,0x9DE9,2,{0D},,
+471,0x89B1,redirect,0x9DEB,2,{0D},,
+472,0x8A00,inplace,0x8A00,10,telop.pak,,sin codigo 91: revisar
+473,0x8A0A,redirect,0x9DED,2,{0D},,
+474,0x8A5F,redirect,0x9DEF,2,{0D},,
+475,0x8ACE,redirect,0x9DF1,2,{0D},,
+476,0x8B13,redirect,0x9DF3,2,{0D},,
+477,0x8B20,redirect,0x9DF5,2,{0D},,
+478,0x8B63,redirect,0x9DF7,2,{0D},,
+479,0x8B70,redirect,0x9DF9,2,{0D},,
+480,0x8B7F,redirect,0x9DFB,2,{0D},,
+481,0x8B8C,redirect,0x9DFD,2,{0D},,
+482,0x8BAF,redirect,0x9DFF,2,{0D},,
+483,0x8BBC,inplace,0x8BBC,11,lt_x27.pak,,sin codigo 91: revisar
+484,0x8BC7,redirect,0x9E01,2,{0D},,
+485,0x8BFA,redirect,0x9E03,2,{0D},,
+486,0x8C61,redirect,0x9E05,2,{0D},,
+487,0x8CE8,redirect,0x9E07,2,{0D},,
+488,0x8D2B,redirect,0x9E09,2,{0D},,
+489,0x8D7A,redirect,0x9E0B,2,{0D},,
+490,0x8D9F,redirect,0x9E0D,2,{0D},,
+491,0x8DF0,redirect,0x9E0F,2,{0D},,
+492,0x8E2F,redirect,0x9E11,2,{0D},,
+493,0x8E62,redirect,0x9E13,2,{0D},,
+494,0x8E6F,redirect,0x9E15,28,What brings you guys here?{0D},,1 isla(s) 91 inline
+495,0x8E84,redirect,0x9E34,46,You gotten used to things around\nthis place?{0D},,1 isla(s) 91 inline
+496,0x8EA3,redirect,0x9E65,17,"Oh, back again?{0D}",,
+497,0x8EB6,redirect,0x9E76,30,So what do you think of BCP?{0D},,
+498,0x8ED1,redirect,0x9E94,2,{0D},,
+499,0x8EF8,redirect,0x9E96,2,{0D},,
+500,0x8F25,redirect,0x9E98,2,{0D},,
+501,0x8F54,redirect,0x9E9A,2,{0D},,
+502,0x8F79,redirect,0x9E9C,2,{0D},,
+503,0x8FF8,redirect,0x9E9E,2,{0D},,
+504,0x9031,redirect,0x9EA0,2,{0D},,
+505,0x9084,redirect,0x9EA2,2,{0D},,
+506,0x90A7,redirect,0x9EA4,2,{0D},,
+507,0x90E8,redirect,0x9EA6,2,{0D},,
+508,0x9137,redirect,0x9EA8,2,{0D},,
+509,0x9150,redirect,0x9EAD,2,{0D},,
+510,0x91A9,redirect,0x9EAF,2,{0D},,
+511,0x91B6,redirect,0x9EB1,2,{0D},,
+512,0x91F5,redirect,0x9EB3,2,{0D},,
+513,0x9234,redirect,0x9EB5,2,{0D},,
+514,0x9263,redirect,0x9EB7,2,{0D},,
+515,0x9284,redirect,0x9EB9,27,You learned anything new?{0D},,1 isla(s) 91 inline
+516,0x929F,redirect,0x9ED7,25,Anything else happened?{0D},,
+517,0x92B4,redirect,0x9EF0,32,Did you get the capsules back?{0D},,
+518,0x92D3,redirect,0x9F10,34,What happened with the\ncapsules?{0D},,1 isla(s) 91 inline
+519,0x92EE,redirect,0x9F35,45,"Oh, how's the investigation going,\nyou two?{0D}",,
+520,0x9313,redirect,0x9F62,65,What's happening with the\ninvestigation? You find that guy\nyet?{0D},,2 isla(s) 91 inline
+521,0x9338,redirect,0x9FA9,2,{0D},,
+522,0x9377,redirect,0x9FAB,2,{0D},,
+523,0x93AC,redirect,0x9FAD,2,{0D},,
+524,0x93E5,redirect,0x9FAF,2,{0D},,
+525,0x9432,redirect,0x9FB1,2,{0D},,
+526,0x944B,redirect,0x9FB3,2,{0D},,
+527,0x9462,redirect,0x9FB8,23,"Hey, what's going on?{0D}",,
+528,0x9479,redirect,0x9FCF,29,What can I do for you guys?{0D},,
+529,0x9496,redirect,0x9FEC,84,"If you're looking for the analysis\nresults of that blood, I'm still\nworking on it.{0D}",,2 isla(s) 91 inline
+530,0x94BB,redirect,0xA046,85,"That's right {D0}{06} Victor, I've got a\ncouple of things I'd like you to\nanalyze for me.{0D}",,
+531,0x94F2,redirect,0xA09B,46,You mean what you were talking\nabout before?{0D},,1 isla(s) 91 inline
+532,0x951B,redirect,0xA0CC,32,"Oh yeah? Let's see them, then.{0D}",,
+533,0x9538,redirect,0xA0EC,14,Here you go.{0D},,
+534,0x954B,redirect,0xA0FA,66,Why don't you come back later and\nI'll let you know the results?{0D},,1 isla(s) 91 inline
+535,0x9572,redirect,0xA13F,14,"Bye, doctor.{0D}",,
+536,0x9585,redirect,0xA14D,31,"Thanks for your time, Victor.{0D}",,1 isla(s) 91 inline
+537,0x95A0,redirect,0xA16F,16,See you later.{0D},,1 isla(s) 91 inline
+538,0x95B5,redirect,0xA182,30,"We'll be back later, doctor.{0D}",,1 isla(s) 91 inline
+539,0x95D0,redirect,0xA1A3,19,My name's Victor!{0D},,
+540,0x95EB,redirect,0xA1B6,26,Why do I even bother....{0D},,
+541,0x9602,redirect,0xA1D0,2,{0D},,
+542,0x962F,redirect,0xA1D2,2,{0D},,
+543,0x967E,redirect,0xA1D4,22,Capsules and a leaf?{0D},,1 isla(s) 91 inline
+544,0x9695,redirect,0xA1ED,16,Can you do it?{0D},,
+545,0x96A2,redirect,0xA1FD,73,"I could never turn down a request\nfrom one of the Policenauts, could\nI?{0D}",,2 isla(s) 91 inline
+546,0x96DB,redirect,0xA24C,45,"Don't tell anyone about them,\nokay, doctor?{0D}",,1 isla(s) 91 inline
+547,0x96EE,redirect,0xA27C,53,Give me a little time.  It shouldn't\ntake too long.{0D},,2 isla(s) 91 inline
+548,0x9721,redirect,0xA2B7,17,"Thanks, Victor.{0D}",,
+549,0x9732,redirect,0xA2C8,43,No problem.  I'll get started right\naway.{0D},,1 isla(s) 91 inline
+550,0x9753,redirect,0xA2F6,60,"I've got something I'd like you to\nanalyze for me, Victor.{0D}",,2 isla(s) 91 inline
+551,0x9782,redirect,0xA338,16,You mean that?{0D},,
+552,0x97A1,redirect,0xA348,35,"Yeah, but there's more, actually.{0D}",,1 isla(s) 91 inline
+553,0x97D0,redirect,0xA36E,26,Just show me everything.{0D},,
+554,0x97E1,redirect,0xA388,2,{0D},,
+555,0x9832,redirect,0xA38A,2,{0D},,
+556,0x9867,redirect,0xA38C,2,{0D},,
+557,0x98A0,redirect,0xA38E,2,{0D},,
+558,0x98CB,redirect,0xA390,2,{0D},,
+559,0x98F4,redirect,0xA392,2,{0D},,
+560,0x991D,redirect,0xA394,2,{0D},,
+561,0x9946,redirect,0xA396,2,{0D},,
+562,0x99A9,redirect,0xA398,2,{0D},,
+563,0x9A1C,redirect,0xA39E,2,{0D},,
+564,0x9A3B,redirect,0xA3A0,2,{0D},,
+565,0x9A7C,redirect,0xA3A2,2,{0D},,1 isla(s) 91 inline
+566,0x9A8F,redirect,0xA3A7,2,{0D},,
+567,0x9ACC,redirect,0xA3A9,2,{0D},,
+568,0x9AED,redirect,0xA3AB,2,{0D},,
+569,0x9B32,redirect,0xA3AD,2,{0D},,
+570,0x9B5D,redirect,0xA3AF,2,{0D},,
+571,0x9BE4,redirect,0xA3B1,2,{0D},,
+572,0x9C2D,redirect,0xA3B3,2,{0D},,
+573,0x9C42,redirect,0xA3B5,2,{0D},,
+574,0x9C75,redirect,0xA3B7,2,{0D},,
+575,0x9C82,redirect,0xA3B9,2,{0D},,
+576,0x9C97,redirect,0xA3BB,2,{0D},,
+577,0x9CE4,redirect,0xA3BD,2,{0D},,
+578,0x9D31,redirect,0xA3BF,2,{0D},,
+579,0x9D50,redirect,0xA3C1,2,{0D},,
+580,0x9D65,redirect,0xA3C3,2,{0D},,
+581,0x9DB0,redirect,0xA3C5,2,{0D},,1 isla(s) 91 inline
+582,0x9DDF,redirect,0xA3CA,2,{0D},,
+583,0x9E16,redirect,0xA3CC,2,{0D},,
+584,0x9E5B,redirect,0xA3CE,2,{0D},,
+585,0x9EAA,redirect,0xA3D0,2,{0D},,
+586,0x9ECB,redirect,0xA3D2,2,{0D},,
+587,0x9F2A,redirect,0xA3D4,2,{0D},,
+588,0x9F6D,redirect,0xA3D6,2,{0D},,
+589,0x9F86,redirect,0xA3D8,2,{0D},,
+590,0x9FB5,redirect,0xA3DA,2,{0D},,
+591,0x9FFC,redirect,0xA3DC,2,{0D},,
+592,0xA031,redirect,0xA3DE,2,{0D},,
+593,0xA0B2,redirect,0xA3E0,2,{0D},,
+594,0xA11B,redirect,0xA3E2,2,{0D},,
+595,0xA162,redirect,0xA3E4,23,You wanna try it out?{0D},,
+596,0xA179,redirect,0xA3FB,51,We're at the shooting range.  You\nwanna practice?{0D},,2 isla(s) 91 inline
+597,0xA19C,redirect,0xA434,101,"We're at the shooting range.  You\ngonna practice?{80238057}You could probably do with some,\ncouldn't you?{0D}",,3 isla(s) 91 inline
+598,0xA1D9,redirect,0xA4A2,73,We're at the shooting range. \nWhat do you wanna do? You\ngonna practice?{0D},,2 isla(s) 91 inline
+599,0xA206,redirect,0xA4F1,51,We're at the shooting range.  You\nwanna practice?{0D},,1 isla(s) 91 inline
+600,0xA221,redirect,0xA527,2,{0D},,
+601,0xA252,redirect,0xA529,2,{0D},,
+602,0xA28B,redirect,0xA52B,2,{0D},,
+603,0xA2A0,redirect,0xA52D,2,{0D},,
+604,0xA2CB,redirect,0xA52F,2,{0D},,
+605,0xA30A,redirect,0xA531,53,We're at the shooting range. \nWhat do you wanna do?{0D},,1 isla(s) 91 inline
+606,0xA32F,redirect,0xA569,63,"Yeah, maybe I should pop a few. \nMy shooting's been terrible.{0D}",,2 isla(s) 91 inline
+607,0xA36A,redirect,0xA5AE,59,It's pathetic.  How many Game\nOvers is that I've had now?{0D},,2 isla(s) 91 inline
+608,0xA3A3,redirect,0xA5EF,47,You? You were the best shot we\nhad back then.{0D},,
+609,0xA3C6,redirect,0xA61E,96,"Yeah, I know.  I'm hopeless these\ndays, though.  I can't believe how\nmany Game Overs I've had.{0D}",,3 isla(s) 91 inline
+610,0xA401,redirect,0xA687,77,Cheer up.  You'll get your old\nsense back if you just spend some\ntime here.{0D},,2 isla(s) 91 inline
+611,0xA42C,redirect,0xA6DA,31,I'm still a pretty good shot.{0D},,1 isla(s) 91 inline
+612,0xA451,redirect,0xA6FC,31,You're not rusty or anything?{0D},,
+613,0xA46A,redirect,0xA71B,86,I live in OLA.  You can't pick up\nyour mail there without firing off a\ncouple shots.{0D},,2 isla(s) 91 inline
+614,0xA489,redirect,0xA777,47,"You were always good at\nshooting, I remember.{0D}",,2 isla(s) 91 inline
+615,0xA4AE,redirect,0xA7AC,76,"Yeah, maybe I should put in a little\npractice.  I think I'm getting rusty.{0D}",,1 isla(s) 91 inline
+616,0xA4EB,redirect,0xA7FB,39,Really? You were a great shot\nbefore.{0D},,1 isla(s) 91 inline
+617,0xA50A,redirect,0xA825,46,"Well, I had a few Game Overs back\nin Old LA.{0D}",,2 isla(s) 91 inline
+618,0xA547,redirect,0xA859,44,You'll get your old sense back in\nno time.{0D},,1 isla(s) 91 inline
+619,0xA56C,redirect,0xA888,44,You never know when you'll need\nto use it.{0D},,1 isla(s) 91 inline
+620,0xA595,redirect,0xA8B7,69,"I'd like to avoid getting into\nconfrontations if we can,\nobviously.{0D}",,1 isla(s) 91 inline
+621,0xA5C4,redirect,0xA8FF,66,I don't think I'll be pulling the\ntrigger out here anytime soon.{0D},,2 isla(s) 91 inline
+622,0xA5E9,redirect,0xA947,94,I'd hope not.  We don't go around\nshooting up places here.  All this\nis purely for training.{0D},,2 isla(s) 91 inline
+623,0xA62C,redirect,0xA9AE,59,Aren't you gonna practice? Your\nshooting's been terrible.{0D},,cadena 92: 2 fragmentos unidos
+624,0xA65F,redirect,0xA9F3,26,"Yeah, can't argue there.{0D}",,
+625,0xA678,redirect,0xAA0D,68,"If you don't practice, you'll just\nend up getting us killed again.{0D}",,8 isla(s) 91 inline
+626,0xA69B,redirect,0xAA69,61,"You gonna practice? Well, I guess\nyou don't really need to.{0D}",,2 isla(s) 91 inline
+627,0xA6D2,redirect,0xAAAC,57,Course not.  I think I've already\nproven what I can do.{0D},,1 isla(s) 91 inline
+628,0xA6F1,redirect,0xAAEB,73,"I'll admit, I owe you, man.  You got\nus out of a real tight spot there.{0D}",,3 isla(s) 91 inline
+629,0xA726,redirect,0xAB3D,62,Why don't you put in some\npractice? You look a little rusty.{0D},,2 isla(s) 91 inline
+630,0xA769,redirect,0xAB81,64,"Yeah, I know... not like you have\nto point it out or anything.{0D}",,1 isla(s) 91 inline
+631,0xA78A,redirect,0xABC4,71,You wanna keep having to go\nthrough the Continue screen all\nthe time?{0D},,1 isla(s) 91 inline
+632,0xA7A5,redirect,0xAC11,58,"I know, I know... my shooting's\nbeen pretty poor lately.{0D}",,3 isla(s) 91 inline
+633,0xA7DC,redirect,0xAC54,69,I can't believe it.  You were the\nbest shot on the force back then.{0D},,4 isla(s) 91 inline
+634,0xA803,redirect,0xACA5,77,Shooting's just not my thing\nanymore.  All my Game Overs are\nproof of that.{0D},,4 isla(s) 91 inline
+635,0xA830,redirect,0xACFE,62,The only way to get your old\nsense back is through practice.{0D},,1 isla(s) 91 inline
+636,0xA855,redirect,0xAD3F,91,"Yeah, you're right.  I've been\nkilled so many times, you'd think\nI'd have learned by now.{0D}",,3 isla(s) 91 inline
+637,0xA87C,redirect,0xADA3,61,"You've got the right stuff, you\njust don't practice enough.{0D}",,2 isla(s) 91 inline
+638,0xA8AD,redirect,0xADE9,29,I'm fed up with Game Overs.{0D},,1 isla(s) 91 inline
+639,0xA8D2,redirect,0xAE09,77,You're a natural-born shooter. \nYou'll be back to your old self in\nno time.{0D},,2 isla(s) 91 inline
+640,0xA903,redirect,0xAE5C,66,"I'm no special forces sniper, but I\nstill think I'm pretty good.{0D}",,2 isla(s) 91 inline
+641,0xA936,redirect,0xAEA4,66,You were always good at\nshooting... and that was pretty\nmuch it.{0D},,2 isla(s) 91 inline
+642,0xA95F,redirect,0xAEEC,61,You're just jealous.  I haven't had\na single Game Over yet.{0D},,2 isla(s) 91 inline
+643,0xA99A,redirect,0xAF2F,23,Just don't get cocky.{0D},,
+644,0xA9AB,redirect,0xAF46,53,"You and Redwood ain't the best of\nfriends, are you?{0D}",,2 isla(s) 91 inline
+645,0xA9E6,inplace,0xA9E6,2,1,,sin codigo 91: revisar
+646,0xA9E8,inplace,0xA9E8,2,2,,sin codigo 91: revisar
+647,0xA9EA,redirect,0xAF81,22,Got the feel for it?{0D},,
+648,0xAA13,redirect,0xAF97,45,Here are the results from your\nthird round.{0D},,1 isla(s) 91 inline
+649,0xAA2A,redirect,0xAFC7,6,Move{0D},,
+650,0xAA2F,redirect,0xAFD0,7,Lobby{0D},,
+651,0xAA36,redirect,0xAFD7,6,Vice{0D},,
+652,0xAA3D,redirect,0xAFDD,9,AP Room{0D},,
+653,0xAA48,redirect,0xAFE6,11,Forensics{0D},,
+654,0xAA4F,redirect,0xAFF1,8,System{0D},,
+655,0xAA58,redirect,0xAFF9,54,That's enough practice.  Let's get\nback to business.{0D},,1 isla(s) 91 inline
+656,0xAA77,redirect,0xB032,51,That's enough of that.  Let's get\nback to things.{0D},,1 isla(s) 91 inline
+657,0xAAA4,redirect,0xB068,24,That's enough for now.{0D},,
+658,0xAAC3,redirect,0xB080,55,"If you're not gonna practice, let's\nget back to work.{0D}",,1 isla(s) 91 inline
+659,0xAAE8,redirect,0xB0BA,25,Back to the real world.{0D},,1 isla(s) 91 inline
+660,0xAAFF,redirect,0xB0D6,38,I don't think I'll bother this time.{0D},,
+661,0xAB1A,redirect,0xB0FC,38,"Man, my ears are ringing like\ncrazy.{0D}",,1 isla(s) 91 inline
+662,0xAB35,redirect,0xB125,55,"Because you didn't wear the ear\nprotectors, Einstein.{0D}",,1 isla(s) 91 inline
+663,0xAB5E,redirect,0xB15F,30,"Dammit, my ears are ringing.{0D}",,
+664,0xAB7B,redirect,0xB17D,59,Of course they will if you don't\nwear the ear protectors.{0D},,2 isla(s) 91 inline
+665,0xABAA,redirect,0xB1BE,2,{0D},,
+666,0xABF9,redirect,0xB1C0,2,{0D},,
+667,0xAC0E,redirect,0xB1C5,2,{0D},,
+668,0xAC29,redirect,0xB1C7,2,{0D},,
+669,0xAC36,redirect,0xB1C9,2,{0D},,
+670,0xAC4D,redirect,0xB1CB,2,{0D},,
+671,0xAC5C,redirect,0xB1CD,2,{0D},,
+672,0xAC67,redirect,0xB1CF,2,{0D},,
+673,0xAC8E,redirect,0xB1D1,2,{0D},,
+674,0xAC9F,redirect,0xB1D3,2,{0D},,
+675,0xACAC,redirect,0xB1D5,2,{0D},,
+676,0xACC3,redirect,0xB1D7,2,{0D},,
+677,0xACCE,redirect,0xB1D9,2,{0D},,
+678,0xACF7,redirect,0xB1DE,2,{0D},,
+679,0xAD20,redirect,0xB1E0,59,"Yeah, I should've worn them. \nThey really do a great job.{0D}",,1 isla(s) 91 inline
+680,0xAD5B,redirect,0xB21E,6,Look{0D},,
+681,0xAD60,redirect,0xB224,30,This is part of the trainer.{0D},,1 isla(s) 91 inline
+682,0xAD85,redirect,0xB245,37,You can select a program with\nthis.{0D},,1 isla(s) 91 inline
+683,0xADB2,redirect,0xB26D,44,You use this to start one of the\nprograms.{0D},,3 isla(s) 91 inline
+684,0xADDD,redirect,0xB2A2,5,Use{0D},,
+685,0xADE6,redirect,0xB2A7,24,"Easy to use, isn't it?{0D}",,1 isla(s) 91 inline
+686,0xAE01,redirect,0xB2C2,32,"You don't need my help, right?{0D}",,1 isla(s) 91 inline
+687,0xAE1E,redirect,0xB2E5,50,"If I remember right, the last one\nyou did was...{0D}",,2 isla(s) 91 inline
+688,0xAE3B,redirect,0xB31D,40,"Let's see, the last one you did\nwas...{0D}",,
+689,0xAE60,redirect,0xB345,30,Target Mode's Circle Target.{0D},,1 isla(s) 91 inline
+690,0xAE8F,redirect,0xB366,27,Target Mode's Man Target.{0D},,1 isla(s) 91 inline
+691,0xAEBA,redirect,0xB384,39,That target you drew for Target\nMode.{0D},,2 isla(s) 91 inline
+692,0xAEE7,redirect,0xB3B1,33,"Your bullshit one, might I add.{0D}",,1 isla(s) 91 inline
+693,0xAF04,redirect,0xB3D5,14,Target Mode.{0D},,
+694,0xAF1F,redirect,0xB3E3,32,Training Mode's Circle Target.{0D},,1 isla(s) 91 inline
+695,0xAF50,redirect,0xB406,29,Training Mode's Man Target.{0D},,
+696,0xAF7D,redirect,0xB423,37,Training Mode's Mini-Circle\nTarget.{0D},,
+697,0xAFB2,redirect,0xB448,14,Combat Mode.{0D},,1 isla(s) 91 inline
+698,0xAFCD,redirect,0xB459,104,"Just like the table, shoot at any of\nthe walls during practice and your\ngun will reload automatically.{0D}",,1 isla(s) 91 inline
+699,0xB00C,redirect,0xB4C4,95,"So you know, fire at any of the\nwalls during practice and your gun\nwill reload automatically.{0D}",,3 isla(s) 91 inline
+700,0xB049,redirect,0xB52C,93,The walls have special sensors in\nthem that link directly with your\ngun.  Even your recoil.{0D},,3 isla(s) 91 inline
+701,0xB08C,redirect,0xB592,97,"Just like the walls, shoot at the\ntable during practice and your gun\nwill reload automatically.{0D}",,3 isla(s) 91 inline
+702,0xB0D1,redirect,0xB5FC,88,"So you know, fire at the table\nduring practice and your gun will\nreload automatically.{0D}",,2 isla(s) 91 inline
+703,0xB10E,redirect,0xB65A,133,"The tables have got special\nsensors in them.  Even if you\nwere to shoot at one of them\n accidentally, your gun won't\nactually fire.{0D}",,3 isla(s) 91 inline
+704,0xB14F,redirect,0xB6E8,52,The walls here are reinforced\nwith Chobham plates.{0D},,2 isla(s) 91 inline
+705,0xB18A,redirect,0xB722,65,"In addition to the reinforcement,\nthe walls are soundproof too.{0D}",,1 isla(s) 91 inline
+706,0xB1A5,redirect,0xB766,46,That's a table for placing your gun\nor ammo.{0D},,1 isla(s) 91 inline
+707,0xB1C2,redirect,0xB797,25,It's the booth's table.{0D},,1 isla(s) 91 inline
+708,0xB1DB,redirect,0xB7B3,68,Those are ear protectors.  You\nshould wear them when you\npractice.{0D},,1 isla(s) 91 inline
+709,0xB212,redirect,0xB7FA,44,The noise adds up.  You'll hurt\nyour ears.{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+710,0xB22F,redirect,0xB82C,34,More bang for your buck than VR.{0D},,
+711,0xB24E,redirect,0xB84E,31,Those are the ear protectors.{0D},,
+712,0xB26F,redirect,0xB86D,25,They're ear protectors.{0D},,
+713,0xB288,redirect,0xB886,6,Wear{0D},,
+714,0xB28D,redirect,0xB88C,13,On they go.{0D},,
+715,0xB2B6,redirect,0xB899,15,Smart choice.{0D},,
+716,0xB2C9,redirect,0xB8A8,36,Guess I'll use the ear protectors.{0D},,
+717,0xB2E8,redirect,0xB8CC,22,Better put these on.{0D},,
+718,0xB30B,redirect,0xB8E2,136,"The gallery does use some\nholographic imagery here and\nthere, but for the most part it's all\n solid stuff right there in front of\nyou.{0D}",,
+719,0xB352,redirect,0xB96A,30,Nothing like any VR trainer.{0D},,
+720,0xB36D,redirect,0xB988,41,That's the shooting gallery back\nthere.{0D},,
+721,0xB394,redirect,0xB9B1,37,"Pretty well built, don't you think?{0D}",,
+722,0xB3AD,redirect,0xB9D6,44,What's back there? It's kinda\nhard to see.{0D},,
+723,0xB3D0,redirect,0xBA02,38,It's the shooting trainer's gallery.{0D},,
+724,0xB3FB,redirect,0xBA28,157,They've built a fairly elaborate\nscene to give you the sense that\nyou're actually in the field.{80238057}This isn't like those plain old\nbooths they had in LAPD.{0D},,
+725,0xB450,redirect,0xBAC5,95,"I know it's hard to make out with\nthe lights off, but that's the\nshooting gallery back there.{0D}",,
+726,0xB48F,redirect,0xBB24,83,"Be sure not to walk inside, young\nman.  You got rounds flying all\nover the place.{0D}",,
+727,0xB4CA,redirect,0xBB77,49,You probably figured that out\nalready.  I hope.{0D},,
+728,0xB4EF,redirect,0xBBA8,46,Don't forget to take off the ear\nprotectors.{0D},,
+729,0xB51E,redirect,0xBBD6,10,Oh yeah.{0D},,
+730,0xB52F,redirect,0xBBE0,23,Lemme take these off.{0D},,
+731,0xB554,redirect,0xBBF7,14,Back you go.{0D},,
+732,0xB579,redirect,0xBC05,65,These things work great.  My ears\nare fine even after all that.{0D},,
+733,0xB5A8,redirect,0xBC46,44,Of course.  That's what they're\nthere for.{0D},,
+734,0xB5CD,redirect,0xBC72,42,Why I don't I take you to Forensics\nnow?{0D},,
+735,0xB5EA,redirect,0xBC9C,44,Why I don't I take you to the AP\nRoom now?{0D},,
+736,0xB60B,redirect,0xBCC8,47,I'd think the analysis should be\ndone by now.{0D},,
+737,0xB632,redirect,0xBCF7,53,Why don't we try going to\nTokugawa Pharmaceuticals?{0D},,
+738,0xB65D,redirect,0xBD2C,33,Why don't we go check out\nBCCH?{0D},,
+739,0xB68C,redirect,0xBD4D,65,Why don't we go to BCCH's\npharmacy and talk to whoever's\nthere?{0D},,
+740,0xB6C5,redirect,0xBD8E,40,We still haven't been to Hojo's\nhouse.{0D},,
+741,0xB6EE,redirect,0xBDB6,50,Why don't we head over to the\nTokugawa Building?{0D},,
+742,0xB715,redirect,0xBDE8,47,Let's hurry and get the CD from\nHojo's house.{0D},,
+743,0xB746,redirect,0xBE17,30,Let's hurry and load the CD.{0D},,
+744,0xB775,redirect,0xBE35,46,Let's go get the capsules back\nfrom Redwood.{0D},,
+745,0xB7AA,redirect,0xBE63,55,Let's hurry to AMM.  I'm worried\nabout the informant.{0D},,
+746,0xB7DD,redirect,0xBE9A,49,Why don't we go have Victor\nanalyze that blood?{0D},,
+747,0xB814,redirect,0xBECB,19,Don't do anything{0D},,

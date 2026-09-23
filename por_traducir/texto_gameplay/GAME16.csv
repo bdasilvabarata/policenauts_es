@@ -1,0 +1,132 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x358E,redirect,0x1F69,9,Continue,,1 isla(s) 91 inline
+1,0x359D,redirect,0x1F75,102,"I shouldn't be hard on myself. \nThat was my first shooting scene,\nafter all.{80238057}I'll do it this time.",,2 isla(s) 91 inline
+2,0x35DE,redirect,0x1FE1,44,I have to reload when my\nmagazine runs out.,,
+3,0x3633,redirect,0x200D,45,I can reload by clicking outside the\nscreen.,,
+4,0x366C,redirect,0x203A,72,I reload by pressing the Triangle\nButton when I'm using the\ncontroller.,,1 isla(s) 91 inline
+5,0x36B7,redirect,0x2085,54,I've got the hang of it now.  I'll get\nhim this time.,,1 isla(s) 91 inline
+6,0x36EE,redirect,0x20BE,41,I reload by clicking outside the\nscreen.,,1 isla(s) 91 inline
+7,0x371D,redirect,0x20EA,127,I should make use of the lock-on\nfeature when I'm using the\ncontroller.{80238057}I can lock onto targets with the L1\nand R1 Buttons.,,1 isla(s) 91 inline
+8,0x3786,redirect,0x216C,73,I can't keep letting myself get\nkilled like this.  I know I can do\nthis!,,1 isla(s) 91 inline
+9,0x37B9,redirect,0x21B8,52,I can lock onto targets with the L1\nand R1 Buttons.,,
+10,0x37EE,redirect,0x21EC,50,I can't keep letting myself get\nkilled like this!,,1 isla(s) 91 inline
+11,0x3817,redirect,0x2221,35,I've figured out his patterns now.,,
+12,0x3838,redirect,0x2244,64,I have to concentrate.  I can't just\nkeep getting beat forever!,,1 isla(s) 91 inline
+13,0x3869,redirect,0x2287,5,Quit,,
+14,0x3870,redirect,0x228C,64,"I hate quitting at a time like this,\nbut I don't have a choice.",,1 isla(s) 91 inline
+15,0x38A3,redirect,0x22CF,26,This is enough for today.,,
+16,0x38C0,redirect,0x22E9,38,I'll pick it back up some other\ntime.,,
+17,0x38D9,redirect,0x230F,25,"Hang in there, Lorraine.",,
+18,0x3906,redirect,0x2328,82,I'll do it this time.  It's not like this\nis my first shooting scene or\nanything.,,1 isla(s) 91 inline
+19,0x3937,redirect,0x237D,44,"This also isn't my first Game Over,\nthough.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+20,0x395A,redirect,0x23BC,74,"I'll get him this time.  After all, I\nwas able to do the bit before this.",,1 isla(s) 91 inline
+21,0x3997,redirect,0x2409,74,There are only two doors.  If I\njust aim carefully I'll be able to do\nit.,,2 isla(s) 91 inline
+22,0x39D0,redirect,0x2459,83,"I don't like quitting after chasing\nhim down like that, but I don't\nhave a choice.",,1 isla(s) 91 inline
+23,0x3A1B,redirect,0x24AF,5,Load,,
+24,0x3A22,redirect,0x24B4,5,Save,,
+25,0x3A29,redirect,0x24B9,36,Why don't I go ahead and save\nhere.,,
+26,0x3A4E,redirect,0x24DD,30,This is a good place to save.,,1 isla(s) 91 inline
+27,0x3A6F,redirect,0x24FE,35,Can't say I'm much of a detective.,,1 isla(s) 91 inline
+28,0x3A88,redirect,0x2524,44,I won't make it very far if I keep\nthis up.,,2 isla(s) 91 inline
+29,0x3AAB,redirect,0x2556,60,"Come on, I'm a Policenaut! I gotta\nget that old sense back.",,2 isla(s) 91 inline
+30,0x3AD8,redirect,0x2598,77,"The targets are small, but if I fire\nrandomly some shots are bound to\nstick.",,2 isla(s) 91 inline
+31,0x3B15,redirect,0x25EB,30,I'll get past them this time.,,
+32,0x3B36,redirect,0x2609,55,"Come on, these things are tiny.  I\nknow I can do this!",,2 isla(s) 91 inline
+33,0x3B57,redirect,0x2646,53,I can't keep letting a bunch of\nstupid bugs kill me!,,2 isla(s) 91 inline
+34,0x3B86,redirect,0x2681,74,"It feels like they'll have won if I\nquit here, but I don't have a\nchoice.",,2 isla(s) 91 inline
+35,0x3BC3,inplace,0x3BC3,7,masq_1,,sin codigo 91: revisar
+36,0x3BCA,redirect,0x26D1,74,He's wearing a Lunar suit.  It can't\nbe that easy for him to move\naround.,,3 isla(s) 91 inline
+37,0x3BFB,redirect,0x2724,25,I'll beat him this time.,,1 isla(s) 91 inline
+38,0x3C30,redirect,0x2740,70,He should be an easy target with\nthat suit on.  I know I can do this!,,2 isla(s) 91 inline
+39,0x3C5B,redirect,0x278C,52,I can't keep letting myself get\nkilled by that guy!,,2 isla(s) 91 inline
+40,0x3C8C,redirect,0x27C6,75,"I hate quitting without having\nbeaten that guy, but I don't have a\nchoice.",,2 isla(s) 91 inline
+41,0x3CC5,redirect,0x2817,55,If we hang around too long they'll\njust kill us again.,,1 isla(s) 91 inline
+42,0x3CE4,redirect,0x2851,44,We have to move before they\ncatch up to us.,,
+43,0x3D01,redirect,0x287D,104,"They're small, but they're also\nslow.{80238057}If we keep moving they'll have a\nhard time keeping up with us.",,
+44,0x3D30,redirect,0x28E5,50,I'm fed up getting killed by those\ndamned things!,,1 isla(s) 91 inline
+45,0x3D5F,redirect,0x291A,80,"I hate quitting without getting past\nthe mosquitoes, but I don't have a\nchoice.",,
+46,0x3D96,redirect,0x296A,47,I have to be careful not to hit any\ncivilians.,,
+47,0x3DC9,redirect,0x2999,30,I'm gonna beat him this time.,,
+48,0x3E04,redirect,0x29B7,63,He's using civilians as shields.  I\ncan't let anyone get hurt.,,1 isla(s) 91 inline
+49,0x3E33,redirect,0x29F9,35,I can't keep on hitting civilians!,,
+50,0x3E64,redirect,0x2A1C,67,I have to concentrate.  I can't keep\nshooting innocent bystanders!,,
+51,0x3E97,redirect,0x2A5F,119,"I don't like letting that guy get\naway like this, but I don't have a\nchoice.{80238057}I need a break to get myself\ntogether.",,2 isla(s) 91 inline
+52,0x3EDE,redirect,0x2ADC,60,He's injured.  It can't be that easy\nfor him moving around.,,1 isla(s) 91 inline
+53,0x3F0D,redirect,0x2B1B,63,His movements should be pretty\nlimited.  I know I can do this!,,
+54,0x3F3E,redirect,0x2B5A,39,I can't keep letting that guy kill\nme!,,
+55,0x3F6F,redirect,0x2B81,77,"I don't like letting that guy get\naway like this, but I don't have a\nchoice.",,1 isla(s) 91 inline
+56,0x3F9E,redirect,0x2BD1,111,"I have to take that guy out, but I\nalso have to make sure I don't hit\n\n any of the passengers on the\nplatform!",,1 isla(s) 91 inline
+57,0x3FD5,redirect,0x2C43,56,There are civilians around here.  I\nhave to be careful!,,
+58,0x3FFE,redirect,0x2C7B,94,"I don't like letting that guy get\naway after chasing him this far,\nbut I don't have a choice.",,1 isla(s) 91 inline
+59,0x4041,redirect,0x2CDC,62,He's stopped moving.  I can beat\nhim if I just aim carefully!,,
+60,0x4078,inplace,0x4078,10,white.pak,,sin codigo 91: revisar
+61,0x4082,redirect,0x2D1A,44,"Alright, let's pretend that never\nhappened.",,1 isla(s) 91 inline
+62,0x40A7,redirect,0x2D49,35,"Just try to be more careful, okay?",,
+63,0x40BC,redirect,0x2D6C,36,We'll be fine this time.  Let's go.,,
+64,0x40E9,redirect,0x2D90,21,You sure about that?,,
+65,0x4100,redirect,0x2DA5,13,Don't worry.,,
+66,0x4113,redirect,0x2DB2,13,Don't worry?,,1 isla(s) 91 inline
+67,0x4120,redirect,0x2DC2,80,Yeah.  Don't worry.  We already\ndied once.  What's the worst that\ncould happen?,,1 isla(s) 91 inline
+68,0x4159,redirect,0x2E15,6,True.,,
+69,0x4164,redirect,0x2E1B,76,"I don't like stopping after coming\nall this way, but I don't have a\nchoice.",,1 isla(s) 91 inline
+70,0x4199,redirect,0x2E6A,45,Maybe I'm not cut out for this type\nof work.,,1 isla(s) 91 inline
+71,0x41C6,redirect,0x2E9A,43,I don't think you're being careful\nenough.,,
+72,0x41E3,redirect,0x2EC5,31,Handbags just aren't my thing.,,
+73,0x4202,redirect,0x2EE4,41,I don't wanna keep messing up\nlike this.,,
+74,0x4229,redirect,0x2F0D,62,"I know I didn't mess up that many\ntimes, but what can you do?",,1 isla(s) 91 inline
+75,0x4254,redirect,0x2F4E,40,I just can't seem to concentrate\ntoday.,,
+76,0x426D,redirect,0x2F76,83,Fuck....{80238057}FUCK!{80238057}Why didn't I see that coming.  A\nfail only you could deliver.,,1 isla(s) 91 inline
+77,0x4296,redirect,0x2FCC,30,Gimme a break.  Shit happens.,,
+78,0x42B7,redirect,0x2FEA,46,I'll do it this time.  I won't mess up\nagain.,,1 isla(s) 91 inline
+79,0x42D6,redirect,0x301B,38,Excuse me if I don't get my hopes\nup.,,
+80,0x42F7,redirect,0x3041,53,I'll definitely do it this time.  Let's\nget started.,,1 isla(s) 91 inline
+81,0x4326,redirect,0x3079,40,Maybe something's wrong with\nthe mouse?,,
+82,0x4349,redirect,0x30A1,30,I'm gonna beat him this time.,,
+83,0x4378,redirect,0x30BF,59,He's using the biomorts as\nshields.  I know I can do this!,,
+84,0x43AB,redirect,0x30FA,34,I can't keep letting him kill me!,,1 isla(s) 91 inline
+85,0x43E2,redirect,0x311F,35,I've figured out his patterns now.,,
+86,0x440D,redirect,0x3142,23,I gotta aim carefully!,,
+87,0x443C,inplace,0x443C,12,sm_x155.pak,,sin codigo 91: revisar
+88,0x4448,redirect,0x3159,70,"I don't like quitting without beating\nhim, but I don't have a choice.",,1 isla(s) 91 inline
+89,0x448B,redirect,0x31A2,25,I'll beat 'em this time.,,
+90,0x44B8,redirect,0x31BB,82,I should be able to beat them if I\naim for the cockpits.{80238057}I know I can do this!,,
+91,0x452F,redirect,0x320D,34,I need to aim for the faceplates.,,
+92,0x455C,redirect,0x322F,84,"I don't like quitting after coming all\nthe way out here, but I don't have\na choice.",,1 isla(s) 91 inline
+93,0x4591,redirect,0x3286,25,I'll beat 'em this time.,,
+94,0x45BC,redirect,0x329F,82,I should be able to beat them if I\naim for the cockpits.{80238057}I know I can do this!,,1 isla(s) 91 inline
+95,0x4611,redirect,0x32F4,37,I've figured out their patterns\nnow.,,
+96,0x464A,redirect,0x3319,49,I need to stay focused and aim for\nthe cockpits.,,1 isla(s) 91 inline
+97,0x469D,redirect,0x334D,62,"See, look at what happened!\nThere is no way we can stay\nhere!",,1 isla(s) 91 inline
+98,0x46CC,redirect,0x338E,63,"C'mon, Jonathan, I know you can\ndo this! Let's get in the pod!",,
+99,0x46FD,redirect,0x33CD,72,This is gonna keep on happening\ntill you quit being so damned\nstubborn!,,1 isla(s) 91 inline
+100,0x4724,redirect,0x3418,54,"You can do it, Jonathan! C'mon,\nlet's get in the pod!",,
+101,0x474D,redirect,0x344E,60,"I'm worried about Anna and Marc,\nbut I don't have a choice.",,1 isla(s) 91 inline
+102,0x4776,redirect,0x348D,31,I'm gonna beat them this time.,,
+103,0x479D,redirect,0x34AC,66,"They've got the advantage with\nnumbers, but I know I can do\nthis!",,2 isla(s) 91 inline
+104,0x47C6,redirect,0x34F4,108,I'm the same distance from them\nas they are from me.{80238057}They won't necessarily land all\ntheir shots either.,,1 isla(s) 91 inline
+105,0x47FD,redirect,0x3563,97,I should make use of the lock-on\nfeature.{80238057}I can lock onto targets with the L1\nand R1 Buttons.,,2 isla(s) 91 inline
+106,0x4854,redirect,0x35CA,37,I've figured out their patterns\nnow.,,1 isla(s) 91 inline
+107,0x4877,redirect,0x35F2,102,"I have to take them out one at a\ntime.{80238057}I don't care how many there are,\nthey're not gonna stop me!",,1 isla(s) 91 inline
+108,0x48BA,redirect,0x365B,85,"I feel bad about stopping right\nbefore I get to Tokugawa, but I\ndon't have a choice.",,1 isla(s) 91 inline
+109,0x48E5,redirect,0x36B3,25,I'll beat him this time.,,1 isla(s) 91 inline
+110,0x4926,redirect,0x36CF,82,"Come on, I took out a whole\nsquad of Goddards on the Moon.  I\nknow I can do this!",,2 isla(s) 91 inline
+111,0x4965,redirect,0x3727,92,His movements are pretty\nsimple.{80238057}I can beat him if I concentrate my\nfire on the cockpit.,,
+112,0x499E,redirect,0x3783,53,"I'm so close to Tokugawa, but I\ndon't have a choice.",,2 isla(s) 91 inline
+113,0x49CB,redirect,0x37BE,30,I'll take him down this time.,,
+114,0x4A08,redirect,0x37DC,103,This place is pretty confined.{80238057}Meaning he'll have a hard time\nmoving around.  I know I can do\nthis!,,3 isla(s) 91 inline
+115,0x4A3D,redirect,0x384C,79,An EMPS can only take so many\nhits.  If I just keep hitting it I can\nbeat him!,,2 isla(s) 91 inline
+116,0x4A96,redirect,0x38A1,70,"I hate letting Redwood get away\nlike this, but I don't have a choice.",,3 isla(s) 91 inline
+117,0x4AD3,redirect,0x38F0,25,I'll beat him this time.,,1 isla(s) 91 inline
+118,0x4B02,redirect,0x390C,60,"I'm at a disadvantage from below,\nbut I know I can do this!",,1 isla(s) 91 inline
+119,0x4B2F,redirect,0x394B,62,I can try and guess where he's\ngonna appear by his footsteps.,,1 isla(s) 91 inline
+120,0x4B5E,redirect,0x398C,114,"He can move around much easier\nnow, naturally.{80238057}Things are different from before. \nStill, I know I can do this!",,2 isla(s) 91 inline
+121,0x4B99,redirect,0x3A04,94,Hiding behind a pillar doesn't give\nhim many options.{80238057}I have to try and read his patterns.,,4 isla(s) 91 inline
+122,0x4BDA,redirect,0x3A6E,47,I can't believe he keeps killing me\nlike this.,,2 isla(s) 91 inline
+123,0x4BFD,redirect,0x3AA3,63,It looks like he's getting pretty\nweak.  I know I can do this!,,2 isla(s) 91 inline
+124,0x4C2E,redirect,0x3AE8,50,He's gotten weak.  He's hardly\nmoving at all now.,,1 isla(s) 91 inline
+125,0x4C65,redirect,0x3B1D,66,"I'm so close to finishing Redwood\noff, but I don't have a choice.",,2 isla(s) 91 inline
+126,0x4C96,redirect,0x3B65,89,Son of a bitch....  Why?{80238057}I've always gotten high scores at\nthe shooting range before.,,1 isla(s) 91 inline
+127,0x4CBB,redirect,0x3BC1,69,I need to relax.{80238057}I should just pretend I'm at the\nshooting range.,,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+128,0x4CE0,redirect,0x3C16,78,I can't seem to replicate my results\nat the shooting range in the real\nworld.,,2 isla(s) 91 inline
+129,0x4D0D,redirect,0x3C6A,70,I know I can do this!{80238057}I'll just pretend I'm at the shooting\nrange.,,1 isla(s) 91 inline
+130,0x4D34,inplace,0x4D34,11,arning.pak,,sin codigo 91: revisar

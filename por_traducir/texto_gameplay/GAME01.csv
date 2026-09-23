@@ -1,0 +1,962 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x42A5,redirect,0x42A8,13,File loaded.,,
+1,0x42B6,redirect,0x42B5,34,An error occurred during loading.,,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+2,0x42D7,inplace,0x42D7,12,warning.pak,,sin codigo 91: revisar
+3,0x42E3,inplace,0x42E3,11,dnauts.pak,,sin codigo 91: revisar
+4,0x42EE,redirect,0x42FA,1,,,
+5,0x42F7,redirect,0x42FB,1,,,
+6,0x42FC,redirect,0x42FF,1,,,
+7,0x4319,redirect,0x4300,1,,,
+8,0x439C,redirect,0x4301,1,,,
+9,0x4405,redirect,0x4302,1,,,
+10,0x441A,redirect,0x4303,1,,,
+11,0x449B,redirect,0x4304,1,,,
+12,0x44E6,redirect,0x4305,1,,,
+13,0x4509,redirect,0x4306,1,,,
+14,0x4542,redirect,0x4307,1,,,
+15,0x457B,redirect,0x4308,1,,,
+16,0x4640,redirect,0x4309,1,,,
+17,0x4697,redirect,0x430A,1,,,
+18,0x46CC,redirect,0x430B,1,,,
+19,0x470D,redirect,0x430C,1,,,
+20,0x4752,redirect,0x430D,1,,,
+21,0x478F,redirect,0x430E,1,,,
+22,0x47BA,redirect,0x430F,1,,,
+23,0x47DB,redirect,0x4310,11,Go outside,,1 isla(s) 91 inline
+24,0x47E4,redirect,0x431E,7,System,,
+25,0x47ED,redirect,0x4325,64,"I don't have anything to do\noutside.  It's still early, anyway.",,
+26,0x4816,redirect,0x4365,40,I'll wait here for that client to\nshow.,,
+27,0x484B,redirect,0x438D,22,Sure has gotten late.,,1 isla(s) 91 inline
+28,0x486E,redirect,0x43A6,37,Looks like the sun's just about\nset.,,
+29,0x4891,redirect,0x43CB,32,I'll just wait for that client.,,
+30,0x48C8,redirect,0x43EB,75,I haven't got anywhere else to go. \nThis is where I spend most of my\ntime.,,2 isla(s) 91 inline
+31,0x48EF,redirect,0x443C,116,"I can kill time with the newspaper\nclippings or photos, I guess.{80238057}Nothing wrong with reminiscing\nonce in a while.",,1 isla(s) 91 inline
+32,0x4952,redirect,0x44B3,96,These are just about the only\npictures I have left.{80238057}I suppose I can pass the time with\nthem.,,2 isla(s) 91 inline
+33,0x4999,redirect,0x4519,109,I could look at my newspaper\narticles until that client gets\nhere.{80238057}Not like I've got anything else to\ndo.,,2 isla(s) 91 inline
+34,0x49F2,redirect,0x458C,114,An outsider like me is better off\nhere with all my mementos.{80238057}Why don't I take a look at the stuff\non the wall.,,
+35,0x4A49,redirect,0x45FE,86,I only get depressed when I go\noutside.{80238057}I still have a few things I could\nlook at.,,1 isla(s) 91 inline
+36,0x4A8A,redirect,0x4657,74,"Besides, I prefer hanging out\nhere and going over my articles\nand photos.",,1 isla(s) 91 inline
+37,0x4AD7,inplace,0x4AD7,10,telop.pak,,sin codigo 91: revisar
+38,0x4AE1,redirect,0x46A4,1,,,
+39,0x4B20,redirect,0x46A5,1,,,
+40,0x4B3F,redirect,0x46A6,5,Look,,
+41,0x4B44,redirect,0x46AB,1,,,
+42,0x4B6D,redirect,0x46AC,51,This is a photo of me and Lorraine\nat Lucas World.,,1 isla(s) 91 inline
+43,0x4BCA,redirect,0x46E2,35,A memory of my time with\nLorraine.,,
+44,0x4BE9,redirect,0x4705,35,I was a cop fresh out the\nacademy.,,1 isla(s) 91 inline
+45,0x4C48,redirect,0x472B,32,Look at us.  Young and in love.,,
+46,0x4C61,redirect,0x474B,73,Lorraine was a student at UCLA. \nWe met after her place got broken\ninto.,,2 isla(s) 91 inline
+47,0x4CBA,redirect,0x479A,53,She was so naive.  The things\nshe'd do sometimes....,,1 isla(s) 91 inline
+48,0x4CE9,redirect,0x47D2,63,"December 24th, 2008.{80238057}This was our first Christmas\ntogether.",,4 isla(s) 91 inline
+49,0x4D2E,redirect,0x481D,38,I've still got the watch she gave\nme.,,
+50,0x4D5D,redirect,0x4843,81,It's one of those radio-controlled\ntypes.  It was state of the art for\nthe time.,,3 isla(s) 91 inline
+51,0x4D92,redirect,0x489D,47,Still hard to believe it's been over\n30 years.,,1 isla(s) 91 inline
+52,0x4DBB,redirect,0x48CF,5,Back,,
+53,0x4DC4,redirect,0x48D4,87,This is a picture from when I was\nin LAPD.  Me and my partner Ed\nwere always together.,,1 isla(s) 91 inline
+54,0x4E15,redirect,0x492E,58,That badge on my desk is a replica\nof the one I had then.,,1 isla(s) 91 inline
+55,0x4E3C,redirect,0x496B,55,A replica of my badge from then is\nsitting on my desk.,,1 isla(s) 91 inline
+56,0x4E5B,redirect,0x49A5,58,It's a photo of me and Ed.  We\nwere the best team around.,,
+57,0x4E9C,redirect,0x49DF,57,I have an award we got back then\nhanging up on the wall.,,1 isla(s) 91 inline
+58,0x4EC1,redirect,0x4A1B,75,"I was in narcotics at the time.  I\nwas reckless, with a pretty short\nfuse.",,1 isla(s) 91 inline
+59,0x4EEC,redirect,0x4A69,43,I would've had a Beretta with me\nhere too.,,1 isla(s) 91 inline
+60,0x4F23,redirect,0x4A97,60,My life felt so complete.  Look at\nme.  Full of confidence.,,
+61,0x4F4C,redirect,0x4AD3,37,I'm like a totally different person.,,cadena 92: 2 fragmentos unidos
+62,0x4F6B,redirect,0x4B08,92,Me and Ed had been good friends\nsince the academy.  We were a\nwell-known team in narcotics.,,3 isla(s) 91 inline
+63,0x4FEC,redirect,0x4B70,46,That award is a product of our\nwork together.,,
+64,0x5009,redirect,0x4B9E,103,Ed was in the bomb squad before\nhe joined narcotics.  There was a\nlot of terrorist activity back then.,,2 isla(s) 91 inline
+65,0x504C,redirect,0x4C0B,87,We stayed close when we were\nPolicenauts too.{80238057}I haven't seen him since my\naccident.,,2 isla(s) 91 inline
+66,0x50B7,redirect,0x4C68,69,He looks a good deal younger\nhere compared to the Policenauts\nphoto.,,
+67,0x50F2,redirect,0x4CAD,27,That was an LAPD building.,,1 isla(s) 91 inline
+68,0x5117,redirect,0x4CCB,124,"It was demolished a long, long\ntime ago.{80238057}I thought I'd go check it out once,\nbut there wasn't a trace of the\nthing left.",,2 isla(s) 91 inline
+69,0x5160,redirect,0x4D4D,18,"March 12th, 2010.",,1 isla(s) 91 inline
+70,0x517D,redirect,0x4D62,47,Me and Lorraine were a happy\nhusband and wife.,,
+71,0x51AA,redirect,0x4D91,64,Maybe I'll give Ed another call if\nmy next case turns out well.,,3 isla(s) 91 inline
+72,0x51DB,redirect,0x4DDA,1,,,
+73,0x51FA,redirect,0x4DDB,1,,,
+74,0x5243,redirect,0x4DDC,1,,,
+75,0x525C,redirect,0x4DDD,1,,,
+76,0x52CB,redirect,0x4DDE,1,,,
+77,0x5300,redirect,0x4DDF,1,,,
+78,0x536B,redirect,0x4DE0,51,I find it hard not to keep pictures\nof her around.,,
+79,0x539A,redirect,0x4E13,67,We're wearing ejection escape\nsuits here.  These are obsolete\nnow.,,3 isla(s) 91 inline
+80,0x53D5,redirect,0x4E5F,63,Back then everyone thought the\norange-colored suits were cool.,,1 isla(s) 91 inline
+81,0x540C,redirect,0x4EA1,156,This photo was taken to\ncommemorate the selection of the\nPolicenauts.{80238057}Five officers out of all the world's\npolice organizations were chosen\nand trained.,,3 isla(s) 91 inline
+82,0x5467,redirect,0x4F46,80,"We were called the ""Original\nCops"", after the Mercury\nprogram's Original Seven.",,2 isla(s) 91 inline
+83,0x54C4,redirect,0x4F9C,42,It's the Policenauts\ncommemoration photo.,,
+84,0x54E9,redirect,0x4FC6,77,"I was absolutely ecstatic.  But\nLorraine, she was against me\ngoing to space.",,2 isla(s) 91 inline
+85,0x5546,redirect,0x5019,69,Then when I went to Mars... that\nwas when we started to drift\napart.,,1 isla(s) 91 inline
+86,0x5589,redirect,0x5061,73,After this was taken I left Lorraine\nbehind on Home and moved to\nBeyond.,,
+87,0x55E8,redirect,0x50AA,55,That's Ed.{80238057}He was chosen out of LAPD along\nwith me.,,1 isla(s) 91 inline
+88,0x5627,redirect,0x50E4,37,"Ed's still on Beyond, far as I know.",,1 isla(s) 91 inline
+89,0x565E,redirect,0x510C,52,He looks thinner here compared\nto the LAPD picture.,,1 isla(s) 91 inline
+90,0x568B,redirect,0x5143,62,That's Gates Becker.{80238057}He came from Scotland Yard in the\nUK.,,2 isla(s) 91 inline
+91,0x56C6,redirect,0x5187,76,I heard he's risen pretty high up\nthrough the ranks of Beyond\nCoast Police.,,1 isla(s) 91 inline
+92,0x5707,redirect,0x51D6,65,Gates had a real passion for\njustice.  He was always the leader.,,2 isla(s) 91 inline
+93,0x574A,redirect,0x521D,99,That's Joseph Sadaoki\nTokugawa.{80238057}He came from the Tokyo\nMetropolitan Police Department in\nJapan.,,2 isla(s) 91 inline
+94,0x5783,redirect,0x5286,41,He's now the head of the\nTokugawa Group.,,
+95,0x57D8,redirect,0x52AF,48,Sadaoki could be an intimidating\ndude at times.,,1 isla(s) 91 inline
+96,0x57FD,redirect,0x52E2,50,That's Salvatore Toscanini.{80238057}He came from NYPD.,,1 isla(s) 91 inline
+97,0x583C,redirect,0x5317,73,Apparently he resigned from\nBeyond Coast Police over 10 years\nor so ago.,,
+98,0x5887,redirect,0x5360,35,Salvatore was a bit of an oddball.,,1 isla(s) 91 inline
+99,0x58AE,redirect,0x5386,121,"I never could put my finger on it,\nbut there was just something\nabout him.{80238057}Sorta guy you don't easily forget,\nanyway.",,2 isla(s) 91 inline
+100,0x58DD,redirect,0x5405,68,That thing we have attached to\nour chests is our Policenauts\nbadge.,,1 isla(s) 91 inline
+101,0x591A,redirect,0x544C,41,This badge identified us as\nPolicenauts.,,1 isla(s) 91 inline
+102,0x594F,redirect,0x5478,34,I still wear mine around my neck.,,
+103,0x597A,redirect,0x549A,1,,,
+104,0x599F,redirect,0x549B,75,This is me and Lorraine on our\nwedding day.  I was still a cop\nhere in LA.,,1 isla(s) 91 inline
+105,0x59DA,redirect,0x54EC,51,Lorraine dropped out of UCLA\nafter we got engaged.,,
+106,0x5A21,redirect,0x551F,126,I guess keeping you and your\nex-wife's wedding photo around\nmight be considered... unusual. \n Especially when she's moved on.,,2 isla(s) 91 inline
+107,0x5A96,redirect,0x55A3,75,I remember discovering my rental\ntux didn't fit right before the\nceremony.,,1 isla(s) 91 inline
+108,0x5ACD,redirect,0x55F1,33,I originally had a black tuxedo.,,
+109,0x5AF0,redirect,0x5612,60,"In those days, my life revolved\naround my job and Lorraine.",,1 isla(s) 91 inline
+110,0x5B21,redirect,0x5651,49,Lorraine was like an angel in her\nwedding dress.,,1 isla(s) 91 inline
+111,0x5B6A,redirect,0x5685,30,I still wear my wedding ring.,,1 isla(s) 91 inline
+112,0x5BA3,redirect,0x56A6,49,"August 24th, 2009.{80238057}One day I'll never forget.",,1 isla(s) 91 inline
+113,0x5BDC,redirect,0x56DA,66,"August 24th, 2009.{80238057}I became a Policenaut exactly a\nyear later.",,1 isla(s) 91 inline
+114,0x5C25,redirect,0x571F,63,Lorraine had this friend at a\nflower shop arrange her bouquet.,,1 isla(s) 91 inline
+115,0x5C5E,redirect,0x5761,76,"If I remember right, Lorraine\nthrew the bouquet right after this\nwas taken.",,1 isla(s) 91 inline
+116,0x5C97,redirect,0x57B0,48,I still don't know how Ed ended up\ncatching it.,,1 isla(s) 91 inline
+117,0x5CC0,redirect,0x57E3,39,Ed's in a couple pictures on the\nwall.,,1 isla(s) 91 inline
+118,0x5CE5,redirect,0x580D,78,This is a newspaper article written\nat the time of Beyond Coast's\ncompletion.,,1 isla(s) 91 inline
+119,0x5D30,redirect,0x585E,63,It was written... 28 years before\nthe article about my rescue.,,1 isla(s) 91 inline
+120,0x5D6F,redirect,0x58A0,72,It was written just 3 years before\nthe article about the EMPS\naccident.,,2 isla(s) 91 inline
+121,0x5DB8,redirect,0x58EE,72,It was written about 2 years\nbefore the article about the Mars\nlanding.,,1 isla(s) 91 inline
+122,0x5DEB,redirect,0x5939,22,The headline reads...,,
+123,0x5E00,redirect,0x5952,65,"""Long-Envisioned Colony\nComplete {D0}{06} New Era for\nMankind Begins"".",,1 isla(s) 91 inline
+124,0x5E53,redirect,0x5996,20,The newspaper is...,,1 isla(s) 91 inline
+125,0x5E62,redirect,0x59AD,51,"the Neo Kobe Times, one of\nJapan's biggest papers.",,1 isla(s) 91 inline
+126,0x5E83,redirect,0x59E3,26,"Let's see, the date is...",,
+127,0x5E96,redirect,0x59FD,6,2010.,,
+128,0x5EB3,redirect,0x5A03,31,I'll read some of the article.,,1 isla(s) 91 inline
+129,0x5ED2,redirect,0x5A25,158,"""Basic construction of the world's\nfirst outer space colony, Beyond\nCoast {D0}{06} underway for several\n years near Lagrangian point L5\n{D0}{06} was completed yesterday.",,1 isla(s) 91 inline
+130,0x5F77,redirect,0x5AC6,143,The first wave of immigration will\nbe centered around scientists and\nengineers who will spend 14\n months performing checks and\ngathering data.,,3 isla(s) 91 inline
+131,0x5FDC,redirect,0x5B5E,79,"Immigration is scheduled to be\nopened to the general public in 3\nyears' time.""",,2 isla(s) 91 inline
+132,0x6007,redirect,0x5BB3,55,Beyond's position is shown in the\ndiagram on the left.,,1 isla(s) 91 inline
+133,0x6038,redirect,0x5BED,130,This is a picture of Beyond Coast\nright after it was completed.{80238057}The only thing they hadn't finished\nwas the agricultural ring.,,2 isla(s) 91 inline
+134,0x6087,redirect,0x5C75,56,That model Ed made for me is\nsupposed to be the colony.,,1 isla(s) 91 inline
+135,0x60C4,redirect,0x5CB0,48,Here they point out Beyond's\nlocation in space.,,1 isla(s) 91 inline
+136,0x60E7,redirect,0x5CE3,49,It's in an orbit around the L5\nLagrangian point.,,1 isla(s) 91 inline
+137,0x6136,redirect,0x5D17,18,It's the red dot.,,
+138,0x6155,redirect,0x5D29,63,I have a model of Beyond on top of\none of the filing cabinets.,,1 isla(s) 91 inline
+139,0x6194,redirect,0x5D6B,153,This is a newspaper article\nreporting on the success of the\nfirst manned mission to Mars.{80238057}I took part in it while undergoing\nmy Policenauts training.,,4 isla(s) 91 inline
+140,0x61F7,redirect,0x5E10,68,It was written 2 years after the\narticle about Beyond's completion.,,1 isla(s) 91 inline
+141,0x6242,redirect,0x5E57,63,It was written... 26 years before\nthe article about my rescue.,,3 isla(s) 91 inline
+142,0x6277,redirect,0x5E9F,68,It was written the year before the\narticle about the EMPS accident.,,2 isla(s) 91 inline
+143,0x62B8,redirect,0x5EE9,130,The mission to Mars....  That's\nwhat did it.{80238057}Me and Lorraine ended up\nseparating as a result of all the\ntime I spent in space.,,
+144,0x6321,redirect,0x5F6B,59,"""Man Walks on Mars {D0}{06} Global\nCollaboration Makes History"".",,1 isla(s) 91 inline
+145,0x634D,redirect,0x5FA9,62,"the paper of the CIS, the\nCommonwealth of Independent\nStates.",,1 isla(s) 91 inline
+146,0x6378,redirect,0x5FEA,42,2012.  I spent that entire year in\nspace.,,1 isla(s) 91 inline
+147,0x63AB,redirect,0x6017,177,"""The four astronauts {D0}{06} among\nthem Policenaut Jonathan Ingram\n{D0}{06} of the collaborative Mars\n project between Russia, America\nand Japan, touched down on the\nRed Planet yesterday.",,3 isla(s) 91 inline
+148,0x6430,redirect,0x60D1,88,"This new chapter in space history\ncomes 40 years after man first set\nfoot on the Moon.""",,1 isla(s) 91 inline
+149,0x6463,redirect,0x612C,66,This is a picture of me\nencountering a Mars rover on the\nsurface.,,2 isla(s) 91 inline
+150,0x64A4,redirect,0x6174,46,It was sent to Mars with the Mars\n96 mission.,,1 isla(s) 91 inline
+151,0x6503,redirect,0x61A5,105,This is a newspaper article about\nmy accident that occurred during\n\n the EMPS space walk outside\nBeyond.,,1 isla(s) 91 inline
+152,0x6568,redirect,0x6211,64,It was written 3 years after the\none about Beyond's completion.,,1 isla(s) 91 inline
+153,0x65A9,redirect,0x6254,68,It was written close to... 25 years\nbefore the one about my rescue.,,1 isla(s) 91 inline
+154,0x65E2,redirect,0x629B,62,It was written the year after the\none about the Mars landing.,,1 isla(s) 91 inline
+155,0x660F,redirect,0x62DC,58,"""EMPS Prototype Malfunctions,\nPolicenaut Ingram Missing"".",,
+156,0x6656,redirect,0x6316,58,2013.  It happened just 3 months\nafter I moved to Beyond.,,2 isla(s) 91 inline
+157,0x66CB,redirect,0x6356,207,"""A malfunction occurred in the\nvernier thrusters of the Yuri\nEMPS prototype during a test\n space walk of the device\nyesterday.  The Yuri had been\nscheduled to be used by the\n Policenauts outside the colony.",,2 isla(s) 91 inline
+158,0x673E,redirect,0x642B,45,The EMPS has since vanished\nwithout a trace.,,1 isla(s) 91 inline
+159,0x6783,redirect,0x645B,43,"The Yuri is equipped with a\nsurvival ball,",,1 isla(s) 91 inline
+160,0x67E0,redirect,0x6489,130,"but because an SOS signal can't be\nisolated, the chances of test pilot\nJonathan Ingram being found alive\n are thought to be slim.",,2 isla(s) 91 inline
+161,0x6843,redirect,0x6511,52,"The official test had been\nscheduled for tomorrow.""",,
+162,0x6870,redirect,0x6545,126,"I remember what Salvatore said.{80238057}""Whatever you do don't screw\nthis up, Jonny boy.  Everyone back\nHome's gonna be watchin'.""",,2 isla(s) 91 inline
+163,0x68D5,redirect,0x65C9,73,There were still a lot of people\nopposed to space development\nback then.,,2 isla(s) 91 inline
+164,0x690A,redirect,0x6618,107,"It all happened so fast.  Before I\nknew it, the four of them were\ngone.{80238057}Everything after that's a blur.",,1 isla(s) 91 inline
+165,0x697F,redirect,0x6686,58,Next time I opened my eyes I was\nlying on a hospital bed.,,
+166,0x69AA,redirect,0x66C0,75,This is a picture taken during the\ntest space walk of the Yuri model\nEMPS.,,1 isla(s) 91 inline
+167,0x69F7,redirect,0x670E,88,"It was a prototype police suit for\nuse outside the colony, the\nsuccessor to NASA's MMU.",,1 isla(s) 91 inline
+168,0x6A3E,redirect,0x6769,131,This image was taken from a\ncamera aboard a nearby Space\nShuttle.{80238057}This was me and the Yuri as we\nwere released from the hangar.,,2 isla(s) 91 inline
+169,0x6AAD,redirect,0x67F2,63,This is a picture of me taken\naround the time of the accident.,,
+170,0x6AC4,redirect,0x6831,95,This is a newspaper article from\nwhen I was rescued from the\nEMPS's survival ball 3 years ago.,,2 isla(s) 91 inline
+171,0x6B33,redirect,0x6896,68,It was written... 28 years after the\none about Beyond's completion.,,1 isla(s) 91 inline
+172,0x6B7A,redirect,0x68DD,63,It was written 25 years after the\none about the EMPS accident.,,1 isla(s) 91 inline
+173,0x6BBF,redirect,0x691F,68,It  was written over 26 years after\nthe one about the Mars landing.,,
+174,0x6BFA,redirect,0x6963,64,"""25-Year Lost Voyage {D0}{06}\nPolicenaut Ingram's Miraculous\nReturn"".",,1 isla(s) 91 inline
+175,0x6C45,redirect,0x69A6,112,2038.  I returned Home after that\nunmanned ship picked me up in\nthe heliosphere.{80238057}The trip back took forever.,,2 isla(s) 91 inline
+176,0x6CBA,redirect,0x6A1C,185,"""Policenaut Jonathan Ingram {D0}{06}\npresumed dead after an accident\nduring a space walk in an EMPS\n prototype 25 years ago {D0}{06} has\nbeen rescued by the unmanned\nexploration vessel Propaganda.",,3 isla(s) 91 inline
+177,0x6D51,redirect,0x6ADE,180,His miraculous survival is being\nattributed to the fact that he\ntransferred himself to an equipped\n lifepod at the time of the accident\nand remained in cold sleep the\nentire time.,,2 isla(s) 91 inline
+178,0x6DDC,redirect,0x6B98,108,"He's gathering attention as a living\nexample of the effects of 25 years\n\n of cold sleep on the human\nbody.""",,2 isla(s) 91 inline
+179,0x6E37,redirect,0x6C0A,73,It took over a year for my muscles\nto return to normal after I got\nback.,,1 isla(s) 91 inline
+180,0x6E72,redirect,0x6C56,56,I spent 25 years inside this thing\nwaiting to be found.,,
+181,0x6EAB,redirect,0x6C8E,74,I've had cosmophobia ever since. \nI just can't go back out there\nanymore.,,1 isla(s) 91 inline
+182,0x6EFC,redirect,0x6CDB,55,This is a picture of me taken when\nI was a Policenaut.,,
+183,0x6F25,redirect,0x6D12,66,This was a relatively small article in\na corner of the newspaper.,,1 isla(s) 91 inline
+184,0x6F4E,redirect,0x6D57,1,,,
+185,0x6F73,redirect,0x6D58,66,"This is my baby, a Beretta 92F. \nI've used one since I was a cop.",,
+186,0x6FC0,redirect,0x6D9A,59,"She's a bona fide recoil gun,\nequipped with a laser sight.",,
+187,0x7011,redirect,0x6DD5,62,I use special 10-round magazines\nwith armor-piercing bullets.,,1 isla(s) 91 inline
+188,0x706A,redirect,0x6E16,99,I don't carry her so I can go\naround shooting everything in\nsight.  She's strictly for protection.,,2 isla(s) 91 inline
+189,0x709D,redirect,0x6E7F,77,I doubt anybody else uses this\nkinda gun in the 21st century and\neverything.,,1 isla(s) 91 inline
+190,0x7104,redirect,0x6ECF,69,"With the birth of the Colony Age,\nnearly all guns are now lift guns.",,1 isla(s) 91 inline
+191,0x714D,redirect,0x6F17,78,"People don't use recoil guns in\nweightless environments, for\nobvious reasons.",,2 isla(s) 91 inline
+192,0x7192,redirect,0x6F6B,29,"But her, she's a part of me.",,1 isla(s) 91 inline
+193,0x71D7,redirect,0x6F8B,78,These days I have to go all the\nway to the edge of town to order\nthe bullets.,,1 isla(s) 91 inline
+194,0x723E,redirect,0x6FDC,48,She's saved my ass I don't know\nhow many times.,,
+195,0x726D,redirect,0x700C,60,Ed used to make fun of me for the\nway I treated my old one.,,1 isla(s) 91 inline
+196,0x728E,redirect,0x704B,1,,,
+197,0x7293,redirect,0x704C,1,,,
+198,0x72B8,redirect,0x704D,87,"This is an investigation report to a\nclient, though I haven't gotten\nvery far with it.",,2 isla(s) 91 inline
+199,0x7313,redirect,0x70AA,84,"It was another child kidnapping,\nbut... my negotiations with the\nkidnappers failed.",,
+200,0x738E,redirect,0x70FE,27,I couldn't save the child.,,1 isla(s) 91 inline
+201,0x73B9,redirect,0x711C,74,He's probably already been cut\napart and his organs trafficked to\nbuyers.,,1 isla(s) 91 inline
+202,0x73FE,redirect,0x7169,15,"Sorry, kid....",,
+203,0x7429,redirect,0x7178,45,It's an investigation report I'm\nworking on.,,1 isla(s) 91 inline
+204,0x7442,redirect,0x71A8,38,You hate to see a case end like\nthis.,,
+205,0x7469,redirect,0x71CE,46,This is a replica of the badge I had\nin LAPD.,,1 isla(s) 91 inline
+206,0x74B6,redirect,0x71FF,35,It's a supposed LAPD police\nbadge.,,
+207,0x74E9,redirect,0x7222,62,"This is ancient history now. \nMeaningless decoration, really.",,1 isla(s) 91 inline
+208,0x7512,redirect,0x7263,72,Sure does take me back.  There's\na picture from those days on the\nwall.,,3 isla(s) 91 inline
+209,0x7547,redirect,0x72B4,70,These cabinets are filled with\ninformation on past cases and\nclients.,,1 isla(s) 91 inline
+210,0x758C,redirect,0x72FD,91,"They're not exactly a pleasant\nread, but the papers inside are\nworth their weight in gold.",,1 isla(s) 91 inline
+211,0x75CB,redirect,0x735B,62,It's a filing cabinet.  I really need to\nget these organized.,,1 isla(s) 91 inline
+212,0x75F8,redirect,0x739C,5,Open,,
+213,0x75FF,redirect,0x73A1,31,I'm sick of looking at papers.,,1 isla(s) 91 inline
+214,0x761A,redirect,0x73C3,40,I don't feel like opening it right\nnow.,,
+215,0x7633,redirect,0x73EB,31,This is a miniature of Beyond.,,1 isla(s) 91 inline
+216,0x766C,redirect,0x740D,19,Ed made it for me.,,
+217,0x768B,redirect,0x7420,66,"There's a newspaper article about\nBeyond up on the wall, I think.",,2 isla(s) 91 inline
+218,0x76D2,redirect,0x7468,24,It's a model of Beyond.,,1 isla(s) 91 inline
+219,0x7705,redirect,0x7483,1,,,
+220,0x7744,redirect,0x7484,63,I put them up so you can't see\ninside the office from outside.,,1 isla(s) 91 inline
+221,0x777D,redirect,0x74C6,26,This is a mixed building.,,
+222,0x7794,redirect,0x74E0,36,You never know who's gonna\nshow up.,,1 isla(s) 91 inline
+223,0x77B7,redirect,0x7507,110,I'm probably better leaving them\nclosed.{80238057}God knows there's plenty of guys\nwho'd love to take a shot at me.,,2 isla(s) 91 inline
+224,0x7804,redirect,0x757B,1,,,
+225,0x783F,redirect,0x757C,46,This leads out to the building's fire\nescape.,,1 isla(s) 91 inline
+226,0x7870,redirect,0x75AD,90,You always gotta make sure your\nass is covered with good ol' Plan B\nin this line of work.,,3 isla(s) 91 inline
+227,0x78B1,redirect,0x7610,42,It's the exit leading to the fire\nescape.,,2 isla(s) 91 inline
+228,0x78CE,redirect,0x7640,1,,,
+229,0x78FF,redirect,0x7641,113,These are some Venetian blinds I\nfound at an antiques store.{80238057}I don't like the adjustable glass\nyou get today.,,2 isla(s) 91 inline
+230,0x7996,redirect,0x76B8,1,,,
+231,0x79BD,redirect,0x76B9,1,,,
+232,0x79EE,redirect,0x76BA,1,,,
+233,0x7A07,redirect,0x76BB,90,"This is a videophone with a\nbuilt-in printer, though I've\ndisabled the video from my end.",,2 isla(s) 91 inline
+234,0x7A48,redirect,0x771B,98,Most of my cases come in over the\nphone.{80238057}Clients don't particularly like\nmeeting up in person.,,2 isla(s) 91 inline
+235,0x7A6F,redirect,0x7783,49,I've only spoken to Ed once since I\nwas rescued.,,1 isla(s) 91 inline
+236,0x7A9A,redirect,0x77BA,114,Using satellite connections still\ncosts an arm and a leg.{80238057}It's not like I can just call Beyond\nanytime I want.,,1 isla(s) 91 inline
+237,0x7B09,redirect,0x782F,73,I'm way behind on my bill.  I keep\nexpecting to get cut off any day\nnow.,,2 isla(s) 91 inline
+238,0x7B42,redirect,0x787E,58,I see the water company hasn't\nforgotten about me either.,,1 isla(s) 91 inline
+239,0x7B6D,redirect,0x78BB,35,It's been nothing but junk lately.,,1 isla(s) 91 inline
+240,0x7B9E,redirect,0x78E1,14,Play messages,,
+241,0x7BA7,redirect,0x78EF,76,I should check the machine. \nMaybe there's a call from someone\nwith a case.,,1 isla(s) 91 inline
+242,0x7BE2,redirect,0x793E,34,Let's see what the next one says.,,
+243,0x7C07,redirect,0x7960,11,That's it?,,
+244,0x7C20,redirect,0x796B,1,,,
+245,0x7C4B,redirect,0x796C,1,,,
+246,0x7C76,redirect,0x796D,1,,,
+247,0x7C91,redirect,0x796E,1,,,
+248,0x7CE0,redirect,0x796F,1,,,
+249,0x7D11,redirect,0x7970,1,,,
+250,0x7D40,redirect,0x7971,1,,,
+251,0x7D85,redirect,0x7972,1,,,
+252,0x7D96,redirect,0x7973,1,,,
+253,0x7DC9,redirect,0x7974,1,,,
+254,0x7DE6,redirect,0x7975,1,,,
+255,0x7E09,redirect,0x7976,1,,,
+256,0x7E32,redirect,0x7977,1,,,
+257,0x7E45,redirect,0x7978,1,,,
+258,0x7E60,redirect,0x7979,1,,,
+259,0x7E77,redirect,0x797A,1,,,
+260,0x7EA0,redirect,0x797B,1,,,
+261,0x7EC5,redirect,0x797C,1,,,
+262,0x7ECC,redirect,0x797D,1,,,
+263,0x7F0D,redirect,0x797E,1,,,
+264,0x7F42,redirect,0x797F,59,I was given this award by the\nmayor back when I was a cop.,,1 isla(s) 91 inline
+265,0x7F7B,redirect,0x79C0,42,Me and Ed were a well-known\nteam in LAPD.,,
+266,0x7FB2,redirect,0x79EA,56,This is the only award I've ever\nreceived for anything.,,2 isla(s) 91 inline
+267,0x7FE5,redirect,0x7A28,79,We got the chief to nominate the\ntwo of us for the Policenauts\nthanks to this.,,2 isla(s) 91 inline
+268,0x8024,redirect,0x7A7D,73,These are books from the 20th\ncentury I found at an antique\nmedia store.,,1 isla(s) 91 inline
+269,0x8085,redirect,0x7AC9,59,"From the days when a book meant\na real book, not software.",,
+270,0x80B6,redirect,0x7B04,37,These are all bargain-bin items\nnow.,,1 isla(s) 91 inline
+271,0x80D5,redirect,0x7B2C,82,"They're all mystery novels,\nactually.  Lorraine's taste must've\nrubbed off on me.",,2 isla(s) 91 inline
+272,0x812A,redirect,0x7B84,89,"These are Moslems, the only\ncigarettes in the world that still\ngive off secondary smoke.",,3 isla(s) 91 inline
+273,0x8149,redirect,0x7BE6,116,"I don't like the pure bent\ncigarettes you get today.{80238057}These are mixed cigarettes {D0}{06}\npart conventional, part bent.",,3 isla(s) 91 inline
+274,0x817E,redirect,0x7C63,39,The only brand I touch now is\nMoslems.,,1 isla(s) 91 inline
+275,0x81B1,redirect,0x7C8D,94,"You can still light a Moslem by\nbreaking off the end, but using a\nlighter adds to the flavor.",,2 isla(s) 91 inline
+276,0x8200,redirect,0x7CF1,140,"They give off a little smoke and\nash, though not as much as real\nones did.{80238057}Everything else is like smoking air,\nas far as I'm concerned.",,2 isla(s) 91 inline
+277,0x8243,redirect,0x7D83,97,"They only sell them through direct\norder now, so they aren't as easy\nto get a hold of as before.",,4 isla(s) 91 inline
+278,0x827E,redirect,0x7DF0,26,I'm down to my last pack.,,1 isla(s) 91 inline
+279,0x82A1,redirect,0x7E0D,6,Light,,
+280,0x82AC,redirect,0x7E13,94,"I'll hold off for now.  I just had\none a few minutes ago.  Besides,\nI'm running low as it is.",,4 isla(s) 91 inline
+281,0x82EB,redirect,0x7E7D,29,This is a Brady oil lighter.,,
+282,0x830A,redirect,0x7E9A,66,They're the manufacturer of the\nonly lighter still in production.,,3 isla(s) 91 inline
+283,0x8347,redirect,0x7EE5,64,You don't need lighters or\nmatches for today's bent\ncigarettes.,,1 isla(s) 91 inline
+284,0x8384,redirect,0x7F28,23,It's my Brady lighter.,,
+285,0x83A3,redirect,0x7F3F,31,It's a half-empty can of beer.,,1 isla(s) 91 inline
+286,0x83BA,redirect,0x7F61,69,The only beer most people can\nafford anymore is this imitation\nbeer.,,1 isla(s) 91 inline
+287,0x83EF,redirect,0x7FA9,53,It sucks remembering how good a\ncold one used to be.,,1 isla(s) 91 inline
+288,0x8430,redirect,0x7FE1,29,Nothing like imitation beer.,,1 isla(s) 91 inline
+289,0x8455,redirect,0x8001,6,Drink,,
+290,0x845A,redirect,0x8007,42,Guess I'll have some before it gets\nwarm.,,1 isla(s) 91 inline
+291,0x8479,redirect,0x8034,46,"{D0}{06}gulp, gulp{D0}{06} Ugh, nothing\nbut bad memories.",,
+292,0x849E,redirect,0x8062,23,May as well finish it.,,
+293,0x84B7,redirect,0x8079,95,"{D0}{06}gulp, gulp{D0}{06} I honestly\nthought it couldn't get any worse\nthan space food, but there you go.",,3 isla(s) 91 inline
+294,0x84D8,redirect,0x80E1,30,It's a beer can.  It's empty.,,
+295,0x84FF,redirect,0x80FF,48,It's made by the same company as\nthe other one.,,1 isla(s) 91 inline
+296,0x8524,redirect,0x8132,95,"They used to use aluminum for\ncans before, but these ones are\nmade from biodegradable plastic.",,2 isla(s) 91 inline
+297,0x8571,redirect,0x8197,68,Almost all containers are made\nfrom biodegradable plastic\nnowadays.,,1 isla(s) 91 inline
+298,0x85A0,redirect,0x81DE,65,A lot of old farmland is now used\nto let these things decompose.,,1 isla(s) 91 inline
+299,0x85D7,redirect,0x8222,24,It's an empty beer can.,,
+300,0x85EA,redirect,0x823A,59,This is an ashtray I stumbled\nacross at an antiques store.,,1 isla(s) 91 inline
+301,0x8613,redirect,0x8278,95,"It wasn't easy finding one of these.\nYou don't need an ashtray for bent\ncigarettes, after all.",,3 isla(s) 91 inline
+302,0x865A,redirect,0x82E0,63,The butts are starting to overflow.\nI guess I should empty it.,,2 isla(s) 91 inline
+303,0x868D,redirect,0x8325,57,I should probably clean out all the\nbutts at some point.,,1 isla(s) 91 inline
+304,0x86B0,redirect,0x8361,120,"Bent cigarettes are cigarettes that\ndon't produce any secondary\nsmoke, which you light simply by\n breaking off the end.",,3 isla(s) 91 inline
+305,0x86EF,redirect,0x83E2,135,"I say ""light"", but there's no\nactual fire involved.{80238057}They work off a chemical reaction,\nand even the leaves are specially\nprocessed.",,4 isla(s) 91 inline
+306,0x8728,redirect,0x8475,95,"They don't give off any smoke or\nash, and make a room more\npleasant, but they're not my thing.",,4 isla(s) 91 inline
+307,0x8765,redirect,0x84E0,108,This is a piece of paper with\ninformation on a client.{80238057}I've been asked to look for their\n4-year-old son.,,2 isla(s) 91 inline
+308,0x87A8,redirect,0x8552,60,These are the only kinds of cases\nI've been getting lately.,,1 isla(s) 91 inline
+309,0x87C3,redirect,0x8591,53,You just don't see many ransom\nkidnappings nowadays.,,1 isla(s) 91 inline
+310,0x87E8,redirect,0x85C9,141,"It's safer for the kidnappers to\nquickly sell off the victim's organs\nto organ buyers, and they're\n guaranteed to see a return that\nway too.",,4 isla(s) 91 inline
+311,0x8831,redirect,0x8662,42,I've got a bad feeling about this\none....,,
+312,0x885E,redirect,0x868C,43,It's a note related to a case I'm\nworking.,,2 isla(s) 91 inline
+313,0x887F,redirect,0x86BD,35,It's a crumpled-up piece of paper.,,
+314,0x888E,redirect,0x86E0,92,This is a note from an old case. \nI'm not sure when it was.{80238057}I had it stuck to the phone.,,2 isla(s) 91 inline
+315,0x88C7,redirect,0x8742,75,The client did a disappearing act\non me.  That happens a lot in this\ncity.,,1 isla(s) 91 inline
+316,0x8912,redirect,0x8790,35,I got this pen when I was in\nLAPD.,,1 isla(s) 91 inline
+317,0x8933,redirect,0x87B6,47,The mayor gave it to me along\nwith that award.,,1 isla(s) 91 inline
+318,0x895C,redirect,0x87EB,43,"Knowing Ed, he probably still has\nhis too.",,
+319,0x8989,redirect,0x8816,58,The mayor gave it to me along\nwith the award on the wall.,,1 isla(s) 91 inline
+320,0x89B6,redirect,0x8853,39,It was a pretty nice pen for the\ntime.,,1 isla(s) 91 inline
+321,0x89DB,redirect,0x887D,126,"It's the pen the mayor gave me.{80238057}As you'd expect from something\nthis old, it started showing some\nwear and tear awhile ago.",,3 isla(s) 91 inline
+322,0x8A1A,redirect,0x8904,46,"My desk is a total mess, come to\nthink of it.",,2 isla(s) 91 inline
+323,0x8A45,redirect,0x8938,128,"It'd be nice if I could hire an\nassistant or something, but it\ndoesn't look like anyone's up for\n working at a place like this.",,3 isla(s) 91 inline
+324,0x8A8C,redirect,0x89C1,104,"I've had a help-wanted sign\nposted by the entrance to the\nbuilding for quite some time, but\n no takers.",,2 isla(s) 91 inline
+325,0x8ACB,redirect,0x8A2F,46,Maybe I'll try putting a job ad in\nthe paper.,,1 isla(s) 91 inline
+326,0x8AFE,redirect,0x8A60,85,People would probably just laugh\nand tell me I'm wasting my time\nliving in the past.,,1 isla(s) 91 inline
+327,0x8B25,redirect,0x8AB8,1,,,
+328,0x8B38,redirect,0x8AB9,1,,,
+329,0x8B55,redirect,0x8ABA,1,,,
+330,0x8B7C,redirect,0x8ABB,1,,,
+331,0x8B9D,redirect,0x8ABC,1,,,
+332,0x8BC4,redirect,0x8ABD,1,,,
+333,0x8BE1,redirect,0x8ABE,123,"You wouldn't think it from looking\nat me now, but I was really into\nbooks in high school.{80238057}I was in the literature club.",,4 isla(s) 91 inline
+334,0x8C36,redirect,0x8B45,89,"Well, to be honest, I didn't actually\nlike books.  There was this cute\ngirl in the club.",,3 isla(s) 91 inline
+335,0x8CA3,redirect,0x8BA7,97,"She was frail, with green hair she\nwore in ponytails.  She had\nglasses too.  Quiet little thing.",,2 isla(s) 91 inline
+336,0x8CEE,redirect,0x8C0E,65,"But, it was actually another girl\nwho ended up confessing to me.",,1 isla(s) 91 inline
+337,0x8D1F,redirect,0x8C52,162,What a headache that was.  What\nthe hell was I thinking?{80238057}Why would anyone like a guy in\nthe literature club?{80238057}I guess you do crazy things when\nyou're young.,,2 isla(s) 91 inline
+338,0x8D88,redirect,0x8CFA,71,"Anyway, that was a long, long time\nago {D0}{06} years before I met\nLorraine.",,1 isla(s) 91 inline
+339,0x8DB3,redirect,0x8D44,7,System,,
+340,0x8DBC,redirect,0x8D4B,1,,,
+341,0x8DE9,redirect,0x8D4C,1,,,
+342,0x8E0A,redirect,0x8D4D,1,,,
+343,0x8E2F,redirect,0x8D4E,1,,,
+344,0x8E4A,redirect,0x8D4F,1,,,
+345,0x8E61,redirect,0x8D50,12,Accept case,,
+346,0x8E6E,redirect,0x8D5C,1,,,
+347,0x8E9F,redirect,0x8D5D,1,,,
+348,0x8ECA,redirect,0x8D5E,1,,,
+349,0x8ED9,redirect,0x8D5F,1,,,
+350,0x8EF8,redirect,0x8D60,5,....,,
+351,0x8EFF,redirect,0x8D65,1,,,
+352,0x8F56,redirect,0x8D66,13,Decline case,,
+353,0x8F61,redirect,0x8D73,1,,,
+354,0x8FD0,redirect,0x8D74,13,Jonathan....,,
+355,0x8FE1,redirect,0x8D81,1,,,
+356,0x905C,redirect,0x8D82,1,,,
+357,0x90B3,redirect,0x8D83,1,,,
+358,0x9110,redirect,0x8D84,60,It's surprising to hear about a\ncase like yours these days.,,3 isla(s) 91 inline
+359,0x913B,redirect,0x8DC9,19,So you'll help me?,,
+360,0x914E,redirect,0x8DDC,47,I need to hear more about the\nsituation first.,,2 isla(s) 91 inline
+361,0x916B,redirect,0x8E11,5,Talk,,
+362,0x9176,redirect,0x8E16,10,Lorraine?,,
+363,0x9181,redirect,0x8E20,15,"Hey, Lorraine?",,
+364,0x9192,redirect,0x8E32,23,Why don't we continue.,,
+365,0x91A9,redirect,0x8E49,6,Yeah?,,1 isla(s) 91 inline
+366,0x91BE,redirect,0x8E52,10,Ask about,,
+367,0x91C9,redirect,0x8E5C,12,Her request,,1 isla(s) 91 inline
+368,0x91DA,redirect,0x8E6B,1,,,
+369,0x91F9,redirect,0x8E6C,1,,,
+370,0x9256,redirect,0x8E6D,1,,,
+371,0x928F,redirect,0x8E71,1,,,
+372,0x92B4,redirect,0x8E72,1,,,
+373,0x92E3,redirect,0x8E73,1,,,
+374,0x92F2,redirect,0x8E74,1,,,
+375,0x9365,redirect,0x8E75,1,,,
+376,0x9380,redirect,0x8E76,1,,,
+377,0x93B3,redirect,0x8E77,1,,,
+378,0x93D6,redirect,0x8E78,1,,,
+379,0x9411,redirect,0x8E79,1,,,
+380,0x9424,redirect,0x8E7A,1,,,
+381,0x9443,redirect,0x8E7B,35,So... you want me to look for\nhim?,,
+382,0x9454,redirect,0x8E9E,25,"Please, help my husband.",,1 isla(s) 91 inline
+383,0x9483,redirect,0x8EBA,51,Please find him.  You're the only\nperson I've got.,,2 isla(s) 91 inline
+384,0x94BE,redirect,0x8EF3,37,"All I have is that 2D photo,\nthough.",,2 isla(s) 91 inline
+385,0x94E7,redirect,0x8F1E,66,Hard to look for someone when\nyou don't know what they look\nlike.,,2 isla(s) 91 inline
+386,0x950C,redirect,0x8F66,33,I've got a photo of him with me.,,
+387,0x951B,redirect,0x8F87,45,Do you have anything else besides\nthe photo?,,
+388,0x9540,redirect,0x8FB4,28,"Yeah, there are some clues.",,
+389,0x955F,redirect,0x8FD3,47,Any other clues besides what you\njust gave me?,,1 isla(s) 91 inline
+390,0x9580,redirect,0x9005,54,"He had been talking about\nsomething lately, actually.",,
+391,0x95AB,redirect,0x903B,67,"If it turns out Tokugawa's\ninvolved, that could complicate\nthings.",,1 isla(s) 91 inline
+392,0x95DA,redirect,0x9081,11,Her family,,
+393,0x95E9,redirect,0x908C,29,"You have any kids, Lorraine?",,
+394,0x95FC,redirect,0x90A9,38,I have a daughter.  Her name's\nKaren.,,1 isla(s) 91 inline
+395,0x9629,redirect,0x90D2,61,"It's just the three of us {D0}{06} my\nhusband, my daughter and me.",,
+396,0x9640,redirect,0x910F,94,"It's just the three of us {D0}{06} my\nhusband, my daughter and me. \nWe all live together on Beyond.",,5 isla(s) 91 inline
+397,0x968B,redirect,0x917C,59,"A loving husband, a successful\ndaughter....  Must be nice.",,4 isla(s) 91 inline
+398,0x96BE,redirect,0x91C3,13,Her daughter,,1 isla(s) 91 inline
+399,0x96C9,redirect,0x91D3,37,So your daughter's living there\ntoo?,,2 isla(s) 91 inline
+400,0x96FC,redirect,0x91FE,31,Where does your daughter live?,,
+401,0x9715,redirect,0x921D,34,Karen is a news anchor on\nBeyond.,,
+402,0x976A,redirect,0x923F,20,"A news anchor, huh?",,
+403,0x9783,redirect,0x9253,27,She's pretty famous there.,,1 isla(s) 91 inline
+404,0x97CC,redirect,0x9271,40,She'll be 27 soon.  She's still\nsingle.,,1 isla(s) 91 inline
+405,0x9807,redirect,0x929C,49,Hard to believe you have a\n26-year-old daughter.,,1 isla(s) 91 inline
+406,0x9826,redirect,0x92D0,23,"I am 55 now, remember?",,1 isla(s) 91 inline
+407,0x984F,redirect,0x92EA,7,Beyond,,
+408,0x9864,redirect,0x92F1,31,What's Beyond like these days?,,1 isla(s) 91 inline
+409,0x988F,redirect,0x9313,70,"Like you were saying, this place\ndoesn't look like it's changed\nmuch.",,
+410,0x98BE,redirect,0x9359,76,Beyond's... different.  A lot\ndifferent.  You wouldn't recognize\nit either.,,2 isla(s) 91 inline
+411,0x98FF,redirect,0x93AB,79,Everything's settled down there. \nIt's pretty much like any ordinary\ncity now.,,2 isla(s) 91 inline
+412,0x9934,redirect,0x9400,209,"Beyond will be celebrating its 30th\nanniversary this year.{80238057}Things have slowly gone downhill\nover the years, though.{80238057}You're always looking over your\nshoulder wherever you go now, if\nyou know what I mean.",,6 isla(s) 91 inline
+413,0x9993,redirect,0x94E3,18,"Yeah, I read you.",,1 isla(s) 91 inline
+414,0x99A8,redirect,0x94F8,39,It's always been that way in the\ncity.,,2 isla(s) 91 inline
+415,0x99C1,redirect,0x9525,59,"And like I was saying, Tokugawa's\ninfluence is everywhere.",,2 isla(s) 91 inline
+416,0x9A18,redirect,0x9566,63,You could practically call the\nentire colony one big business.,,1 isla(s) 91 inline
+417,0x9A41,redirect,0x95A8,67,Everyone will tell you Beyond\nCoast policy is a major issue today.,,3 isla(s) 91 inline
+418,0x9A8C,redirect,0x95F4,233,"While the world's politicians are\npublicly declaring that Beyond as it\nexists today poses both economic\n and security risks to outer space,\nat the same time they're clearly\ninterested in cozying up to\n Tokugawa, for obvious reasons.",,6 isla(s) 91 inline
+419,0x9B53,redirect,0x96EF,119,It's the same with all the\nregulations.{80238057}The laws are written to the benefit\nof Tokugawa and the goods they\ndeal in.,,3 isla(s) 91 inline
+420,0x9BA2,redirect,0x976F,11,Kenzo Hojo,,
+421,0x9BB7,redirect,0x977A,1,,,
+422,0x9BF4,redirect,0x977B,1,,,
+423,0x9C6F,redirect,0x977C,1,,,
+424,0x9CA4,redirect,0x977D,1,,,
+425,0x9CBD,redirect,0x977E,1,,,
+426,0x9CD8,redirect,0x977F,1,,,
+427,0x9CEF,redirect,0x9780,1,,,
+428,0x9D2A,redirect,0x9781,1,,,
+429,0x9D45,redirect,0x9782,1,,,
+430,0x9D58,redirect,0x9786,1,,,
+431,0x9D7B,redirect,0x9787,1,,,
+432,0x9D9C,redirect,0x9788,1,,,
+433,0x9DAD,redirect,0x9789,16,Hojo's behavior,,
+434,0x9DC0,redirect,0x9799,70,You notice anything unusual about\nyour husband before he\ndisappeared?,,1 isla(s) 91 inline
+435,0x9DFF,redirect,0x97E2,191,"All the years I knew him he'd\nbeen your typical company\nemployee.{80238057}He'd get up, leave for work, then\ncome walking through the door at\nthe end of the day.{80238057}Same schedule, day in, day out.",,5 isla(s) 91 inline
+436,0x9E64,redirect,0x98B0,30,Quite a change from my hours.,,1 isla(s) 91 inline
+437,0x9E91,redirect,0x98D1,74,"But the past few months he'd\nbecome more... unpredictable,\nyou might say.",,1 isla(s) 91 inline
+438,0x9EBC,redirect,0x991E,107,"You can't really draw anything\nconcrete from that.{80238057}You think he'd become involved in\nsomething, though?",,1 isla(s) 91 inline
+439,0x9F03,redirect,0x998C,29,"That's my gut feeling, yeah.",,2 isla(s) 91 inline
+440,0x9F10,redirect,0x99AF,122,"If there were indications of some\nsorta trouble beforehand, the\nchances of it being a ransom\n kidnapping are pretty slim.",,2 isla(s) 91 inline
+441,0x9F53,redirect,0x9A2F,60,He'd become angry and\nfrightened....  That wasn't like\nhim.,,1 isla(s) 91 inline
+442,0x9F84,redirect,0x9A6E,48,I'd never seen him break down\nlike that before.,,1 isla(s) 91 inline
+443,0x9FB9,redirect,0x9AA1,70,So you're saying someone\nmight've been targeting him for\nsome reason?,,
+444,0x9FE6,redirect,0x9AE7,53,"He never told me what was going\non, whatever it was.",,
+445,0xA003,redirect,0x9B1C,76,I'd say he was trying to tell you\nsomething with the capsules and\nthe leaf.,,1 isla(s) 91 inline
+446,0xA042,redirect,0x9B6B,21,Her marriage to Hojo,,
+447,0xA057,redirect,0x9B80,21,How'd you guys meet?,,
+448,0xA07C,redirect,0x9B95,48,I moved to Beyond right after you\nwent missing.,,2 isla(s) 91 inline
+449,0xA0CB,redirect,0x9BCB,29,After how much you hated it?,,
+450,0xA0F6,redirect,0x9BE8,111,I just... wanted to be closer to you\nany way I could.{80238057}I met Kenzo at that Nihonjin\nMatsuri run by Tokugawa.,,1 isla(s) 91 inline
+451,0xA15F,redirect,0x9C5A,18,Nihonjin Matsuri?,,
+452,0xA172,redirect,0x9C6C,47,It's a festival for Japanese people\non Beyond.,,1 isla(s) 91 inline
+453,0xA1A9,redirect,0x9C9E,23,So why were you there?,,1 isla(s) 91 inline
+454,0xA1B8,redirect,0x9CB8,37,"I have Japanese blood too,\nremember?",,2 isla(s) 91 inline
+455,0xA1D7,redirect,0x9CE3,59,"Forgive me, Jonathan.  I couldn't\nhave survived on my own.",,1 isla(s) 91 inline
+456,0xA210,redirect,0x9D21,76,I was lonely.  I wanted someone to\nbe there.  That's when Kenzo\ncame along.,,3 isla(s) 91 inline
+457,0xA26D,redirect,0x9D76,9,Tokugawa,,1 isla(s) 91 inline
+458,0xA27E,redirect,0x9D82,49,The conglomerate's reach doesn't\nstop at Beyond.,,2 isla(s) 91 inline
+459,0xA2D5,redirect,0x9DB9,72,"They essentially run space, and\nJoseph Sadaoki Tokugawa runs\nthe Group.",,2 isla(s) 91 inline
+460,0xA338,redirect,0x9E07,52,He's just as well known on Home\nas he is out there.,,
+461,0xA373,redirect,0x9E3B,138,"If Hojo's a Tokugawa employee I\nsuppose we can't totally rule out\nhe was kidnapped.{80238057}You could get good money out of\nthat, I'd imagine.",,3 isla(s) 91 inline
+462,0xA3AE,redirect,0x9ECE,60,No one on Beyond would even\nthink of messing with Tokugawa.,,1 isla(s) 91 inline
+463,0xA405,redirect,0x9F0D,65,They're too afraid of the\nretaliation.  It wouldn't be worth\nit.,,1 isla(s) 91 inline
+464,0xA42A,redirect,0x9F51,147,They took advantage of the space\ndevelopment boom more than\nanyone.{80238057}They essentially have the power to\nshape space's economy however\nthey want.,,4 isla(s) 91 inline
+465,0xA489,redirect,0x9FF0,56,Is there a second wave of Japan\nbashing going on there?,,1 isla(s) 91 inline
+466,0xA4D2,redirect,0xA02B,86,"No, it's just the opposite.  Thanks\nto Tokugawa, the colony's\neconomy is flourishing.",,3 isla(s) 91 inline
+467,0xA50D,redirect,0xA08A,38,But everything else is another\nstory.,,
+468,0xA520,redirect,0xA0B0,6,Clues,,
+469,0xA52F,redirect,0xA0B6,1,,,
+470,0xA562,redirect,0xA0B7,1,,,
+471,0xA585,redirect,0xA0B8,1,,,
+472,0xA5A4,redirect,0xA0B9,1,,,
+473,0xA61B,redirect,0xA0BA,1,,,
+474,0xA644,redirect,0xA0BB,1,,,
+475,0xA665,redirect,0xA0BC,1,,,
+476,0xA6B6,redirect,0xA0BD,1,,,
+477,0xA6CD,redirect,0xA0BE,1,,,
+478,0xA6EC,redirect,0xA0BF,1,,,
+479,0xA721,redirect,0xA0C0,1,,,
+480,0xA754,redirect,0xA0C1,1,,,
+481,0xA76B,redirect,0xA0C2,1,,,
+482,0xA78C,redirect,0xA0C3,1,,,
+483,0xA7B9,redirect,0xA0C4,1,,,
+484,0xA7EC,redirect,0xA0C5,15,Anything else?,,1 isla(s) 91 inline
+485,0xA7F5,redirect,0xA0D7,15,"No, that's it.",,
+486,0xA804,redirect,0xA0E6,53,So will you take a look at the\nthings Kenzo gave me?,,1 isla(s) 91 inline
+487,0xA83F,redirect,0xA11E,9,Capsules,,
+488,0xA850,redirect,0xA127,1,,,
+489,0xA859,redirect,0xA128,1,,,
+490,0xA870,redirect,0xA129,1,,,
+491,0xA87F,redirect,0xA12A,1,,,
+492,0xA88E,redirect,0xA12B,1,,,
+493,0xA8B3,redirect,0xA12C,1,,,
+494,0xA8CC,redirect,0xA12D,36,Will you try and get them\nanalyzed?,,
+495,0xA8ED,redirect,0xA151,5,Leaf,,
+496,0xA8F8,redirect,0xA156,1,,,
+497,0xA911,redirect,0xA157,1,,,
+498,0xA922,redirect,0xA158,1,,,
+499,0xA937,redirect,0xA159,1,,,
+500,0xA954,redirect,0xA15A,1,,,
+501,0xA96B,redirect,0xA15B,1,,,
+502,0xA986,redirect,0xA15C,32,See if you can get it analyzed.,,2 isla(s) 91 inline
+503,0xA99F,redirect,0xA182,8,"""Plato""",,
+504,0xA9AC,redirect,0xA18A,37,Plato....  Could he have said\nPluto?,,1 isla(s) 91 inline
+505,0xA9D7,redirect,0xA1B2,77,"To be honest, I'm not sure\nanymore.  We still haven't been to\nPluto, though.",,2 isla(s) 91 inline
+506,0xAA22,redirect,0xA205,45,You have any idea at all what it\ncould mean?,,1 isla(s) 91 inline
+507,0xAA35,redirect,0xA235,67,It's not the name of a person or a\nbusiness or anything like that.,,1 isla(s) 91 inline
+508,0xAA5E,redirect,0xA27B,31,I've no idea what it could be.,,1 isla(s) 91 inline
+509,0xAA83,redirect,0xA29D,11,Talk about,,
+510,0xAA90,redirect,0xA2A8,9,Yourself,,
+511,0xAA99,redirect,0xA2B1,72,"Alright, well, why don't I tell you\nabout what's been going on with\nme.",,1 isla(s) 91 inline
+512,0xAAB6,redirect,0xA2FC,64,I've been working as a private\ninvestigator the past few years.,,1 isla(s) 91 inline
+513,0xAAD1,redirect,0xA33F,90,"As you've... probably guessed,\nfinding work can be a bit of a\nstruggle, but I'm managing.",,1 isla(s) 91 inline
+514,0xAB0A,redirect,0xA39C,29,I see.  That's good to hear.,,1 isla(s) 91 inline
+515,0xAB27,redirect,0xA3BC,77,There's still plenty of ways to\nmake a buck around here for\nsomeone like me.,,1 isla(s) 91 inline
+516,0xAB86,redirect,0xA40C,15,I can imagine.,,
+517,0xAB93,redirect,0xA41B,52,They don't call it the Angel-less\nCity for nothing.,,1 isla(s) 91 inline
+518,0xABCE,redirect,0xA452,98,"Things are going alright.  As long\nas I, you know, keep some\nrealistic expectations I'll survive.",,1 isla(s) 91 inline
+519,0xAC0F,redirect,0xA4B7,1,,,
+520,0xAC24,redirect,0xA4B8,1,,,
+521,0xAC81,redirect,0xA4B9,1,,,
+522,0xAC94,redirect,0xA4BA,1,,,
+523,0xACDB,redirect,0xA4BB,7,Old LA,,
+524,0xACEC,redirect,0xA4C2,1,,,
+525,0xAD43,redirect,0xA4C3,1,,,
+526,0xAD5E,redirect,0xA4C4,1,,,
+527,0xAD79,redirect,0xA4C5,1,,,
+528,0xADBC,redirect,0xA4C6,1,,,
+529,0xADF1,redirect,0xA4C7,1,,,
+530,0xAE18,redirect,0xA4C8,1,,,
+531,0xAE47,redirect,0xA4C9,1,,,
+532,0xAE7C,redirect,0xA4CA,1,,,
+533,0xAEBB,redirect,0xA4CB,1,,,
+534,0xAEE8,redirect,0xA4CC,1,,,
+535,0xAF11,redirect,0xA4CD,1,,,
+536,0xAF26,redirect,0xA4CE,1,,,
+537,0xAF3F,redirect,0xA4CF,1,,,
+538,0xAF62,redirect,0xA4D0,1,,,
+539,0xAF77,redirect,0xA4D1,1,,,
+540,0xAFA6,redirect,0xA4D5,87,I plan on staying here the rest of\nmy life.  I've no intention of going\nback to space.,,3 isla(s) 91 inline
+541,0xAFEF,redirect,0xA535,44,I can smoke as much as I want\nthat way too.,,
+542,0xB00C,redirect,0xA561,23,So what about my case?,,1 isla(s) 91 inline
+543,0xB025,redirect,0xA57B,62,"It's just that... I like it here.  I\ndon't know, Lorraine....",,2 isla(s) 91 inline
+544,0xB052,redirect,0xA5BF,5,Work,,
+545,0xB05B,redirect,0xA5C4,77,"On Home, kidnappings are\nbecoming almost as frequent as\nrapes and robberies.",,
+546,0xB0A4,redirect,0xA611,69,Trafficking people's more\nprofitable than drugs or\nprostitution now.,,2 isla(s) 91 inline
+547,0xB0D9,redirect,0xA65C,17,That's terrible.,,1 isla(s) 91 inline
+548,0xB0E6,redirect,0xA670,64,It's even more dangerous here\nnow than it was when I was a cop.,,
+549,0xB10D,redirect,0xA6B0,23,"Just be careful, okay?",,1 isla(s) 91 inline
+550,0xB120,redirect,0xA6CA,98,"The police aren't equipped to\nhandle certain types of cases, so\nthat makes it easier to get work.",,3 isla(s) 91 inline
+551,0xB169,redirect,0xA735,40,Plus we have our negotiator\nprivileges.,,1 isla(s) 91 inline
+552,0xB198,redirect,0xA760,23,Negotiator privileges?,,1 isla(s) 91 inline
+553,0xB1B7,redirect,0xA77A,86,We're permitted a certain level of\npolice authority in the interest of\npublic safety.,,2 isla(s) 91 inline
+554,0xB1F4,redirect,0xA7D6,119,"You know, like entering a house\nrelated to an investigation, or\nbeing allowed to own certain guns\n you normally can't.",,6 isla(s) 91 inline
+555,0xB223,redirect,0xA85F,5,Show,,
+556,0xB22E,redirect,0xA864,11,Hojo photo,,
+557,0xB23D,redirect,0xA86F,20,So this is Hojo....,,2 isla(s) 91 inline
+558,0xB264,redirect,0xA889,81,I actually don't have that many\npictures of him.  I'm sure it'll\ncome in useful.,,3 isla(s) 91 inline
+559,0xB29D,redirect,0xA8E3,63,It was taken awhile back.  He's\ngained some weight since then.,,4 isla(s) 91 inline
+560,0xB2C8,redirect,0xA92E,59,You could try correcting it with\nCG if you get the chance.,,3 isla(s) 91 inline
+561,0xB2E5,redirect,0xA972,60,He looks like the type of guy\nSadaoki would get along with.,,3 isla(s) 91 inline
+562,0xB30E,redirect,0xA9B7,9,Capsules,,
+563,0xB317,redirect,0xA9C0,34,Any idea what these could be\nfor?,,1 isla(s) 91 inline
+564,0xB340,redirect,0xA9E5,52,I didn't really notice anything\nunusual about them.,,
+565,0xB367,redirect,0xAA19,69,They look like ordinary medical\ncapsules you'd find at any\npharmacy.,,3 isla(s) 91 inline
+566,0xB3A0,redirect,0xAA67,5,Leaf,,
+567,0xB3AB,redirect,0xAA6C,174,"To be honest with you, I don't see\nhow something like this could be\nthat important.{80238057}But if he went out his way to give\nit to you, I suppose there must be\nsomething to it.",,7 isla(s) 91 inline
+568,0xB3C6,redirect,0xAB2F,39,I wonder what kind of plant it's\nfrom.,,
+569,0xB3D5,redirect,0xAB56,5,Back,,
+570,0xB3DE,redirect,0xAB5B,18,"No, it's nothing.",,
+571,0xB3F9,redirect,0xAB6D,21,What is it? Tell me.,,
+572,0xB418,redirect,0xAB82,21,"Come on, let's talk.",,2 isla(s) 91 inline
+573,0xB42B,redirect,0xAB9D,5,Look,,
+574,0xB430,redirect,0xABA2,51,"Jonathan, don't look at me like\nthat.  I'm 55 now.",,1 isla(s) 91 inline
+575,0xB467,redirect,0xABD8,35,"Please, don't look at me that way.",,
+576,0xB484,redirect,0xABFB,63,I want you to remember me the\nway I was when we were\ntogether.,,2 isla(s) 91 inline
+577,0xB4B7,redirect,0xAC40,30,"Her hair's different, but....",,
+578,0xB4CC,redirect,0xAC5E,37,No doubt about it.  It's really her.,,1 isla(s) 91 inline
+579,0xB4F1,redirect,0xAC86,96,I can't see you very well over\nthere.{80238057}Why don't you come over here\nwhere there's more light?,,2 isla(s) 91 inline
+580,0xB526,redirect,0xACEF,75,I don't think that's a good idea. \nWe haven't seen each other in 28\nyears.,,
+581,0xB557,redirect,0xAD3A,29,"You'd be shocked, I know it.",,1 isla(s) 91 inline
+582,0xB570,redirect,0xAD5A,32,I'm not that same girl anymore.,,2 isla(s) 91 inline
+583,0xB587,redirect,0xAD80,19,You cut your hair?,,
+584,0xB5A6,redirect,0xAD93,74,"Yeah, several years back.  I\nremember you liked my hair long,\ndidn't you?",,1 isla(s) 91 inline
+585,0xB5ED,redirect,0xADE0,27,Seems like a lifetime ago.,,1 isla(s) 91 inline
+586,0xB61C,redirect,0xADFE,23,"So, what do you think?",,
+587,0xB639,redirect,0xAE15,14,It suits you.,,1 isla(s) 91 inline
+588,0xB652,redirect,0xAE26,41,Your hair's just as beautiful as\nbefore.,,1 isla(s) 91 inline
+589,0xB66F,redirect,0xAE52,44,Is that an Elles? They cost a\nfortune here.,,1 isla(s) 91 inline
+590,0xB6BC,redirect,0xAE81,35,"Yeah, but this one's a little old.",,
+591,0xB6D9,redirect,0xAEA4,34,They're all the rage on Home too.,,1 isla(s) 91 inline
+592,0xB708,redirect,0xAEC9,122,"Elles changes the design of its bag\nevery year while producing them\nin limited numbers, then destroys\n all the originals.",,4 isla(s) 91 inline
+593,0xB757,redirect,0xAF4F,40,"That's why they're so expensive,\nis it?",,2 isla(s) 91 inline
+594,0xB76E,redirect,0xAF7D,49,I wasn't able to give you those\nkinds of things.,,1 isla(s) 91 inline
+595,0xB799,redirect,0xAFB1,71,"No, I didn't need anything back\nthen.  That's part of why I was\nhappy.",,1 isla(s) 91 inline
+596,0xB7D0,redirect,0xAFFB,23,So that's an Elles....,,1 isla(s) 91 inline
+597,0xB7F9,redirect,0xB015,31,That's a nice coat you've got.,,1 isla(s) 91 inline
+598,0xB816,redirect,0xB037,54,"Yeah, I guess.  If you can afford it,\nwhy not, right?",,2 isla(s) 91 inline
+599,0xB82F,redirect,0xB073,62,You're best not wandering around\nthis area dressed like that.,,1 isla(s) 91 inline
+600,0xB85C,redirect,0xB0B4,33,I see your taste hasn't changed.,,
+601,0xB877,redirect,0xB0D5,37,Gray always was your favorite\ncolor.,,2 isla(s) 91 inline
+602,0xB896,redirect,0xB100,46,"Jonathan, you remembered! I\ncan't believe it.",,2 isla(s) 91 inline
+603,0xB8C9,redirect,0xB134,25,You're wearing earrings?,,
+604,0xB8E0,redirect,0xB14D,39,"I know, I never liked earrings\nbefore.",,1 isla(s) 91 inline
+605,0xB911,redirect,0xB177,53,You can't expect people not to\nchange over 30 years.,,1 isla(s) 91 inline
+606,0xB930,redirect,0xB1AF,20,Are they pearl too?,,1 isla(s) 91 inline
+607,0xB947,redirect,0xB1C6,6,Yeah.,,
+608,0xB956,redirect,0xB1CC,16,Are they pearl?,,
+609,0xB963,redirect,0xB1DC,23,They look good on you.,,
+610,0xB986,redirect,0xB1F3,39,You're wearing them in this photo\ntoo.,,1 isla(s) 91 inline
+611,0xB9AF,redirect,0xB21D,50,Thanks.  Not often you get\ncompliments at my age.,,3 isla(s) 91 inline
+612,0xB9D6,redirect,0xB258,40,That necklace couldn't have been\ncheap.,,1 isla(s) 91 inline
+613,0xB9F3,redirect,0xB283,36,"It's pearl, just like the earrings.",,1 isla(s) 91 inline
+614,0xBA0E,redirect,0xB2AA,18,"Yeah, it's pearl.",,
+615,0xBA1F,redirect,0xB2BC,54,A pearl necklace....  Can't imagine\nhow much it cost.,,2 isla(s) 91 inline
+616,0xBA46,redirect,0xB2F8,59,I thought it wasn't easy getting\nhold of pearls on Beyond?,,2 isla(s) 91 inline
+617,0xBA8F,redirect,0xB339,135,"That's right, they haven't had any\nsuccess with culturing pearls\nthere, and the number produced\n on Home continues to drop every\nyear.",,5 isla(s) 91 inline
+618,0xBB12,redirect,0xB3CF,117,There's another reason why\npearls are so expensive there.{80238057}Beyond strictly controls the inflow\nof goods from Home.,,6 isla(s) 91 inline
+619,0xBB97,redirect,0xB456,76,"Yeah, they've laid down their own\nspecial import regulations, haven't\nthey?",,2 isla(s) 91 inline
+620,0xBBE0,redirect,0xB4A8,149,"Even the price of foodstuffs like\nrice and wheat is astronomical\nthere.{80238057}Of course, that's partly because of\nhow difficult it is to grow anything.",,4 isla(s) 91 inline
+621,0xBC53,redirect,0xB549,106,If only they could just find a\nsimpler way of importing food\nfrom Home.{80238057}I guess it can't be that easy.,,4 isla(s) 91 inline
+622,0xBCC0,redirect,0xB5BF,71,"I told you, I have a 26-year-old\ndaughter now.  I'm not young\nanymore.",,1 isla(s) 91 inline
+623,0xBD09,redirect,0xB609,13,Lorraine....,,
+624,0xBD1A,redirect,0xB616,63,Capsules and a leaf....  I'll have to\nget an expert for these.,,3 isla(s) 91 inline
+625,0xBD67,redirect,0xB65E,78,Do you know someone? You'd\nneed to be sure they're not\nconnected to Tokugawa.,,1 isla(s) 91 inline
+626,0xBDAA,redirect,0xB6AF,40,This is Home.  That won't be a\nproblem.,,2 isla(s) 91 inline
+627,0xBDD9,redirect,0xB6DD,47,"You'll be able to get an analysis\ndone, right?",,1 isla(s) 91 inline
+628,0xBDF0,redirect,0xB70F,35,Can you get an analysis\nperformed?,,
+629,0xBE09,redirect,0xB732,41,I could never afford all those\nluxuries.,,1 isla(s) 91 inline
+630,0xBE32,redirect,0xB75E,50,They're not that expensive.  At\nleast not for us.,,1 isla(s) 91 inline
+631,0xBE5D,redirect,0xB793,35,Your husband must make good\nmoney.,,1 isla(s) 91 inline
+632,0xBE9E,redirect,0xB7B9,1,,,
+633,0xBEB9,redirect,0xB7BA,1,,,
+634,0xBED4,redirect,0xB7BB,30,"Why don't we get to it, then.",,1 isla(s) 91 inline
+635,0xBEF3,redirect,0xB7DC,27,"You're finally ready, huh?",,
+636,0xBF12,redirect,0xB7F7,43,"Jonathan, I... I think I'm being\nfollowed.",,2 isla(s) 91 inline
+637,0xBF43,redirect,0xB828,27,"Hold on, I'll take a look.",,1 isla(s) 91 inline
+638,0xBF62,redirect,0xB846,34,"It's alright, I don't see anyone.",,1 isla(s) 91 inline
+639,0xBF81,redirect,0xB86B,14,Are you sure?,,1 isla(s) 91 inline
+640,0xBF96,redirect,0xB87C,29,"Yeah, it's all in your head.",,1 isla(s) 91 inline
+641,0xBFAB,redirect,0xB89C,97,Maybe you shouldn't keep looking\noutside.  I don't want to find out\nsomeone really is out there.,,2 isla(s) 91 inline
+642,0xBFEC,redirect,0xB903,70,"If there is someone following me,\nthey must be connected to\nTokugawa.",,3 isla(s) 91 inline
+643,0xC00D,redirect,0xB952,49,They'd follow you all the way to\nHome like this?,,3 isla(s) 91 inline
+644,0xC046,redirect,0xB98C,34,There's nothing they wouldn't do.,,
+645,0xC06B,redirect,0xB9AE,71,"Like I was saying, I can't shake\nthis feeling somebody's following\nme.",,3 isla(s) 91 inline
+646,0xC0AE,redirect,0xB9FE,1,,,
+647,0xC0BF,redirect,0xB9FF,1,,,
+648,0xC0F0,redirect,0xBA00,52,Lorraine looks okay.  I've gotta go\nafter that guy!,,2 isla(s) 91 inline
+649,0xC117,redirect,0xBA3A,61,"I'm worried about Lorraine, but I\nhave to go after that guy!",,1 isla(s) 91 inline
+650,0xC140,redirect,0xBA7A,5,Move,,
+651,0xC145,redirect,0xBA7F,1,,,
+652,0xC152,redirect,0xBA80,1,,,
+653,0xC15D,redirect,0xBA81,7,System,,
+654,0xC166,redirect,0xBA88,5,Look,,
+655,0xC16B,redirect,0xBA8D,1,,,
+656,0xC19A,redirect,0xBA8E,1,,,
+657,0xC1AF,redirect,0xBA92,1,,,
+658,0xC1BA,redirect,0xBA93,1,,,
+659,0xC1D5,redirect,0xBA94,1,,,
+660,0xC1E8,redirect,0xBA95,1,,,
+661,0xC20B,redirect,0xBA96,1,,,
+662,0xC21C,redirect,0xBA97,1,,,
+663,0xC223,redirect,0xBA98,1,,,
+664,0xC232,redirect,0xBA99,1,,,
+665,0xC263,redirect,0xBA9A,1,,,
+666,0xC27E,redirect,0xBA9B,1,,,
+667,0xC2A3,redirect,0xBA9C,1,,,
+668,0xC2B8,redirect,0xBA9D,1,,,
+669,0xC2DD,redirect,0xBA9E,1,,,
+670,0xC30C,redirect,0xBA9F,1,,,
+671,0xC32D,redirect,0xBAA0,1,,,
+672,0xC344,redirect,0xBAA1,1,,,
+673,0xC35D,redirect,0xBAA2,1,,,
+674,0xC370,redirect,0xBAA3,1,,,
+675,0xC397,redirect,0xBAA4,1,,,
+676,0xC3C4,redirect,0xBAA5,1,,,
+677,0xC3E1,redirect,0xBAA6,1,,,
+678,0xC3FE,redirect,0xBAA7,1,,,
+679,0xC421,redirect,0xBAA8,1,,,
+680,0xC448,redirect,0xBAA9,1,,,
+681,0xC477,redirect,0xBAAA,1,,,
+682,0xC4A0,redirect,0xBAAB,1,,,
+683,0xC4C7,redirect,0xBAAC,1,,,
+684,0xC4D6,redirect,0xBAAD,1,,,
+685,0xC4F7,redirect,0xBAAE,1,,,
+686,0xC514,redirect,0xBAAF,1,,,
+687,0xC55F,redirect,0xBAB0,1,,,
+688,0xC590,redirect,0xBAB1,1,,,
+689,0xC5C1,redirect,0xBAB2,1,,,
+690,0xC5E0,redirect,0xBAB3,1,,,
+691,0xC5EB,redirect,0xBAB4,1,,,
+692,0xC60A,redirect,0xBAB5,10,Go inside,,
+693,0xC613,redirect,0xBABF,1,,,
+694,0xC630,redirect,0xBAC0,1,,,
+695,0xC651,redirect,0xBAC1,1,,,
+696,0xC672,redirect,0xBAC2,1,,,
+697,0xC695,redirect,0xBAC3,1,,,
+698,0xC6AC,redirect,0xBAC4,1,,,
+699,0xC6CB,redirect,0xBAC5,1,,,
+700,0xC6EA,redirect,0xBAC6,57,I'll leave this to the police while I\ngo after that guy!,,
+701,0xC71D,redirect,0xBAFF,64,There's nothing else I can do\nhere.  I gotta go after that guy!,,1 isla(s) 91 inline
+702,0xC75E,redirect,0xBB42,34,If I hurry I can still catch him!,,
+703,0xC791,redirect,0xBB64,49,Lorraine's alright.  I should go\nafter that guy!,,
+704,0xC7B6,redirect,0xBB95,60,"I'm worried about Lorraine, but I\nshould go after that guy!",,1 isla(s) 91 inline
+705,0xC7DF,redirect,0xBBD4,32,If I don't hurry I'll lose him!,,1 isla(s) 91 inline
+706,0xC806,redirect,0xBBF7,41,If I'm gonna follow him I have to\nhurry.,,
+707,0xC829,redirect,0xBC20,45,Now's not the time to go back to\nthe office!,,
+708,0xC84A,redirect,0xBC4D,73,There's no point going back to the\noffice.  I need to go after that\nguy!,,1 isla(s) 91 inline
+709,0xC87F,redirect,0xBC99,1,,,
+710,0xC894,redirect,0xBC9A,1,,,
+711,0xC8A9,redirect,0xBC9B,1,,,
+712,0xC8CE,redirect,0xBC9C,12,Enter alley,,
+713,0xC8D9,redirect,0xBCA8,15,Go to Lorraine,,
+714,0xC8E8,redirect,0xBCB7,61,"I'm worried about Lorraine, but I\nneed to go after that guy.",,1 isla(s) 91 inline
+715,0xC921,redirect,0xBCF7,35,If I go back there he'll get away.,,2 isla(s) 91 inline
+716,0xC948,redirect,0xBD20,59,It's a mailbox.  I don't see anything\nout of the ordinary.,,
+717,0xC969,redirect,0xBD5B,53,It's a typical mailbox you'd find all\nover the city.,,1 isla(s) 91 inline
+718,0xC994,redirect,0xBD93,44,Just a dumpster.  Nothing strange\nabout it.,,1 isla(s) 91 inline
+719,0xC9B7,redirect,0xBDC2,33,It's a run-of-the-mill dumpster.,,1 isla(s) 91 inline
+720,0xC9D6,redirect,0xBDE6,45,This place is pretty well known\naround here.,,2 isla(s) 91 inline
+721,0xC9F7,redirect,0xBE19,59,That's this restaurant's sign.  It's\npurposefully low-key.,,1 isla(s) 91 inline
+722,0xCA22,redirect,0xBE57,49,They've got their menu on display\nin the window.,,1 isla(s) 91 inline
+723,0xCA43,redirect,0xBE8B,103,It's the entrance to this\nrestaurant.{80238057}You can't see in from outside\nthanks to the adjustable glass.,,4 isla(s) 91 inline
+724,0xCA70,redirect,0xBEFE,51,This is the last place you'd wanna\ntake your kids.,,1 isla(s) 91 inline
+725,0xCA99,redirect,0xBF34,95,"It comes off as some innocent little\nbistro, but their real business is\nselling VR child porn.",,4 isla(s) 91 inline
+726,0xCABE,redirect,0xBF9F,22,He didn't go in here.,,1 isla(s) 91 inline
+727,0xCAE1,redirect,0xBFB8,27,He escaped down the alley.,,
+728,0xCAFE,redirect,0xBFD3,40,There's no reason for me to go in\nhere.,,1 isla(s) 91 inline
+729,0xCB17,redirect,0xBFFE,43,I haven't got time to waste on this\nplace.,,1 isla(s) 91 inline
+730,0xCB36,redirect,0xC02C,31,That's this place's signboard.,,1 isla(s) 91 inline
+731,0xCB53,redirect,0xC04E,48,It's the club's sign.  It's decked\nout in neon.,,1 isla(s) 91 inline
+732,0xCB7E,redirect,0xC081,123,This is a strip club filled with\nso-called women who've\n\n undergone complete sex\nchanges.{80238057}I was inside for a case once.,,3 isla(s) 91 inline
+733,0xCBD1,redirect,0xC105,84,"They're called ""biovestites"" {D0}{06}\npeople who've had sex changes\nthrough gene therapy.",,6 isla(s) 91 inline
+734,0xCC16,redirect,0xC16E,43,"This city's famous for 'em,\nunfortunately.",,
+735,0xCC2D,redirect,0xC199,72,"I wouldn't set foot in here again\non a normal day, let alone right\nnow.",,5 isla(s) 91 inline
+736,0xCC5E,redirect,0xC1F0,62,He escaped down the alley.  I've\ngot no reason to go in here.,,4 isla(s) 91 inline
+737,0xCC8D,redirect,0xC23A,49,He's not inside here.  I should\nhurry after him.,,1 isla(s) 91 inline
+738,0xCCB8,redirect,0xC26E,61,He's gone down the alley.  I\nhaven't got time to waste here.,,2 isla(s) 91 inline
+739,0xCCD7,redirect,0xC2B1,43,There's some snow at the side of\nthe road.,,2 isla(s) 91 inline
+740,0xCCF2,redirect,0xC2E2,44,"It's started to melt, from the looks\nof it.",,1 isla(s) 91 inline
+741,0xCD09,redirect,0xC311,45,Maybe I'll be able to follow his\nfootprints.,,1 isla(s) 91 inline
+742,0xCD36,redirect,0xC341,18,"Okay, here we go.",,1 isla(s) 91 inline
+743,0xCD51,redirect,0xC356,42,It's an alleyway.  Goes back quite a\nbit.,,2 isla(s) 91 inline
+744,0xCD6E,redirect,0xC386,27,I don't see him from here.,,1 isla(s) 91 inline
+745,0xCD8D,redirect,0xC3A4,30,He definitely went down here.,,
+746,0xCDAE,redirect,0xC3C2,42,I'm pretty sure this leads to a dead\nend.,,2 isla(s) 91 inline
+747,0xCDDB,redirect,0xC3F2,1,,,
+748,0xCDF2,redirect,0xC3F3,1,,,
+749,0xCE21,redirect,0xC3F4,1,,,
+750,0xCE60,redirect,0xC3F5,5,Move,,
+751,0xCE65,redirect,0xC3FA,8,Advance,,1 isla(s) 91 inline
+752,0xCE6E,redirect,0xC405,17,Return to street,,
+753,0xCE7B,redirect,0xC416,31,Lorraine doesn't look too bad.,,1 isla(s) 91 inline
+754,0xCE94,redirect,0xC438,36,I need to find out who this guy is.,,1 isla(s) 91 inline
+755,0xCEAF,redirect,0xC45F,43,If I go back to the street he'll get\naway.,,1 isla(s) 91 inline
+756,0xCED8,redirect,0xC48D,7,System,,
+757,0xCEE1,redirect,0xC494,66,"Alright, I'll check out that hollow\non the right while I'm at it.",,3 isla(s) 91 inline
+758,0xCF0C,redirect,0xC4DF,36,"Hmm, not here.  I'll keep on\ngoing.",,1 isla(s) 91 inline
+759,0xCF35,redirect,0xC506,26,"Yeah, I should head back.",,1 isla(s) 91 inline
+760,0xCF50,redirect,0xC523,5,Look,,
+761,0xCF55,redirect,0xC528,65,Someone's placed some garbage\nbags next to it.  Maybe it's full.,,1 isla(s) 91 inline
+762,0xCF82,redirect,0xC56C,42,He's not here.  I should hurry\nafter him!,,1 isla(s) 91 inline
+763,0xCFB3,redirect,0xC599,31,He wasn't hiding behind there.,,
+764,0xCFE0,redirect,0xC5B8,33,I can't see very well from here.,,1 isla(s) 91 inline
+765,0xCFFB,redirect,0xC5DC,95,"It's a dumpster.  There's just\nenough room for someone to hide\nbehind it, or maybe even in it.",,5 isla(s) 91 inline
+766,0xD044,redirect,0xC64A,49,It's the same kind as the one out\nby the street.,,2 isla(s) 91 inline
+767,0xD065,redirect,0xC681,35,This is the dumpster I saw before.,,1 isla(s) 91 inline
+768,0xD080,redirect,0xC6A7,41,He's not here.  He escaped\nfurther back!,,2 isla(s) 91 inline
+769,0xD0A5,redirect,0xC6D6,38,I didn't see him hiding behind\nthere.,,1 isla(s) 91 inline
+770,0xD0D4,redirect,0xC6FF,24,I can't tell from here.,,
+771,0xD0EF,redirect,0xC717,25,There's a drum up ahead.,,1 isla(s) 91 inline
+772,0xD128,redirect,0xC733,31,This is the drum I saw before.,,
+773,0xD13F,redirect,0xC752,18,"So, this is his. ",,1 isla(s) 91 inline
+774,0xD170,redirect,0xC767,38,The blood continues all the way\nback.,,
+775,0xD193,redirect,0xC78D,39,This his blood? It leads further\nback.,,2 isla(s) 91 inline
+776,0xD1C0,redirect,0xC7BA,1,,,
+777,0xD1EB,redirect,0xC7BB,1,,,
+778,0xD214,redirect,0xC7BC,27,He's losing a helluva lot.,,
+779,0xD243,redirect,0xC7D7,41,He's not here.  He escaped\nfurther back.,,1 isla(s) 91 inline
+780,0xD26C,redirect,0xC803,61,I checked in there when I was\nwalking by.  He wasn't inside.,,2 isla(s) 91 inline
+781,0xD29B,redirect,0xC846,43,I didn't notice anything unusual\nabout it.,,1 isla(s) 91 inline
+782,0xD2C0,redirect,0xC874,29,He might be hiding in there.,,1 isla(s) 91 inline
+783,0xD2E1,redirect,0xC897,32,It's too dark to see from here.,,1 isla(s) 91 inline
+784,0xD302,redirect,0xC8BA,23,He escaped back there.,,1 isla(s) 91 inline
+785,0xD31B,redirect,0xC8D4,30,The alley goes straight back.,,2 isla(s) 91 inline
+786,0xD336,redirect,0xC8F8,39,He escaped ahead.  I gotta follow\nhim!,,
+787,0xD359,redirect,0xC91F,45,He's further back.  I need to keep\non going.,,2 isla(s) 91 inline
+788,0xD376,redirect,0xC952,45,I can't see from here.  I should\nmove ahead.,,1 isla(s) 91 inline
+789,0xD399,redirect,0xC982,38,Looks like it continues further\nback.,,1 isla(s) 91 inline
+790,0xD3B2,redirect,0xC9AB,36,It's too dark to make out anything.,,1 isla(s) 91 inline
+791,0xD3C7,redirect,0xC9D2,81,This is made out of brick.  It\ndoesn't look like there's anywhere\nhe could hide.,,3 isla(s) 91 inline
+792,0xD3F8,redirect,0xCA2C,35,There's a dumpster up ahead\nthere.,,1 isla(s) 91 inline
+793,0xD41B,redirect,0xCA52,56,If I just follow the wall I should be\nable to find him!,,1 isla(s) 91 inline
+794,0xD442,redirect,0xCA8D,30,There's nowhere for him here.,,1 isla(s) 91 inline
+795,0xD46D,redirect,0xCAAE,64,No fire escape either.  He could\nonly have gone straight ahead.,,2 isla(s) 91 inline
+796,0xD4A4,redirect,0xCAF4,43,It doesn't seem likely he climbed\nup here.,,2 isla(s) 91 inline
+797,0xD4D5,redirect,0xCB25,21,Same goes for these.,,1 isla(s) 91 inline
+798,0xD4EA,redirect,0xCB3D,16,These pipes....,,
+799,0xD4FF,redirect,0xCB4D,79,There's barbed wire all over\nthem.  It doesn't look like you\ncould climb them.,,2 isla(s) 91 inline
+800,0xD542,redirect,0xCBA2,22,It's a concrete wall.,,
+801,0xD561,redirect,0xCBB8,37,"Let's see, up ahead there we\nhave...",,1 isla(s) 91 inline
+802,0xD570,redirect,0xCBE0,10,a drum...,,
+803,0xD585,redirect,0xCBEA,57,a hollow that looks big enough for\nsomeone to hide in...,,1 isla(s) 91 inline
+804,0xD5AA,redirect,0xCC26,49,That'd be the perfect place for\nsomeone to hide.,,1 isla(s) 91 inline
+805,0xD5C5,redirect,0xCC5A,48,"It continues like this, apart from\nthat hollow.",,1 isla(s) 91 inline
+806,0xD5F2,redirect,0xCC90,92,He wasn't hiding in that hollow\neither.  The only place he could've\ngone is straight ahead.,,2 isla(s) 91 inline
+807,0xD633,redirect,0xCCF5,103,"If the blood on the ground is his,\nit's not very likely he's hiding in\nthat hollow on the right there.",,3 isla(s) 91 inline
+808,0xD676,redirect,0xCD65,69,The one place that stands out by\nthe right-hand wall is that hollow.,,3 isla(s) 91 inline
+809,0xD6AD,redirect,0xCDB3,37,There aren't any pipes on this\nwall.,,
+810,0xD6CE,redirect,0xCDD8,40,"If this is his, he's gotta be up\nahead.",,2 isla(s) 91 inline
+811,0xD6FB,redirect,0xCE06,56,"It doesn't look like he's here,\njudging from the blood.",,1 isla(s) 91 inline
+812,0xD738,redirect,0xCE41,13,Where is he?,,
+813,0xD741,redirect,0xCE4E,36,More blood? He must be around\nhere.,,3 isla(s) 91 inline
+814,0xD764,redirect,0xCE7E,37,He's gotta be around here\nsomewhere.,,1 isla(s) 91 inline
+815,0xD78F,redirect,0xCEA6,33,His blood definitely stops here.,,1 isla(s) 91 inline
+816,0xD7C0,redirect,0xCECA,43,Dammit! I wasted a lot of time\nback there.,,2 isla(s) 91 inline
+817,0xD7ED,redirect,0xCEFB,8,Retreat,,
+818,0xD7F6,redirect,0xCF03,51,He escaped down here.  There's\nno time to go back!,,2 isla(s) 91 inline
+819,0xD821,redirect,0xCF3C,47,If I go back now I'll be letting him\nget away!,,2 isla(s) 91 inline
+820,0xD84E,redirect,0xCF71,28,He's around here somewhere.,,1 isla(s) 91 inline
+821,0xD86B,redirect,0xCF90,51,He's hiding around here\nsomewhere.  He's gotta be.,,1 isla(s) 91 inline
+822,0xD896,redirect,0xCFC6,51,I might've missed something. \nBetter double check.,,2 isla(s) 91 inline
+823,0xD8BD,redirect,0xCFFF,46,He isn't here anymore.  I should\ngo on ahead!,,
+824,0xD8E4,redirect,0xD02D,33,"Jesus, I can smell it from here.",,1 isla(s) 91 inline
+825,0xD8FF,redirect,0xD051,33,He could easily be inside there.,,1 isla(s) 91 inline
+826,0xD924,redirect,0xD075,40,I'd have to get closer to check it\nout.,,1 isla(s) 91 inline
+827,0xD947,redirect,0xD0A0,36,It looks like it's full of garbage.,,1 isla(s) 91 inline
+828,0xD960,redirect,0xD0C7,46,There don't seem to be any\nbloodstains on it.,,2 isla(s) 91 inline
+829,0xD987,redirect,0xD0FB,32,This was done with spray paint.,,
+830,0xD9A2,redirect,0xD11B,37,It looks like this was already here.,,2 isla(s) 91 inline
+831,0xD9C5,redirect,0xD146,41,This definitely doesn't look like\nblood.,,
+832,0xD9E0,redirect,0xD16F,104,These garbage bags have been\nplaced next to the dumpster. \n\n They're made out of biodegradable\nplastic.,,3 isla(s) 91 inline
+833,0xDA15,redirect,0xD1E0,70,The plastic has started to\ndecompose.  They must've been\nhere awhile.,,2 isla(s) 91 inline
+834,0xDA52,redirect,0xD22C,52,A rat was inside the bag.  Can't say\nI'm surprised.,,1 isla(s) 91 inline
+835,0xDA6D,redirect,0xD263,65,There's no point wasting time with\nthese.  He's gone back there!,,2 isla(s) 91 inline
+836,0xDA8E,redirect,0xD2AA,45,He couldn't possibly be inside one\nof these.,,1 isla(s) 91 inline
+837,0xDAAB,redirect,0xD2DA,45,It looks like the bags are full of old\nfood.,,2 isla(s) 91 inline
+838,0xDAD6,redirect,0xD30D,8,Hmm....,,
+839,0xDAE5,redirect,0xD315,38,Doesn't look like he's hiding\ninside.,,2 isla(s) 91 inline
+840,0xDB06,redirect,0xD341,54,No sign he used it to climb up\nsomewhere else either.,,2 isla(s) 91 inline
+841,0xDB2D,redirect,0xD37D,77,"There's nowhere he could climb\nto anyway, from what I could tell\nback there.",,3 isla(s) 91 inline
+842,0xDB68,redirect,0xD3D3,34,There's nothing unusual about it.,,
+843,0xDB85,redirect,0xD3F5,43,There aren't any bloodstains on it\neither.,,2 isla(s) 91 inline
+844,0xDBAA,redirect,0xD426,22,The trail stops here.,,
+845,0xDBCD,redirect,0xD43C,30,Meaning he can't be far away.,,1 isla(s) 91 inline
+846,0xDBF2,redirect,0xD45D,30,This blood is definitely his.,,1 isla(s) 91 inline
+847,0xDC23,redirect,0xD47E,57,The blood stops here.  He must\nbe somewhere around here.,,1 isla(s) 91 inline
+848,0xDC50,redirect,0xD4BA,62,That looks like one of the\nbuilding's air conditioning ducts.,,2 isla(s) 91 inline
+849,0xDC6F,redirect,0xD4FE,36,This duct is just like those pipes.,,1 isla(s) 91 inline
+850,0xDC9E,redirect,0xD525,14,This duct....,,
+851,0xDCB3,redirect,0xD533,66,It's got barbed wire all over it.  He\ncouldn't have climbed this.,,3 isla(s) 91 inline
+852,0xDCEC,redirect,0xD57E,43,There aren't any bloodstains on it\neither.,,2 isla(s) 91 inline
+853,0xDD07,redirect,0xD5AF,87,That's the building's ventilation\nshaft.  The grate doesn't look like\nit's been moved.,,2 isla(s) 91 inline
+854,0xDD32,redirect,0xD60C,40,A person could never fit through\nthere.,,1 isla(s) 91 inline
+855,0xDD4D,redirect,0xD637,56,There's just no way anyone could\never fit inside there.,,
+856,0xDD7E,redirect,0xD66F,75,"You would be able to reach it if\nyou stood on top of the dumpster,\nthough.",,2 isla(s) 91 inline
+857,0xDDB9,redirect,0xD6C0,30,These pipes are all the same.,,1 isla(s) 91 inline
+858,0xDDE2,redirect,0xD6E1,60,They've got barbed wire on them. \nYou couldn't climb these.,,1 isla(s) 91 inline
+859,0xDE17,redirect,0xD720,63,"Even without the barbed wire,\nthey're still too high to reach.",,3 isla(s) 91 inline
+860,0xDE50,redirect,0xD768,65,They have barbed wire on them.  I\ndoubt anyone could climb them.,,1 isla(s) 91 inline
+861,0xDE83,redirect,0xD7AC,45,There aren't any bloodstains on\nthem either.,,1 isla(s) 91 inline
+862,0xDEAE,redirect,0xD7DC,42,There's no way he could've\nclimbed these.,,2 isla(s) 91 inline
+863,0xDECF,redirect,0xD80C,40,They must be water or electrical\npipes.,,1 isla(s) 91 inline
+864,0xDEEA,redirect,0xD837,47,There are pipes running all over\nthe building.,,1 isla(s) 91 inline
+865,0xDF0F,redirect,0xD869,44,This wall's got pipes going up and\ndown it.,,2 isla(s) 91 inline
+866,0xDF2E,redirect,0xD89B,12,More pipes.,,
+867,0xDF49,redirect,0xD8A7,18,Same kinda setup.,,
+868,0xDF64,redirect,0xD8B9,77,It's one of the building's windows. \nIt's been boarded over from the\ninside.,,3 isla(s) 91 inline
+869,0xDF85,redirect,0xD90F,22,He didn't go in here.,,1 isla(s) 91 inline
+870,0xDF9C,redirect,0xD928,51,It doesn't look like it's been forced\nopen either.,,1 isla(s) 91 inline
+871,0xDFBB,redirect,0xD95E,54,"You couldn't reach it anyway, even\nfrom the dumpster.",,2 isla(s) 91 inline
+872,0xDFE6,redirect,0xD99A,50,Those are wooden boxes filled\nwith empty bottles.,,2 isla(s) 91 inline
+873,0xDFFD,redirect,0xD9D2,55,They'd be the perfect size for\nsomeone to hide behind.,,1 isla(s) 91 inline
+874,0xE02C,redirect,0xDA0C,39,The bottles are all smashed to\npieces.,,1 isla(s) 91 inline
+875,0xE047,redirect,0xDA36,33,He could be hiding behind there.,,1 isla(s) 91 inline
+876,0xE06E,redirect,0xDA5A,41,That's definitely one place he\ncould be.,,1 isla(s) 91 inline
+877,0xE08F,redirect,0xDA86,46,It's also right around where the\nblood stops.,,2 isla(s) 91 inline
+878,0xE0B6,redirect,0xDABA,58,You'd have a perfect view of the\nalley from behind there.,,2 isla(s) 91 inline
+879,0xE0DF,redirect,0xDAFA,52,This is where he was hiding.  I\ngotta go after him!,,2 isla(s) 91 inline
+880,0xE108,redirect,0xDB34,46,It's too dark to make out anything\nfrom here.,,
+881,0xE131,redirect,0xDB62,37,"Son of a bitch, I can't see a thing.",,2 isla(s) 91 inline
+882,0xE156,redirect,0xDB8D,71,"He certainly could be in there. \nThere's something about it,\nactually.",,2 isla(s) 91 inline
+883,0xE18D,redirect,0xDBDA,36,I'd better be careful around there.,,1 isla(s) 91 inline
+884,0xE1B8,redirect,0xDC01,41,That other doorway is a possibility\ntoo.,,1 isla(s) 91 inline
+885,0xE1D5,redirect,0xDC2D,50,It matches up exactly with where\nthe blood stops.,,1 isla(s) 91 inline
+886,0xE1FA,redirect,0xDC62,36,He's not here.  He's gone up\nahead!,,1 isla(s) 91 inline
+887,0xE221,redirect,0xDC89,37,He's not here.  He escaped up\nahead.,,1 isla(s) 91 inline
+888,0xE246,redirect,0xDCB1,42,He's up ahead.  I should go on\nafter him.,,1 isla(s) 91 inline
+889,0xE269,redirect,0xDCDE,45,He fled back there.  I have to go\nafter him!,,2 isla(s) 91 inline
+890,0xE294,redirect,0xDD11,36,He's gone up ahead.  I gotta\nhurry!,,1 isla(s) 91 inline
+891,0xE2BF,redirect,0xDD38,54,I'll only be wasting more time if I\nhang around here!,,1 isla(s) 91 inline
+892,0xE2EE,redirect,0xDD71,55,I can't see anything from here.  I\nshould go on ahead!,,1 isla(s) 91 inline
+893,0xE311,redirect,0xDDAB,31,The alley goes back some more.,,1 isla(s) 91 inline
+894,0xE330,redirect,0xDDCD,31,It's too dark to see up ahead.,,1 isla(s) 91 inline
+895,0xE353,redirect,0xDDEF,24,I should move on ahead.,,
+896,0xE36E,redirect,0xDE07,33,I am NOT gonna let you get away.,,1 isla(s) 91 inline
+897,0xE37D,redirect,0xDE2B,32,I've wasted too much time here.,,
+898,0xE3A8,redirect,0xDE4B,50,He has to be around here. \nLemme check some more.,,1 isla(s) 91 inline
+899,0xE3D7,redirect,0xDE80,41,I'm guessing he's around here\nsomewhere.,,1 isla(s) 91 inline
+900,0xE400,redirect,0xDEAC,35,This is where his blood stops too.,,2 isla(s) 91 inline
+901,0xE41F,redirect,0xDED5,40,It looks like a dead end just up\nahead.,,1 isla(s) 91 inline
+902,0xE44A,redirect,0xDF00,21,The blood ends here.,,1 isla(s) 91 inline
+903,0xE46F,redirect,0xDF18,39,There's nowhere for him to hide\nthere.,,1 isla(s) 91 inline
+904,0xE48C,redirect,0xDF42,56,I think he's more likely to be\nbehind one of the boxes.,,2 isla(s) 91 inline
+905,0xE4AD,redirect,0xDF80,1,,,
+906,0xE4DC,redirect,0xDF81,1,,,
+907,0xE4FF,redirect,0xDF82,1,,,
+908,0xE530,redirect,0xDF83,1,,,
+909,0xE54D,redirect,0xDF84,1,,,
+910,0xE574,redirect,0xDF88,1,,,
+911,0xE59B,redirect,0xDF89,66,"I can't just turn back now, after\nfollowing him all the way here.",,2 isla(s) 91 inline
+912,0xE5D2,redirect,0xDFD1,35,If I turn back now he'll get away.,,1 isla(s) 91 inline
+913,0xE5EF,redirect,0xDFF7,46,There isn't enough room to hide\nbehind these.,,1 isla(s) 91 inline
+914,0xE60A,redirect,0xE028,15,He's not here.,,1 isla(s) 91 inline
+915,0xE623,redirect,0xE03A,32,It doesn't look like he's here.,,1 isla(s) 91 inline
+916,0xE64C,redirect,0xE05D,15,He isn't here.,,
+917,0xE665,redirect,0xE06C,60,"There are more wooden boxes\nhere.  These are empty, though.",,2 isla(s) 91 inline
+918,0xE698,redirect,0xE0AE,21,More boxes here too.,,1 isla(s) 91 inline
+919,0xE6C1,redirect,0xE0C6,65,This wall goes all the way back. \nThere's nowhere he could hide.,,2 isla(s) 91 inline
+920,0xE6F0,redirect,0xE10D,38,There aren't any places to hide\nhere.,,1 isla(s) 91 inline
+921,0xE711,redirect,0xE136,34,There's nowhere to hide\nanywhere.,,1 isla(s) 91 inline
+922,0xE732,redirect,0xE15B,59,It's a concrete wall.  I don't see\nanywhere he could hide.,,1 isla(s) 91 inline
+923,0xE76F,redirect,0xE199,37, I don't think you could climb this.,,1 isla(s) 91 inline
+924,0xE79A,redirect,0xE1C1,74,Even if you used the boxes as a\nfoothold you still wouldn't get\nanywhere.,,2 isla(s) 91 inline
+925,0xE7CD,redirect,0xE211,67,The only place someone could\nhide would be that hollow over\nthere.,,2 isla(s) 91 inline
+926,0xE7F8,redirect,0xE25A,49,I don't think he'd hide in the same\nplace twice.,,1 isla(s) 91 inline
+927,0xE81F,redirect,0xE28E,72,"I can't see very well, but I'm pretty\nsure this is a dead end up ahead.",,2 isla(s) 91 inline
+928,0xE85C,redirect,0xE2DC,64,There's nowhere to hide here at\nall.  It's a dead end up ahead.,,2 isla(s) 91 inline
+929,0xE897,redirect,0xE322,55,"I just don't get it, there's nowhere\nhe could've gone.",,2 isla(s) 91 inline
+930,0xE8B0,redirect,0xE35F,29,Is he hiding in there again?,,2 isla(s) 91 inline
+931,0xE8C7,redirect,0xE382,31,I can't really tell from here.,,
+932,0xE8EA,redirect,0xE3A1,81,"You're gonna kill me, huh? So\nwhat's taking you so long? Show\nyourself, asshole!",,2 isla(s) 91 inline
+933,0xE935,redirect,0xE3F8,1,,,
+934,0xE94C,redirect,0xE3F9,1,,,
+935,0xE979,redirect,0xE3FA,1,,,
+936,0xE98C,redirect,0xE3FB,1,,,
+937,0xE99F,redirect,0xE3FC,70,"He left this message for me.  He\nshould still be around here,\nthough.",,2 isla(s) 91 inline
+938,0xE9D2,redirect,0xE448,53,He wrote this in his own blood. \nThe guy's a psycho.,,2 isla(s) 91 inline
+939,0xEA05,redirect,0xE483,97,It's a dead end up here.  There's\nno need to hurry.  I should check\nthis area out a little more.,,3 isla(s) 91 inline
+940,0xEA46,redirect,0xE4ED,63,If he comes running down here I'll\nhave a perfect shot at him.,,1 isla(s) 91 inline
+941,0xEA71,redirect,0xE52F,1,,,
+942,0xEA84,redirect,0xE533,1,,,
+943,0xEA97,redirect,0xE534,1,,,
+944,0xEAB6,redirect,0xE535,1,,,
+945,0xEAC5,redirect,0xE536,1,,,
+946,0xEAFE,redirect,0xE537,1,,,
+947,0xEB33,redirect,0xE538,1,,,
+948,0xEB5E,redirect,0xE539,1,,,
+949,0xEB85,redirect,0xE53A,1,,,
+950,0xEBC2,redirect,0xE53B,1,,,
+951,0xEBD7,redirect,0xE53C,1,,,
+952,0xEBF4,redirect,0xE53D,1,,,
+953,0xEC07,redirect,0xE53E,1,,,
+954,0xEC48,redirect,0xE53F,1,,,
+955,0xEC55,redirect,0xE540,1,,,
+956,0xEC80,redirect,0xE541,1,,,
+957,0xEC8D,redirect,0xE542,1,,,
+958,0xECAA,redirect,0xE543,1,,,
+959,0xED29,redirect,0xE544,1,,,
+960,0xED5C,redirect,0xE545,1,,,

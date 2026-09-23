@@ -1,0 +1,1093 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x4679,redirect,0x4391,29,We're outside Hojo's house.{0D},,
+1,0x468C,redirect,0x43AE,32,We've arrived at Hojo's house.{0D},,1 isla(s) 91 inline
+2,0x469F,redirect,0x43D1,29,We're outside Hojo's place.{0D},,1 isla(s) 91 inline
+3,0x46B6,redirect,0x43F1,24,We're at Hojo's house.{0D},,
+4,0x46D1,redirect,0x4409,59,Let's go look for the CD the\ninformant was talking about.{0D},,3 isla(s) 91 inline
+5,0x46FE,redirect,0x444D,2,{0D},,
+6,0x4709,redirect,0x444F,2,{0D},,
+7,0x472A,redirect,0x4451,2,{0D},,
+8,0x474B,redirect,0x4453,2,{0D},,
+9,0x475A,redirect,0x4455,2,{0D},,
+10,0x4769,redirect,0x4457,12,You ready?{0D},,
+11,0x477C,redirect,0x4463,25,I'll ring the doorbell.{0D},,1 isla(s) 91 inline
+12,0x4791,redirect,0x447F,2,{0D},,
+13,0x47A6,redirect,0x4481,2,{0D},,
+14,0x47E9,redirect,0x4483,2,{0D},,
+15,0x480E,redirect,0x4485,2,{0D},,
+16,0x484D,redirect,0x4487,2,{0D},,
+17,0x485E,redirect,0x4489,2,{0D},,
+18,0x486F,redirect,0x448E,2,{0D},,
+19,0x4886,redirect,0x4490,2,{0D},,
+20,0x489F,redirect,0x4492,2,{0D},,
+21,0x48AA,redirect,0x4494,2,{0D},,
+22,0x48DB,redirect,0x4496,2,{0D},,
+23,0x48EC,redirect,0x4498,2,{0D},,
+24,0x491B,redirect,0x449A,2,{0D},,
+25,0x494C,redirect,0x449C,2,{0D},,
+26,0x4969,redirect,0x449E,2,{0D},,
+27,0x49D4,redirect,0x44A3,2,{0D},,
+28,0x4A0B,redirect,0x44A5,2,{0D},,
+29,0x4A24,redirect,0x44A7,2,{0D},,
+30,0x4A6F,redirect,0x44A9,5,...{0D},,
+31,0x4A76,redirect,0x44AE,2,{0D},,
+32,0x4A9D,redirect,0x44B0,2,{0D},,
+33,0x4AE0,redirect,0x44B2,2,{0D},,
+34,0x4AEF,redirect,0x44B4,2,{0D},,
+35,0x4B1C,redirect,0x44B6,2,{0D},,
+36,0x4B41,redirect,0x44B8,2,{0D},,
+37,0x4B6A,redirect,0x44BA,2,{0D},,
+38,0x4BA3,redirect,0x44BC,2,{0D},,
+39,0x4BF0,redirect,0x44BE,2,{0D},,
+40,0x4C21,redirect,0x44C0,2,{0D},,
+41,0x4C62,redirect,0x44C2,2,{0D},,
+42,0x4CA3,redirect,0x44C4,2,{0D},,
+43,0x4CE8,redirect,0x44C6,2,{0D},,
+44,0x4D17,redirect,0x44C8,2,{0D},,
+45,0x4D40,redirect,0x44CA,2,{0D},,
+46,0x4D5D,redirect,0x44CC,2,{0D},,
+47,0x4DAA,redirect,0x44CE,2,{0D},,
+48,0x4DE1,redirect,0x44D0,2,{0D},,
+49,0x4DFA,redirect,0x44D2,2,{0D},,
+50,0x4E35,redirect,0x44D4,2,{0D},,
+51,0x4E4C,redirect,0x44D6,2,{0D},,
+52,0x4E63,redirect,0x44D8,2,{0D},,
+53,0x4E86,redirect,0x44DA,2,{0D},,
+54,0x4E97,redirect,0x44DC,2,{0D},,
+55,0x4EA4,redirect,0x44DE,2,{0D},,
+56,0x4EB1,redirect,0x44E0,44,"Oh, did you you forget\nsomething? Come in.{0D}",,
+57,0x4ED8,redirect,0x450C,43,Have you forgotten something?\nCome on in.{0D},,2 isla(s) 91 inline
+58,0x4EFB,redirect,0x453D,54,"Oh, it's you guys.  Got more\nquestions? Come inside.{0D}",,2 isla(s) 91 inline
+59,0x4F2E,redirect,0x4579,37,"Oh, it's you two.  Please, come in.{0D}",,
+60,0x4F65,redirect,0x459E,47,"Forget something, did we? It's\nokay, come in.{0D}",,2 isla(s) 91 inline
+61,0x4F86,redirect,0x45D3,73,"What is it, guys? It's okay, you're\nwelcome here anytime.  Come\ninside.{0D}",,3 isla(s) 91 inline
+62,0x4FC1,redirect,0x4625,57,I just... had to see you again\nbefore we loaded the CD.{0D},,
+63,0x4FFA,redirect,0x465E,15,Sure you did.{0D},,1 isla(s) 91 inline
+64,0x500D,redirect,0x4670,34,"Let's make this quick, Jonathan.{0D}",,2 isla(s) 91 inline
+65,0x5034,redirect,0x4698,37,"Oh, hey guys.  Please, come\ninside.{0D}",,2 isla(s) 91 inline
+66,0x5067,redirect,0x46C3,60,"Oh, Jonathan, Ed.  How's the\ninvestigation going? Come in.{0D}",,2 isla(s) 91 inline
+67,0x50B6,redirect,0x4705,32,"Oh, Jonathan, Ed.  Come on in.{0D}",,1 isla(s) 91 inline
+68,0x50E3,redirect,0x4728,17,Do come inside.{0D},,1 isla(s) 91 inline
+69,0x50F8,redirect,0x473C,6,Move{0D},,
+70,0x50FD,redirect,0x4742,11,Go inside{0D},,1 isla(s) 91 inline
+71,0x5106,redirect,0x4750,7,Drive{0D},,
+72,0x510F,redirect,0x4757,27,"I just can't do this, Ed.{0D}",,2 isla(s) 91 inline
+73,0x512A,redirect,0x4778,43,"I know this must be hard for you,\nbut....{0D}",,3 isla(s) 91 inline
+74,0x5141,redirect,0x47AC,41,I'm sorry.  I'm not ready for this\nyet.{0D},,
+75,0x5160,redirect,0x47D5,31,Let's come back another time.{0D},,1 isla(s) 91 inline
+76,0x5177,redirect,0x47F7,37,"We need to talk to Karen,\nJonathan.{0D}",,1 isla(s) 91 inline
+77,0x519C,redirect,0x481F,37,We've already been everywhere\nelse.{0D},,
+78,0x51BF,redirect,0x4844,42,You can't keep putting this off\nforever.{0D},,3 isla(s) 91 inline
+79,0x5200,redirect,0x4877,34,This is the last lead we've got.{0D},,1 isla(s) 91 inline
+80,0x5225,redirect,0x489C,8,System{0D},,1 isla(s) 91 inline
+81,0x522E,redirect,0x48A7,6,Look{0D},,1 isla(s) 91 inline
+82,0x5233,redirect,0x48B0,53,The building's got a hint of\nJapanese architecture.{0D},,1 isla(s) 91 inline
+83,0x5258,redirect,0x48E8,71,This is just stunning.  You don't\nsee many houses this big on\nBeyond.{0D},,2 isla(s) 91 inline
+84,0x52A7,redirect,0x4935,48,Especially ones with nonstandard\narchitecture.{0D},,1 isla(s) 91 inline
+85,0x52BE,redirect,0x4968,27,Nonstandard architecture?{0D},,1 isla(s) 91 inline
+86,0x52D1,redirect,0x4986,29,It goes beyond the columns?{0D},,
+87,0x52E4,redirect,0x49A3,91,All residential buildings on the\ncolony have to follow certain\narchitectural regulations.{0D},,1 isla(s) 91 inline
+88,0x531D,redirect,0x4A01,67,"Even if you own the land, you can't\njust build anything you want.{0D}",,2 isla(s) 91 inline
+89,0x535E,redirect,0x4A4A,54,Sounds like fun.  So is this place\nbreaking the law?{0D},,2 isla(s) 91 inline
+90,0x5389,redirect,0x4A86,57,They'll get away with it because\nthey're with Tokugawa.{0D},,1 isla(s) 91 inline
+91,0x53B8,redirect,0x4AC2,29,"They make exceptions, then.{0D}",,
+92,0x53C9,redirect,0x4ADF,69,It's a magnificent structure.  Well\nout of reach of people like us.{0D},,3 isla(s) 91 inline
+93,0x53F6,redirect,0x4B2D,41,It has a real extravagant\nconstruction.{0D},,1 isla(s) 91 inline
+94,0x5417,redirect,0x4B59,82,Extravagant meaning wasteful. \nExtravagance is one of the biggest\nluxuries here.{0D},,2 isla(s) 91 inline
+95,0x5460,redirect,0x4BB1,41,Could you really call this\nextravagant?{0D},,
+96,0x546F,redirect,0x4BDA,49,This is like cramming a couch into\na spaceship.{0D},,1 isla(s) 91 inline
+97,0x54A4,redirect,0x4C0E,47,We can't see inside for the\nadjustable glass.{0D},,1 isla(s) 91 inline
+98,0x54D9,redirect,0x4C40,140,"With the colony shaped like a\ncylinder, normally both neighbors\nare able to see inside your house.\n It's one of Beyond's biggest\nproblems.{0D}",,2 isla(s) 91 inline
+99,0x5522,redirect,0x4CD2,36,Look at all the windows they have.{0D},,1 isla(s) 91 inline
+100,0x5539,redirect,0x4CF9,104,You'd only have this many\nwindows if your house faced the\ncentral axis.{80238057}Nice view they have inside.{0D},,3 isla(s) 91 inline
+101,0x556C,redirect,0x4D6A,63,This place faces the central axis. \nIt must have a nice view.{0D},,
+102,0x559D,redirect,0x4DA9,45,You wouldn't normally have so\nmany windows.{0D},,1 isla(s) 91 inline
+103,0x55B6,redirect,0x4DD9,73,These windows are made from\nadjustable glass.  You can't see in\nat all.{0D},,2 isla(s) 91 inline
+104,0x55F7,redirect,0x4E28,50,Why don't you fit your house with\nthese windows?{0D},,2 isla(s) 91 inline
+105,0x5622,redirect,0x4E60,72,"Well, this place faces the central\naxis.  They have a reason for\nthem.{0D}",,5 isla(s) 91 inline
+106,0x5655,redirect,0x4EB7,61,My place doesn't have a view\nanywhere near as nice as this.{0D},,1 isla(s) 91 inline
+107,0x567C,redirect,0x4EF7,54,These columns look like they're\nmade out of cypress.{0D},,2 isla(s) 91 inline
+108,0x568D,redirect,0x4F33,46,Normally we use reinforced\nlumber on Beyond.{0D},,
+109,0x56D6,redirect,0x4F61,20,Reinforced lumber?{0D},,1 isla(s) 91 inline
+110,0x56E7,redirect,0x4F78,132,Wood that doesn't burn or rot. \nIt's to help prevent fires.{80238057}Any fire on the colony could\npotentially threaten the entire\nplace.{0D},,3 isla(s) 91 inline
+111,0x5742,redirect,0x5005,29,So is this nonstandard too?{0D},,1 isla(s) 91 inline
+112,0x575B,redirect,0x5025,46,Yeah.  They aren't keeping with\nregulations.{0D},,1 isla(s) 91 inline
+113,0x5776,redirect,0x5056,60,They must be really well-off if\nthey can afford real wood.{0D},,1 isla(s) 91 inline
+114,0x57AB,redirect,0x5095,58,They do look nice.  You don't see\nthese very often here.{0D},,1 isla(s) 91 inline
+115,0x57EC,redirect,0x50D2,54,It's the front door.  There's a\ndoorbell next to it.{0D},,5 isla(s) 91 inline
+116,0x5819,redirect,0x5117,36,They've got a security camera too.{0D},,1 isla(s) 91 inline
+117,0x5836,redirect,0x513E,22,It's the front door.{0D},,1 isla(s) 91 inline
+118,0x5853,redirect,0x5157,35,It's the front door to the house.{0D},,2 isla(s) 91 inline
+119,0x5866,redirect,0x5180,26,Let's ring the doorbell.{0D},,
+120,0x5879,redirect,0x519A,33,These are some beautiful trees.{0D},,1 isla(s) 91 inline
+121,0x588C,redirect,0x51BE,60,Jonathan! These trees belong to\nthe Hojos themselves! Wow.{0D},,1 isla(s) 91 inline
+122,0x58CD,redirect,0x51FD,20,No control plates?{0D},,1 isla(s) 91 inline
+123,0x58EE,redirect,0x5214,18,How do you know?{0D},,1 isla(s) 91 inline
+124,0x58FF,redirect,0x5229,46,Trees on Beyond have control\nplates on them.{0D},,3 isla(s) 91 inline
+125,0x592C,redirect,0x5260,39,All plants are monitored by\ncomputer.{0D},,
+126,0x5957,redirect,0x5287,27,And these don't have any?{0D},,
+127,0x5968,redirect,0x52A2,69,Right.  These don't belong to the\ncolony.  They're privately owned.{0D},,4 isla(s) 91 inline
+128,0x59AF,redirect,0x52F3,56,Must be nice having a piece of\nnature all to yourself.{0D},,1 isla(s) 91 inline
+129,0x59E0,redirect,0x532E,41,The view inside was something\nelse too.{0D},,
+130,0x59FD,redirect,0x5357,33,What kind of flowers are these?{0D},,1 isla(s) 91 inline
+131,0x5A08,redirect,0x537B,49,They look like some kind of\nhibiscus variation.{0D},,1 isla(s) 91 inline
+132,0x5A27,redirect,0x53AF,42,There are hibiscuses here on the\ncolony?{0D},,2 isla(s) 91 inline
+133,0x5A42,redirect,0x53DF,49,"Everything about this place\nscreams ""Tokugawa"".{0D}",,1 isla(s) 91 inline
+134,0x5A87,redirect,0x5413,79,They'll be among Beyond's elite.{80238057}Jealousy can make people do crazy\nthings.{0D},,2 isla(s) 91 inline
+135,0x5AE6,redirect,0x5468,45,"Lorraine was very well dressed, I\nremember.{0D}",,1 isla(s) 91 inline
+136,0x5B0D,redirect,0x5498,40,She had an expensive bag and coat\ntoo.{0D},,1 isla(s) 91 inline
+137,0x5B34,redirect,0x54C3,55,Tokugawa employees must make\neven more than they say.{0D},,1 isla(s) 91 inline
+138,0x5B5B,redirect,0x54FD,67,"After seeing this, I'm not sure we\ncan rule out he was kidnapped.{0D}",,2 isla(s) 91 inline
+139,0x5B82,redirect,0x5546,81,"Well, Tokugawa employees do\nearn a lot, yeah, but no one would\never touch them.{0D}",,1 isla(s) 91 inline
+140,0x5BC1,redirect,0x559A,57,Beyonds know what happens\nwhen you screw with Tokugawa.{0D},,2 isla(s) 91 inline
+141,0x5BFE,redirect,0x55D9,2,{0D},,
+142,0x5C21,redirect,0x55DB,2,{0D},,
+143,0x5C3E,redirect,0x55DD,2,{0D},,
+144,0x5C57,redirect,0x55DF,23,What is it this time?{0D},,
+145,0x5C6E,redirect,0x55F6,24,What can I do for you?{0D},,1 isla(s) 91 inline
+146,0x5C83,redirect,0x5611,23,"What is it, Jonathan?{0D}",,1 isla(s) 91 inline
+147,0x5CA0,redirect,0x562B,26,Make yourselves at home.{0D},,
+148,0x5CBD,redirect,0x5645,38,"Just try to make it quick, will\nyou?{0D}",,1 isla(s) 91 inline
+149,0x5CF6,redirect,0x566E,21,Sorry about before.{0D},,1 isla(s) 91 inline
+150,0x5D03,redirect,0x5686,14,I'm kidding.{0D},,1 isla(s) 91 inline
+151,0x5D12,redirect,0x5697,2,{0D},,
+152,0x5D2F,redirect,0x5699,2,{0D},,
+153,0x5D3C,redirect,0x569B,2,{0D},,
+154,0x5D67,redirect,0x569D,2,{0D},,
+155,0x5D82,redirect,0x569F,2,{0D},,
+156,0x5DB3,redirect,0x56A1,2,{0D},,
+157,0x5E10,redirect,0x56A3,2,{0D},,
+158,0x5E41,redirect,0x56A5,2,{0D},,
+159,0x5E6A,redirect,0x56A7,2,{0D},,
+160,0x5EAD,redirect,0x56A9,2,{0D},,
+161,0x5ED0,redirect,0x56AB,2,{0D},,
+162,0x5EDB,redirect,0x56AD,2,{0D},,
+163,0x5F14,redirect,0x56AF,2,{0D},,
+164,0x5F59,redirect,0x56B1,2,{0D},,
+165,0x5F94,redirect,0x56B3,2,{0D},,
+166,0x5FA5,redirect,0x56B5,2,{0D},,
+167,0x5FBA,redirect,0x56B7,30,"We'll be leaving now, Karen.{0D}",,
+168,0x5FD9,redirect,0x56D5,30,"Thanks for your time, Karen.{0D}",,2 isla(s) 91 inline
+169,0x5FFC,redirect,0x56F9,45,Looks like we stayed longer than I\nthought.{0D},,
+170,0x6021,redirect,0x5726,26,It's gotten pretty late.{0D},,
+171,0x603A,redirect,0x5740,62,"Oh, you're going already? You\nguys must be pretty busy, huh?{0D}",,3 isla(s) 91 inline
+172,0x6061,redirect,0x5787,11,"Oh, okay.{0D}",,
+173,0x6074,redirect,0x5792,15,"Well, see ya.{0D}",,
+174,0x6087,redirect,0x57A1,16,See you later.{0D},,1 isla(s) 91 inline
+175,0x609E,redirect,0x57B4,6,Move{0D},,
+176,0x60A3,redirect,0x57BA,7,Leave{0D},,
+177,0x60AC,redirect,0x57C1,67,You wanna leave already? We\nhaven't picked up any real leads\nyet.{0D},,1 isla(s) 91 inline
+178,0x60DB,redirect,0x5807,55,"Jonathan, we need to find out\nwhat kinda guy Hojo is.{0D}",,2 isla(s) 91 inline
+179,0x6120,redirect,0x5844,130,"Wait, we're not through here.{80238057}I know it can't be easy for you\nbeing here, but we have to get a\nhandle on what Hojo was up to.{0D}",,5 isla(s) 91 inline
+180,0x6163,redirect,0x58D5,13,Hojo's Room{0D},,
+181,0x616E,redirect,0x58E2,7,Study{0D},,
+182,0x6173,redirect,0x58E9,63,"Well, we've learned quite a lot\nhere.  Shall we head off now?{0D}",,3 isla(s) 91 inline
+183,0x61A8,redirect,0x5931,28,"Shall we go now, Jonathan?{0D}",,
+184,0x61C5,redirect,0x594D,61,Do you mind if we take a look at\nyour father's study again?{0D},,2 isla(s) 91 inline
+185,0x61F4,redirect,0x5990,31,We might've missed something.{0D},,
+186,0x6213,redirect,0x59B2,11,"Oh, sure.{0D}",,
+187,0x6222,redirect,0x59BD,8,System{0D},,
+188,0x622B,redirect,0x59C5,49,Karen....  I will find your father.  I\npromise.{0D},,1 isla(s) 91 inline
+189,0x625E,redirect,0x59F9,115,"I believe you, Jonathan.{80238057}I'll put my... feelings about you\nbehind me for now.{80238057}You can count on me for help.{0D}",,4 isla(s) 91 inline
+190,0x6299,redirect,0x5A78,42,You look like something's\nbothering you.{0D},,1 isla(s) 91 inline
+191,0x62CE,redirect,0x5AA5,33,Yeah? Must be your imagination.{0D},,
+192,0x62DF,redirect,0x5AC6,20,"Oh.  Well, see ya.{0D}",,
+193,0x62F4,redirect,0x5ADA,13,"Bye, Karen.{0D}",,1 isla(s) 91 inline
+194,0x630B,redirect,0x5AEA,26,"See you later, Jonathan.{0D}",,
+195,0x632A,redirect,0x5B04,60,Let's take a look at this family\ncrest chart before we go.{0D},,2 isla(s) 91 inline
+196,0x6359,redirect,0x5B46,94,We need to know the family crests\nin order to load the CD.  Let's\ntake a look at this chart.{0D},,2 isla(s) 91 inline
+197,0x639A,redirect,0x5BAA,36,We still haven't found the CD yet!{0D},,1 isla(s) 91 inline
+198,0x63B7,redirect,0x5BD1,56,Let's look for the CD the\ninformant was talking about.{0D},,1 isla(s) 91 inline
+199,0x63D6,redirect,0x5C0C,46,I can't stand waiting around here\nlike this.{0D},,1 isla(s) 91 inline
+200,0x63E9,redirect,0x5C3D,72,Where do you think you can go?\nEvery cop on Beyond is looking for\nyou.{0D},,4 isla(s) 91 inline
+201,0x642C,redirect,0x5C91,6,Look{0D},,
+202,0x6431,redirect,0x5C97,2,{0D},,
+203,0x6470,redirect,0x5C99,2,{0D},,
+204,0x64CB,redirect,0x5C9B,2,{0D},,
+205,0x64DC,redirect,0x5C9D,2,{0D},,
+206,0x64FB,redirect,0x5C9F,2,{0D},,1 isla(s) 91 inline
+207,0x6530,redirect,0x5CA4,2,{0D},,
+208,0x6577,redirect,0x5CA6,2,{0D},,
+209,0x657E,redirect,0x5CA8,43,Your mother was surprised I still\nhad it.{0D},,1 isla(s) 91 inline
+210,0x65A3,redirect,0x5CD6,28,Too bad it can't be fixed.{0D},,
+211,0x65C8,redirect,0x5CF2,85,That's the latest in home\nentertainment systems.  It's not\nreally my kind of thing.{0D},,5 isla(s) 91 inline
+212,0x65F9,redirect,0x5D56,18,Look at this....{0D},,1 isla(s) 91 inline
+213,0x6610,redirect,0x5D6B,97,"Man! A high fidelity, all-in-one\nhome entertainment system\n\n employing 3D sound mapping and\nVR!{0D}",,2 isla(s) 91 inline
+214,0x6659,redirect,0x5DD2,140,"With this system, composers are\nable to create a truly immersive\nsound experience that blows that\n old surround sound stuff out the\nwater.{0D}",,2 isla(s) 91 inline
+215,0x66CC,redirect,0x5E64,79,It's made by Tokugawa Electronics.\nDad was able to get it at a reduced\nprice.{0D},,2 isla(s) 91 inline
+216,0x6707,redirect,0x5EB9,61,This system revolutionized the\nhome entertainment industry.{0D},,2 isla(s) 91 inline
+217,0x672C,redirect,0x5EFC,52,"You can set the sound map\nhowever you want, right?{0D}",,1 isla(s) 91 inline
+218,0x6759,redirect,0x5F33,48,"Yes, that's right.  You mean the\n3D equalizer.{0D}",,1 isla(s) 91 inline
+219,0x6786,redirect,0x5F66,30,"That's it, the 3D equalizer.{0D}",,
+220,0x67A3,redirect,0x5F84,55,The sound map automatically\nadjusts to your location.{0D},,3 isla(s) 91 inline
+221,0x67DA,redirect,0x5FC4,45,It's got sensors that detect where\nyou are.{0D},,1 isla(s) 91 inline
+222,0x680F,redirect,0x5FF4,158,It also has a feature that increases\nalpha wave activity in your brain.{80238057}It does this by mixing in\nhigh-frequency sounds with\nwhatever media it's playing.{0D},,8 isla(s) 91 inline
+223,0x6868,redirect,0x60AA,89,"Those are ultra-thin speakers. \nThey're not built into the wall,\nthey're hung up there.{0D}",,2 isla(s) 91 inline
+224,0x68AB,redirect,0x6109,35,What do these speakers belong\nto?{0D},,1 isla(s) 91 inline
+225,0x68BE,redirect,0x612F,40,They go with the entertainment\nsystem.{0D},,
+226,0x68E7,redirect,0x6157,51,They go with our home\nentertainment system there.{0D},,3 isla(s) 91 inline
+227,0x690C,redirect,0x6193,32,They work with the TV as well.{0D},,1 isla(s) 91 inline
+228,0x6929,redirect,0x61B6,58,Are these those new cordless\nspeakers with biomaterials?{0D},,1 isla(s) 91 inline
+229,0x6962,redirect,0x61F3,63,"Right, it's an infrared system with\nno dead areas whatsoever.{0D}",,4 isla(s) 91 inline
+230,0x6999,redirect,0x623E,78,"They're ultra-thin, and you can\neven decorate them with photos\nor paintings.{0D}",,1 isla(s) 91 inline
+231,0x69C6,redirect,0x628F,45,"Yes, but Dad has never been one\nto do that.{0D}",,1 isla(s) 91 inline
+232,0x69E7,redirect,0x62BF,50,They're all-purpose home\nentertainment speakers.{0D},,3 isla(s) 91 inline
+233,0x6A02,redirect,0x62FA,52,They also serve as the output for\nDad's CD player.{0D},,2 isla(s) 91 inline
+234,0x6A23,redirect,0x6334,31,We've got them in every room.{0D},,
+235,0x6A46,redirect,0x6353,69,"The speakers are positioned high\nlike that for the 3D sound, right?{0D}",,2 isla(s) 91 inline
+236,0x6A7B,redirect,0x639E,70,Yes.  They're also unaffected by\nany vibrations caused by the walls.{0D},,3 isla(s) 91 inline
+237,0x6AA8,redirect,0x63ED,31,You want to turn it on again?{0D},,
+238,0x6AC3,redirect,0x640C,62,You want to watch TV? They're\ntalking about you on the news.{0D},,2 isla(s) 91 inline
+239,0x6AF2,redirect,0x6450,27,It's a wall-mounted HDTV.{0D},,
+240,0x6B25,redirect,0x646B,129,It's got a chaos system too.{80238057}You can set the hue to change\naccording to your emotions.{80238057}Like if you're laughing or crying.{0D},,3 isla(s) 91 inline
+241,0x6B74,redirect,0x64F5,147,"I remember things heading this\nway in the 20th, when they\nbrought out washing machines\n and ovens with neural networks\nand fuzzy logic and so on.{0D}",,4 isla(s) 91 inline
+242,0x6BD9,redirect,0x6594,35,You're welcome to turn on the\nTV.{0D},,1 isla(s) 91 inline
+243,0x6C00,redirect,0x65BA,12,Turn on TV{0D},,
+244,0x6C0B,redirect,0x65C6,48,I don't know if you want to sit\ndown for this.{0D},,1 isla(s) 91 inline
+245,0x6C26,redirect,0x65FC,29,Maybe I'll watch some more.{0D},,1 isla(s) 91 inline
+246,0x6C3D,redirect,0x661C,85,"If one of its parts is disturbed, the\nentire system collapses.  Balance is\ncrucial.{0D}",,1 isla(s) 91 inline
+247,0x6C84,redirect,0x6674,81,"If we started moving in the wrong\ndirection, Beyond would lose its\nbalance too.{0D}",,
+248,0x6CED,redirect,0x66C5,14,What's this?{0D},,1 isla(s) 91 inline
+249,0x6CF6,redirect,0x66D6,200,"It's a biosphere.  It serves as a\nmodel of the CELESS.{80238057}""CELESS"" stands for ""Closed\nEcological Life Support System"".{80238057}You don't need to give it any food\nor oxygen.  It's totally\nself-sufficient.{0D}",,5 isla(s) 91 inline
+250,0x6D67,redirect,0x67AD,97,"Like this model, if the colony's\nbalance were disturbed it would\nbecome unable to support life.{0D}",,2 isla(s) 91 inline
+251,0x6DAE,redirect,0x6814,59,It's a CELESS model.  It works just\nlike Beyond and Home.{0D},,
+252,0x6E21,redirect,0x684F,90,"The shrimp couldn't survive on\ntheir own, huh? That's why\nthere's two of them, isn't it?{0D}",,2 isla(s) 91 inline
+253,0x6E60,redirect,0x68AF,44,That water is filled with a bacteria\nsoup.{0D},,1 isla(s) 91 inline
+254,0x6E7F,redirect,0x68DE,149,"The temperature is maintained at\n25 degrees Celsius.{80238057}The bacteria oxidize the inorganic\nwaste, producing carbon dioxide\nand inorganic compounds.{0D}",,4 isla(s) 91 inline
+255,0x6EE2,redirect,0x697F,17,That's seaweed.{0D},,
+256,0x6EF3,redirect,0x6990,102,"The seaweed uses the carbon\ndioxide, inorganic compounds and\n\n sunlight to carry out\nphotosynthesis.{0D}",,3 isla(s) 91 inline
+257,0x6F32,redirect,0x69FF,24,Those are baby shrimp.{0D},,1 isla(s) 91 inline
+258,0x6F4F,redirect,0x6A1A,26,"They're mates, are they?{0D}",,1 isla(s) 91 inline
+259,0x6F6A,redirect,0x6A37,110,The shrimp receive food and\noxygen from the seaweed and in\nreturn produce carbon dioxide\n and organic waste.{0D},,3 isla(s) 91 inline
+260,0x6FA9,redirect,0x6AAE,26,That's a coral fragment.{0D},,1 isla(s) 91 inline
+261,0x6FC0,redirect,0x6ACB,35,There's a huge coral reef at AMM.{0D},,
+262,0x6FE1,redirect,0x6AEE,6,Back{0D},,1 isla(s) 91 inline
+263,0x6FEA,redirect,0x6AF7,45,Do you know how the shrimp\nsurvive in here?{0D},,
+264,0x7023,redirect,0x6B24,54,"They're protected by the\nbiosphere's order, I guess.{0D}",,1 isla(s) 91 inline
+265,0x704A,redirect,0x6B5D,26,"No, it's more than that.{0D}",,1 isla(s) 91 inline
+266,0x7067,redirect,0x6B7A,12,Like what?{0D},,
+267,0x706E,redirect,0x6B86,26,They support each other.{0D},,
+268,0x708F,redirect,0x6BA0,43,"That's why there has to be two,\nisn't it?{0D}",,
+269,0x70A8,redirect,0x6BCB,59,Right.  It's the most important\nelement of any biosphere.{0D},,3 isla(s) 91 inline
+270,0x70D7,redirect,0x6C0F,7,Love.{0D},,
+271,0x70E4,redirect,0x6C16,76,It's a marble table.  I've never\nseen anything like this on Beyond\nbefore.{0D},,2 isla(s) 91 inline
+272,0x712B,redirect,0x6C68,27,It's an import from Home.{0D},,
+273,0x715C,redirect,0x6C83,58,The only problem is it doesn't\nreally go with the sofas.{0D},,1 isla(s) 91 inline
+274,0x7179,redirect,0x6CC0,36,The plants are sensitive to music.{0D},,
+275,0x7198,redirect,0x6CE4,31,Dad would play jazz for them.{0D},,2 isla(s) 91 inline
+276,0x71B7,redirect,0x6D09,21,That's interesting.{0D},,
+277,0x71C8,redirect,0x6D1E,33,He was into that kind of thing.{0D},,
+278,0x71F9,redirect,0x6D3F,46,He was a practitioner of meditation\nand Zen.{0D},,1 isla(s) 91 inline
+279,0x721A,redirect,0x6D70,67,The only thing my parents ever\nsaw eye-to-eye on were the\nplants.{0D},,1 isla(s) 91 inline
+280,0x725F,redirect,0x6DB6,24,Are these plants real?{0D},,
+281,0x727A,redirect,0x6DCE,75,Yes.  They're selectively bred to\nabsorb large amounts of carbon\ndioxide.{0D},,
+282,0x72A7,redirect,0x6E19,59,It's nice having the room full of\nfresh air all the time.{0D},,1 isla(s) 91 inline
+283,0x72CC,redirect,0x6E57,35,There's a plant in the study too.{0D},,1 isla(s) 91 inline
+284,0x72E1,redirect,0x6E7D,76,We have a lot of plants in the\nhouse.  It's because Mom was a\nTerrestrial.{0D},,1 isla(s) 91 inline
+285,0x7332,redirect,0x6ECC,18,Mom liked these.{0D},,
+286,0x734F,redirect,0x6EDE,35,They're comfortable for sleeping.{0D},,2 isla(s) 91 inline
+287,0x7376,redirect,0x6F07,49,Looks like a comfortable sofa. \nNice color too.{0D},,1 isla(s) 91 inline
+288,0x73A9,redirect,0x6F3B,137,"It's one of those chaos sofas.  Its\nfeel changes depending on who's\nsitting on it.{80238057}It has built-in sleep sensors as\nwell, of course.{0D}",,4 isla(s) 91 inline
+289,0x741E,redirect,0x6FD0,44,"Built-in sleep sensors....  Well, I'll\nbe.{0D}",,2 isla(s) 91 inline
+290,0x7437,redirect,0x7002,39,Feel free to take a seat if you\nwant.{0D},,1 isla(s) 91 inline
+291,0x7458,redirect,0x702C,48,Those things at my house are an\nembarrassment.{0D},,1 isla(s) 91 inline
+292,0x747F,redirect,0x705F,52,"That's an antique lamp.  Twin\nlamps, I should say.{0D}",,3 isla(s) 91 inline
+293,0x74B0,redirect,0x709C,145,"They're connected to the sleep\nsensors in the sofas.{80238057}They also have chaos systems, so\ntheir lighting changes depending\non who's in the room.{0D}",,4 isla(s) 91 inline
+294,0x7533,redirect,0x7139,23,So this is our color?{0D},,
+295,0x755A,redirect,0x7150,34,Yes.  They use ambient lighting.{0D},,1 isla(s) 91 inline
+296,0x7579,redirect,0x7175,34,Yes.  They use ambient lighting.{0D},,2 isla(s) 91 inline
+297,0x75A4,redirect,0x719D,32,"They're cute, don't you think?{0D}",,1 isla(s) 91 inline
+298,0x75C5,redirect,0x71C0,41,"It's alright, there's nobody out\nthere.{0D}",,1 isla(s) 91 inline
+299,0x75F4,redirect,0x71EC,86,"This is adjustable glass, but you\nshould probably stay away from\nthe windows anyway.{0D}",,2 isla(s) 91 inline
+300,0x762B,redirect,0x7248,39,You never know who might be\nwatching.{0D},,1 isla(s) 91 inline
+301,0x7648,redirect,0x7272,36,This is a nice view you have here.{0D},,1 isla(s) 91 inline
+302,0x7655,redirect,0x7299,46,You don't have any screens for\nyour windows?{0D},,1 isla(s) 91 inline
+303,0x7672,redirect,0x72CA,81,"They are hardly any insects on\nBeyond, so window screens aren't\nthat important.{0D}",,2 isla(s) 91 inline
+304,0x7701,redirect,0x7321,138,"The only bugs you find here are\nones like bees for pollinating\nflowers, flies for decomposing\n waste, and earthworms for\nenriching soil.{0D}",,4 isla(s) 91 inline
+305,0x7776,redirect,0x73B7,48,"We never need to open a window\neither, really.{0D}",,
+306,0x779D,redirect,0x73E7,72,Every house on Beyond comes\ncomplete with its own\nlife-support system.{0D},,1 isla(s) 91 inline
+307,0x77E8,redirect,0x7432,100,They're as self-contained as any\nspaceship.  You never know when\na leak in the colony could occur.{0D},,3 isla(s) 91 inline
+308,0x781F,redirect,0x749F,75,"I like opening the windows,\nthough.  There's something\nrelaxing about it.{0D}",,1 isla(s) 91 inline
+309,0x7856,redirect,0x74ED,95,"Standing here looking outside, this\nplace doesn't feel much different\nfrom Home.  It's weird.{0D}",,1 isla(s) 91 inline
+310,0x78A9,redirect,0x754F,62,"Nice view for Beyond, huh? Our\nhouse faces the central axis.{0D}",,2 isla(s) 91 inline
+311,0x78F4,redirect,0x7593,66,You can see outside perfectly. \nThat's adjustable glass for you.{0D},,2 isla(s) 91 inline
+312,0x792D,redirect,0x75DB,71,That's one of Mom's flower vases. \nShe did a lot of flower arranging.{0D},,1 isla(s) 91 inline
+313,0x7960,redirect,0x7625,35,Lorraine always did like flowers.{0D},,2 isla(s) 91 inline
+314,0x7981,redirect,0x764E,70,"This isn't a zero-gravity ceramic,\nis it? That's unusual for Beyond.{0D}",,2 isla(s) 91 inline
+315,0x79CE,redirect,0x769A,60,"Right, it's porcelain.  Mom\nprobably ordered it from Home.{0D}",,
+316,0x7A29,redirect,0x76D6,52,"Flowers and plants reminded her\nof Home, I'm sure.{0D}",,1 isla(s) 91 inline
+317,0x7A66,redirect,0x770D,52,It's a porcelain flower vase.  Mom\nliked it a lot.{0D},,
+318,0x7A97,redirect,0x7741,224,"That's a makeup stand.  Mom gave\nit to me when I turned 20.{80238057}In Japanese culture, you're\nregarded as an adult when you\nreach 20.{80238057}The mirror that used to go on top\nis broken, though.  Now I just\nuse it for the drawers.{0D}",,4 isla(s) 91 inline
+319,0x7B20,redirect,0x782D,61,That's the makeup stand Mom\nbought me for my 20th birthday.{0D},,1 isla(s) 91 inline
+320,0x7B59,redirect,0x786D,72,That's a picture of Mom.  Dad puts\npictures of her up wherever he\ncan.{0D},,1 isla(s) 91 inline
+321,0x7B9E,redirect,0x78B8,53,"He has one in his lab at work,\ncome to think of it.{0D}",,
+322,0x7BC5,redirect,0x78ED,41,It's a photo of Mom.  Dad put it\nthere.{0D},,1 isla(s) 91 inline
+323,0x7BE8,redirect,0x7919,50,"Don't worry, I didn't see any\nlistening devices.{0D}",,1 isla(s) 91 inline
+324,0x7C1B,redirect,0x794E,30,"It's okay, nothing's bugged.{0D}",,1 isla(s) 91 inline
+325,0x7C3A,redirect,0x796F,34,"Try to relax, Jonathan.  Please.{0D}",,1 isla(s) 91 inline
+326,0x7C5F,redirect,0x7994,69,You've been through a lot.  You\nshouldn't exert yourself right\nnow.{0D},,1 isla(s) 91 inline
+327,0x7C9E,redirect,0x79DC,14,Chaos again.{0D},,
+328,0x7CAF,redirect,0x79EA,32,Seems like everything's chaos.{0D},,
+329,0x7CC8,redirect,0x7A0A,34,I miss hearing Dad play his CDs.{0D},,1 isla(s) 91 inline
+330,0x7CF3,redirect,0x7A2F,58,You could try listening to some\nmusic to help you relax.{0D},,1 isla(s) 91 inline
+331,0x7D16,redirect,0x7A6C,51,"I think you've listened to them all,\nhaven't you?{0D}",,1 isla(s) 91 inline
+332,0x7D33,redirect,0x7AA2,28,Shall we put something on?{0D},,
+333,0x7D4A,redirect,0x7ABE,35,You want to listen to some\nmusic?{0D},,
+334,0x7D5F,redirect,0x7AE1,41,"No, we didn't come here to sample\nBGMs.{0D}",,
+335,0x7D88,redirect,0x7B0A,56,The CD the informant was talking\nabout should be here.{0D},,1 isla(s) 91 inline
+336,0x7DC1,redirect,0x7B45,25,Which one was it again?{0D},,1 isla(s) 91 inline
+337,0x7DD4,redirect,0x7B61,43,Try to remember.  It was definitely\nhere.{0D},,
+338,0x7DFB,redirect,0x7B8C,24,Which one could it be?{0D},,1 isla(s) 91 inline
+339,0x7E22,redirect,0x7BA7,76,We'll find it eventually.  We'll go\nthrough them one by one if we\nhave to.{0D},,2 isla(s) 91 inline
+340,0x7E49,redirect,0x7BF9,21,Here are Dad's CDs.{0D},,
+341,0x7E64,redirect,0x7C0E,130,"These are the CD shelves.  This is\nDad's hobby.{80238057}Listening to music is probably his\nfavorite thing in the world,\nbesides work.{0D}",,3 isla(s) 91 inline
+342,0x7EA9,redirect,0x7C99,70,"I can see why, what with this\nsetup.  He must enjoy it a great\ndeal.{0D}",,3 isla(s) 91 inline
+343,0x7EE6,redirect,0x7CE8,53,He's got almost every genre you\ncould imagine here.{0D},,2 isla(s) 91 inline
+344,0x7F1B,redirect,0x7D23,36,CDs are an antique media\nnowadays.{0D},,1 isla(s) 91 inline
+345,0x7F38,redirect,0x7D4D,69,"Right, but Dad doesn't like the\nquality you get with optical discs.{0D}",,2 isla(s) 91 inline
+346,0x7F69,redirect,0x7D98,26,This is some collection.{0D},,
+347,0x7F80,redirect,0x7DB2,40,Your dad seems like a real\naudiophile.{0D},,2 isla(s) 91 inline
+348,0x7F9F,redirect,0x7DE0,42,"These CDs will use 3D data codes,\nright?{0D}",,1 isla(s) 91 inline
+349,0x7FD2,redirect,0x7E0D,22,"Yes, that's correct.{0D}",,1 isla(s) 91 inline
+350,0x7FDD,redirect,0x7E26,37,Would you like to put something\non?{0D},,1 isla(s) 91 inline
+351,0x8008,redirect,0x7E4E,6,Back{0D},,
+352,0x8011,redirect,0x7E54,6,Look{0D},,
+353,0x8020,redirect,0x7E5A,37,"Hey, this one doesn't have a title.{0D}",,1 isla(s) 91 inline
+354,0x8045,redirect,0x7E82,31,There's no title on this one.{0D},,
+355,0x8068,redirect,0x7EA1,35,It was just a bunch of noise too.{0D},,1 isla(s) 91 inline
+356,0x808F,redirect,0x7EC7,83,This mark is the Hojo family crest.\nThis is what the informant was\ntalking about.{0D},,2 isla(s) 91 inline
+357,0x80C2,redirect,0x7F20,29,What's this mark on the CD?{0D},,1 isla(s) 91 inline
+358,0x80E7,redirect,0x7F40,73,Maybe this is one of the family\ncrests the informant was talking\nabout?{0D},,2 isla(s) 91 inline
+359,0x8116,redirect,0x7F8F,30,Is this mark a family crest?{0D},,1 isla(s) 91 inline
+360,0x8133,redirect,0x7FB0,11,Could be.{0D},,
+361,0x8144,redirect,0x7FBB,69,It's a blank CD case.  Maybe it's\nfrom a private collection of his?{0D},,2 isla(s) 91 inline
+362,0x8179,redirect,0x8006,6,Play{0D},,1 isla(s) 91 inline
+363,0x8182,redirect,0x800F,2,{0D},,
+364,0x81B1,redirect,0x8014,2,{0D},,
+365,0x81C4,redirect,0x8016,2,{0D},,
+366,0x81F5,redirect,0x8018,2,{0D},,
+367,0x8216,redirect,0x801A,2,{0D},,
+368,0x8241,redirect,0x801C,2,{0D},,
+369,0x826E,redirect,0x801E,2,{0D},,
+370,0x8293,redirect,0x8023,2,{0D},,
+371,0x82BC,redirect,0x8025,2,{0D},,
+372,0x82DF,redirect,0x8027,2,{0D},,
+373,0x8306,redirect,0x8029,46,You sure you don't want to look at\nit again?{0D},,1 isla(s) 91 inline
+374,0x8325,redirect,0x805A,50,We can go look at them again if\nyou're not sure.{0D},,1 isla(s) 91 inline
+375,0x8354,redirect,0x8092,124,I keep thinking about the family\ncrest stuff the informant was\ngoing on about.{80238057}It looks like there's one on the CD\ntoo.{0D},,2 isla(s) 91 inline
+376,0x839F,redirect,0x8114,59,"Karen, you say there's a family\ncrest chart in the study?{0D}",,3 isla(s) 91 inline
+377,0x83C4,redirect,0x8158,34,"Yeah, you want to go look at it?{0D}",,1 isla(s) 91 inline
+378,0x83E5,redirect,0x817D,50,"Karen, do you know anything\nabout family crests?{0D}",,2 isla(s) 91 inline
+379,0x840E,redirect,0x81B5,62,"Family crests? Well, there's a\nchart with some in the study.{0D}",,2 isla(s) 91 inline
+380,0x843B,redirect,0x81F9,26,Shall we go take a look?{0D},,
+381,0x845E,redirect,0x8213,42,That's strange.  There's no music\non it.{0D},,1 isla(s) 91 inline
+382,0x8481,redirect,0x8240,32,"Yeah, it's just noise.  Weird.{0D}",,1 isla(s) 91 inline
+383,0x84A4,redirect,0x8263,25,There's no music on it.{0D},,1 isla(s) 91 inline
+384,0x84BF,redirect,0x827F,25,It's nothing but noise.{0D},,1 isla(s) 91 inline
+385,0x84D8,redirect,0x829B,20,Maybe it's broken?{0D},,
+386,0x84F1,redirect,0x82AF,19,The cover says...{0D},,1 isla(s) 91 inline
+387,0x8510,redirect,0x82C5,9,"""Home"".{0D}",,
+388,0x852F,redirect,0x82CE,39,Written and performed by La\nNakamour.{0D},,1 isla(s) 91 inline
+389,0x854C,redirect,0x82F8,17,"""Nobody Knows"".{0D}",,1 isla(s) 91 inline
+390,0x858F,redirect,0x830C,19,The cover says...{0D},,
+391,0x85E2,redirect,0x831F,62,"""Snatcher {D0}{06} One Night in Neo\nKobe City (Unreleased Remix)"".{0D}",,2 isla(s) 91 inline
+392,0x8679,redirect,0x8363,59,Written and performed by Motoaki\nFurukawa (Kukeiha Club).{0D},,
+393,0x86A4,redirect,0x839E,13,"""28 Years"".{0D}",,1 isla(s) 91 inline
+394,0x86CB,redirect,0x83AE,36,Written and performed by\nIka-chan.{0D},,1 isla(s) 91 inline
+395,0x8708,redirect,0x83D5,24,"""Girls, Girls, Girls"".{0D}",,1 isla(s) 91 inline
+396,0x872B,redirect,0x83F0,17,"""Beyond Coast"".{0D}",,
+397,0x876E,redirect,0x8401,12,"""Shadows"".{0D}",,
+398,0x8797,redirect,0x840D,33,Written and performed by Tappy.{0D},,1 isla(s) 91 inline
+399,0x87C2,redirect,0x8431,16,"""Dear Friend"".{0D}",,1 isla(s) 91 inline
+400,0x8817,redirect,0x8444,47,Written and performed by La\nNakamour & Huggy.{0D},,1 isla(s) 91 inline
+401,0x8840,redirect,0x8476,8,"""BCP"".{0D}",,
+402,0x8853,redirect,0x847E,15,"""Good Humor"".{0D}",,1 isla(s) 91 inline
+403,0x88B4,redirect,0x8490,18,"""Still Walking"".{0D}",,
+404,0x88FB,redirect,0x84A2,13,"""Lavender"".{0D}",,1 isla(s) 91 inline
+405,0x8926,redirect,0x84B2,12,"""Owl-Cat"".{0D}",,
+406,0x895D,redirect,0x84BE,19,The cover says...{0D},,1 isla(s) 91 inline
+407,0x899C,redirect,0x84D4,36,"""Poly-Net Warriors {D0}{06} The\nDecade"".{0D}",,2 isla(s) 91 inline
+408,0x89C7,redirect,0x84FE,42,Written and performed by Kazuki\nMuraoka.{0D},,1 isla(s) 91 inline
+409,0x89DE,redirect,0x852B,13,"""Tokugawa"".{0D}",,1 isla(s) 91 inline
+410,0x8A4F,redirect,0x853B,26,"""Children of the Dream"".{0D}",,1 isla(s) 91 inline
+411,0x8AC0,redirect,0x8558,47,Written and performed by La\nNakamour & Gacky.{0D},,
+412,0x8AEB,redirect,0x8587,12,"""My Love"".{0D}",,1 isla(s) 91 inline
+413,0x8B1C,redirect,0x8596,14,"""Bike Ride"".{0D}",,
+414,0x8B55,redirect,0x85A4,20,"""Doin' Just Fine"".{0D}",,
+415,0x8B98,redirect,0x85B8,16,"""Tokyo Mambo"".{0D}",,
+416,0x8BD9,redirect,0x85C8,19,"""Too Late Blues"".{0D}",,
+417,0x8C2E,redirect,0x85DB,16,"""Fling Girls"".{0D}",,1 isla(s) 91 inline
+418,0x8C71,redirect,0x85EE,20,"""Home Sweet Home"".{0D}",,
+419,0x8CAE,redirect,0x8602,26,"""Anna's Theme (Part 1)"".{0D}",,
+420,0x8D07,redirect,0x861C,29,"""Living in the Real World"".{0D}",,
+421,0x8D8E,redirect,0x8639,23,"""Festival on Beyond"".{0D}",,
+422,0x8DF1,redirect,0x8650,23,"""L'Amour Impossible"".{0D}",,
+423,0x8E46,redirect,0x8667,22,"""Not Made in Texas"".{0D}",,1 isla(s) 91 inline
+424,0x8EAF,redirect,0x8680,9,"""Mist"".{0D}",,
+425,0x8ECE,redirect,0x8689,30,"""Past Year at Sunset Beach"".{0D}",,1 isla(s) 91 inline
+426,0x8F5B,redirect,0x86AA,32,"""Old LA 2040 (Short Version)"".{0D}",,
+427,0x8F8A,redirect,0x86CA,36,"""Criminal Investigation (Part 1)"".{0D}",,1 isla(s) 91 inline
+428,0x901D,redirect,0x86F1,15,"""No, No, No!""{0D}",,
+429,0x9060,redirect,0x8700,17,"""Magic Subway"".{0D}",,1 isla(s) 91 inline
+430,0x90A5,redirect,0x8714,19,"""First Triangle"".{0D}",,
+431,0x90F4,redirect,0x8727,17,"""Femme Fatale"".{0D}",,1 isla(s) 91 inline
+432,0x9133,redirect,0x873B,22,"""Calling Your Name"".{0D}",,
+433,0x9186,redirect,0x8751,26,"""Anna's Theme (Part 2)"".{0D}",,
+434,0x91DF,redirect,0x876B,19,The cover says...{0D},,1 isla(s) 91 inline
+435,0x922C,redirect,0x8781,42,"""Poly-Net Warriors {D0}{06} Go for\nit, Yochi"".{0D}",,1 isla(s) 91 inline
+436,0x926D,redirect,0x87AE,16,"""Mission 307"".{0D}",,
+437,0x929E,redirect,0x87BE,18,"""Tappy's Works"".{0D}",,1 isla(s) 91 inline
+438,0x92E5,redirect,0x87D3,19,"""Nakamour Blues"".{0D}",,
+439,0x932E,redirect,0x87E6,20,"""Legendary Faces"".{0D}",,
+440,0x937F,redirect,0x87FA,15,"""Love Theme"".{0D}",,
+441,0x93B8,redirect,0x8809,19,"""Beyond Morning"".{0D}",,1 isla(s) 91 inline
+442,0x9401,redirect,0x881F,16,"""Sweet Hippo"".{0D}",,
+443,0x943E,redirect,0x882F,14,"""Arabesque"".{0D}",,
+444,0x946D,redirect,0x883D,23,"""Memoir de la Neige"".{0D}",,2 isla(s) 91 inline
+445,0x94D0,redirect,0x885A,12,"""Reunion"".{0D}",,
+446,0x94ED,redirect,0x8866,10,"""Chase"".{0D}",,
+447,0x9510,redirect,0x8870,6,Stop{0D},,
+448,0x951B,redirect,0x8876,24,Can we listen to this?{0D},,
+449,0x9532,redirect,0x888E,17,"Sure, go ahead.{0D}",,
+450,0x953F,redirect,0x889F,29,You mind if we put this on?{0D},,1 isla(s) 91 inline
+451,0x955A,redirect,0x88BF,17,"No, not at all.{0D}",,
+452,0x9565,redirect,0x88D0,38,This isn't it.  Let's keep checking.{0D},,
+453,0x9592,redirect,0x88F6,26,Nope.  This can't be it.{0D},,1 isla(s) 91 inline
+454,0x95B9,redirect,0x8913,38,With contributions from Dokuo\nUmeno.{0D},,1 isla(s) 91 inline
+455,0x95EC,redirect,0x893C,39,With contributions from Kameo\nMatano.{0D},,1 isla(s) 91 inline
+456,0x9627,redirect,0x8966,40,With contributions from Ajihei\nTamura.{0D},,
+457,0x966C,redirect,0x898E,29,Karen....  The truth is....{0D},,1 isla(s) 91 inline
+458,0x9683,redirect,0x89AE,14,"Karen, I....{0D}",,
+459,0x9696,redirect,0x89BC,13,What is it?{0D},,1 isla(s) 91 inline
+460,0x96A9,redirect,0x89CC,17,"No, never mind.{0D}",,
+461,0x96C2,redirect,0x89DD,22,What is it? Tell me.{0D},,1 isla(s) 91 inline
+462,0x96D5,redirect,0x89F6,35,"What is it, Jonathan? Talk to me.{0D}",,
+463,0x96FA,redirect,0x8A19,110,"My doctor said I should be in the\nhospital right now, but I can't\n\n imagine being there at a time like\nthis.{0D}",,1 isla(s) 91 inline
+464,0x976F,redirect,0x8A8A,18,Are you alright?{0D},,
+465,0x9786,redirect,0x8A9C,71,"Not really, no, but don't worry, I\nwon't get in your way or anything.{0D}",,1 isla(s) 91 inline
+466,0x97C5,redirect,0x8AE6,32,You don't look so good either.{0D},,1 isla(s) 91 inline
+467,0x97DC,redirect,0x8B09,23,You worried about me?{0D},,1 isla(s) 91 inline
+468,0x97F3,redirect,0x8B23,44,"Karen, you seem... how should I\nput it....{0D}",,
+469,0x9822,redirect,0x8B4F,76,"Different in person than on TV. \nYou're still just as charming, of\ncourse.{0D}",,2 isla(s) 91 inline
+470,0x984F,redirect,0x8BA1,20,Maybe it's the CG?{0D},,
+471,0x986E,redirect,0x8BB5,47,They use CG to make me look\nbetter on camera.{0D},,1 isla(s) 91 inline
+472,0x98A7,redirect,0x8BE7,5,CG?{0D},,
+473,0x98B2,redirect,0x8BEC,32,Think of it as digital makeup.{0D},,
+474,0x98C5,redirect,0x8C0C,33,It's to cover up my complexion.{0D},,
+475,0x98DC,redirect,0x8C2D,40,My illness gives me a pale\ncomplexion.{0D},,1 isla(s) 91 inline
+476,0x98FB,redirect,0x8C58,38,I had no idea.  You look fine on\nTV.{0D},,1 isla(s) 91 inline
+477,0x9928,redirect,0x8C81,25,Are you sick right now?{0D},,
+478,0x995B,redirect,0x8C9A,46,"Actually, my problem is more than\ntemporary.{0D}",,1 isla(s) 91 inline
+479,0x9978,redirect,0x8CCB,67,They use CG correction when I'm\non TV.  Do I seem that different?{0D},,1 isla(s) 91 inline
+480,0x99A7,redirect,0x8D11,46,"No, you're even more beautiful in\nreal life.{0D}",,
+481,0x99C2,redirect,0x8D3F,6,Look{0D},,
+482,0x99C7,redirect,0x8D45,75,You really do look exactly like\nyour mother.  Except for your\ncomplexion.{0D},,1 isla(s) 91 inline
+483,0x99FE,redirect,0x8D93,38,They say the disease is\nprogressing.{0D},,
+484,0x9A1F,redirect,0x8DB9,39,Karen....  You don't look so\ngood....{0D},,
+485,0x9A42,redirect,0x8DE0,46,She's like Lorraine's double.  It's\nuncanny.{0D},,1 isla(s) 91 inline
+486,0x9A6F,redirect,0x8E11,39,It feels like I'm back with Lorraine.{0D},,
+487,0x9AA8,redirect,0x8E38,44,You really think I resemble Mom\nthat much?{0D},,1 isla(s) 91 inline
+488,0x9AC7,redirect,0x8E67,36,Please don't look at me like that.{0D},,
+489,0x9AEE,redirect,0x8E8B,43,"The camera doesn't do you\njustice, Karen.{0D}",,1 isla(s) 91 inline
+490,0x9B29,redirect,0x8EB9,55,You look just like your mother\nwhen she was your age.{0D},,1 isla(s) 91 inline
+491,0x9B6A,redirect,0x8EF3,19,Tell me about it.{0D},,
+492,0x9B7B,redirect,0x8F06,26,"Well, I am her daughter.{0D}",,
+493,0x9B90,redirect,0x8F20,27,"How's your health, Karen?{0D}",,
+494,0x9BA5,redirect,0x8F3B,28,You looked really drained.{0D},,
+495,0x9BCE,redirect,0x8F57,45,She looks exactly like Lorraine at\nher age.{0D},,1 isla(s) 91 inline
+496,0x9BF1,redirect,0x8F87,69,Seeing you reminds me of the time\nyour mother and I spent together.{0D},,1 isla(s) 91 inline
+497,0x9C2E,redirect,0x8FCF,38,"Don't stare at me like that, please.{0D}",,
+498,0x9C4F,redirect,0x8FF5,55,"It's an honor to meet you in\nperson like this, Karen.{0D}",,1 isla(s) 91 inline
+499,0x9C80,redirect,0x902F,117,"I'm used to being looked at\nthrough a camera, but I feel kind\nof... embarrassed when people\n stare at me in person.{0D}",,2 isla(s) 91 inline
+500,0x9CBF,redirect,0x90AA,47,It totally feels like I'm back with\nLorraine.{0D},,
+501,0x9CE8,redirect,0x90D9,6,Talk{0D},,
+502,0x9CF3,redirect,0x90DF,46,Is it alright if we ask you a few\nquestions?{0D},,1 isla(s) 91 inline
+503,0x9D0C,redirect,0x9110,8,Karen?{0D},,
+504,0x9D19,redirect,0x9118,32,May we ask you some questions?{0D},,1 isla(s) 91 inline
+505,0x9D26,redirect,0x913B,30,What would you like to know?{0D},,
+506,0x9D2D,redirect,0x9159,13,What is it?{0D},,
+507,0x9D3A,redirect,0x9166,8,Karen?{0D},,
+508,0x9D43,redirect,0x916E,7,Yeah?{0D},,
+509,0x9D4A,redirect,0x9175,12,What's up?{0D},,
+510,0x9D53,redirect,0x9181,11,Ask about{0D},,1 isla(s) 91 inline
+511,0x9D58,redirect,0x918F,13,Her parents{0D},,
+512,0x9D65,redirect,0x919C,131,"This can't be an easy thing to talk\nabout, but it is necessary for our\ninvestigation.{80238057}What can you tell us about your\nparents?{0D}",,1 isla(s) 91 inline
+513,0x9DBA,redirect,0x9222,85,My father is a Terrestrial who\nimmigrated to Beyond shortly after\nit was completed.{0D},,2 isla(s) 91 inline
+514,0x9E23,redirect,0x927D,74,Your mother told me they met at\nTokugawa's festival for Japanese\npeople.{0D},,1 isla(s) 91 inline
+515,0x9E68,redirect,0x92CA,22,"Yes, that's correct.{0D}",,
+516,0x9E7B,redirect,0x92E0,105,He met my mother at the\nTokugawa Group's Nihonjin\nMatsuri.{80238057}It's a festival for Japanese people\nhere.{0D},,2 isla(s) 91 inline
+517,0x9EBC,redirect,0x934F,51,He said Mom was inconsolable\nafter your accident.{0D},,1 isla(s) 91 inline
+518,0x9EEB,redirect,0x9385,14,Lorraine....{0D},,
+519,0x9EFA,redirect,0x9393,58,He devoted himself to her.  They\nmarried 6 months later.{0D},,1 isla(s) 91 inline
+520,0x9F33,redirect,0x93D0,163,"Dad's very jealous, more so than\nyour average person.{80238057}He came down hard on Mom for\nthe way she still thought about\nyou.{80238057}That was only because he loved\nher.{0D}",,3 isla(s) 91 inline
+521,0x9F9E,redirect,0x947C,59,"The closer he tried to get, the\nfurther she drifted away.{0D}",,
+522,0x9FD5,redirect,0x94B7,60,It was an unusual sort of marriage\nwhen I look back on it.{0D},,2 isla(s) 91 inline
+523,0x9FFE,redirect,0x94F9,131,"Mom couldn't forget you.  The\nstronger Dad's love got, the more\nhis jealousy grew.{80238057}That's when their relationship\nturned sour.{0D}",,6 isla(s) 91 inline
+524,0xA07F,redirect,0x958E,49,Mom still kept all the pictures she\nhad of you.{0D},,2 isla(s) 91 inline
+525,0xA0A6,redirect,0x95C5,55,"One day, Dad found them... and\nburned every last one.{0D}",,1 isla(s) 91 inline
+526,0xA0D5,redirect,0x95FF,49,Including her copy of the one you\njust gave me.{0D},,1 isla(s) 91 inline
+527,0xA0F4,redirect,0x9633,45,She had no pictures of you left\nafter that.{0D},,
+528,0xA119,redirect,0x9660,102,"They argued constantly, but they\nstayed together for my sake.{80238057}That's a real Japanese thing to do.{0D}",,5 isla(s) 91 inline
+529,0xA17E,redirect,0x96D8,51,"Honestly, I didn't really understand\nthem myself.{0D}",,1 isla(s) 91 inline
+530,0xA1A5,redirect,0x970E,12,Hojo's job{0D},,
+531,0xA1B0,redirect,0x971A,55,What does your father do at\nTokugawa Pharmaceuticals?{0D},,
+532,0xA1CF,redirect,0x9751,66,All I know is he's involved with\ndeveloping new pharmaceuticals.{0D},,2 isla(s) 91 inline
+533,0xA20A,redirect,0x9799,49,"To your understanding, what kind\nof work is it?{0D}",,1 isla(s) 91 inline
+534,0xA225,redirect,0x97CD,47,I don't know.  He never talked\nmuch about it.{0D},,2 isla(s) 91 inline
+535,0xA284,redirect,0x9802,38,He never discussed his work at\nhome?{0D},,1 isla(s) 91 inline
+536,0xA291,redirect,0x982B,22,"Not with me, anyway.{0D}",,
+537,0xA2A4,redirect,0x9841,46,Did he say anything you think\nmight help us?{0D},,2 isla(s) 91 inline
+538,0xA2D7,redirect,0x9875,112,"Well, one time {D0}{06} I can't\nremember when exactly {D0}{06} he\nbroke down in tears, saying he\n wanted to quit Tokugawa.{0D}",,4 isla(s) 91 inline
+539,0xA32C,redirect,0x98F1,53,"He said, ""They tricked me.  I hate\nmy fucking job!""{0D}",,2 isla(s) 91 inline
+540,0xA379,redirect,0x992C,16,Holy mackerel.{0D},,
+541,0xA38A,redirect,0x993C,119,"That was it.  That was all he said. \nHe never mentioned it again.{80238057}He never swore, which made it\neven more unusual.{0D}",,3 isla(s) 91 inline
+542,0xA3C3,redirect,0x99BC,76,For someone here to say\nsomething like that....  That's\nalmost unheard of.{0D},,3 isla(s) 91 inline
+543,0xA406,redirect,0x9A11,108,I don't really know what he did.{80238057}He was forbidden from discussing\nhis work for confidentiality\nreasons.{0D},,3 isla(s) 91 inline
+544,0xA45B,redirect,0x9A86,64,He never talked about a certain\nnew product he was working on?{0D},,2 isla(s) 91 inline
+545,0xA48A,redirect,0x9ACC,23,"No, nothing specific.{0D}",,
+546,0xA4A3,redirect,0x9AE3,42,"This is the first I've heard of a\n""K-9"".{0D}",,1 isla(s) 91 inline
+547,0xA4CE,redirect,0x9B10,17,Hojo's behavior{0D},,
+548,0xA4D9,redirect,0x9B21,74,Did you notice anything unusual\nabout your father before he\ndisappeared?{0D},,2 isla(s) 91 inline
+549,0xA4F8,redirect,0x9B71,86,He had been acting kind of strange\nlately.  Maybe things weren't going\nwell at work?{0D},,4 isla(s) 91 inline
+550,0xA537,redirect,0x9BD3,50,Your mother said he would have\nthese breakdowns.{0D},,1 isla(s) 91 inline
+551,0xA55E,redirect,0x9C08,76,"Yes... yes, he did, now that you\nmention it.  He's normally a calm\nperson.{0D}",,2 isla(s) 91 inline
+552,0xA591,redirect,0x9C5A,44,So he definitely was different than\nusual?{0D},,1 isla(s) 91 inline
+553,0xA5B2,redirect,0x9C89,73,"Yes.  He does have a tendency to\nworry at times, but nothing like\nthat.{0D}",,1 isla(s) 91 inline
+554,0xA5DD,redirect,0x9CD5,112,Please try to think.  Even the\nlittlest thing might make a\ndifference.{80238057}In what other ways was he\ndifferent?{0D},,12 isla(s) 91 inline
+555,0xA620,redirect,0x9D69,84,He would become very pensive\nand emotional.  He was like\nsomebody else altogether.{0D},,1 isla(s) 91 inline
+556,0xA659,redirect,0x9DC0,77,"I think he talked to Mom about\nsomething, but he never said\nanything to me.{0D}",,
+557,0xA69E,redirect,0x9E0D,34,"So, Lorraine did know something.{0D}",,1 isla(s) 91 inline
+558,0xA6C7,redirect,0x9E32,37,Mom didn't tell me anything either.{0D},,
+559,0xA6EE,redirect,0x9E57,104,He would kind of watch out for\nme when he moved about the\nhouse.{80238057}It seemed like he was avoiding me.{0D},,3 isla(s) 91 inline
+560,0xA721,redirect,0x9EC8,60,People at Tokugawa are saying it\ncould be Return Syndrome.{0D},,2 isla(s) 91 inline
+561,0xA766,redirect,0x9F0A,55,Dad? I wouldn't say he's the\ntype.  He liked it here.{0D},,1 isla(s) 91 inline
+562,0xA7C3,redirect,0x9F44,66,Maybe deep down he didn't like it\nand was keeping it to himself?{0D},,
+563,0xA7D6,redirect,0x9F86,80,I never got that impression from\nhim.  It has to be related to\nsomething else.{0D},,2 isla(s) 91 inline
+564,0xA809,redirect,0x9FDC,37,Why do you say he was avoiding\nyou?{0D},,1 isla(s) 91 inline
+565,0xA81E,redirect,0xA004,65,I could tell.  He's never been good\nat hiding things like that.{0D},,
+566,0xA853,redirect,0xA045,16,Hojo's hobbies{0D},,
+567,0xA85E,redirect,0xA055,33,What are your father's hobbies?{0D},,
+568,0xA871,redirect,0xA076,33,"Music's one of them, I take it.{0D}",,1 isla(s) 91 inline
+569,0xA886,redirect,0xA09A,54,Right.  I guess that's about it {D0}{06}\nlistening to CDs.{0D},,1 isla(s) 91 inline
+570,0xA8BF,redirect,0xA0D3,43,"Hobbies? Well, he likes listening\nto CDs.{0D}",,2 isla(s) 91 inline
+571,0xA8F8,redirect,0xA104,6,CDs?{0D},,
+572,0xA8FF,redirect,0xA10A,72,"Yes, he has a lot of CDs he got\nwhen he was younger.  Unusual, I\nknow.{0D}",,1 isla(s) 91 inline
+573,0xA944,redirect,0xA155,56,I understand how that is.  We\ncome from the same time.{0D},,1 isla(s) 91 inline
+574,0xA983,redirect,0xA190,61,That's his only hobby per se.  He\ndoesn't have any friends.{0D},,3 isla(s) 91 inline
+575,0xA9C0,redirect,0xA1D6,38,So would he spend his days off\nhere?{0D},,
+576,0xA9E3,redirect,0xA1FC,62,"He was almost never home, since\nhe and Mom didn't get along.{0D}",,2 isla(s) 91 inline
+577,0xAA24,redirect,0xA240,48,Their relationship made him into a\nworkaholic.{0D},,
+578,0xAA3F,redirect,0xA270,78,"Whenever he was home, he\nwould spend his time listening to\nmusic by himself.{0D}",,3 isla(s) 91 inline
+579,0xAA5C,redirect,0xA2C7,21,A lonely scientist.{0D},,1 isla(s) 91 inline
+580,0xAA6D,redirect,0xA2DF,37,I'd say his work is his real hobby.{0D},,
+581,0xAA90,redirect,0xA304,48,I suppose he's your typical\nTokugawa employee.{0D},,1 isla(s) 91 inline
+582,0xAABF,redirect,0xA337,58,Mom probably wasn't satisfied with\nthat kind of husband.{0D},,
+583,0xAAF2,redirect,0xA371,51,"He doesn't really have any, apart\nfrom his music.{0D}",,2 isla(s) 91 inline
+584,0xAB0D,redirect,0xA3AA,43,He's very particular about sound\nquality.{0D},,1 isla(s) 91 inline
+585,0xAB4A,redirect,0xA3D8,46,"I'm not surprised, given the\nequipment here.{0D}",,
+586,0xAB71,redirect,0xA409,59,You saw Dad's collection.  Plenty\nthere to keep him busy.{0D},,
+587,0xAB94,redirect,0xA444,69,Dad's CDs are over on those\nshelves.  Go take a look if you'd\nlike.{0D},,2 isla(s) 91 inline
+588,0xABCD,redirect,0xA48F,75,Dad's CD collection is in the living\nroom.  Go take a look if you'd like.{0D},,3 isla(s) 91 inline
+589,0xAC0A,redirect,0xA4E3,27,It might be of some help.{0D},,1 isla(s) 91 inline
+590,0xAC21,redirect,0xA501,7,Saito{0D},,
+591,0xAC32,redirect,0xA508,43,Do you know someone called\nMichael Saito?{0D},,
+592,0xAC55,redirect,0xA533,39,He works at Tokugawa\nPharmaceuticals.{0D},,1 isla(s) 91 inline
+593,0xAC74,redirect,0xA55D,52,"Saito? Saito....{80238057}No, never heard of him before.{0D}",,2 isla(s) 91 inline
+594,0xACA1,redirect,0xA597,8,Ishida{0D},,
+595,0xACAE,redirect,0xA59F,40,Do you know someone called Jun\nIshida?{0D},,1 isla(s) 91 inline
+596,0xACCD,redirect,0xA5CA,59,He's a Tokugawa Pharmaceuticals\nemployee working at BCCH.{0D},,1 isla(s) 91 inline
+597,0xACF0,redirect,0xA608,59,"Ishida? Hmm, Ishida....{80238057}No, it doesn't sound familiar.{0D}",,1 isla(s) 91 inline
+598,0xAD13,redirect,0xA646,10,Lorraine{0D},,
+599,0xAD20,redirect,0xA650,2,{0D},,
+600,0xAD33,redirect,0xA652,2,{0D},,
+601,0xAD84,redirect,0xA654,2,{0D},,
+602,0xADA5,redirect,0xA656,2,{0D},,
+603,0xADB4,redirect,0xA658,2,{0D},,1 isla(s) 91 inline
+604,0xADEB,redirect,0xA65D,2,{0D},,
+605,0xAE38,redirect,0xA65F,2,{0D},,
+606,0xAE5B,redirect,0xA661,2,{0D},,
+607,0xAE66,redirect,0xA663,2,{0D},,
+608,0xAE81,redirect,0xA665,2,{0D},,
+609,0xAE9E,redirect,0xA667,2,{0D},,
+610,0xAECB,redirect,0xA669,2,{0D},,
+611,0xAEDE,redirect,0xA66B,75,She loved you more than my\nfather.  She was so happy when\nthey found you.{0D},,1 isla(s) 91 inline
+612,0xAF39,redirect,0xA6B9,35,But... I wasn't very nice to her.{0D},,1 isla(s) 91 inline
+613,0xAF56,redirect,0xA6DF,38,I felt sorry for Dad and\neverything.{0D},,1 isla(s) 91 inline
+614,0xAF75,redirect,0xA708,84,Mom didn't know very many\npeople.  I don't see how she could\nhave had any enemies.{0D},,1 isla(s) 91 inline
+615,0xAFB6,redirect,0xA75F,35,Who could have done such a\nthing?{0D},,1 isla(s) 91 inline
+616,0xAFCF,redirect,0xA785,59,The police in OLA are treating it as\na terrorist bombing.{0D},,
+617,0xB000,redirect,0xA7C0,20,That's ridiculous.{0D},,2 isla(s) 91 inline
+618,0xB00F,redirect,0xA7DA,64,It happened right in front of me. \nThat wasn't some terrorist.{0D},,1 isla(s) 91 inline
+619,0xB056,redirect,0xA81D,54,It has to be related to your\nfather's disappearance.{0D},,2 isla(s) 91 inline
+620,0xB07F,redirect,0xA859,45,She was a nice person to have for\na mother.{0D},,3 isla(s) 91 inline
+621,0xB0C0,redirect,0xA88F,57,It's too bad things didn't go well\nbetween her and Dad.{0D},,1 isla(s) 91 inline
+622,0xB0E5,redirect,0xA8CB,86,"I was always hard on her.  You\ncould say she was only being true\nto herself, though.{0D}",,2 isla(s) 91 inline
+623,0xB13C,redirect,0xA927,35,I wish I'd tried to help her now.{0D},,1 isla(s) 91 inline
+624,0xB17B,redirect,0xA94D,9,Her job{0D},,
+625,0xB188,redirect,0xA956,26,What about you and work?{0D},,
+626,0xB1A1,redirect,0xA970,61,"Andy, our news director, he's\ntaking care of things for us.{0D}",,1 isla(s) 91 inline
+627,0xB1E8,redirect,0xA9B0,129,He said we should just stay here\nfor now.{80238057}I'm keeping an eye on you here\nwhile my evil twin tells the world\nyou're a psycho.{0D},,3 isla(s) 91 inline
+628,0xB227,redirect,0xAA3A,23,Is he a... boyfriend?{0D},,1 isla(s) 91 inline
+629,0xB236,redirect,0xAA54,63,"A long time ago, maybe.  We're not\nseeing each other anymore.{0D}",,3 isla(s) 91 inline
+630,0xB267,redirect,0xAA9C,131,"They're using an AI in place of me,\nso we should be okay.{80238057}Only Andy and a small number of\npeople at the station know about\nit.{0D}",,3 isla(s) 91 inline
+631,0xB2E4,redirect,0xAB28,50,No one would ever think that's not\nthe real you.{0D},,1 isla(s) 91 inline
+632,0xB30B,redirect,0xAB5D,8,An AI?{0D},,
+633,0xB316,redirect,0xAB65,58,"Yeah, why don't you turn on the\nTV and see for yourself?{0D}",,2 isla(s) 91 inline
+634,0xB331,redirect,0xABA5,39,It's all live.  It's not a recording.{0D},,
+635,0xB362,redirect,0xABCC,45,Your mother was saying you're\nstill single?{0D},,1 isla(s) 91 inline
+636,0xB391,redirect,0xABFC,60,"Don't get me wrong, I'm not some\ncareer woman or anything.{0D}",,3 isla(s) 91 inline
+637,0xB3DC,redirect,0xAC41,102,I just don't think I'm ready to start\na family.  Because of my health.  I\ndon't want to be a burden.{0D},,4 isla(s) 91 inline
+638,0xB421,redirect,0xACB3,98,Someday I want to show the world\nthe media aren't just tools of the\ngovernment and big business.{0D},,3 isla(s) 91 inline
+639,0xB468,redirect,0xAD1E,29,I'm a news anchor with BBC.{0D},,2 isla(s) 91 inline
+640,0xB493,redirect,0xAD41,43,We always watch your program at\nmy house.{0D},,
+641,0xB4B8,redirect,0xAD6C,20,Are you off today?{0D},,
+642,0xB4D3,redirect,0xAD80,48,I'm taking some time off because\nof my health.{0D},,3 isla(s) 91 inline
+643,0xB500,redirect,0xADB9,109,The news they're showing right\nnow is a CG me.{80238057}I don't think anyone will be able to\ntell the difference.{0D},,1 isla(s) 91 inline
+644,0xB561,redirect,0xAE29,41,I don't think anyone will know it's\nCG.{0D},,1 isla(s) 91 inline
+645,0xB58E,redirect,0xAE55,13,Her illness{0D},,1 isla(s) 91 inline
+646,0xB59B,redirect,0xAE65,25,How are you holding up?{0D},,1 isla(s) 91 inline
+647,0xB5AA,redirect,0xAE84,149,Not very well.  They're\nsuppressing the disease with\ndrugs for now.{80238057}I can't die yet.{80238057}Not until I know the truth and put\neverything behind me.{0D},,3 isla(s) 91 inline
+648,0xB623,redirect,0xAF22,22,Are you in any pain?{0D},,
+649,0xB62E,redirect,0xAF38,51,No... but I'm scared.  I don't want\nto die alone.{0D},,2 isla(s) 91 inline
+650,0xB689,redirect,0xAF71,36,Have they still not found a donor?{0D},,1 isla(s) 91 inline
+651,0xB698,redirect,0xAF98,59,No.  They say there might not be\nanyone for me on Beyond.{0D},,2 isla(s) 91 inline
+652,0xB6E7,redirect,0xAFD9,39,"Don't worry, you're gonna get\nbetter.{0D}",,
+653,0xB6FC,redirect,0xB003,67,"That's what I keep saying, but... I\nknow I'm only kidding myself.{0D}",,1 isla(s) 91 inline
+654,0xB729,redirect,0xB049,32,They still can't find a donor?{0D},,1 isla(s) 91 inline
+655,0xB74E,redirect,0xB06C,114,"No.  Still waiting.{80238057}I was able to move up the waiting\nlist thanks to Dad, but they can't\nfind a match for me.{0D}",,2 isla(s) 91 inline
+656,0xB7C5,redirect,0xB0E4,71,They say if they don't find a donor\nthere's nothing else they can do.{0D},,1 isla(s) 91 inline
+657,0xB7FC,redirect,0xB12E,52,We were talking about it with this\ndoctor we know.{0D},,1 isla(s) 91 inline
+658,0xB823,redirect,0xB165,38,"And they said the same thing,\nright?{0D}",,2 isla(s) 91 inline
+659,0xB836,redirect,0xB191,6,....{0D},,
+660,0xB83D,redirect,0xB197,23,All I can do is wait.{0D},,1 isla(s) 91 inline
+661,0xB850,redirect,0xB1B1,24,How's your body doing?{0D},,
+662,0xB865,redirect,0xB1C9,32,Same as always.  No good news.{0D},,1 isla(s) 91 inline
+663,0xB886,redirect,0xB1EC,93,It's so aggravating not being able\nto do anything for myself.  I'm just\nstuck here waiting.{0D},,2 isla(s) 91 inline
+664,0xB8CB,redirect,0xB24F,103,Your mother was worried about\nan illness she said you have.{80238057}Would you... mind telling me about\nit?{0D},,1 isla(s) 91 inline
+665,0xB90C,redirect,0xB2B9,171,"I have aplastic anemia.{80238057}The hematopoietic stem cells in my\nbone marrow, the ones that\ncreate new blood, have become\n damaged and I can't produce blood\ncells properly.{0D}",,5 isla(s) 91 inline
+666,0xB983,redirect,0xB373,79,"I can become anemic, or get\nhemorrhages, or be more\nsusceptible to infection.{0D}",,1 isla(s) 91 inline
+667,0xB9CC,redirect,0xB3C5,35,"That's why you're so pale, is it?{0D}",,1 isla(s) 91 inline
+668,0xB9DF,redirect,0xB3EB,100,"I've got aplastic anemia.  Basically,\nit's a disease where you become\nunable to produce new blood.{0D}",,1 isla(s) 91 inline
+669,0xBA26,redirect,0xB452,58,They're suppressing it with drugs\nuntil we find a donor.{0D},,1 isla(s) 91 inline
+670,0xBA55,redirect,0xB48F,78,"The thing is, they don't know how\nlong the medication will continue\nto work.{0D}",,3 isla(s) 91 inline
+671,0xBA8C,redirect,0xB4E6,11,Its cause{0D},,
+672,0xBA97,redirect,0xB4F1,41,How did you get such a serious\nillness?{0D},,1 isla(s) 91 inline
+673,0xBAAE,redirect,0xB51D,91,In my case it was exposure to\ncosmic radiation here.{80238057}I have secondary aplastic anemia.{0D},,1 isla(s) 91 inline
+674,0xBB2B,redirect,0xB57B,74,"Unlike Home, the surface of\nBeyond gets hit by a good deal of\nradiation.{0D}",,3 isla(s) 91 inline
+675,0xBB7E,redirect,0xB5CE,54,"So they must offer some form of\ncompensation, right?{0D}",,
+676,0xBBC9,redirect,0xB604,63,"Unfortunately, they haven't set up\nanything official yet, no.{0D}",,2 isla(s) 91 inline
+677,0xBBFA,redirect,0xB649,126,"Anti-space groups like the\nrepatriatists do offer support\nmoney, but I don't want to end up\n being used by people like them.{0D}",,2 isla(s) 91 inline
+678,0xBC75,redirect,0xB6CD,16,Repatriatists?{0D},,
+679,0xBC90,redirect,0xB6DD,22,"Yeah, repatriatists.{0D}",,1 isla(s) 91 inline
+680,0xBCC7,redirect,0xB6F6,112,Environmental destruction in space\nhas become a serious problem.{80238057}Beyond is one of the issues they\nfocus on.{0D},,3 isla(s) 91 inline
+681,0xBD0E,redirect,0xB76F,68,That's what sparked the\nmovement.  They say we should\nreturn Home.{0D},,
+682,0xBD4B,redirect,0xB7B3,60,"Repatri... yeah, they were talking\nabout them on the news.{0D}",,1 isla(s) 91 inline
+683,0xBD70,redirect,0xB7F2,29,"It was your show, actually.{0D}",,1 isla(s) 91 inline
+684,0xBD87,redirect,0xB812,19,Treatment methods{0D},,1 isla(s) 91 inline
+685,0xBD96,redirect,0xB828,39,How do you treat something like\nthat?{0D},,3 isla(s) 91 inline
+686,0xBDA3,redirect,0xB858,77,Someone at your father's work\nwas saying you need a bone\nmarrow transplant?{0D},,2 isla(s) 91 inline
+687,0xBDE0,redirect,0xB8AB,7,Yeah.{0D},,
+688,0xBDEB,redirect,0xB8B2,126,"Dad talked me into getting\nimmunosuppressive drug\ntherapy.{80238057}I can see why he wanted me to try\nit, but it's not doing much.{0D}",,2 isla(s) 91 inline
+689,0xBE40,redirect,0xB936,89,"Apparently in moderate to severe\ncases like mine, hormone therapy\nhas no effect either.{0D}",,1 isla(s) 91 inline
+690,0xBE89,redirect,0xB992,16,"That bad, huh?{0D}",,
+691,0xBEA0,redirect,0xB9A2,55,My only remaining option is a bone\nmarrow transplant.{0D},,1 isla(s) 91 inline
+692,0xBECF,redirect,0xB9DC,25,Bone marrow transplants{0D},,1 isla(s) 91 inline
+693,0xBED8,redirect,0xB9F8,88,The director at BCCH was telling\nus a bone marrow transplant is a\ndifficult procedure.{0D},,1 isla(s) 91 inline
+694,0xBF0F,redirect,0xBA53,27,A bone marrow transplant?{0D},,1 isla(s) 91 inline
+695,0xBF1E,redirect,0xBA71,67,They replace my damaged marrow\nwith marrow from a healthy\nperson.{0D},,3 isla(s) 91 inline
+696,0xBF53,redirect,0xBABD,96,"But in order to do the transplant,\nthey need marrow from someone\nwith the same HLA type as me.{0D}",,
+697,0xBF96,redirect,0xBB1D,88,We still haven't found someone\nwith my type.{80238057}The transplant costs are enormous\ntoo.{0D},,1 isla(s) 91 inline
+698,0xBFDF,redirect,0xBB78,18,Transplant costs{0D},,1 isla(s) 91 inline
+699,0xBFEE,redirect,0xBB8D,92,"I hope you don't mind me asking,\nbut... how are you planning on\npaying for the transplant?{0D}",,1 isla(s) 91 inline
+700,0xC023,redirect,0xBBEC,119,Part of it was going to come from\nmoney Dad borrowed from his\ncompany.{80238057}Maybe that's what started this\nwhole thing?{0D},,1 isla(s) 91 inline
+701,0xC076,redirect,0xBC66,68,"So, Hojo was looking for money.  I\ncan think of one way to get it.{0D}",,2 isla(s) 91 inline
+702,0xC0AF,redirect,0xBCB0,80,"There could be a connection,\nyeah.  It gives weight to what that\nguy said too.{0D}",,1 isla(s) 91 inline
+703,0xC0E6,redirect,0xBD03,149,"The transplant costs,\nhospitalization fees,\nimmunosuppressants....{80238057}I don't know where I'm going to\nget all the money even if we do\nfind a donor.{0D}",,6 isla(s) 91 inline
+704,0xC125,redirect,0xBDAA,59,You don't look like you're\nstrapped for cash or anything.{0D},,1 isla(s) 91 inline
+705,0xC136,redirect,0xBDE8,156,"It's more expensive than you\nthink.{80238057}Until recently, my position on the\nwaiting list was 5, which is for\n\n people who can't even pay for the\ntransplant.{0D}",,3 isla(s) 91 inline
+706,0xC1B5,redirect,0xBE8D,42,"But last month, I finally got some\nhope.{0D}",,1 isla(s) 91 inline
+707,0xC1DE,redirect,0xBEBA,47,That's why I'm always checking my\nphone here.{0D},,2 isla(s) 91 inline
+708,0xC205,redirect,0xBEEF,78,It looks like Dad got me moved up.\nI'm so grateful for everything he's\ndone.{0D},,2 isla(s) 91 inline
+709,0xC23A,redirect,0xBF43,22,Hojo's disappearance{0D},,1 isla(s) 91 inline
+710,0xC249,redirect,0xBF5C,71,Do you have any theories about\nwhat might've happened to your\nfather?{0D},,1 isla(s) 91 inline
+711,0xC26C,redirect,0xBFA6,109,He's not the type of person to\ndisappear and not tell anyone.{80238057}He must have become involved in\nsomething.{0D},,2 isla(s) 91 inline
+712,0xC2C7,redirect,0xC019,63,Did he mention anything in\nparticular before he went\nmissing?{0D},,1 isla(s) 91 inline
+713,0xC2EE,redirect,0xC05B,86,"Actually, yeah.  The word\n""Plato"", several times.  I don't\nknow what he meant by it.{0D}",,2 isla(s) 91 inline
+714,0xC345,redirect,0xC0B7,50,"Again with this Plato, or Pluto,\nwhatever it is.{0D}",,1 isla(s) 91 inline
+715,0xC366,redirect,0xC0EC,33,You can't recall anything else?{0D},,
+716,0xC37B,redirect,0xC10D,90,"I was away on assignment at the\ntime.{80238057}When I got back, Mom had already\nleft for Home.{0D}",,2 isla(s) 91 inline
+717,0xC3F0,redirect,0xC16D,68,If I had been here I wouldn't have\nlet her do something like that.{0D},,
+718,0xC42F,redirect,0xC1B1,39,I hadn't talked much with Dad\nlately.{0D},,1 isla(s) 91 inline
+719,0xC45C,redirect,0xC1DB,36,What about the 15th of last\nmonth?{0D},,1 isla(s) 91 inline
+720,0xC46D,redirect,0xC202,92,"The 15th? You mean the last time\nanyone saw Dad?{80238057}Like I said, I was away on\nassignment.{0D}",,3 isla(s) 91 inline
+721,0xC4A8,redirect,0xC267,71,There's no sign of anyone having\nhad contact with him after the\n15th.{0D},,1 isla(s) 91 inline
+722,0xC4DD,redirect,0xC2B1,5,K-9{0D},,
+723,0xC4E8,redirect,0xC2B6,59,It seems your father was working\non something called K-9.{0D},,2 isla(s) 91 inline
+724,0xC52D,redirect,0xC2F7,35,K-9? He never mentioned it to\nme.{0D},,
+725,0xC546,redirect,0xC31A,59,"I've never heard of it before. \nSome kind of code, maybe?{0D}",,1 isla(s) 91 inline
+726,0xC56F,redirect,0xC358,7,Plato{0D},,
+727,0xC57C,redirect,0xC35F,105,So you don't know what he\ncould've meant by this Plato or\nPluto thing?{80238057}Your mother mentioned it too.{0D},,2 isla(s) 91 inline
+728,0xC5C5,redirect,0xC3CE,59,Wish I knew.  There's nowhere\nwith a name like that here.{0D},,1 isla(s) 91 inline
+729,0xC60C,redirect,0xC40C,35,Maybe it's some sort of\ncodename?{0D},,
+730,0xC63B,redirect,0xC432,12,The CD-ROM{0D},,
+731,0xC650,redirect,0xC43E,41,Do you know anything about this\nCD-ROM?{0D},,1 isla(s) 91 inline
+732,0xC677,redirect,0xC46A,42,I can't believe my father had that\nhere.{0D},,1 isla(s) 91 inline
+733,0xC69A,redirect,0xC497,28,I had no idea he had that.{0D},,1 isla(s) 91 inline
+734,0xC6BF,redirect,0xC4B6,59,A CD-ROM? I've never seen one\nhere.  All we have are CDs.{0D},,2 isla(s) 91 inline
+735,0xC700,redirect,0xC4F7,20,"Yeah, we remember.{0D}",,
+736,0xC715,redirect,0xC50B,39,We should go back to the living\nroom.{0D},,1 isla(s) 91 inline
+737,0xC72A,redirect,0xC535,23,Let's go take a look.{0D},,1 isla(s) 91 inline
+738,0xC73D,redirect,0xC54F,36,I'm worried about that phone call.{0D},,1 isla(s) 91 inline
+739,0xC776,redirect,0xC576,41,I don't know anything about any\nCD-ROM.{0D},,1 isla(s) 91 inline
+740,0xC791,redirect,0xC5A2,53,"All we have in the house are CDs,\nas far as I know.{0D}",,1 isla(s) 91 inline
+741,0xC7B0,redirect,0xC5DA,5,CDs{0D},,
+742,0xC7BD,redirect,0xC5DF,37,I had no idea that was here\nbefore.{0D},,
+743,0xC7F6,redirect,0xC604,33,I guess my father hid it there.{0D},,1 isla(s) 91 inline
+744,0xC81D,redirect,0xC628,42,"So to your knowledge, you only\nhave CDs?{0D}",,2 isla(s) 91 inline
+745,0xC848,redirect,0xC658,25,"Yeah, Dad's collection.{0D}",,
+746,0xC875,redirect,0xC671,44,His CDs on the shelves in the\nliving room.{0D},,2 isla(s) 91 inline
+747,0xC894,redirect,0xC6A3,31,His CDs on the shelves there.{0D},,1 isla(s) 91 inline
+748,0xC8B3,redirect,0xC6C5,54,Perhaps that phone call has\nsomething to do with it?{0D},,
+749,0xC8F6,redirect,0xC6FB,44,My mother and I never used CDs. \nJust Dad.{0D},,3 isla(s) 91 inline
+750,0xC92F,redirect,0xC730,51,We were right about Hojo hiding\nit among his CDs.{0D},,1 isla(s) 91 inline
+751,0xC96C,redirect,0xC766,41,There was that CD with the noise\non it.{0D},,2 isla(s) 91 inline
+752,0xC9AF,redirect,0xC795,20,Let's look for it.{0D},,
+753,0xC9CC,redirect,0xC7A9,15,Family crests{0D},,1 isla(s) 91 inline
+754,0xC9D9,redirect,0xC7BB,80,"You know this CD-ROM?{80238057}Well, we need to know about\nfamily crests to load it.{0D}",,2 isla(s) 91 inline
+755,0xCA06,redirect,0xC811,29,We have a question for you.{0D},,1 isla(s) 91 inline
+756,0xCA17,redirect,0xC831,52,What does your family crest look\nlike? Your kamon.{0D},,1 isla(s) 91 inline
+757,0xCA44,redirect,0xC868,105,"Come on? Oh, our kamon!{80238057}The traditional Hojo crest is three\ntriangles arranged in a larger\ntriangle.{0D}",,3 isla(s) 91 inline
+758,0xCAB9,redirect,0xC8DA,17,Why do you ask?{0D},,
+759,0xCAC6,redirect,0xC8EB,74,We found out Tokugawa use\nfamily crests for an employee\npassword system.{0D},,2 isla(s) 91 inline
+760,0xCAFF,redirect,0xC93B,70,I see.  I thought it was kind of\nstrange having that thing up\nthere.{0D},,1 isla(s) 91 inline
+761,0xCB24,redirect,0xC984,90,"Basically, the only computer that\nwill let us access this disc uses\ncrests as passwords.{0D}",,3 isla(s) 91 inline
+762,0xCB71,redirect,0xC9E7,8,I see.{0D},,
+763,0xCB94,redirect,0xC9EF,52,Do you have anything with any\ninformation on them?{0D},,2 isla(s) 91 inline
+764,0xCBB5,redirect,0xCA29,29,Like a book or a data disc?{0D},,1 isla(s) 91 inline
+765,0xCBD4,redirect,0xCA49,55,There's a chart on the wall next to\nthe shoji screen.{0D},,
+766,0xCBF7,redirect,0xCA80,15,See it there?{0D},,
+767,0xCC16,redirect,0xCA8F,43,There's a chart on the wall in the\nstudy.{0D},,1 isla(s) 91 inline
+768,0xCC3B,redirect,0xCABD,48,There's a chart of family crests in\nthe study.{0D},,1 isla(s) 91 inline
+769,0xCC54,redirect,0xCAF0,16,Unusual events{0D},,1 isla(s) 91 inline
+770,0xCC5F,redirect,0xCB03,35,Anything unusual happened\nlately?{0D},,1 isla(s) 91 inline
+771,0xCC7E,redirect,0xCB29,66,"There have been a few crank\ncalls, but I get those all the time.{0D}",,
+772,0xCCBB,redirect,0xCB6B,15,All the time?{0D},,1 isla(s) 91 inline
+773,0xCCCA,redirect,0xCB7D,44,"Yeah, because I'm somewhat of a\ncelebrity.{0D}",,1 isla(s) 91 inline
+774,0xCCF1,redirect,0xCBAC,66,You should still be careful anyway.\nThey might not all be jokes.{0D},,2 isla(s) 91 inline
+775,0xCD26,redirect,0xCBF4,25,Still no word from Dad.{0D},,1 isla(s) 91 inline
+776,0xCD41,redirect,0xCC10,34,"It's funny, this talk about CDs.{0D}",,1 isla(s) 91 inline
+777,0xCD64,redirect,0xCC35,137,There was a call from a woman\nsaying my Dad had borrowed a CD\nfrom her.{80238057}When I told her I didn't know\nanything about it she hung up.{0D},,6 isla(s) 91 inline
+778,0xCDD9,redirect,0xCCD0,59,She asked for a CD? The timing's\na little too convenient.{0D},,1 isla(s) 91 inline
+779,0xCE06,redirect,0xCD0E,46,It was a woman? Do you have the\ncall's data?{0D},,1 isla(s) 91 inline
+780,0xCE37,redirect,0xCD3F,55,"No, it was encrypted.  Plus it was\na voice-only call.{0D}",,2 isla(s) 91 inline
+781,0xCE78,redirect,0xCD7C,20,A voice-only call?{0D},,
+782,0xCE87,redirect,0xCD90,60,That's what people do if they've\ngot some ulterior motive.{0D},,
+783,0xCEC4,redirect,0xCDCC,35,I wouldn't call this coincidence.{0D},,1 isla(s) 91 inline
+784,0xCED7,redirect,0xCDF2,36,You think they found out about\nit?{0D},,1 isla(s) 91 inline
+785,0xCEFE,redirect,0xCE19,66,There's been nothing out of the\nordinary besides the phone call.{0D},,1 isla(s) 91 inline
+786,0xCF3D,redirect,0xCE5E,41,Good thing we found it before\nthey did.{0D},,2 isla(s) 91 inline
+787,0xCF66,redirect,0xCE8D,35,We better find it before they do.{0D},,
+788,0xCF95,redirect,0xCEB0,24,BCP's press conference{0D},,1 isla(s) 91 inline
+789,0xCFA2,redirect,0xCECB,84,We're the only station that still\ntalks about Beyond's drug problem\nat any length.{0D},,2 isla(s) 91 inline
+790,0xCFDB,redirect,0xCF25,42,"Tokugawa control the media too,\ndo they?{0D}",,1 isla(s) 91 inline
+791,0xCFF8,redirect,0xCF52,44,"Most places, but not everyone,\nand not us.{0D}",,1 isla(s) 91 inline
+792,0xD029,redirect,0xCF81,55,"We can't ignore a press\nconference like that, though.{0D}",,2 isla(s) 91 inline
+793,0xD058,redirect,0xCFBE,54,It looks like people are buying\nwhat they're saying.{0D},,1 isla(s) 91 inline
+794,0xD095,redirect,0xCFF7,82,"If we can just get some evidence\ntogether, we should be able to\nclear your name.{0D}",,2 isla(s) 91 inline
+795,0xD0C2,redirect,0xD04F,7,Yeah.{0D},,
+796,0xD0C9,redirect,0xD056,57,We need to prove you're innocent.\nAnd that BCP's lying.{0D},,1 isla(s) 91 inline
+797,0xD110,redirect,0xD092,22,The question is how.{0D},,1 isla(s) 91 inline
+798,0xD119,redirect,0xD0AB,9,Open up{0D},,
+799,0xD124,redirect,0xD0B4,10,Lorraine{0D},,
+800,0xD135,redirect,0xD0BE,2,{0D},,
+801,0xD186,redirect,0xD0C0,2,{0D},,
+802,0xD199,redirect,0xD0C5,2,{0D},,
+803,0xD1D0,redirect,0xD0C7,2,{0D},,
+804,0xD21D,redirect,0xD0CC,2,{0D},,
+805,0xD25A,redirect,0xD0CE,2,{0D},,
+806,0xD26D,redirect,0xD0D0,2,{0D},,
+807,0xD2A4,redirect,0xD0D2,2,{0D},,
+808,0xD2DD,redirect,0xD0D4,2,{0D},,
+809,0xD32C,redirect,0xD0D6,2,{0D},,
+810,0xD36B,redirect,0xD0D8,2,{0D},,
+811,0xD3A8,redirect,0xD0DA,2,{0D},,
+812,0xD3BF,redirect,0xD0DC,2,{0D},,
+813,0xD404,redirect,0xD0DE,2,{0D},,
+814,0xD421,redirect,0xD0E0,2,{0D},,
+815,0xD498,redirect,0xD0E2,2,{0D},,
+816,0xD4C1,redirect,0xD0E4,52,My EMPS accident happened while\nwe were separated.{0D},,2 isla(s) 91 inline
+817,0xD508,redirect,0xD11E,69,We never saw each other again\nuntil she came to my office that\nday.{0D},,2 isla(s) 91 inline
+818,0xD555,redirect,0xD169,55,The time we spent together...\nwasn't always the best.{0D},,2 isla(s) 91 inline
+819,0xD594,redirect,0xD1A6,14,Hojo's death{0D},,
+820,0xD5A5,redirect,0xD1B4,61,"Karen, about Hojo... I mean, your\nfather....  I'm so sorry.{0D}",,1 isla(s) 91 inline
+821,0xD5D6,redirect,0xD1F4,154,"I was prepared for the worst, but\nit's just terrible what happened to\nhim.{80238057}I guess... I really am all alone now.\nNeither of them is ever coming\nback.{0D}",,3 isla(s) 91 inline
+822,0xD63F,redirect,0xD297,61,Tell me the truth.  How was my\nfather involved in all this?{0D},,1 isla(s) 91 inline
+823,0xD680,redirect,0xD2D7,11,The truth{0D},,1 isla(s) 91 inline
+824,0xD68B,redirect,0xD2E5,78,Your father was forced to develop\nDDS products for concealing\nillegal drugs.{0D},,1 isla(s) 91 inline
+825,0xD6E0,redirect,0xD336,83,I see.  I figured it was something\nlike that.{80238057}Just another victim of Tokugawa.{0D},,1 isla(s) 91 inline
+826,0xD719,redirect,0xD38C,92,He probably started selling Narc\nwith Ishida to scrape together\nmoney for your transplant.{0D},,2 isla(s) 91 inline
+827,0xD784,redirect,0xD3EE,23,"And then, Dad was....{0D}",,1 isla(s) 91 inline
+828,0xD799,redirect,0xD408,37,He was silenced.  Just like Ishida.{0D},,1 isla(s) 91 inline
+829,0xD7C0,redirect,0xD430,180,"Your father, your mother,\nIshida....{80238057}They were all killed to keep the\ntruth behind Narc a secret.{80238057}Tokugawa and Gates have been\nworking together for goodness\nknows how long.{0D}",,2 isla(s) 91 inline
+830,0xD85D,redirect,0xD4EA,15,Your feelings{0D},,
+831,0xD86A,redirect,0xD4F9,6,Show{0D},,
+832,0xD875,redirect,0xD4FF,12,Hojo photo{0D},,1 isla(s) 91 inline
+833,0xD884,redirect,0xD50E,63,"You'd never know all the\nproblems they had, seeing them\nhere.{0D}",,
+834,0xD8AD,redirect,0xD54D,53,I can't believe I might never see\nDad again either.{0D},,1 isla(s) 91 inline
+835,0xD8D0,redirect,0xD585,55,That's a picture of Mom and Dad. \nWhere'd you get it?{0D},,2 isla(s) 91 inline
+836,0xD8F1,redirect,0xD5C2,36,Your mother gave it to me on\nHome.{0D},,1 isla(s) 91 inline
+837,0xD926,redirect,0xD5E9,96,"So that's Hojo, huh... he doesn't\nlook like the type who'd just leave\neverything and run away.{0D}",,1 isla(s) 91 inline
+838,0xD94F,redirect,0xD64C,29,I wonder where he could be.{0D},,
+839,0xD970,redirect,0xD669,58,"I'm sorry, but we still need this\nfor the investigation.{0D}",,2 isla(s) 91 inline
+840,0xD98D,redirect,0xD6A9,42,That's okay.  I have another copy\nof it.{0D},,
+841,0xD9B6,redirect,0xD6D3,16,Lorraine photo{0D},,1 isla(s) 91 inline
+842,0xD9C3,redirect,0xD6E6,19,Policenauts photo{0D},,
+843,0xD9D6,redirect,0xD6F9,57,I remember looking at this with\nMom when I was younger.{0D},,1 isla(s) 91 inline
+844,0xDA09,redirect,0xD735,80,I didn't understand who these\npeople were.  That's what it's like\nat that age.{0D},,1 isla(s) 91 inline
+845,0xDA3A,redirect,0xD788,44,I have memories of this just like\nMom did.{0D},,1 isla(s) 91 inline
+846,0xDA6B,redirect,0xD7B7,27,Mom used to show me this.{0D},,1 isla(s) 91 inline
+847,0xDA8C,redirect,0xD7D5,52,I brought it with me to prove who\nI am if need be.{0D},,
+848,0xDAD3,redirect,0xD809,51,"Other kids had picture books, I\nhad this picture.{0D}",,
+849,0xDB10,redirect,0xD83C,44,She never told me why she\nshowed it to me.{0D},,2 isla(s) 91 inline
+850,0xDB49,redirect,0xD86E,9,ID card{0D},,1 isla(s) 91 inline
+851,0xDB54,redirect,0xD87A,31,I hope that can help somehow.{0D},,1 isla(s) 91 inline
+852,0xDB7D,redirect,0xD89C,63,"It's a copy, so don't tell anyone at\nTokugawa about it, okay?{0D}",,2 isla(s) 91 inline
+853,0xDBA6,redirect,0xD8E1,34,"Yes, of course not.  We promise.{0D}",,1 isla(s) 91 inline
+854,0xDBC9,redirect,0xD906,4,CD{0D},,
+855,0xDBD6,redirect,0xD90A,82,That's the first I've ever seen it. \nYou really think that belongs to my\nfather?{0D},,2 isla(s) 91 inline
+856,0xDC0D,redirect,0xD962,35,I can't believe he had that here.{0D},,1 isla(s) 91 inline
+857,0xDC3C,redirect,0xD988,45,Who knows how long it's been\nthrough there.{0D},,2 isla(s) 91 inline
+858,0xDC65,redirect,0xD9BB,35,I wonder how long it's been here.{0D},,2 isla(s) 91 inline
+859,0xDC8A,redirect,0xD9E4,6,Back{0D},,
+860,0xDC93,redirect,0xD9EA,82,I'll lose all my hair if I get the\ntransplant.{80238057}Can you imagine? I'll be bald!{0D},,2 isla(s) 91 inline
+861,0xDCF4,redirect,0xDA42,25,That's... that's rough.{0D},,
+862,0xDD05,redirect,0xDA5B,57,"Your said your hair's insured or\nsomething, didn't you?{0D}",,2 isla(s) 91 inline
+863,0xDD24,redirect,0xDA9A,92,"Yeah, that's why the station isn't\nthrilled about the thought of me\nhaving the transplant.{0D}",,1 isla(s) 91 inline
+864,0xDD57,redirect,0xDAF9,52,That's terrible.  Can they not\nreplace it with CG?{0D},,1 isla(s) 91 inline
+865,0xDD7A,redirect,0xDB30,48,You said they can change your\nclothes with CG.{0D},,2 isla(s) 91 inline
+866,0xDD9D,redirect,0xDB66,84,"They can do things like that, yeah,\nbut come on! My real hair would\nstill be gone!{0D}",,2 isla(s) 91 inline
+867,0xDDB0,redirect,0xDBC0,55,Your hair looks like your mother's\nwhen we first met.{0D},,2 isla(s) 91 inline
+868,0xDDDD,redirect,0xDBFD,44,Your hair is even more vibrant off\ncamera.{0D},,1 isla(s) 91 inline
+869,0xDE0A,redirect,0xDC2C,42,Keeping long hair is hard work in\nspace.{0D},,1 isla(s) 91 inline
+870,0xDE47,redirect,0xDC59,54,"Yeah, I haven't seen many women\nwith long hair here.{0D}",,3 isla(s) 91 inline
+871,0xDE90,redirect,0xDC98,37,"It ""explodes"" under\nweightlessness.{0D}",,
+872,0xDEB5,redirect,0xDCBD,87,"People say it's my most attractive\nfeature, so the station always\nkeeps an eye on it.{0D}",,2 isla(s) 91 inline
+873,0xDEEA,redirect,0xDD1A,41,There's even an insurance policy\non it.{0D},,1 isla(s) 91 inline
+874,0xDF15,redirect,0xDD46,31,Now I've heard of everything.{0D},,1 isla(s) 91 inline
+875,0xDF3A,redirect,0xDD68,32,Must be very high-maintenance.{0D},,1 isla(s) 91 inline
+876,0xDF71,redirect,0xDD8B,49,"To be honest, long hair is passe\non Beyond now.{0D}",,2 isla(s) 91 inline
+877,0xDFB6,redirect,0xDDC2,77,"They were calling it ""Karen hair""\nat one point when a lot of people\nhad it.{0D}",,2 isla(s) 91 inline
+878,0xDFED,redirect,0xDE15,74,You know one of the good things\nabout living here when it comes to\nhair?{0D},,1 isla(s) 91 inline
+879,0xE01C,redirect,0xDE62,76,"Since the air's cleaner than Home,\npeople tend to have nicer-looking\nhair.{0D}",,1 isla(s) 91 inline
+880,0xE059,redirect,0xDEB1,33,I think you've got pretty hair.{0D},,1 isla(s) 91 inline
+881,0xE076,redirect,0xDED5,50,I always liked watching Lorraine\nbrush her hair.{0D},,1 isla(s) 91 inline
+882,0xE0A9,redirect,0xDF0A,23,Again with my mother.{0D},,1 isla(s) 91 inline
+883,0xE0B6,redirect,0xDF24,22,"Oh, yeah....  Sorry.{0D}",,
+884,0xE0D1,redirect,0xDF3D,12,It's okay.{0D},,
+885,0xE0DC,redirect,0xDF49,61,"You really like that outfit, huh?\nYou're always wearing it.{0D}",,1 isla(s) 91 inline
+886,0xE10B,redirect,0xDF89,55,I like to wear something casual\nwhen I'm not working.{0D},,1 isla(s) 91 inline
+887,0xE12E,redirect,0xDFC3,100,I like this color.  I've got a few of\nthese.  It's not like I'm wearing\nthe same one all the time.{0D},,2 isla(s) 91 inline
+888,0xE167,redirect,0xE02D,53,As if you can talk.  You're like a\nkitakiri suzume.{0D},,1 isla(s) 91 inline
+889,0xE198,redirect,0xE065,12,Kita-what?{0D},,
+890,0xE1A5,redirect,0xE071,103,Kitakiri suzume.{80238057}That's a Japanese expression for\nsomeone who wears the same\nclothes all the time.{0D},,5 isla(s) 91 inline
+891,0xE1CE,redirect,0xE0E7,69,So I'm a kitakiri suzume? I didn't\nbring any other clothes with me.{0D},,2 isla(s) 91 inline
+892,0xE1F9,redirect,0xE132,39,This is what I wore when I left\nHome.{0D},,
+893,0xE228,redirect,0xE159,9,Really?{0D},,
+894,0xE233,redirect,0xE162,96,"I'm buying new pairs of\nunderwear as I go along, and I'm\n\n borrowing shirts and stuff from\nEd.{0D}",,3 isla(s) 91 inline
+895,0xE26C,redirect,0xE1CB,66,"This is the first time I've seen you\nin anything low-cut, Karen.{0D}",,2 isla(s) 91 inline
+896,0xE2A7,redirect,0xE213,28,You always cover up on TV.{0D},,1 isla(s) 91 inline
+897,0xE2C0,redirect,0xE232,39,"Yes, it is a news program, after\nall.{0D}",,1 isla(s) 91 inline
+898,0xE2E1,redirect,0xE25C,71,It's the station's policy.  News\nOrder isn't some raunchy soap\nopera.{0D},,1 isla(s) 91 inline
+899,0xE30C,redirect,0xE2A6,45,I like to wear something like this\nat home.{0D},,2 isla(s) 91 inline
+900,0xE329,redirect,0xE2D9,16,I had no idea.{0D},,1 isla(s) 91 inline
+901,0xE338,redirect,0xE2EC,13,About what?{0D},,
+902,0xE343,redirect,0xE2F9,55,That you were concealing such...\nconsiderable assets.{0D},,2 isla(s) 91 inline
+903,0xE358,redirect,0xE336,56,"So, uhh... do you choose your\noutfits yourself, Karen?{0D}",,3 isla(s) 91 inline
+904,0xE381,redirect,0xE377,49,Almost all the clothes I wear on\ncamera are CG.{0D},,1 isla(s) 91 inline
+905,0xE3C4,redirect,0xE3AB,26,Your clothes are CG too?{0D},,1 isla(s) 91 inline
+906,0xE3D9,redirect,0xE3C8,22,Your clothes are CG?{0D},,1 isla(s) 91 inline
+907,0xE3EE,redirect,0xE3E1,113,"Well, I'm not naked during filming,\nof course.  I do wear something.{80238057}They alter it with CG at the other\nend.{0D}",,3 isla(s) 91 inline
+908,0xE411,redirect,0xE45B,53,That must be why you always\nseem to change so fast.{0D},,2 isla(s) 91 inline
+909,0xE43A,redirect,0xE496,111,They also make slight adjustments\nto the colors of my clothing\ndepending on my condition and the\n day's news.{0D},,1 isla(s) 91 inline
+910,0xE473,redirect,0xE508,47,"Wow, I didn't know they did things\nlike that.{0D}",,3 isla(s) 91 inline
+911,0xE48A,redirect,0xE540,36,My makeup is done with CG as\nwell.{0D},,1 isla(s) 91 inline
+912,0xE4DF,redirect,0xE567,68,You'll have to excuse my\nappearance.  I just woke before\nyou came.{0D},,3 isla(s) 91 inline
+913,0xE514,redirect,0xE5B4,26,Are you feeling alright?{0D},,1 isla(s) 91 inline
+914,0xE529,redirect,0xE5D1,29,"Yeah, don't worry about me.{0D}",,1 isla(s) 91 inline
+915,0xE53C,redirect,0xE5F1,64,That's a nice color.  That's the eco\ncolor in style this year.{0D},,2 isla(s) 91 inline
+916,0xE563,redirect,0xE637,47,I try to improve my complexion any\nway I can.{0D},,1 isla(s) 91 inline
+917,0xE586,redirect,0xE669,20,I like this color.{0D},,1 isla(s) 91 inline
+918,0xE59B,redirect,0xE680,31,What's that you've got there?{0D},,1 isla(s) 91 inline
+919,0xE5AC,redirect,0xE6A2,22,This? My cell phone.{0D},,1 isla(s) 91 inline
+920,0xE5CB,redirect,0xE6BB,40,"You news anchors are pretty\nbusy, huh?{0D}",,1 isla(s) 91 inline
+921,0xE5E6,redirect,0xE6E6,49,"That's not the main reason I have\nit, actually.{0D}",,
+922,0xE60F,redirect,0xE717,44,Karen's wearing her cell phone on\nher hip.{0D},,
+923,0xE630,redirect,0xE743,40,You talk to the station a lot on\nthat?{0D},,1 isla(s) 91 inline
+924,0xE65B,redirect,0xE76E,40,"No, I don't use it for work that\nmuch.{0D}",,1 isla(s) 91 inline
+925,0xE67A,redirect,0xE799,23,Is that a cell phone?{0D},,
+926,0xE693,redirect,0xE7B0,25,"Yeah, this is my phone.{0D}",,
+927,0xE6AC,redirect,0xE7C9,51,The hospital told me to always stay\nnear a phone.{0D},,3 isla(s) 91 inline
+928,0xE6D1,redirect,0xE805,66,If they find a match the transplant\ncoordinator will contact me.{0D},,2 isla(s) 91 inline
+929,0xE746,redirect,0xE84D,46,I keep it with me at all times just\nin case.{0D},,
+930,0xE78B,redirect,0xE87B,79,"I used to have dreams where I'd\nget ""the call"", but I don't get\nthem anymore.{0D}",,1 isla(s) 91 inline
+931,0xE7CE,redirect,0xE8CD,17,What are those?{0D},,
+932,0xE7D7,redirect,0xE8DE,30,These are medical bracelets.{0D},,1 isla(s) 91 inline
+933,0xE7FE,redirect,0xE8FF,30,These are medical bracelets.{0D},,
+934,0xE81B,redirect,0xE91D,46,These bracelets have come into\nstyle lately.{0D},,
+935,0xE83C,redirect,0xE94B,126,My doctor told me that these will\nprevent post-op rejection and\nalso lower my chances of getting\n graft-versus-host disease.{0D},,5 isla(s) 91 inline
+936,0xE8B9,redirect,0xE9D8,98,"They don't don't act against my\nhematopoietic stem cells, so they\nwon't make my condition worse.{0D}",,3 isla(s) 91 inline
+937,0xE8FA,redirect,0xEA43,202,"You get all sorts of these\nnowadays.{80238057}One of their advantages is unlike a\ndrug, you don't have to worry\nabout forgetting to take it.{80238057}They've gradually improved the\ndesigns over the years as well.{0D}",,6 isla(s) 91 inline
+938,0xE96B,redirect,0xEB1F,37,Is this a serious problem you\nhave?{0D},,
+939,0xE988,redirect,0xEB44,16,I'm afraid so.{0D},,1 isla(s) 91 inline
+940,0xE999,redirect,0xEB57,42,You're having problems with your\nhealth?{0D},,1 isla(s) 91 inline
+941,0xE9AE,redirect,0xEB84,27,"You could say that, yeah.{0D}",,
+942,0xE9C5,redirect,0xEBA2,35,So you don't know either of\nthem?{0D},,
+943,0xE9E0,redirect,0xEBC5,49,Dad never brings anyone from\nwork to the house.{0D},,1 isla(s) 91 inline
+944,0xEA25,redirect,0xEBF9,53,Do you know if he's close to any\nof his colleagues?{0D},,1 isla(s) 91 inline
+945,0xEA3E,redirect,0xEC31,23,"I don't think so, no.{0D}",,1 isla(s) 91 inline
+946,0xEA51,redirect,0xEC4B,45,Does he still go to that Japanese\nfestival?{0D},,2 isla(s) 91 inline
+947,0xEA6E,redirect,0xEC7E,41,"Mom went a few more times, but\nnot Dad.{0D}",,2 isla(s) 91 inline
+948,0xEA8F,redirect,0xECAD,47,Guys like Hojo are the hardest to\ntrack down.{0D},,1 isla(s) 91 inline
+949,0xEAAE,redirect,0xECDF,13,It's weird.{0D},,
+950,0xEAC1,redirect,0xECEC,105,"You know that chart with the\nfamily crests? Well, the Saito,\n\n Ishida and Hojo crests are all on\nthere.{0D}",,5 isla(s) 91 inline
+951,0xEB1A,redirect,0xED64,60,"Yeah, you're right.  There might\nbe some kinda connection.{0D}",,1 isla(s) 91 inline
+952,0xEB4F,redirect,0xEDA3,36,May we ask you about someone\nelse?{0D},,1 isla(s) 91 inline
+953,0xEB5E,redirect,0xEDCA,72,"That's a Japanese name, right?\nActually, I do remember hearing it\nnow.{0D}",,1 isla(s) 91 inline
+954,0xEB9F,redirect,0xEE15,80,"But there are a lot of people here\nwith Japanese names, so it could\nbe common.{0D}",,6 isla(s) 91 inline
+955,0xEBD6,redirect,0xEE77,54,"Even if I did hear the name\nbefore, I never met him.{0D}",,2 isla(s) 91 inline
+956,0xEC0D,redirect,0xEEB3,56,I know for sure I've never met\nanyone from Dad's work.{0D},,2 isla(s) 91 inline
+957,0xEC42,redirect,0xEEF1,22,"I'm so sorry, Karen.{0D}",,
+958,0xEC55,redirect,0xEF07,31,That's some illness you have.{0D},,
+959,0xEC6C,redirect,0xEF26,60,"Karen, I'm afraid we have some\nbad news about your father.{0D}",,1 isla(s) 91 inline
+960,0xEC89,redirect,0xEF65,5,Ed!{0D},,
+961,0xEC92,redirect,0xEF6A,60,I mean... forget it.  We don't know\nanything for sure yet.{0D},,1 isla(s) 91 inline
+962,0xECCB,redirect,0xEFA9,28,He could just be BSing us.{0D},,1 isla(s) 91 inline
+963,0xECEE,redirect,0xEFC8,2,{0D},,
+964,0xED05,redirect,0xEFCA,2,{0D},,
+965,0xED16,redirect,0xEFCC,2,{0D},,1 isla(s) 91 inline
+966,0xED41,redirect,0xEFD1,2,{0D},,
+967,0xED58,redirect,0xEFD3,2,{0D},,
+968,0xED9D,redirect,0xEFD5,2,{0D},,
+969,0xEDBC,redirect,0xEFD7,2,{0D},,
+970,0xEDCF,redirect,0xEFD9,2,{0D},,
+971,0xEE28,redirect,0xEFDB,6,Move{0D},,1 isla(s) 91 inline
+972,0xEE2D,redirect,0xEFE4,13,Living Room{0D},,
+973,0xEE32,redirect,0xEFF1,8,System{0D},,
+974,0xEE3B,redirect,0xEFF9,6,Look{0D},,
+975,0xEE40,redirect,0xEFFF,63,That's Japanese colored paper. \nMy father wrote that as well.{0D},,1 isla(s) 91 inline
+976,0xEE65,redirect,0xF041,55,That's Japanese colored paper. \nMy father wrote that.{0D},,1 isla(s) 91 inline
+977,0xEE84,redirect,0xF07B,50,You always seem to find these in\nOriental rooms.{0D},,1 isla(s) 91 inline
+978,0xEEA3,redirect,0xF0B0,88,"That's Japanese colored paper, or\nirogami.  Dad wrote one of his\nfavorite words on it.{0D}",,1 isla(s) 91 inline
+979,0xEED2,redirect,0xF10B,19,What does it say?{0D},,1 isla(s) 91 inline
+980,0xEEE9,redirect,0xF121,96,"""Oudou"".  It means ""the high\nroad"".{80238057}He used to say, ""One should\nalways walk the high road.""{0D}",,3 isla(s) 91 inline
+981,0xEF2E,redirect,0xF18A,78,Dad told me he owes his success\nas a scientist to living by this\nphilosophy.{0D},,2 isla(s) 91 inline
+982,0xEF77,redirect,0xF1DE,91,Dad likes tatami.{80238057}He says he only feels truly relaxed\nwhen he's in a room with tatami.{0D},,2 isla(s) 91 inline
+983,0xEFB2,redirect,0xF23F,38,Go ahead and sit down if you'd\nlike.{0D},,1 isla(s) 91 inline
+984,0xEFCD,redirect,0xF268,27,What's this on the floor?{0D},,
+985,0xEFDE,redirect,0xF283,147,"These are tatami mats.{80238057}You lay them on the floor of\nJapanese-style rooms, or\nwashitsu, like this one.{80238057}These ones aren't real straw,\nthough.{0D}",,4 isla(s) 91 inline
+986,0xF039,redirect,0xF322,18,They smell nice.{0D},,1 isla(s) 91 inline
+987,0xF05C,redirect,0xF337,76,They say tatami mats have become\nmore popular as a result of the\neco boom.{0D},,2 isla(s) 91 inline
+988,0xF093,redirect,0xF389,122,That's a hanging scroll that Dad\nwrote at New Year's.{80238057}It's not some expensive piece we\nbought at a store or anything.{0D},,2 isla(s) 91 inline
+989,0xF0D0,redirect,0xF409,122,That's a hanging scroll that Dad\nwrote at New Year's.{80238057}It's not some expensive piece we\nbought at a store or anything.{0D},,3 isla(s) 91 inline
+990,0xF113,redirect,0xF48C,43,Lorraine wasn't very good at\ncalligraphy.{0D},,
+991,0xF138,redirect,0xF4B7,41,"That's a hanging scroll, or a\nkakejiku.{0D}",,2 isla(s) 91 inline
+992,0xF14B,redirect,0xF4E6,19,Is it a talisman?{0D},,
+993,0xF15E,redirect,0xF4F9,69,It's a Japanese custom to decorate\nthe alcove with art and writing.{0D},,1 isla(s) 91 inline
+994,0xF19F,redirect,0xF541,23,What's written on it?{0D},,1 isla(s) 91 inline
+995,0xF1C2,redirect,0xF55B,102,"""My doctrine is that of an\nall-pervading unity.""{80238057}Dad said it's part of the Analects of\nConfucius.{0D}",,2 isla(s) 91 inline
+996,0xF212,redirect,0xF5C7,48,That's Dad's alcove.  He was very\nproud of it.{0D},,1 isla(s) 91 inline
+997,0xF227,redirect,0xF5FA,52,Why is this area of the room\nhigher than the rest?{0D},,1 isla(s) 91 inline
+998,0xF24A,redirect,0xF631,106,"That's the alcove, or the\ntokonoma.{80238057}It's a special area of the room\nreserved for placing decorations.{0D}",,3 isla(s) 91 inline
+999,0xF28B,redirect,0xF6A4,37,Carrying on traditions ain't cheap.{0D},,1 isla(s) 91 inline
+1000,0xF2A2,redirect,0xF6CC,46,That's the alcove.  Please don't\nstep on it.{0D},,
+1001,0xF2CB,redirect,0xF6FA,71,That's the potted plant Mom\nlooked after.  It requires a lot of\nwork.{0D},,3 isla(s) 91 inline
+1002,0xF302,redirect,0xF74A,21,Is this artificial?{0D},,
+1003,0xF333,redirect,0xF75F,56,"No, it's real.  It's a Home fern, if I\nremember right.{0D}",,1 isla(s) 91 inline
+1004,0xF36C,redirect,0xF79A,25,This is a nice pot too.{0D},,1 isla(s) 91 inline
+1005,0xF383,redirect,0xF7B6,85,Mom took good care of it.  You\ndon't come across this variety very\noften on Beyond.{0D},,1 isla(s) 91 inline
+1006,0xF3BE,redirect,0xF80E,47,You've got plants in the living\nroom as well.{0D},,1 isla(s) 91 inline
+1007,0xF3D7,redirect,0xF840,68,"We've always kept a lot of plants\naround the house, thanks to\nMom.{0D}",,1 isla(s) 91 inline
+1008,0xF42E,redirect,0xF887,67,That's a real potted plant.  Mom\nwas the one who took care of it.{0D},,2 isla(s) 91 inline
+1009,0xF453,redirect,0xF8D0,27,Is this adjustable glass?{0D},,
+1010,0xF46E,redirect,0xF8EB,206,That's shoji glass.  It's made to\nresemble shoji.{80238057}It's a high-tech glass that lets you\ncontrol the permeability of light.{80238057}Shoji are Japanese screens or\ndoors made out of Japanese paper\ncalled washi.{0D},,5 isla(s) 91 inline
+1011,0xF4C3,redirect,0xF9C8,51,That must be why it's so bright in\nhere at night.{0D},,
+1012,0xF4DC,redirect,0xF9FB,84,This is what you'd expect from\nhigh-tech glass.  It's like broad\ndaylight in here.{0D},,4 isla(s) 91 inline
+1013,0xF50F,redirect,0xFA5B,126,"The permeability of outside light is\ncontrolled automatically, so it's\nalways bright in here regardless\n of the time of day.{0D}",,3 isla(s) 91 inline
+1014,0xF54A,redirect,0xFAE2,39,What's wrong? There's no one\noutside.{0D},,
+1015,0xF56B,redirect,0xFB09,61,"It doesn't break as easily as real\nshoji, since it's glass.{0D}",,1 isla(s) 91 inline
+1016,0xF5A4,redirect,0xFB49,48,"Lorraine's altar....  Rest in peace,\nLorraine.{0D}",,2 isla(s) 91 inline
+1017,0xF5CF,redirect,0xFB7F,59,They still say we won't be able to\nbring Mom's body back.{0D},,1 isla(s) 91 inline
+1018,0xF61E,redirect,0xFBBD,41,Even the family of a Tokugawa\nemployee?{0D},,1 isla(s) 91 inline
+1019,0xF633,redirect,0xFBE9,60,Yeah.  It seems they don't make\nany exceptions whatsoever.{0D},,2 isla(s) 91 inline
+1020,0xF654,redirect,0xFC2B,2,{0D},,
+1021,0xF66D,redirect,0xFC2D,2,{0D},,
+1022,0xF6BA,redirect,0xFC2F,2,{0D},,
+1023,0xF705,redirect,0xFC31,2,{0D},,
+1024,0xF728,redirect,0xFC33,2,{0D},,
+1025,0xF735,redirect,0xFC35,2,{0D},,
+1026,0xF780,redirect,0xFC37,2,{0D},,
+1027,0xF7A3,redirect,0xFC39,2,{0D},,
+1028,0xF7EC,redirect,0xFC3B,2,{0D},,
+1029,0xF81F,redirect,0xFC3D,2,{0D},,
+1030,0xF86A,redirect,0xFC3F,98,This is actually the Hojo family\naltar.{80238057}I never imagined I'd need to use it\nfor this so soon.{0D},,2 isla(s) 91 inline
+1031,0xF8B1,redirect,0xFCA7,2,{0D},,
+1032,0xF8C0,redirect,0xFCA9,2,{0D},,
+1033,0xF8FB,redirect,0xFCAB,2,{0D},,
+1034,0xF922,redirect,0xFCAD,2,{0D},,
+1035,0xF93D,redirect,0xFCAF,2,{0D},,
+1036,0xF970,redirect,0xFCB1,16,      English:{0D},,
+1037,0xF99F,redirect,0xFCC1,2,{0D},,
+1038,0xFA06,redirect,0xFCC3,25,Let's see what it says.{0D},,1 isla(s) 91 inline
+1039,0xFA1F,redirect,0xFCDF,31,Let's see what this one says.{0D},,
+1040,0xFA3C,redirect,0xFCFE,16,Or so I heard.{0D},,1 isla(s) 91 inline
+1041,0xFA57,redirect,0xFD11,30,"That's what I heard, anyway.{0D}",,
+1042,0xFA70,redirect,0xFD2F,2,{0D},,
+1043,0xFAB5,redirect,0xFD31,2,{0D},,
+1044,0xFADC,redirect,0xFD33,118,"That's Dad's family crest chart.{80238057}The Hojo crest is on there too,\nbut that's not the actual crest our\nfamily uses.{0D}",,2 isla(s) 91 inline
+1045,0xFB2D,redirect,0xFDAF,34,This thing really came in handy.{0D},,
+1046,0xFB4C,redirect,0xFDD1,41,Good thing Hojo was such a\ncareful guy.{0D},,1 isla(s) 91 inline
+1047,0xFB6B,redirect,0xFDFD,47,This is what the informant was\ntalking about.{0D},,1 isla(s) 91 inline
+1048,0xFB94,redirect,0xFE2F,32,Let's be sure and study these.{0D},,
+1049,0xFBC1,redirect,0xFE4F,67,"Wait, didn't the informant mention\nsomething about family crests?{0D}",,1 isla(s) 91 inline
+1050,0xFBF8,redirect,0xFE95,39,There might be some sorta\nconnection.{0D},,1 isla(s) 91 inline
+1051,0xFC11,redirect,0xFEBF,57,"The Tokugawa logo comes from\ntheir family crest, right?{0D}",,2 isla(s) 91 inline
+1052,0xFC48,redirect,0xFEFE,48,He had to have a reason for\nputting this here.{0D},,1 isla(s) 91 inline
+1053,0xFC69,redirect,0xFF31,119,"Dosan Saito.  The nadeshiko, or\nfringed pink.{80238057}It says he was the one who\noriginally made this flower into a\ncrest.{0D}",,2 isla(s) 91 inline
+1054,0xFCC8,redirect,0xFFAE,75,"This is the employee ID for Saito,\nthe guard at Tokugawa\nPharmaceuticals.{0D}",,1 isla(s) 91 inline
+1055,0xFD03,redirect,0xFFFF,188,"Ieyasu Tokugawa.  The Tokugawa\naoi, or hollyhocks.{80238057}It says this became the Matsudaira\nfamily crest from their relationship\nwith the Kamo Shrines, and was\n later inherited by Tokugawa.{0D}",,1 isla(s) 91 inline
+1056,0xFD76,redirect,0x100BE,45,We have them to thank for that\nputrid logo.{0D},,
+1057,0xFD97,redirect,0x100EB,155,"Toshiie Maeda.  The Kaga\numebachi, or Kaga plum\nblossom.{80238057}Maeda designed this to stand out\nfrom all the other plum crests that\nwere around at the time.{0D}",,3 isla(s) 91 inline
+1058,0xFDDC,redirect,0x1018F,63,Some people think he was a\ndescendant of the Sugehara\nfamily.{0D},,2 isla(s) 91 inline
+1059,0xFE01,redirect,0x101D4,125,Mitsunari Ishida.  The kuyo.{80238057}It says the kuyo were heavenly\nbodies originally used for fortune\ntelling in ancient India.{0D},,3 isla(s) 91 inline
+1060,0xFE68,redirect,0x1025A,35,This is the Ishida employee code.{0D},,1 isla(s) 91 inline
+1061,0xFE97,redirect,0x10280,31,This looks somewhat familiar.{0D},,1 isla(s) 91 inline
+1062,0xFEC0,redirect,0x102A2,34,Yeah? I can't think of anything.{0D},,1 isla(s) 91 inline
+1063,0xFEE1,redirect,0x102C7,170,"Nagamasa Asai.  Kenhanabishi\ninside mittsumori kikko, or flower\n\n diamonds inside three tortoise\nshells.{80238057}This is from the Itsukushima\nShrine in Hiroshima Prefecture.{0D}",,4 isla(s) 91 inline
+1064,0xFF24,redirect,0x1037D,77,It came from the shape of a large\nboulder in front of a subordinate\nshrine.{0D},,1 isla(s) 91 inline
+1065,0xFF49,redirect,0x103CD,112,Hideki Kobayakawa.  The crest of\nthe Katori family.{80238057}Originating from the Katori Shrine\nin Chiba Prefecture.{0D},,3 isla(s) 91 inline
+1066,0xFF90,redirect,0x10446,77,"The Katori Shrine also uses the\ngoshichinokiri, a paulownia flower\npattern.{0D}",,3 isla(s) 91 inline
+1067,0xFFAF,redirect,0x1049C,82,"Soun Hojo.  The Hojo uroko, or\nscales.{80238057}It says the scales came from a\ndragon.{0D}",,cadena 92: 2 fragmentos unidos
+1068,0xFFFC,redirect,0x104F1,151,"This isn't my father's family\ncrest.{80238057}Even though his family name is\nHojo, it's not the actual crest he\nuses.{80238057}This is speaking in general terms.{0D}",,
+1069,0x1006B,redirect,0x10588,238,"There's a legend about its\norigin.{80238057}One night, the regent of\nKamakura, Tokimasa Hojo, went to\npray for the prosperity of his\n descendants at Enoshima, when a\nhalf human, half snake woman\nappeared before him and gave him\n three scales.{0D}",,
+1070,0x1012E,redirect,0x10676,80,He tried to ensure that prosperity\nby making the scales into his family\ncrest.{0D},,
+1071,0x10155,redirect,0x106C6,28,So these are snake scales?{0D},,
+1072,0x1016A,redirect,0x106E2,35,This crest is Hojo's employee ID.{0D},,
+1073,0x10197,redirect,0x10705,100,"Takatsuna Sasaki.  The meyui.{80238057}This belongs to the Omi Genji clan,\nof which Sasaki was a member.{0D}",,
+1074,0x101CA,redirect,0x10769,46,It's supposed to represent a\ndyeing pattern.{0D},,
+1075,0x101EB,redirect,0x10797,6,Back{0D},,
+1076,0x101F4,redirect,0x1079D,92,"My father used this desk for his\nwriting.  I never actually saw him\nuse it myself, though.{0D}",,
+1077,0x10235,redirect,0x107F9,50,I think he used it more for\nstorage than a desk.{0D},,
+1078,0x1026E,redirect,0x1082B,42,This is an odd desk.  Where's the\nchair?{0D},,
+1079,0x10287,redirect,0x10855,107,"It's a zashiki desk, a desk you\nplace on tatami.{80238057}You sit on the floor with your legs\nfolded under you.{0D}",,
+1080,0x102AE,redirect,0x108C0,64,That's where Dad drops his things\nwhen he gets home from work.{0D},,
+1081,0x102FB,redirect,0x10900,23,It's empty right now.{0D},,
+1082,0x1032A,redirect,0x10917,85,We never used this desk\nourselves because it's a little\nuncomfortable to work with.{0D},,
+1083,0x10357,redirect,0x1096C,38,"This is his study, though, isn't it?{0D}",,
+1084,0x10374,redirect,0x10992,64,"Yeah, but he was not the type to\nbring his work home with him.{0D}",,
+1085,0x103AB,redirect,0x109D2,81,"You could say that more than\nbeing a study, this room gave him\npeace and quiet.{0D}",,
+1086,0x103E2,redirect,0x10A23,59,My dad said he felt the most\nrelaxed when he was in here.{0D},,
+1087,0x1040B,redirect,0x10A5E,26,What's in these drawers?{0D},,
+1088,0x1041E,redirect,0x10A78,66,"There was sumi and suzuri in\nthem before, but they're empty\nnow.{0D}",,
+1089,0x1044B,redirect,0x10ABA,17,There was what?{0D},,
+1090,0x10458,redirect,0x10ACB,70,Sumi and suzuri {D0}{06} ink and ink\nstones.  You use them in\ncalligraphy.{0D},,
+1091,0x10493,redirect,0x10B11,71,"Dad hadn't been using the\ndrawers lately, so there's nothing\nin them.{0D}",,

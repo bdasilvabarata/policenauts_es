@@ -1,0 +1,1044 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x4476,redirect,0x42CD,27,"Alright, back to business.",,1 isla(s) 91 inline
+1,0x449B,redirect,0x42EB,48,We're outside the house.  What\ndo you wanna do?,,1 isla(s) 91 inline
+2,0x44B4,redirect,0x431E,36,There's no point going back inside.,,
+3,0x44D5,redirect,0x4342,51,There's nothing related to the\ninvestigation here.,,1 isla(s) 91 inline
+4,0x44F8,redirect,0x4378,118,"C'mon, who says everything needs\nto be about the investigation?{80238057}Besides, I'm sure Anna would love\nto see us again.",,1 isla(s) 91 inline
+5,0x4517,redirect,0x43F1,33,I knew that's what you're after.,,1 isla(s) 91 inline
+6,0x452C,redirect,0x4415,32,"No, not at all.  Calm down, Ed.",,
+7,0x454F,redirect,0x4435,80,If you so much as wink at her I\nswear they'll never find your\nbody.  Even here.,,2 isla(s) 91 inline
+8,0x456A,redirect,0x448B,30,You wanna stop off for a bit?,,1 isla(s) 91 inline
+9,0x457F,redirect,0x44AC,1,,,
+10,0x4586,redirect,0x44AD,1,,,
+11,0x45B5,redirect,0x44AE,1,,,
+12,0x45CA,redirect,0x44AF,1,,,
+13,0x462D,redirect,0x44B0,1,,,
+14,0x4660,redirect,0x44B1,1,,,
+15,0x467F,redirect,0x44B2,1,,,
+16,0x46A4,redirect,0x44B3,1,,,
+17,0x46B7,redirect,0x44B7,1,,,
+18,0x46D2,redirect,0x44B8,1,,,
+19,0x4707,redirect,0x44B9,1,,,
+20,0x4742,redirect,0x44BA,1,,,
+21,0x4783,redirect,0x44BB,1,,,
+22,0x47BE,redirect,0x44BC,1,,,
+23,0x47F9,redirect,0x44BD,1,,,
+24,0x4810,redirect,0x44BE,1,,,
+25,0x4827,redirect,0x44BF,1,,,
+26,0x482C,redirect,0x44C0,1,,,
+27,0x483F,redirect,0x44C1,5,Move,,
+28,0x4844,redirect,0x44C6,10,Go inside,,
+29,0x484D,redirect,0x44D0,6,Drive,,1 isla(s) 91 inline
+30,0x4856,redirect,0x44D9,77,Where are you in such a hurry to\ngo? I thought we'd get a bite to\neat first.,,2 isla(s) 91 inline
+31,0x487B,redirect,0x452F,41,"It's alright, go on in.  It is my\nhouse.",,1 isla(s) 91 inline
+32,0x48A2,redirect,0x455B,7,System,,
+33,0x48AB,redirect,0x4562,5,Look,,
+34,0x48B0,redirect,0x4567,89,I'm surprised how small it looks\noutside.  It's actually pretty big\nwhen you get inside.,,5 isla(s) 91 inline
+35,0x48E5,redirect,0x45CF,54,These look like the houses you\nfind in San Francisco.,,
+36,0x4916,redirect,0x4605,163,"This is the standard type of house\nfor residential lots here.{80238057}It doesn't have a garden, but we\ndo have two floors.{80238057}I still have 5 years left on my\nmortgage.",,4 isla(s) 91 inline
+37,0x49A1,redirect,0x46B4,172,"You can't make the lots that big\nsince the surface of the colony\nisn't completely flat.{80238057}That's why they're like the houses\nyou see in San Francisco, with all\nits hills.",,4 isla(s) 91 inline
+38,0x4A0C,redirect,0x476C,68,All I... all I have to show for all\nthese years here is this shack.,,1 isla(s) 91 inline
+39,0x4A39,redirect,0x47B3,60,We've got nothing to do here. \nWhy don't we just get going.,,1 isla(s) 91 inline
+40,0x4A5E,redirect,0x47F2,41,We should get back to the\ninvestigation.,,2 isla(s) 91 inline
+41,0x4A7F,redirect,0x4821,46,"What do you think of the porch?\nNot bad, huh?",,6 isla(s) 91 inline
+42,0x4AAC,redirect,0x4861,57,I remodeled the entrance.  I think\nit looks pretty nice.,,1 isla(s) 91 inline
+43,0x4AD5,redirect,0x489D,58,That's the front porch.  I\nremodeled the entrance myself.,,3 isla(s) 91 inline
+44,0x4B16,redirect,0x48E0,23,You call this a porch?,,1 isla(s) 91 inline
+45,0x4B29,redirect,0x48FA,56,"The entrance says a lot about a\nhouse, don't you think?",,1 isla(s) 91 inline
+46,0x4B56,redirect,0x4935,42,There's nothing else for us to do\ninside.,,
+47,0x4B71,redirect,0x495F,78,Let's get back to the investigation. \nWe haven't got time to waste like\nthis.,,1 isla(s) 91 inline
+48,0x4BA0,redirect,0x49B0,28,"Alright, let's head inside.",,
+49,0x4BB7,redirect,0x49CC,20,Just one more time.,,
+50,0x4BC6,redirect,0x49E0,22,Mind if we go inside?,,
+51,0x4BE1,redirect,0x49F6,19,Let's head inside.,,
+52,0x4BFC,redirect,0x4A09,28,Sure.  Anna should be home.,,1 isla(s) 91 inline
+53,0x4C19,redirect,0x4A28,82,"I don't mind, but we shouldn't stay\ntoo long.  We need to keep going\nwith things.",,3 isla(s) 91 inline
+54,0x4C4C,redirect,0x4A83,76,"Alright, but let's keep it short. \nWe don't have all the time in the\nworld.",,1 isla(s) 91 inline
+55,0x4C7D,redirect,0x4AD2,28,"What, you forget something?",,1 isla(s) 91 inline
+56,0x4C90,redirect,0x4AF1,25,"Again? Alright, alright.",,
+57,0x4CAD,redirect,0x4B0A,48,That house belongs to this nice\nelderly couple.,,2 isla(s) 91 inline
+58,0x4CDC,redirect,0x4B40,87,The layout of their place is the\nsame as mine.  Their front door is\non the other side.,,2 isla(s) 91 inline
+59,0x4D21,redirect,0x4B9D,55,They've helped me out a lot since\nmy wife passed away.,,3 isla(s) 91 inline
+60,0x4D60,redirect,0x4BDD,155,"That's the house on the other\nside.  I'd like that one better, to be\nhonest with you.{80238057}Houses here are built as close as\nthey can get 'em to each other.",,5 isla(s) 91 inline
+61,0x4DB3,redirect,0x4C87,183,"As you know, Beyond is shaped\nlike a cylinder, so if your house\ndoesn't face the central axis, your\n neighbors will be able to see\ninside since their houses are\npositioned higher up.",,4 isla(s) 91 inline
+62,0x4E36,redirect,0x4D4A,102,That house is so close to mine\nthey're almost touching.{80238057}The biggest luxury on the colony\nis space.,,1 isla(s) 91 inline
+63,0x4E95,redirect,0x4DB6,51,This must be the house I saw\nfrom the living room.,,
+64,0x4EBE,redirect,0x4DE9,70,That belongs to some newlyweds. \nThey moved in about half a year\nago.,,
+65,0x4EF5,redirect,0x4E2F,95,Their layout is one grade higher\nthan mine.  The previous owner\nhad a case of Return Syndrome.,,1 isla(s) 91 inline
+66,0x4F7A,redirect,0x4E91,94,"They moved here to start a new\nlife in space, but they're having\ntrouble finding stable jobs.",,2 isla(s) 91 inline
+67,0x4FD5,redirect,0x4EF8,23,Nice trees you've got.,,
+68,0x4FEC,redirect,0x4F0F,88,Those trees are public property. \nThey're part of the CELESS.  They\ndon't belong to me.,,
+69,0x5067,redirect,0x4F67,32,"Yeah, I see the control plates.",,1 isla(s) 91 inline
+70,0x5088,redirect,0x4F8A,45,Trees on Beyond have control\nplates on them.,,
+71,0x50B3,redirect,0x4FB7,38,All plants are monitored by\ncomputer.,,1 isla(s) 91 inline
+72,0x50DE,redirect,0x4FE0,63,It's up to us to maintain them. \nOne of our duties as Beyonds.,,1 isla(s) 91 inline
+73,0x5135,redirect,0x5022,46,"After all, they produce the oxygen\nwe breath.",,
+74,0x5168,redirect,0x5050,32,Is this part of your house too?,,1 isla(s) 91 inline
+75,0x517B,redirect,0x5073,21,What about this one?,,
+76,0x518C,redirect,0x508B,17,"Same story, huh?",,
+77,0x51AD,redirect,0x509C,1,,,
+78,0x51C6,redirect,0x509D,1,,,
+79,0x51DB,inplace,0x51DB,10,telop.pak,,sin codigo 91: revisar
+80,0x51E5,redirect,0x509E,1,,,
+81,0x5202,redirect,0x509F,1,,,
+82,0x5221,redirect,0x50A0,1,,,
+83,0x524A,redirect,0x50A1,1,,,
+84,0x5297,redirect,0x50A2,1,,,
+85,0x52B8,redirect,0x50A3,1,,,
+86,0x52D5,redirect,0x50A4,1,,,
+87,0x52F0,redirect,0x50A5,1,,,
+88,0x5331,redirect,0x50A6,1,,,
+89,0x5378,redirect,0x50A7,1,,,
+90,0x5389,redirect,0x50A8,1,,,
+91,0x539C,redirect,0x50A9,1,,,
+92,0x53D1,redirect,0x50AA,1,,,
+93,0x5406,redirect,0x50AB,1,,,
+94,0x5435,redirect,0x50AC,1,,,
+95,0x5440,redirect,0x50AD,1,,,
+96,0x5491,redirect,0x50AE,1,,,
+97,0x54B6,redirect,0x50AF,1,,,
+98,0x54D5,redirect,0x50B0,1,,,
+99,0x54F6,redirect,0x50B1,1,,,
+100,0x550B,redirect,0x50B2,1,,,
+101,0x5518,redirect,0x50B6,1,,,
+102,0x5537,redirect,0x50B7,1,,,
+103,0x556C,redirect,0x50B8,55,"Oh, hey, Jonathan.  Come in. \nCame to see me, did you?",,1 isla(s) 91 inline
+104,0x55A3,redirect,0x50F2,30,"Oh, did you forget something?",,
+105,0x55BE,redirect,0x5110,27,Or did you want to see me?,,
+106,0x55D9,redirect,0x512B,72,"I think Dad will get mad again if\nyou stay any longer, don't you\nthink?",,2 isla(s) 91 inline
+107,0x560C,redirect,0x5179,21,I had fun last time.,,2 isla(s) 91 inline
+108,0x5625,redirect,0x5194,48,Maybe you could... stay a bit\nlonger this time?,,2 isla(s) 91 inline
+109,0x564A,redirect,0x51CA,13,"Oh, come in.",,
+110,0x5665,redirect,0x51D7,82,I think Dad will get mad again if\nyou stay too long.  Why don't we\nkeep it short.,,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+111,0x56B6,redirect,0x523F,25,I had fun the other day.,,1 isla(s) 91 inline
+112,0x56CD,redirect,0x525B,48,Maybe you could... stay a bit\nlonger this time?,,
+113,0x56F0,redirect,0x528B,5,Talk,,
+114,0x56FB,redirect,0x5290,12,What is it?,,1 isla(s) 91 inline
+115,0x5712,redirect,0x529F,32,What do you want to talk about?,,1 isla(s) 91 inline
+116,0x5727,redirect,0x52C2,32,"Easy on the chit-chat, you two.",,1 isla(s) 91 inline
+117,0x573E,redirect,0x52E5,10,Ask about,,
+118,0x5743,redirect,0x52EF,7,School,,1 isla(s) 91 inline
+119,0x574C,redirect,0x52F9,7,Sports,,
+120,0x5753,redirect,0x5300,43,"Say, you mind if I have that poster,\nAnna?",,
+121,0x5774,redirect,0x532B,12,Huh? Oh....,,1 isla(s) 91 inline
+122,0x5787,redirect,0x533A,59,"About that poster....  I'd really,\nreally like to have it.",,
+123,0x57B2,redirect,0x5375,25,"Well, it's okay with me.",,2 isla(s) 91 inline
+124,0x57C7,redirect,0x5394,31,Are you kidding me? Forget it!,,1 isla(s) 91 inline
+125,0x57E8,redirect,0x53B6,5,Marc,,
+126,0x57EF,redirect,0x53BB,14,Where's Marc?,,
+127,0x57FA,redirect,0x53C9,22,He's asleep upstairs.,,1 isla(s) 91 inline
+128,0x581B,redirect,0x53E2,36,Why don't you let him rest for\nnow.,,
+129,0x583C,redirect,0x5409,82,He hasn't been getting much sleep\nlately.  He's been up watching too\nmany movies.,,2 isla(s) 91 inline
+130,0x587D,redirect,0x5461,36,"He really likes movies, doesn't\nhe?",,
+131,0x58AA,redirect,0x5485,22,You missed him again.,,1 isla(s) 91 inline
+132,0x58C9,redirect,0x549E,15,He's sleeping?,,
+133,0x58E4,redirect,0x54AD,6,Yeah.,,
+134,0x58F5,redirect,0x54B3,47,I finally got him to bed a minute\nago.  Sorry.,,2 isla(s) 91 inline
+135,0x5926,redirect,0x54E8,52,He'll be disappointed he didn't get\nto see you too.,,3 isla(s) 91 inline
+136,0x595D,redirect,0x5525,39,"I'm ""the guy with the cigarette"",\nhuh?",,1 isla(s) 91 inline
+137,0x598A,redirect,0x554F,12,Her cooking,,
+138,0x598F,redirect,0x555B,28,"Thanks for that meal, Anna.",,1 isla(s) 91 inline
+139,0x59A6,redirect,0x557A,159,"You should eat with us again\nsometime.{80238057}I just bought some processed\nshimofuri meat with whey\nprotein.{80238057}It'll be something you'll never\nforget, I promise.",,4 isla(s) 91 inline
+140,0x5A1F,redirect,0x5628,48,"Oh, I'm... sure it will.  Maybe\ntomorrow, yeah?",,1 isla(s) 91 inline
+141,0x5A38,redirect,0x565B,45,"Oh, by the way, we didn't finish\neverything.",,1 isla(s) 91 inline
+142,0x5A63,redirect,0x568B,33,There's still some tempura left.,,
+143,0x5A80,redirect,0x56AC,36,There are still some soybeans left.,,2 isla(s) 91 inline
+144,0x5AA1,redirect,0x56D6,47,"Oh, by the way, we didn't finish all\nthe milk.",,2 isla(s) 91 inline
+145,0x5ACC,redirect,0x570B,25,There's still some left.,,1 isla(s) 91 inline
+146,0x5AE3,redirect,0x572A,31,"Aah! I mean... ""aahow lovely"".",,3 isla(s) 91 inline
+147,0x5AF8,redirect,0x5752,40,There's still some salad in the\nfridge.,,2 isla(s) 91 inline
+148,0x5B15,redirect,0x5780,35,We've still got some unohana left.,,1 isla(s) 91 inline
+149,0x5B32,redirect,0x57A6,26,The caviar is still good.,,1 isla(s) 91 inline
+150,0x5B4B,redirect,0x57C3,25,There's still some oden.,,1 isla(s) 91 inline
+151,0x5B66,redirect,0x57DF,38,You should help us finish\neverything.,,3 isla(s) 91 inline
+152,0x5B75,redirect,0x580E,87,"If you let me know when you're\ncoming, I can be sure and have\nsomething ready for you.",,2 isla(s) 91 inline
+153,0x5BB6,redirect,0x586B,79,"Uhh, that's... you don't have to go\nto all that trouble, Anna.  Thanks\nanyway.",,2 isla(s) 91 inline
+154,0x5BF3,redirect,0x58C0,76,"Yeah, might be best to give him\nsome time.  He's still reeling from\nbefore.",,3 isla(s) 91 inline
+155,0x5C2E,redirect,0x5915,16,You keep quiet!,,
+156,0x5C3F,redirect,0x5925,18,What do you mean?,,1 isla(s) 91 inline
+157,0x5C56,redirect,0x593A,64,"Jonathan's just... feeling a little\nsick right now, that's all.",,1 isla(s) 91 inline
+158,0x5C7D,redirect,0x597D,8,Really?,,
+159,0x5C88,redirect,0x5985,21,No.  Do I look sick?,,2 isla(s) 91 inline
+160,0x5C99,redirect,0x59A0,10,Bioethics,,1 isla(s) 91 inline
+161,0x5CA2,redirect,0x59AD,5,Show,,
+162,0x5CAD,redirect,0x59B2,11,Hojo photo,,
+163,0x5CBC,redirect,0x59BD,39,Who are they? I can't say I know\nthem.,,
+164,0x5CD7,redirect,0x59E4,38,"I'm sorry, I don't know these\npeople.",,
+165,0x5CF8,redirect,0x5A0A,46,"C'mon, Jonathan, now why would\nshe know Hojo?",,2 isla(s) 91 inline
+166,0x5D19,redirect,0x5A3E,18,Policenauts photo,,
+167,0x5D2C,redirect,0x5A50,60,"You haven't changed a bit,\nJonathan.  Except for your hair.",,2 isla(s) 91 inline
+168,0x5D55,redirect,0x5A92,31,Even Dad looks cool like this.,,1 isla(s) 91 inline
+169,0x5D7A,redirect,0x5AB4,51,"Hey, your dad always looks cool. \nRight, Jonathan?",,2 isla(s) 91 inline
+170,0x5DA3,redirect,0x5AED,5,....,,
+171,0x5DAC,redirect,0x5AF2,8,ID card,,1 isla(s) 91 inline
+172,0x5DB7,redirect,0x5AFD,13,What's that?,,
+173,0x5DD4,redirect,0x5B0A,78,"Everything's cards, cards, cards\nnowadays.  They're actually a pain,\nI think.",,3 isla(s) 91 inline
+174,0x5E15,redirect,0x5B61,3,CD,,
+175,0x5E22,redirect,0x5B64,25,What kind of CD is that?,,2 isla(s) 91 inline
+176,0x5E37,redirect,0x5B83,24,Is there music on that?,,
+177,0x5E52,redirect,0x5B9B,24,"This isn't a toy, Anna!",,
+178,0x5E6D,redirect,0x5BB3,140,I suppose we couldn't listen to it\nhere anyway.{80238057}We subscribe to the music\nnetwork.{80238057}It doesn't let you play CDs or any\nother software.,,4 isla(s) 91 inline
+179,0x5EAC,redirect,0x5C4B,5,Back,,
+180,0x5EB5,redirect,0x5C50,5,Look,,
+181,0x5EBA,redirect,0x5C55,63,You're a cute girl.  You don't look\nanything like your father.,,4 isla(s) 91 inline
+182,0x5ED7,redirect,0x5CA0,81,You're gonna drive all the boys\ncrazy when you're older.  If you\naren't already.,,5 isla(s) 91 inline
+183,0x5EF2,redirect,0x5D00,47,You obviously got your looks from\nyour mother.,,2 isla(s) 91 inline
+184,0x5F03,redirect,0x5D35,38,Jonathan....  You're embarrassing\nme.,,1 isla(s) 91 inline
+185,0x5F2C,redirect,0x5D5E,48,Would you cut it out? You'll just\negg her on.  ,,1 isla(s) 91 inline
+186,0x5F6B,redirect,0x5D91,65,"At least she doesn't have to worry\nabout losing her hair, right?",,4 isla(s) 91 inline
+187,0x5F9E,redirect,0x5DDE,19,I swear to god....,,
+188,0x5FA9,redirect,0x5DF1,54,You're a nice-looking girl. \nSurprising your half-Ed.,,2 isla(s) 91 inline
+189,0x5FDC,redirect,0x5E2D,40,She's the spitting image of her\nmother.,,2 isla(s) 91 inline
+190,0x5FF7,redirect,0x5E5B,27,"Yeah, sure looks that way.",,1 isla(s) 91 inline
+191,0x601A,redirect,0x5E79,74,I just pictured your face on Anna's\nbody... and it wasn't a pretty\nimage.,,3 isla(s) 91 inline
+192,0x6037,redirect,0x5ECC,32,You always wear those earrings?,,1 isla(s) 91 inline
+193,0x605E,redirect,0x5EEF,44,Those were Catherine's.  Anna\nhas them now.,,2 isla(s) 91 inline
+194,0x6083,redirect,0x5F21,80,I only wear them when I'm at\nhome.  Dad doesn't let me wear\nearrings to school.,,2 isla(s) 91 inline
+195,0x60A8,redirect,0x5F77,39,Earrings look good on a girl your\nage.,,
+196,0x60C7,redirect,0x5FA1,33,"God dammit, don't encourage her.",,1 isla(s) 91 inline
+197,0x60F6,redirect,0x5FC5,68,Dad's so old-fashioned.  Everyone\nmy age is already wearing\nmakeup.,,2 isla(s) 91 inline
+198,0x612D,redirect,0x600F,10,I'll bet.,,
+199,0x613C,redirect,0x6019,31,I like your hair up like that.,,2 isla(s) 91 inline
+200,0x6165,redirect,0x603E,91,Really? Usually I only put it up\nwhen I'm doing gymnastics. \nOtherwise it gets in the way.,,2 isla(s) 91 inline
+201,0x61AC,redirect,0x609F,65,But if you like it... maybe I'll wear\nit like this all the time!,,2 isla(s) 91 inline
+202,0x61E1,redirect,0x60E6,26,"That would be nice, Anna.",,1 isla(s) 91 inline
+203,0x61F8,redirect,0x6103,60,Wow.  I'm speechless.  And that\ndoesn't happen to me often.,,2 isla(s) 91 inline
+204,0x6217,redirect,0x6145,62,"Just so you know, he has a\npenchant for fondling women,\nAnna.",,1 isla(s) 91 inline
+205,0x6248,redirect,0x6186,8,Really?,,
+206,0x6257,redirect,0x618E,66,"Yeah, right, like I'D ever do\nsomething like that.  He's kidding.",,1 isla(s) 91 inline
+207,0x6278,redirect,0x61D3,10,"Oh, am I?",,
+208,0x6285,redirect,0x61DD,33,"(C'mon, Ed, don't say anything.)",,2 isla(s) 91 inline
+209,0x62B0,redirect,0x6204,51,This is torture.  Or more like...\nglorious nectar.,,1 isla(s) 91 inline
+210,0x62D7,redirect,0x623A,38,(They felt just as big as they look.),,2 isla(s) 91 inline
+211,0x62FE,redirect,0x6266,59,"You're not thinking what I think\nyou're thinking, are you?",,2 isla(s) 91 inline
+212,0x6325,redirect,0x62A7,11,Hands off!,,1 isla(s) 91 inline
+213,0x6340,redirect,0x62B5,6,Touch,,
+214,0x6345,redirect,0x62BB,17,Inspection time!,,
+215,0x635C,redirect,0x62CC,27,Aaahh! What are you doing!,,1 isla(s) 91 inline
+216,0x6375,redirect,0x62EA,32,You passed with flying areolas.,,1 isla(s) 91 inline
+217,0x638A,redirect,0x630D,57,What the hell do you think you're\ndoing to my daughter?!,,3 isla(s) 91 inline
+218,0x63AF,redirect,0x634F,56,"Relax, Ed.  How else am I gonna\nget data for my thesis?",,3 isla(s) 91 inline
+219,0x63D4,redirect,0x6390,21,Better double check.,,
+220,0x63E1,redirect,0x63A5,14,You're crazy!,,1 isla(s) 91 inline
+221,0x63FE,redirect,0x63B6,62,"Do it again and you know what'll\nhappen to you, right? Right?",,2 isla(s) 91 inline
+222,0x6423,redirect,0x63FA,73,"Your dad'll tell ya I'm a breast\nman.  The bigger the better,\nnaturally.",,2 isla(s) 91 inline
+223,0x644E,redirect,0x6449,50,"Oh, for the love of god! Is that\nyour excuse now?",,2 isla(s) 91 inline
+224,0x646B,redirect,0x6481,69,"Sorry, my hands just kinda... went\nout there like that.  Damned tic.",,2 isla(s) 91 inline
+225,0x6484,redirect,0x64CC,32,You've got a cute belly button.,,2 isla(s) 91 inline
+226,0x64A5,redirect,0x64F2,69,"That's a mark of mammals.  Heh,\nso are nipples, come to think of it.",,2 isla(s) 91 inline
+227,0x64D0,redirect,0x653D,15,What was that?,,
+228,0x64E3,redirect,0x654C,67,"Jonathan, you... you truly do need\nsome kinda help for this thing.",,3 isla(s) 91 inline
+229,0x6502,redirect,0x6598,29,I know.  I know.... {D0}{06}sigh{D0}{06},,1 isla(s) 91 inline
+230,0x6515,redirect,0x65B8,60,"I'll ignore all this shit out there,\nbut hands off my girl.",,1 isla(s) 91 inline
+231,0x6556,redirect,0x65F7,6,Deal.,,
+232,0x6563,redirect,0x65FD,54,To tell you the truth... I'm really\nnot that worried.,,1 isla(s) 91 inline
+233,0x6592,redirect,0x6636,4,No?,,
+234,0x659F,redirect,0x663A,92,"From what I've seen, women seem\nto have this natural dislike for\nyou.{80238057}Can't imagine why.",,3 isla(s) 91 inline
+235,0x65E6,redirect,0x669F,1,,,
+236,0x6615,redirect,0x66A0,1,,,
+237,0x6646,redirect,0x66A1,1,,,
+238,0x667B,redirect,0x66A2,1,,,
+239,0x668E,redirect,0x66A3,26,"It's out! Hurry up, guys!",,1 isla(s) 91 inline
+240,0x66B9,redirect,0x66C0,31,"Man, I'm dying of hunger here.",,1 isla(s) 91 inline
+241,0x66DE,redirect,0x66E2,52,It's late tonight.  I wonder what's\ntaking so long.,,2 isla(s) 91 inline
+242,0x66FD,redirect,0x671C,18,Go to dining room,,
+243,0x6708,redirect,0x672E,1,,,
+244,0x672F,redirect,0x6732,7,System,,1 isla(s) 91 inline
+245,0x6738,redirect,0x673C,48,"We're done here, right? Let's get\nback to work.",,1 isla(s) 91 inline
+246,0x675F,redirect,0x676F,35,We can't waste any more time\nhere.,,1 isla(s) 91 inline
+247,0x677E,redirect,0x6795,44,Why don't we get back to the\ninvestigation.,,3 isla(s) 91 inline
+248,0x679D,redirect,0x67CA,5,Move,,1 isla(s) 91 inline
+249,0x67A2,redirect,0x67D2,11,Go outside,,
+250,0x67AB,redirect,0x67DD,1,,,
+251,0x67CC,redirect,0x67DE,1,,,
+252,0x6803,redirect,0x67DF,1,,,
+253,0x681E,redirect,0x67E0,1,,,
+254,0x684F,redirect,0x67E1,1,,,
+255,0x6878,redirect,0x67E2,1,,,
+256,0x68B3,redirect,0x67E3,5,Talk,,
+257,0x68BE,redirect,0x67E8,12,What is it?,,
+258,0x68C9,redirect,0x67F4,11,What's up?,,
+259,0x68D4,redirect,0x67FF,10,Ask about,,1 isla(s) 91 inline
+260,0x68D9,redirect,0x680C,5,Anna,,
+261,0x68E6,redirect,0x6811,26,She really is a nice kid.,,1 isla(s) 91 inline
+262,0x690B,redirect,0x682E,78,I'm so proud of her.  I know I can\ncount on her.  She takes after her\nmother.,,2 isla(s) 91 inline
+263,0x695A,redirect,0x6882,82,She does everything around the\nhouse now that Catherine's gone. \nI owe her a lot.,,5 isla(s) 91 inline
+264,0x69A3,redirect,0x68E3,67,Always appreciate a woman who\ncooks for you AND does your\nlaundry.,,2 isla(s) 91 inline
+265,0x69CC,redirect,0x692C,43,"She must take care of Marc as\nwell, right?",,
+266,0x69E9,redirect,0x6957,37,Yeah.  Marc's never opened up to\nme.,,1 isla(s) 91 inline
+267,0x6A0C,redirect,0x697F,130,"She'd been bugging me for that\nbag on the chair there, so I finally\ncaved.{80238057}They go for a lot, but it was the\nleast I could do.",,3 isla(s) 91 inline
+268,0x6A8D,redirect,0x6A0A,61,"She must be popular with the\nboys, judging from that poster.",,1 isla(s) 91 inline
+269,0x6AC2,redirect,0x6A4A,106,See that poster on the wall?\nShe's pretty good at zero-G\ngymnastics.{80238057}She gets her athleticism from me.,,1 isla(s) 91 inline
+270,0x6B25,redirect,0x6AB7,5,Marc,,
+271,0x6B34,redirect,0x6ABC,1,,,
+272,0x6B4B,redirect,0x6ABD,1,,,
+273,0x6B7E,redirect,0x6ABE,1,,,
+274,0x6B97,redirect,0x6ABF,18,Marc's background,,1 isla(s) 91 inline
+275,0x6BA4,redirect,0x6AD4,1,,,
+276,0x6BE5,redirect,0x6AD5,1,,,
+277,0x6BFA,redirect,0x6AD6,13,The incident,,
+278,0x6C03,redirect,0x6AE3,1,,,
+279,0x6C74,redirect,0x6AE4,1,,,
+280,0x6CC1,redirect,0x6AE5,1,,,
+281,0x6D16,redirect,0x6AE6,1,,,
+282,0x6D5B,redirect,0x6AE7,15,Marc's illness,,
+283,0x6D68,redirect,0x6AF6,1,,,
+284,0x6D99,redirect,0x6AF7,1,,,
+285,0x6DE6,redirect,0x6AF8,1,,,
+286,0x6E33,redirect,0x6AF9,1,,,
+287,0x6E88,redirect,0x6AFA,1,,,
+288,0x6ED3,redirect,0x6AFB,1,,,
+289,0x6EF0,redirect,0x6AFC,1,,,
+290,0x6F19,redirect,0x6AFD,1,,,
+291,0x6F38,redirect,0x6AFE,1,,,
+292,0x6F83,redirect,0x6AFF,1,,,
+293,0x6FA4,redirect,0x6B00,1,,,
+294,0x6FD9,redirect,0x6B01,1,,,
+295,0x6FE6,redirect,0x6B02,1,,,
+296,0x6FFD,redirect,0x6B03,1,,,
+297,0x7020,redirect,0x6B04,1,,,
+298,0x7045,redirect,0x6B05,1,,,
+299,0x7082,redirect,0x6B06,1,,,
+300,0x7093,redirect,0x6B07,1,,,
+301,0x709E,redirect,0x6B08,1,,,
+302,0x70B5,redirect,0x6B09,45,I might not be the best person to\nraise him.,,2 isla(s) 91 inline
+303,0x70DE,redirect,0x6B3C,86,"We've been to several doctors, but\napparently it's not that easy a thing\nto get over.",,3 isla(s) 91 inline
+304,0x7121,redirect,0x6B9B,52,Have you thought about going to\nHome for treatment?,,1 isla(s) 91 inline
+305,0x7156,redirect,0x6BD2,24,We could never do that.,,1 isla(s) 91 inline
+306,0x716B,redirect,0x6BED,15,Marc's drawing,,1 isla(s) 91 inline
+307,0x7176,redirect,0x6BFF,70,I gave Marc a tablet PC to try and\ngive him a way to express himself.,,1 isla(s) 91 inline
+308,0x71BD,redirect,0x6C48,25,Sounds like a good idea.,,
+309,0x71E4,redirect,0x6C61,114,"I thought maybe he could\ncommunicate through pictures,\nyou know?{80238057}I don't know how much difference\nit's making.",,2 isla(s) 91 inline
+310,0x7225,redirect,0x6CD9,32,That's quite a picture he drew.,,
+311,0x723C,redirect,0x6CF9,71,One of his drawings is on the wall\nthere.  Take a look at it sometime.,,1 isla(s) 91 inline
+312,0x7275,redirect,0x6D43,10,Catherine,,
+313,0x7288,redirect,0x6D4D,68,She's the reason I stuck it out\nhere.  I miss her every single day.,,2 isla(s) 91 inline
+314,0x72D5,redirect,0x6D97,124,I met her at BCP.  She was a cop\ntoo.{80238057}One day she comes along and\ngives me a ticket for parking in\nfront of the station.,,2 isla(s) 91 inline
+315,0x7344,redirect,0x6E19,62,I always hoped you'd get to meet\nher.  She was a great woman.,,1 isla(s) 91 inline
+316,0x737B,redirect,0x6E5A,80,"You saw her picture.  Didn't think\nI'd find a pretty girl to marry me,\ndid you?",,1 isla(s) 91 inline
+317,0x73A4,redirect,0x6EAD,45,There's a picture of her on the\nstand there.,,1 isla(s) 91 inline
+318,0x73C1,redirect,0x6EDD,18,Catherine's death,,
+319,0x73D2,redirect,0x6EEF,247,"After we got married and had\nAnna, she quit her job and started\nworking part-time in a weightless\n area.  She eventually developed\nkidney stones because of it.{80238057}Part of the calcium that your\nbones lose in weightlessness\ncollects in the kidneys.",,7 isla(s) 91 inline
+320,0x7453,redirect,0x6FFB,20,Catherine's illness,,1 isla(s) 91 inline
+321,0x7464,redirect,0x7012,38,How do you treat something like\nthat?,,1 isla(s) 91 inline
+322,0x746F,redirect,0x703B,206,"The only thing they could do for\nher was a kidney transplant.{80238057}But there was a real shortage of\norgans back then, even more than\ntoday.{80238057}80% of people on the waiting list\ndied before a donor was found.",,6 isla(s) 91 inline
+323,0x751C,redirect,0x711B,67,It must've been terrible to have\nher die waiting for a transplant.,,2 isla(s) 91 inline
+324,0x7549,redirect,0x7164,86,"While she was waiting, she had to\ngo on dialysis every 3 days for\nabout 4 to 5 hours.",,3 isla(s) 91 inline
+325,0x758A,redirect,0x71C3,202,She eventually developed\namyloidosis because of it.{80238057}That's when deposits of amyloids\naccumulate in your joints and\ntendons.{80238057}It's extremely painful.  I couldn't\nbear watching her suffer like that.,,5 isla(s) 91 inline
+326,0x761B,redirect,0x729C,88,You probably know that your\nimmune system is considerably\nweakened in microgravity too.,,1 isla(s) 91 inline
+327,0x7658,redirect,0x72F7,75,Space has scared the hell out of\nme ever since what happened to\nCatherine.,,
+328,0x769F,redirect,0x7342,50,It never did that to me when we\nwere Policenauts.,,1 isla(s) 91 inline
+329,0x76C8,redirect,0x7377,66,That's how it was back then.  We\ndidn't think about those things.,,2 isla(s) 91 inline
+330,0x76ED,redirect,0x73BF,5,Show,,1 isla(s) 91 inline
+331,0x76F8,redirect,0x73C7,11,Hojo photo,,
+332,0x7707,redirect,0x73D5,32,Where in the world could he be?,,
+333,0x7730,redirect,0x73F5,41,What do you suppose happened to\nthe guy?,,
+334,0x774F,redirect,0x741E,18,Policenauts photo,,
+335,0x7762,redirect,0x7430,36,Amazing it's already been 30 years.,,1 isla(s) 91 inline
+336,0x7785,redirect,0x7457,47,"Those were the best days of my\nlife, no doubt.",,2 isla(s) 91 inline
+337,0x77B6,redirect,0x748C,8,ID card,,
+338,0x77C1,redirect,0x7494,76,"Well, we've got Hojo's ID now. \nIt'll probably come in handy for\nsomething.",,
+339,0x77EC,redirect,0x74E0,21,"Yeah, here's hoping.",,
+340,0x780B,redirect,0x74F5,64,We probably shouldn't take it out\nwhen other people are around.,,1 isla(s) 91 inline
+341,0x7832,redirect,0x7538,5,Back,,
+342,0x783B,redirect,0x753D,5,Look,,
+343,0x7840,redirect,0x7542,37,You really fit the family man image.,,1 isla(s) 91 inline
+344,0x7879,redirect,0x756A,41,"Hey, thanks.  That means a lot\nfrom you.",,1 isla(s) 91 inline
+345,0x7898,redirect,0x7596,41,"C'mon, man, don't stare at me like\nthat.",,
+346,0x78BD,redirect,0x75BF,36,You've aged more than I'd\nexpected.,,
+347,0x78E0,redirect,0x75E3,68,"Yeah, I know.  Things haven't\nexactly been easy the last few\nyears.",,1 isla(s) 91 inline
+348,0x790D,redirect,0x762A,47,Cut me some slack.  Everyone gets\nold someday.,,1 isla(s) 91 inline
+349,0x7936,redirect,0x765C,54,You've got a thick head of hair for\nsomeone your age.,,
+350,0x795D,redirect,0x7692,65,"Heh, well, actually... this ain't all\nmine.  Pretty sad, I know.",,2 isla(s) 91 inline
+351,0x799C,redirect,0x76D9,38,"Little bit of false advertising,\nhuh?",,2 isla(s) 91 inline
+352,0x79B5,redirect,0x7705,155,"I get these periodic transplants.{80238057}The roots die out after four cycles\nof cellular division, so they get to\nbe expensive.{80238057}They're my only indulgence.",,5 isla(s) 91 inline
+353,0x7A1E,redirect,0x77AF,63,The kids don't know about it. \nPromise you won't say anything.,,3 isla(s) 91 inline
+354,0x7A51,redirect,0x77F7,42,I'm surprised how clean your\nclothes are.,,1 isla(s) 91 inline
+355,0x7A74,redirect,0x7824,81,Anna does the laundry.  She's\nbeen doing all the housework\nsince Catherine died.,,4 isla(s) 91 inline
+356,0x7AC3,redirect,0x7881,93,I gotta at least change my shirt\neveryday.  Everyone at the station\ncracks jokes if I don't.,,3 isla(s) 91 inline
+357,0x7AFA,redirect,0x78E7,22,How old is that suit?,,
+358,0x7B19,redirect,0x78FD,98,Old.  It was pretty cheap too.{80238057}I can't be fussy about clothes. \nThings are tight on my salary.,,3 isla(s) 91 inline
+359,0x7B8C,redirect,0x7968,45,Salvatore doesn't seem to have\nthat problem.,,
+360,0x7BB1,redirect,0x7995,20,What do you expect?,,1 isla(s) 91 inline
+361,0x7BBE,redirect,0x79AC,56,"I'm used to it, though.  I grew up\npoor.  You remember.",,1 isla(s) 91 inline
+362,0x7BF7,redirect,0x79E7,51,What really bothers me is what's\ngoing on at home.,,
+363,0x7C22,redirect,0x7A1A,26,"You mean Marc, I take it.",,1 isla(s) 91 inline
+364,0x7C31,redirect,0x7A37,38,You honestly think it looks that\nbad?,,1 isla(s) 91 inline
+365,0x7C66,redirect,0x7A60,34,I see you've put on a few pounds.,,1 isla(s) 91 inline
+366,0x7C8D,redirect,0x7A85,59,I figured you'd notice.  This gut's\njust insult to injury.,,
+367,0x7CC0,redirect,0x7AC0,44,Salvatore was looking kinda\nchubby himself.,,1 isla(s) 91 inline
+368,0x7CDD,redirect,0x7AEF,23,That's no consolation.,,1 isla(s) 91 inline
+369,0x7CFC,redirect,0x7B09,34,You'll know this feeling someday.,,1 isla(s) 91 inline
+370,0x7D2D,redirect,0x7B2E,51,Sounds like raising kids is harder\nthan I thought.,,
+371,0x7D76,redirect,0x7B61,77,Don't go feeling sorry for me.  Not\nlike there's anything I can do\nabout it.,,1 isla(s) 91 inline
+372,0x7D95,redirect,0x7BB4,30,Are things really that tough?,,1 isla(s) 91 inline
+373,0x7DA6,redirect,0x7BD5,46,"All this... just makes me feel old,\nyou know?",,1 isla(s) 91 inline
+374,0x7DD1,redirect,0x7C06,62,"More hair in the drain, pants\ngetting smaller and smaller....",,2 isla(s) 91 inline
+375,0x7DF0,redirect,0x7C4A,34,That's some cheap table I bought.,,1 isla(s) 91 inline
+376,0x7E25,redirect,0x7C6F,38,"Nothing else to say about it, really.",,1 isla(s) 91 inline
+377,0x7E48,redirect,0x7C98,39,"I got it with the sofas way, way\nback.",,
+378,0x7E73,redirect,0x7CBF,50,Look at that thing.  It's starting to\nfall apart.,,2 isla(s) 91 inline
+379,0x7E9C,redirect,0x7CF7,164,"That's a solar chandelier Catherine\nbought.{80238057}It draws in sunlight during the\nday.  Makes the room a little\nbrighter.{80238057}You can still use it at night, of\ncourse.",,5 isla(s) 91 inline
+380,0x7EEF,redirect,0x7DAA,46,That's been here longer than I've\nbeen alive.,,1 isla(s) 91 inline
+381,0x7F16,redirect,0x7DDB,49,You can't see outside for the\nhouse at the back.,,1 isla(s) 91 inline
+382,0x7F3D,redirect,0x7E0F,63,This house was cheaper since it\ndoesn't face the central axis.,,2 isla(s) 91 inline
+383,0x7FB6,redirect,0x7E54,77,"Not much of a view, but what can\nI do? A central-axis house costs\na fortune.",,2 isla(s) 91 inline
+384,0x7FF1,redirect,0x7EA7,54,I hate having the neighbors being\nable to see inside.,,
+385,0x800E,redirect,0x7EDD,84,"Maybe I'll see if I can spend the\nnight next door sometime....{80238057}Kidding, kidding.",,2 isla(s) 91 inline
+386,0x803F,redirect,0x7F37,47,It would be better if we had\nadjustable glass.,,1 isla(s) 91 inline
+387,0x8090,redirect,0x7F69,53,That's an antique chair I brought\nwith me from Home.,,
+388,0x80C3,redirect,0x7F9E,81,"It belonged to my parents.  It cost\na lot to have shipped, like\neverything else.",,2 isla(s) 91 inline
+389,0x80F4,redirect,0x7FF5,116,"The legs aren't that strong\nanymore.{80238057}If you sat on it it'd break, so Anna\njust uses it as a place to drop\nstuff.",,2 isla(s) 91 inline
+390,0x8139,redirect,0x806F,39,Dad! You tell me to leave my bag\nhere!,,1 isla(s) 91 inline
+391,0x8170,redirect,0x8099,1,,,
+392,0x81B9,redirect,0x809A,1,,,
+393,0x81D8,redirect,0x809B,67,"It wasn't cheap, but she deserves\nit after how much she helps out.",,1 isla(s) 91 inline
+394,0x8209,redirect,0x80E1,26,"And I appreciate it, Dad.",,1 isla(s) 91 inline
+395,0x8232,redirect,0x80FE,57,"You can see it says ""Elles"" on it. \nIt's the real thing.",,
+396,0x825B,redirect,0x8137,83,"You have to be careful, with all\nthe fakes.  This is a kind of status\nsymbol here.",,2 isla(s) 91 inline
+397,0x82AA,redirect,0x8190,119,"Elles is based on Beyond, so\nthey're a little cheaper to buy\nhere than Home.{80238057}They're a popular item among\ntourists.",,3 isla(s) 91 inline
+398,0x8343,redirect,0x8210,85,"This is the ""in thing"", apparently.\nI don't have a clue when it comes\nto this stuff.",,2 isla(s) 91 inline
+399,0x8372,redirect,0x826B,55,Its unique design is the reason\nbehind its popularity.,,
+400,0x83A3,redirect,0x82A2,5,Back,,
+401,0x83AC,redirect,0x82A7,58,You get a lot of counterfeits\nfloating around these days.,,1 isla(s) 91 inline
+402,0x83F7,redirect,0x82E4,56,"Oh, I'm sorry, I didn't realize you\nwanted to sit down.",,
+403,0x843C,redirect,0x831C,46,"No, that... isn't why I was looking\nat it....",,1 isla(s) 91 inline
+404,0x8461,redirect,0x834D,29,Please sit down if you want.,,
+405,0x8480,redirect,0x836A,110,Those are ordinary sofas.  No\nchaos systems or anything in\n'em.{80238057}Wish I had something nicer to\nshow people.,,3 isla(s) 91 inline
+406,0x84D5,redirect,0x83E1,25,Take a seat if you want.,,1 isla(s) 91 inline
+407,0x84F0,redirect,0x83FD,22,Those are the stairs.,,
+408,0x8505,redirect,0x8413,73,"Sorry, but would you mind staying\ndownstairs? Marc's sleeping right\nnow.",,1 isla(s) 91 inline
+409,0x8538,redirect,0x845F,92,They build stairs steep like this to\nconserve space.  Damned thing\ngets tougher every year.,,2 isla(s) 91 inline
+410,0x8589,redirect,0x84C1,77,The kids have the upstairs to\nthemselves.  I don't have my own\nroom anymore.,,3 isla(s) 91 inline
+411,0x85BA,redirect,0x8517,11,Turn on TV,,
+412,0x85C5,redirect,0x8522,20,I wonder what's on.,,
+413,0x85E0,redirect,0x8536,17,You and your TV.,,1 isla(s) 91 inline
+414,0x85F5,redirect,0x854A,52,You're just like Marc.  I bet you'd\nget along well.,,
+415,0x861E,redirect,0x857E,59,Marc spends most of his time\nsitting here watching movies.,,2 isla(s) 91 inline
+416,0x8653,redirect,0x85BF,90,Marc likes 2D movies from the\n20th century more than any of that\nVR or holographic stuff.,,4 isla(s) 91 inline
+417,0x869C,redirect,0x8625,17,Don't turn on TV,,
+418,0x86A5,redirect,0x8636,18,"Okay, no problem.",,
+419,0x86B2,redirect,0x8648,76,Go ahead and turn on the TV if\nyou want.  I think the news is on\nright now.,,1 isla(s) 91 inline
+420,0x86F3,redirect,0x8697,72,That's the TV.  It's one of those\nold CRTs.  You wanna watch\nsomething?,,3 isla(s) 91 inline
+421,0x8726,redirect,0x86E8,24,"My brother, the artist.",,1 isla(s) 91 inline
+422,0x875F,redirect,0x8703,26,It's a picture of Marc's.,,
+423,0x879A,redirect,0x871D,1,,,
+424,0x87AD,redirect,0x871E,1,,,
+425,0x87EA,redirect,0x871F,1,,,
+426,0x8817,redirect,0x8720,1,,,
+427,0x8852,redirect,0x8721,28,These are some kinda trees.,,1 isla(s) 91 inline
+428,0x8867,redirect,0x8740,31,They look like ones from Home.,,
+429,0x8896,redirect,0x8762,41,You don't get trees this size on\nBeyond.,,
+430,0x88BF,redirect,0x878B,20,Is this... a horse?,,1 isla(s) 91 inline
+431,0x88D4,redirect,0x87A2,32,It's got wings.  Is it Pegasus?,,1 isla(s) 91 inline
+432,0x88F5,redirect,0x87C5,29,I guess these are mountains.,,
+433,0x8912,redirect,0x87E2,44,I wonder which ones they're\nsupposed to be.,,1 isla(s) 91 inline
+434,0x893B,redirect,0x8811,26,Is this meant to be Marc?,,1 isla(s) 91 inline
+435,0x8954,redirect,0x882E,29,That's what his doctor says.,,
+436,0x898B,redirect,0x884B,49,It looks like he's trying to tell you\nsomething.,,2 isla(s) 91 inline
+437,0x89AE,redirect,0x8882,29,These look like skyscrapers.,,1 isla(s) 91 inline
+438,0x89C1,redirect,0x88A2,59,"Judging from their size relative to\nthe mountains, anyway.",,2 isla(s) 91 inline
+439,0x89F0,redirect,0x88E3,20,Is this pig flying?,,1 isla(s) 91 inline
+440,0x8A03,redirect,0x88FA,18,This is the Moon.,,
+441,0x8A26,redirect,0x890C,22,It's a crescent Moon.,,1 isla(s) 91 inline
+442,0x8A37,redirect,0x8925,21,These are airplanes.,,
+443,0x8A46,redirect,0x893A,27,You don't see planes here.,,2 isla(s) 91 inline
+444,0x8A69,redirect,0x895B,1,,,
+445,0x8AB8,redirect,0x895C,1,,,
+446,0x8B1B,redirect,0x895D,1,,,
+447,0x8B5E,redirect,0x895E,1,,,
+448,0x8BA7,redirect,0x895F,1,,,
+449,0x8BEC,redirect,0x8960,1,,,
+450,0x8BFF,redirect,0x8961,1,,,
+451,0x8C26,redirect,0x8962,1,,,
+452,0x8C7B,redirect,0x8963,1,,,
+453,0x8C86,redirect,0x8964,57,"That's my wife, Catherine.  She\npassed away 5 years ago.",,1 isla(s) 91 inline
+454,0x8CAD,redirect,0x89A0,28,"Mom was pretty, wasn't she?",,1 isla(s) 91 inline
+455,0x8CC2,redirect,0x89BF,46,She really turned some heads\nback in her day.,,1 isla(s) 91 inline
+456,0x8CEF,redirect,0x89F3,18,I liked her hair.,,1 isla(s) 91 inline
+457,0x8D0A,redirect,0x8A08,65,She was a quarter white.  That's\nwhy her hair wasn't that curly.,,3 isla(s) 91 inline
+458,0x8D5F,redirect,0x8A52,34,Those were her favorite earrings.,,1 isla(s) 91 inline
+459,0x8D88,redirect,0x8A77,19,Anna has them now.,,
+460,0x8D9F,redirect,0x8A8A,37,I... I couldn't do anything for her.,,
+461,0x8DBC,redirect,0x8AAF,87,"I promised her we'd take a nice\nlong trip to Home after I retired,\njust the two of us.",,1 isla(s) 91 inline
+462,0x8E0B,redirect,0x8B09,58,I really miss those days. \nEverything just felt so right.,,1 isla(s) 91 inline
+463,0x8E3C,redirect,0x8B46,58,I've got this picture too.  You\nmade a copy of it for me.,,1 isla(s) 91 inline
+464,0x8E7F,redirect,0x8B83,107,"Every time something happened in\nour lives, Dad would show us this\n\n and talk about what it was like\nthen.",,2 isla(s) 91 inline
+465,0x8EB0,redirect,0x8BF4,19,Look at that stud.,,1 isla(s) 91 inline
+466,0x8EC3,redirect,0x8C0A,43,"Yeah, you were better-looking\nand thinner.",,1 isla(s) 91 inline
+467,0x8EEC,redirect,0x8C38,23,Don't forget the hair.,,
+468,0x8F0B,redirect,0x8C4F,5,Hey!,,
+469,0x8F24,redirect,0x8C54,20,My lips are sealed.,,
+470,0x8F4D,redirect,0x8C68,8,(Whew.),,
+471,0x8F58,redirect,0x8C70,63,Look at you.  You look like you\nwalked straight out the photo.,,3 isla(s) 91 inline
+472,0x8F73,redirect,0x8CB8,83,"Something about him was cuter\nbefore.  I mean, he's still cute now\nand everything.",,3 isla(s) 91 inline
+473,0x8FA6,redirect,0x8D14,51,"This was taken in front of the\nstation, wasn't it?",,
+474,0x8FCB,redirect,0x8D47,14,"Man, 2010....",,
+475,0x8FE0,redirect,0x8D55,93,This was when I came in second\nplace in the ribbon event at a\nzero-G gymnastics competition.,,3 isla(s) 91 inline
+476,0x9011,redirect,0x8DBB,138,We had this poster made from a\nphoto of Anna.{80238057}This was when she came in\nsecond in the ribbon event at a\nzero-G gymnastics competition.,,3 isla(s) 91 inline
+477,0x9064,redirect,0x8E4E,42,"You're not getting that poster,\nJonathan!",,
+478,0x908B,redirect,0x8E78,26,Way to spoil a guy's fun.,,1 isla(s) 91 inline
+479,0x9098,redirect,0x8E95,28,"It's a nice shot, isn't it?",,1 isla(s) 91 inline
+480,0x90B7,redirect,0x8EB4,38,I think this is a good picture of\nme.,,1 isla(s) 91 inline
+481,0x90D0,redirect,0x8EDD,30,Look at her.  That's my baby.,,1 isla(s) 91 inline
+482,0x90E1,redirect,0x8EFE,30,"Nice-looking girl, isn't she?",,1 isla(s) 91 inline
+483,0x90FA,redirect,0x8F1F,79,Good thing she didn't get her\nlooks from you.  That would be\none fugly poster.,,4 isla(s) 91 inline
+484,0x9113,redirect,0x8F7A,30,"You'll be here all week, huh?",,
+485,0x9132,redirect,0x8F98,35,Anna really does have a nice face.,,1 isla(s) 91 inline
+486,0x914D,redirect,0x8FBE,74,"I was concentrating on my\nperformance, so I'm glad it turned\nout alright.",,2 isla(s) 91 inline
+487,0x9178,redirect,0x900E,40,"Good lord, what do kids eat these\ndays?",,1 isla(s) 91 inline
+488,0x919B,redirect,0x9039,37,Hey! Don't you be getting any\nideas.,,
+489,0x91B4,redirect,0x905E,53,Go ahead.  Try it.  I dare you. \nWatch what happens.,,3 isla(s) 91 inline
+490,0x91DB,redirect,0x909C,32,(Am I really that predictable?),,1 isla(s) 91 inline
+491,0x91F4,redirect,0x90BF,35,What are you staring at?!\nPervert.,,2 isla(s) 91 inline
+492,0x920D,redirect,0x90E8,105,I know why you're so desperate\nfor that poster!{80238057}I know what you and those hands\nof yours got planned.,,4 isla(s) 91 inline
+493,0x923A,redirect,0x915D,30,"Whatever do you mean, Edward?",,1 isla(s) 91 inline
+494,0x9255,redirect,0x917E,91,This is the ribbon you use in the\nribbon event.  It's designed to\nopen up in zero gravity.,,3 isla(s) 91 inline
+495,0x9292,redirect,0x91E2,79,It's completely different from the\nribbon used in regular rhythmic\ngymnastics.,,2 isla(s) 91 inline
+496,0x92BB,redirect,0x9237,37,If I rub here does she make a\nnoise?,,2 isla(s) 91 inline
+497,0x92CC,redirect,0x9262,40,"That's my daughter, you son of a\nbitch!",,
+498,0x92E1,redirect,0x928A,27,Why are you so perverted?!,,1 isla(s) 91 inline
+499,0x92F4,redirect,0x92A8,45,You were doing that at\nTokugawa's party too.,,2 isla(s) 91 inline
+500,0x9323,redirect,0x92DB,6,Yeah?,,
+501,0x9332,redirect,0x92E4,5,Take,,
+502,0x9337,redirect,0x92E9,52,"You know, I really, really would\nlike to have this.",,1 isla(s) 91 inline
+503,0x934C,redirect,0x9320,37,Hell no! No way you're getting\nthis!,,4 isla(s) 91 inline
+504,0x9373,redirect,0x9351,68,This is the only one I have.  I'll try\nand get another one for you.,,1 isla(s) 91 inline
+505,0x93B2,redirect,0x9398,14,Are you nuts?,,
+506,0x93D1,redirect,0x93A6,151,"Picture what it's like for me in\npublic.  He's been like this since\nhe got here.{80238057}He was always perverted, but\nman....  Maybe it was the cold\nsleep.",,4 isla(s) 91 inline
+507,0x9406,redirect,0x9449,128,"That's the dining room through\nthere.{80238057}The first floor's got three rooms\n{D0}{06} the living room, the dining\nroom and the kitchen.",,3 isla(s) 91 inline
+508,0x9435,redirect,0x94D2,36,That's the door to the dining\nroom.,,1 isla(s) 91 inline
+509,0x944E,redirect,0x94F9,50,Shall we head on through?\nSounds like it's ready.,,1 isla(s) 91 inline
+510,0x947D,redirect,0x952E,66,That's lavender.  I put it up this\nmorning.  I think it's pretty.,,1 isla(s) 91 inline
+511,0x94B2,redirect,0x9573,54,Catherine used to bring flowers\nhome and put them up.,,
+512,0x94E9,redirect,0x95A9,54,It's lavender.  That was\nCatherine's favorite flower.,,1 isla(s) 91 inline
+513,0x9514,redirect,0x95E2,42,I've had this lamp since I lived on\nHome.,,1 isla(s) 91 inline
+514,0x9545,redirect,0x960F,131,"You know me, I'm a bit of a\npackrat.{80238057}I had no real reason for bringing it\nhere.  I've just never been one to\nthrow things away.",,4 isla(s) 91 inline
+515,0x95B4,redirect,0x969E,63,"Hanging onto junk like this makes\nthe place even smaller, Dad.",,3 isla(s) 91 inline
+516,0x95E9,redirect,0x96E6,99,"This is the last bulb.  They don't\nmake this type anymore.  When\nit's done, this thing's finished.",,6 isla(s) 91 inline
+517,0x963E,redirect,0x975B,7,System,,
+518,0x9647,redirect,0x9762,39,"Why don't you eat something,\nJonathan?",,1 isla(s) 91 inline
+519,0x9668,redirect,0x978C,51,"Yeah, you're right.  Hmm, I\nwonder what I'll have.",,1 isla(s) 91 inline
+520,0x9691,redirect,0x97C2,43,If I don't eat something I'll offend\nAnna.,,2 isla(s) 91 inline
+521,0x96B2,redirect,0x97F3,43,I should at least have something to\ndrink.,,
+522,0x96D7,redirect,0x981E,5,Talk,,1 isla(s) 91 inline
+523,0x96E2,redirect,0x9826,9,"Hey, Ed?",,
+524,0x96E9,redirect,0x982F,21,"Yeah, I'm listening.",,1 isla(s) 91 inline
+525,0x96FA,redirect,0x9847,12,What is it?,,
+526,0x9709,redirect,0x9853,57,I'm stuffed.  Why don't we talk\nabout the investigation?,,2 isla(s) 91 inline
+527,0x973A,redirect,0x9892,10,Ask about,,
+528,0x973F,redirect,0x989C,15,How to proceed,,
+529,0x974C,redirect,0x98AE,1,,,
+530,0x9765,redirect,0x98AF,1,,,
+531,0x9796,redirect,0x98B0,1,,,
+532,0x97C7,redirect,0x98B1,1,,,
+533,0x97EE,redirect,0x98B2,53,We gotta figure out how to get\naway from this first.,,1 isla(s) 91 inline
+534,0x981F,redirect,0x98EA,30,"Yeah, this so-called tempura.",,1 isla(s) 91 inline
+535,0x9842,redirect,0x990B,28,"Yeah, these so-called stew.",,1 isla(s) 91 inline
+536,0x9861,redirect,0x992A,27,"Yeah, this so-called milk.",,2 isla(s) 91 inline
+537,0x9886,redirect,0x994B,28,"Yeah, this so-called salad.",,1 isla(s) 91 inline
+538,0x98AB,redirect,0x996A,38,"Yeah, this so-called uno...\nwhatever.",,
+539,0x98CC,redirect,0x9990,29,"Yeah, this so-called caviar.",,
+540,0x98EF,redirect,0x99AD,27,"Yeah, this so-called oden.",,1 isla(s) 91 inline
+541,0x9910,redirect,0x99CB,51,"Like you say, they'll make a move\nsooner or later.",,
+542,0x9931,redirect,0x99FE,18,The investigation,,2 isla(s) 91 inline
+543,0x993A,redirect,0x9A16,52,What do you think about\neverything that's happened?,,1 isla(s) 91 inline
+544,0x9953,redirect,0x9A4D,156,"Well, we haven't really got any\nphysical evidence or leads.{80238057}But I'm with you {D0}{06} the whole\nthing stinks.{80238057}Tokugawa Pharmaceuticals is\nhiding something.",,6 isla(s) 91 inline
+545,0x99BE,redirect,0x9AFB,83,We need evidence sufficient\nenough to allow BCP to open an\nofficial investigation.,,2 isla(s) 91 inline
+546,0x9A05,redirect,0x9B54,12,The cooking,,1 isla(s) 91 inline
+547,0x9A0E,redirect,0x9B63,1,,,
+548,0x9A37,redirect,0x9B64,1,,,
+549,0x9A58,redirect,0x9B65,1,,,
+550,0x9A65,redirect,0x9B66,1,,,
+551,0x9A80,redirect,0x9B6A,1,,,
+552,0x9A9F,redirect,0x9B6B,1,,,
+553,0x9ADC,redirect,0x9B6C,1,,,
+554,0x9AF5,redirect,0x9B6D,38,This is... just delicious.  Honestly.,,1 isla(s) 91 inline
+555,0x9B20,redirect,0x9B96,17,I've had plenty.,,
+556,0x9B3D,redirect,0x9BA7,48,"I'm sure you can eat more than\nthat, can't you?",,2 isla(s) 91 inline
+557,0x9B5E,redirect,0x9BDD,11,His family,,1 isla(s) 91 inline
+558,0x9B67,redirect,0x9BEB,1,,,
+559,0x9B84,redirect,0x9BEC,1,,,
+560,0x9BB5,redirect,0x9BED,1,,,
+561,0x9BD6,redirect,0x9BEE,1,,,
+562,0x9BE7,redirect,0x9BEF,44,"You must be busy a lot, what with\ntwo kids.",,1 isla(s) 91 inline
+563,0x9C18,redirect,0x9C1E,111,"I really do owe you an apology,\nEd.{80238057}I got you into this without\nknowing your situation.  That\nwasn't right.",,2 isla(s) 91 inline
+564,0x9C4D,redirect,0x9C93,46,It's okay.  It's time I turned things\naround.,,1 isla(s) 91 inline
+565,0x9C74,redirect,0x9CC4,73,I said all those things without\nknowing everything that happened\nto you.,,3 isla(s) 91 inline
+566,0x9C99,redirect,0x9D16,56,"No, you were absolutely right.  I'd\nbecome too servile.",,1 isla(s) 91 inline
+567,0x9CC8,redirect,0x9D51,5,Hojo,,
+568,0x9CD5,redirect,0x9D56,65,Something tells me he's already\ndead.  That's the feeling I get.,,1 isla(s) 91 inline
+569,0x9CFC,redirect,0x9D9A,71,"Who knows what happened, but\nHojo must've gotten in their way\nsomehow.",,1 isla(s) 91 inline
+570,0x9D47,redirect,0x9DE4,9,Lorraine,,
+571,0x9D58,redirect,0x9DED,84,That guy followed Lorraine all the\nway to Home.{80238057}She must've known something\ntoo.,,3 isla(s) 91 inline
+572,0x9DC5,redirect,0x9E4A,87,"They wanted to shut her up. \nThose capsules were obviously\nworth killing for, but why?",,1 isla(s) 91 inline
+573,0x9E06,redirect,0x9EA4,6,Karen,,
+574,0x9E15,redirect,0x9EAA,33,You think they'd go after Karen?,,1 isla(s) 91 inline
+575,0x9E3E,redirect,0x9ECE,133,It doesn't look like she knows\nanything.  She'll probably be\nalright.{80238057}As long as she doesn't do anything\nto arouse any suspicion.,,2 isla(s) 91 inline
+576,0x9E9D,redirect,0x9F59,9,Tokugawa,,1 isla(s) 91 inline
+577,0x9EAE,redirect,0x9F65,111,It looks like this thing goes way\nbeyond Tokugawa\nPharmaceuticals.{80238057}Tokugawa himself has to be\ninvolved too.,,4 isla(s) 91 inline
+578,0x9EF7,redirect,0x9FE0,30,"Oh, he's definitely involved.",,2 isla(s) 91 inline
+579,0x9F1E,redirect,0xA004,119,"This ain't gonna be easy, going up\nagainst the Group like this.{80238057}We have to think about how we're\ngonna handle this.",,4 isla(s) 91 inline
+580,0x9F5F,redirect,0xA087,5,Back,,
+581,0x9F68,redirect,0xA08C,53,"If that's you done talking, hurry\nup and get eating!",,1 isla(s) 91 inline
+582,0x9F93,redirect,0xA0C4,22,"Come on, Dad! Eat up!",,1 isla(s) 91 inline
+583,0x9FAE,redirect,0xA0DD,45,"She's right, Ed.  You should have\nsome more.",,1 isla(s) 91 inline
+584,0x9FCF,redirect,0xA10D,12,"Oh, really?",,
+585,0x9FE2,redirect,0xA119,6,Yeah!,,
+586,0x9FEF,redirect,0xA11F,38,Why don't you talk to Anna for a\nbit?,,2 isla(s) 91 inline
+587,0xA018,redirect,0xA14B,5,Look,,
+588,0xA01D,redirect,0xA150,51,"Must be nice having a family, Ed. \nYou look happy.",,
+589,0xA046,redirect,0xA183,14,Yeah? Thanks.,,1 isla(s) 91 inline
+590,0xA075,redirect,0xA194,58,You not hungry or something?\nYou're not eating very much.,,1 isla(s) 91 inline
+591,0xA0A2,redirect,0xA1D1,39,"No, just... had a big lunch,\nremember?",,2 isla(s) 91 inline
+592,0xA0D1,redirect,0xA1FE,33,"Do you not like my cooking, Dad?",,1 isla(s) 91 inline
+593,0xA0F6,redirect,0xA222,61,Knock it off.  I can't eat with you\nlooking at me like that.,,1 isla(s) 91 inline
+594,0xA12F,redirect,0xA262,23,These plates are nice.,,1 isla(s) 91 inline
+595,0xA13A,redirect,0xA27C,113,That's Dad's plate.  We each have\nour own plate we use every\ntime.{80238057}We're able to monitor our health\nthat way.,,2 isla(s) 91 inline
+596,0xA187,redirect,0xA2F3,63,It records how much of each food\nI've eaten.  Can you imagine?,,2 isla(s) 91 inline
+597,0xA1CA,redirect,0xA338,15,What was that?,,
+598,0xA1DF,redirect,0xA347,38,Anna must be trying to fatten you\nup.,,1 isla(s) 91 inline
+599,0xA1FA,redirect,0xA370,24,"Your plate's empty, Ed.",,1 isla(s) 91 inline
+600,0xA211,redirect,0xA38B,48,You trying to make my life even\nmore miserable?,,1 isla(s) 91 inline
+601,0xA23A,redirect,0xA3BE,57,"Alright, Jonathan, I'll eat, I'll eat. \nMan, lighten up.",,1 isla(s) 91 inline
+602,0xA26F,redirect,0xA3FD,46,You tasted the food yourself. \nGimme a break.,,1 isla(s) 91 inline
+603,0xA2A8,redirect,0xA42E,66,Funny you should mention it. \nYou're not eating very much\neither.,,2 isla(s) 91 inline
+604,0xA2CF,redirect,0xA476,46,I guess I'll just do like you and\nkeep quiet.,,2 isla(s) 91 inline
+605,0xA2FE,redirect,0xA4AA,20,"Okay, okay.  Truce?",,
+606,0xA32B,redirect,0xA4BE,53,"Can't you keep work away from\nthe dinner table, Dad?",,2 isla(s) 91 inline
+607,0xA352,redirect,0xA4F9,51,Why don't you guys just try and\nenjoy your dinner?,,1 isla(s) 91 inline
+608,0xA37D,redirect,0xA52F,44,All that talking will give you\nindigestion.,,1 isla(s) 91 inline
+609,0xA3A4,redirect,0xA55E,34,"Dad....  Work can wait, can't it?",,
+610,0xA3D1,redirect,0xA580,27,It's a neat little gadget.,,1 isla(s) 91 inline
+611,0xA3FA,redirect,0xA59E,46,I can see why he has trouble\nputting it down.,,1 isla(s) 91 inline
+612,0xA41F,redirect,0xA5CF,36,He must carry it around\neverywhere.,,
+613,0xA436,redirect,0xA5F3,52,Pictures are Marc's only way of\nexpressing himself.,,2 isla(s) 91 inline
+614,0xA455,redirect,0xA62D,47,I really hope he starts talking\nagain someday.,,1 isla(s) 91 inline
+615,0xA47E,redirect,0xA65F,4,Eat,,
+616,0xA485,redirect,0xA663,114,You're wasting time with that\nwhen you have all this food in\nfront of you?{80238057}Are you trying to hurt my\nfeelings?,,4 isla(s) 91 inline
+617,0xA4C2,redirect,0xA6E1,49,(No.  I honestly think this would\ntaste better.),,2 isla(s) 91 inline
+618,0xA4E3,redirect,0xA718,52,I always fail trying to analyze\nmyself objectively.,,1 isla(s) 91 inline
+619,0xA516,redirect,0xA74F,39,"Wish you could eat yourself,\nJonathan?",,1 isla(s) 91 inline
+620,0xA53D,redirect,0xA779,80,I guess I can be a little vain.  I was\nlooking at myself on the\nspaceplane too.,,2 isla(s) 91 inline
+621,0xA58E,redirect,0xA7CF,1,,,
+622,0xA5C1,redirect,0xA7D0,1,,,
+623,0xA5FA,redirect,0xA7D1,1,,,
+624,0xA61F,redirect,0xA7D2,1,,,
+625,0xA648,redirect,0xA7D6,1,,,
+626,0xA669,redirect,0xA7D7,1,,,
+627,0xA6A2,redirect,0xA7D8,1,,,
+628,0xA6AF,redirect,0xA7D9,1,,,
+629,0xA6C0,redirect,0xA7DA,48,You really should quit.  It's not\ncool anymore.,,1 isla(s) 91 inline
+630,0xA6F5,redirect,0xA80D,11,We'll see.,,
+631,0xA706,redirect,0xA818,85,I told you before {D0}{06} stay here\nlong enough and you won't even\nneed it in your mouth.,,3 isla(s) 91 inline
+632,0xA741,redirect,0xA876,35,So Marc's the only one on my\nside?,,1 isla(s) 91 inline
+633,0xA75A,redirect,0xA89C,57,I hope you don't end up becoming\na bad influence on him.,,1 isla(s) 91 inline
+634,0xA77F,redirect,0xA8D8,30,Is that supposed to annoy me?,,1 isla(s) 91 inline
+635,0xA7B0,redirect,0xA8F9,50,"(Hell, it probably would taste\nbetter than this.)",,1 isla(s) 91 inline
+636,0xA7D3,redirect,0xA92E,36,"Why are you holding back,\nJonathan?",,2 isla(s) 91 inline
+637,0xA7F6,redirect,0xA958,55,Eat as much as you want.  I made\nplenty for all of us.,,3 isla(s) 91 inline
+638,0xA81F,redirect,0xA998,68,"I've actually been thinking about\ngoing on a diet, after seeing Ed.",,3 isla(s) 91 inline
+639,0xA85E,redirect,0xA9E5,12,Very funny.,,
+640,0xA869,redirect,0xA9F1,30,"Your plate's empty, Jonathan.",,2 isla(s) 91 inline
+641,0xA888,redirect,0xAA15,50,I'm just... savoring the flavor\nbefore I move on.,,1 isla(s) 91 inline
+642,0xA8B3,redirect,0xAA4A,29,Go ahead and have something.,,1 isla(s) 91 inline
+643,0xA8DC,redirect,0xAA6A,49,(Have something? I wouldn't give\nthis to a dog.),,2 isla(s) 91 inline
+644,0xA8FD,redirect,0xAAA1,49,(I'd really rather not touch any of\nthis again.),,1 isla(s) 91 inline
+645,0xA930,redirect,0xAAD5,28,"I'm already full, actually.",,
+646,0xA949,redirect,0xAAF1,40,Anna's right.  Go ahead.  Don't be\nshy.,,1 isla(s) 91 inline
+647,0xA96A,redirect,0xAB1C,32,"Thank you, Ed.  So nice of you.",,1 isla(s) 91 inline
+648,0xA981,redirect,0xAB3F,18,Consider us even.,,1 isla(s) 91 inline
+649,0xA994,redirect,0xAB54,25,"I'll remember this, pal.",,
+650,0xA9A5,redirect,0xAB6D,19,What's back there?,,
+651,0xA9B0,redirect,0xAB83,48,That's the kitchen.  That's where I\ngo to work!,,1 isla(s) 91 inline
+652,0xA9D9,redirect,0xABB6,61,What could you need in the\nkitchen? Everything's right here.,,2 isla(s) 91 inline
+653,0xAA00,redirect,0xABF9,24,I'm just... interested.,,
+654,0xAA11,redirect,0xAC11,18,What do you mean?,,1 isla(s) 91 inline
+655,0xAA20,redirect,0xAC26,66,I wanna see where all this comes\nfrom.  How it ends up like this.,,1 isla(s) 91 inline
+656,0xAA65,redirect,0xAC6B,37,Are you saying... you don't like\nit?,,1 isla(s) 91 inline
+657,0xAA7C,redirect,0xAC93,66,Of course not.  I'm genuinely\ninterested in the culinary process.,,2 isla(s) 91 inline
+658,0xAA93,redirect,0xACDB,33,"That's just the table, Jonathan.",,1 isla(s) 91 inline
+659,0xAACE,redirect,0xACFF,49,"It's kind of crowded with four\npeople here, huh?",,2 isla(s) 91 inline
+660,0xAAF9,redirect,0xAD36,63,Why are you wasting time like that\nwhile everything gets cold?,,1 isla(s) 91 inline
+661,0xAB28,redirect,0xAD78,34,(Hoping for a stay of execution.),,1 isla(s) 91 inline
+662,0xAB4B,redirect,0xAD9D,35,I'm full.  I think I'll stop here.,,1 isla(s) 91 inline
+663,0xAB80,redirect,0xADC3,28,This is as far as I can go.,,cadena 92: 2 fragmentos unidos
+664,0xABA5,redirect,0xADF1,50,"I can usually eat a lot, but I'm\ntotally stuffed.",,2 isla(s) 91 inline
+665,0xABD4,redirect,0xAE29,25,"No, I can't eat anymore.",,
+666,0xABF3,redirect,0xAE42,43,I just couldn't eat another bite.\n{D0}{06}hic!{D0}{06},,2 isla(s) 91 inline
+667,0xAC14,redirect,0xAE73,61,I drank too much milk as well.  My\nstomach's not very happy.,,1 isla(s) 91 inline
+668,0xAC47,redirect,0xAEB3,36,I'm gonna be paying for this later.,,2 isla(s) 91 inline
+669,0xAC6E,redirect,0xAEDD,1,,,
+670,0xAC95,redirect,0xAEDE,1,,,
+671,0xACB2,redirect,0xAEDF,1,,,
+672,0xACE5,redirect,0xAEE0,1,,,
+673,0xAD0C,redirect,0xAEE1,1,,,
+674,0xAD29,redirect,0xAEE2,1,,,
+675,0xAD64,redirect,0xAEE3,1,,,
+676,0xAD8D,redirect,0xAEE4,1,,,
+677,0xADB8,redirect,0xAEE5,1,,,
+678,0xADCD,inplace,0xADCD,12,sm_x107.pak,,sin codigo 91: revisar
+679,0xADD9,redirect,0xAEE6,1,,,
+680,0xADFE,redirect,0xAEE7,1,,,
+681,0xAE19,redirect,0xAEE8,1,,,
+682,0xAE44,redirect,0xAEE9,1,,,
+683,0xAE6D,redirect,0xAEEA,1,,,
+684,0xAE8E,redirect,0xAEEB,1,,,
+685,0xAEB7,redirect,0xAEEC,28,Eat up before it gets cold.,,1 isla(s) 91 inline
+686,0xAED8,redirect,0xAF0B,38,"Go ahead and try something,\nJonathan.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+687,0xAEF9,redirect,0xAF46,22,Look.  It's cold now.,,1 isla(s) 91 inline
+688,0xAF16,inplace,0xAF16,12,sm_x107.pak,,sin codigo 91: revisar
+689,0xAF22,redirect,0xAF5F,5,Look,,
+690,0xAF27,redirect,0xAF64,57,This is artificial salt made with\nornithine and taurine.,,1 isla(s) 91 inline
+691,0xAF5A,redirect,0xAFA0,95,"Natural salt contains sodium ions,\nwhich are bad for you, but this\nsalt is perfect for eating.",,3 isla(s) 91 inline
+692,0xAF95,redirect,0xB008,41,It's salt.  Put it on whatever you\nlike.,,1 isla(s) 91 inline
+693,0xAFB8,redirect,0xB034,4,Eat,,
+694,0xAFBF,redirect,0xB038,42,Eating salt on its own isn't a good\nidea.,,1 isla(s) 91 inline
+695,0xAFD8,redirect,0xB065,111,You shouldn't eat salt by itself like\nthat.  You won't be young forever.\n\n You need to take care of your\nbody.,,1 isla(s) 91 inline
+696,0xB021,redirect,0xB0D7,81,This is a type of calcium food made\nfrom crushed eggshells.{80238057}It's a condiment.,,
+697,0xB060,redirect,0xB128,74,The average adult on Home needs\nabout 1000 milligrams of calcium\nper day.,,2 isla(s) 91 inline
+698,0xB0B5,redirect,0xB178,114,"You need a bit more than that on\nBeyond, since spending time in\nweightless areas leaches calcium\n from your body.",,3 isla(s) 91 inline
+699,0xB13A,redirect,0xB1F3,87,"An adult here should get about\n1200 milligrams, and the elderly\nabout 1700 milligrams.",,3 isla(s) 91 inline
+700,0xB16F,redirect,0xB253,52,You've eaten enough to meet your\ndaily requirement.,,
+701,0xB194,redirect,0xB287,39,"You've already eaten enough,\nJonathan.",,
+702,0xB1AD,redirect,0xB2AE,89,Consuming too much of any\nvitamin or mineral while neglecting\nothers isn't smart eating.,,2 isla(s) 91 inline
+703,0xB1C8,redirect,0xB30D,76,It doesn't have any taste to it.  You\nshould mix it in with something\nelse.,,2 isla(s) 91 inline
+704,0xB1F5,redirect,0xB35F,38,You're right.  This is totally bland.,,1 isla(s) 91 inline
+705,0xB214,redirect,0xB388,48,It won't be fun eating it on its own\nlike that.,,3 isla(s) 91 inline
+706,0xB237,redirect,0xB3C1,148,"That's calcium milk, one of\nTokugawa Pharmaceuticals'\nfunctional foods.{80238057}It's got casein phosphopeptides in\nit, so it's a good source of calcium.",,4 isla(s) 91 inline
+707,0xB2CA,redirect,0xB461,42,"I say ""milk"", but it's actually soy\nmilk.",,1 isla(s) 91 inline
+708,0xB2E9,redirect,0xB48E,53,It's very high in calcium.  Why\ndon't you have some?,,1 isla(s) 91 inline
+709,0xB322,redirect,0xB4C6,27,It's very high in calcium.,,1 isla(s) 91 inline
+710,0xB34B,redirect,0xB4E4,29,"Well? Pretty good, isn't it?",,
+711,0xB368,redirect,0xB501,50,Are you going to be okay drinking\nthat much milk?,,2 isla(s) 91 inline
+712,0xB38F,redirect,0xB539,6,Drink,,
+713,0xB394,redirect,0xB53F,43,I probably shouldn't drink too\nmuch of it.,,2 isla(s) 91 inline
+714,0xB3BB,redirect,0xB570,1,,,
+715,0xB3D6,redirect,0xB571,1,,,
+716,0xB3F9,redirect,0xB572,1,,,
+717,0xB426,redirect,0xB573,1,,,
+718,0xB44F,redirect,0xB574,1,,,
+719,0xB474,redirect,0xB575,1,,,
+720,0xB499,redirect,0xB576,1,,,
+721,0xB4CA,redirect,0xB577,60,That's a soybean and seaweed\nstew.{80238057}It's full of calcium.,,2 isla(s) 91 inline
+722,0xB511,redirect,0xB5B9,38,"Go ahead, have as much as you'd\nlike.",,1 isla(s) 91 inline
+723,0xB52E,redirect,0xB5E2,58,"What do you think? Kind of a\n""Japanese"" taste to it, huh?",,1 isla(s) 91 inline
+724,0xB549,redirect,0xB61F,4,Eat,,
+725,0xB550,redirect,0xB623,1,,,
+726,0xB579,redirect,0xB624,1,,,
+727,0xB5A6,redirect,0xB625,1,,,
+728,0xB5C3,redirect,0xB626,133,This is oden.{80238057}Basically it's a bunch of things\nmixed together.{80238057}It's popular with the Japanese\ncuisine boom going on right now.,,4 isla(s) 91 inline
+729,0xB5FC,redirect,0xB6BA,81,It's not as hot since you took so\nlong.  I guess it should be easier\nto eat now.,,2 isla(s) 91 inline
+730,0xB63F,redirect,0xB711,38,There's a lot of steam coming off\nit.,,2 isla(s) 91 inline
+731,0xB664,redirect,0xB73D,37,It's been simmering since\nyesterday.,,1 isla(s) 91 inline
+732,0xB67D,redirect,0xB765,42,The flavors should be nice and\nthick now.,,1 isla(s) 91 inline
+733,0xB69E,redirect,0xB792,17,"Well? Nice, huh?",,1 isla(s) 91 inline
+734,0xB6B7,redirect,0xB7A6,36,I'm glad to see you eating so\nmuch.,,1 isla(s) 91 inline
+735,0xB6DA,redirect,0xB7CD,1,,,
+736,0xB6F7,redirect,0xB7CE,1,,,
+737,0xB716,redirect,0xB7CF,1,,,
+738,0xB72B,redirect,0xB7D0,1,,,
+739,0xB746,redirect,0xB7D1,1,,,
+740,0xB777,redirect,0xB7D2,1,,,
+741,0xB794,redirect,0xB7D3,1,,,
+742,0xB7B7,redirect,0xB7D4,1,,,
+743,0xB7E2,redirect,0xB7D5,1,,,
+744,0xB7F7,redirect,0xB7D6,1,,,
+745,0xB834,redirect,0xB7D7,153,"This is tempura.{80238057}It's hard getting seafood here, so\nit's a little different from the\ntempura on Home.{80238057}It consists mainly of microorganic\nproteins.",,3 isla(s) 91 inline
+746,0xB8BD,redirect,0xB879,65,It would've been better earlier. \nI'd just finished frying it.  ,,
+747,0xB8F2,redirect,0xB8BA,46,These look like they just came out\nthe fryer.,,1 isla(s) 91 inline
+748,0xB909,redirect,0xB8EB,85,"Quail is the easiest source of\nprotein to obtain in space, but it's\nhard to prepare.",,2 isla(s) 91 inline
+749,0xB956,redirect,0xB946,37,"What do you think? Pretty good,\nhuh?",,2 isla(s) 91 inline
+750,0xB96D,redirect,0xB971,51,I've never seen anyone eat so\nmuch tempura before.,,1 isla(s) 91 inline
+751,0xB998,redirect,0xB9A7,1,,,
+752,0xB9C7,redirect,0xB9A8,1,,,
+753,0xB9E6,redirect,0xB9A9,1,,,
+754,0xBA07,redirect,0xB9AA,1,,,
+755,0xBA56,redirect,0xB9AB,1,,,
+756,0xBA7F,redirect,0xB9AC,1,,,
+757,0xBA9C,redirect,0xB9AD,57,"That's unohana, also called\nokara.{80238057}It's soybean curd.",,2 isla(s) 91 inline
+758,0xBABB,redirect,0xB9EC,46,Soybean curd? There seems to\nbe an awful lot.,,1 isla(s) 91 inline
+759,0xBAD8,redirect,0xBA1D,31,"Yeah, I think I made too much.",,
+760,0xBAFB,redirect,0xBA3C,29,"Well? Good, don't you think?",,1 isla(s) 91 inline
+761,0xBB18,redirect,0xBA5C,1,,,
+762,0xBB3B,redirect,0xBA5D,1,,,
+763,0xBB58,redirect,0xBA5E,1,,,
+764,0xBB85,redirect,0xBA5F,16,Is this caviar?,,
+765,0xBB9A,redirect,0xBA6F,119,"Yeah, but those aren't sturgeon\neggs.  That's artificial caviar made\nfrom seaweed.{80238057}Don't worry, it tastes the same.",,4 isla(s) 91 inline
+766,0xBBF3,redirect,0xBAF2,58,You mean that kind made with\nsodium alginate or whatever?,,2 isla(s) 91 inline
+767,0xBC28,redirect,0xBB32,38,It's caviar.  Feel free to have\nsome.,,2 isla(s) 91 inline
+768,0xBC43,redirect,0xBB5E,40,"You can't tell the difference, can\nyou?",,1 isla(s) 91 inline
+769,0xBC64,redirect,0xBB89,43,Eating too much caviar isn't good\nfor you.,,1 isla(s) 91 inline
+770,0xBC93,redirect,0xBBB7,1,,,
+771,0xBCC0,redirect,0xBBB8,1,,,
+772,0xBCE7,redirect,0xBBB9,1,,,
+773,0xBD08,redirect,0xBBBA,1,,,
+774,0xBD43,redirect,0xBBBB,147,"Those are vegetables grown in\nBeyond's agricultural ring.{80238057}They're ultra high-pressure\nsterilized, so they're fresher than\nheat sterilized ones.",,3 isla(s) 91 inline
+775,0xBDD0,redirect,0xBC57,95,They don't use any pesticides or\nchemical additives here.  They'd\nend up polluting the CELESS.,,2 isla(s) 91 inline
+776,0xBE53,redirect,0xBCBC,88,They don't need to use them.  We\nhave virtually no insects that\nwould damage any crops.,,3 isla(s) 91 inline
+777,0xBE8C,redirect,0xBD1D,45,That's a vegetable salad.  It's really\ngood.,,1 isla(s) 91 inline
+778,0xBEA5,redirect,0xBD4D,49,"(I don't mind a good Caesar salad,\nbut this....)",,
+779,0xBED6,redirect,0xBD7E,17,"Fresh, isn't it?",,
+780,0xBEF1,redirect,0xBD8F,1,,,
+781,0xBF12,redirect,0xBD90,1,,,
+782,0xBF37,redirect,0xBD91,1,,,
+783,0xBF60,redirect,0xBD92,1,,,
+784,0xBF85,redirect,0xBD93,1,,,
+785,0xBFB4,redirect,0xBD94,1,,,
+786,0xBFC9,redirect,0xBD95,1,,,
+787,0xBFE8,redirect,0xBD96,15,      English:,,
+788,0xBFFF,redirect,0xBDA5,1,,,
+789,0xC014,redirect,0xBDA6,1,,,
+790,0xC04D,redirect,0xBDA7,1,,,
+791,0xC058,redirect,0xBDA8,1,,,
+792,0xC0AD,redirect,0xBDA9,1,,,
+793,0xC0C2,redirect,0xBDAA,1,,,
+794,0xC10B,redirect,0xBDAB,1,,,
+795,0xC12C,redirect,0xBDAC,1,,,
+796,0xC13B,redirect,0xBDAD,1,,,
+797,0xC162,redirect,0xBDAE,1,,,
+798,0xC18D,redirect,0xBDAF,1,,,
+799,0xC1C8,redirect,0xBDB0,1,,,
+800,0xC1F5,redirect,0xBDB1,1,,,
+801,0xC206,redirect,0xBDB2,1,,,
+802,0xC237,redirect,0xBDB3,1,,,
+803,0xC252,redirect,0xBDB4,1,,,
+804,0xC289,redirect,0xBDB5,1,,,
+805,0xC296,redirect,0xBDB6,1,,,
+806,0xC2E1,redirect,0xBDB7,1,,,
+807,0xC31C,redirect,0xBDB8,1,,,
+808,0xC337,redirect,0xBDB9,1,,,
+809,0xC35A,redirect,0xBDBA,1,,,
+810,0xC385,redirect,0xBDBB,1,,,
+811,0xC398,redirect,0xBDBC,1,,,
+812,0xC3CB,redirect,0xBDBD,1,,,
+813,0xC3F6,redirect,0xBDBE,1,,,
+814,0xC40F,redirect,0xBDBF,1,,,
+815,0xC424,redirect,0xBDC0,1,,,
+816,0xC43F,redirect,0xBDC1,1,,,
+817,0xC458,redirect,0xBDC2,1,,,
+818,0xC477,redirect,0xBDC3,1,,,
+819,0xC490,redirect,0xBDC4,1,,,
+820,0xC4A5,redirect,0xBDC5,1,,,
+821,0xC4B2,redirect,0xBDC6,1,,,
+822,0xC4BD,redirect,0xBDC7,1,,,
+823,0xC4D4,redirect,0xBDC8,1,,,
+824,0xC4FB,redirect,0xBDC9,5,....,,
+825,0xC502,redirect,0xBDCE,1,,,
+826,0xC519,inplace,0xC519,11,x99cel.pak,,sin codigo 91: revisar
+827,0xC524,redirect,0xBDCF,1,,,
+828,0xC539,redirect,0xBDD3,1,,,
+829,0xC590,redirect,0xBDD4,1,,,
+830,0xC5DF,redirect,0xBDD5,1,,,
+831,0xC61C,redirect,0xBDD6,1,,,
+832,0xC64B,redirect,0xBDD7,1,,,
+833,0xC66A,redirect,0xBDD8,1,,,
+834,0xC67F,redirect,0xBDD9,5,Look,,
+835,0xC684,redirect,0xBDDE,26,"You're really cute, Anna.",,
+836,0xC699,redirect,0xBDF8,32,You look just like your mother.,,
+837,0xC6AE,redirect,0xBE18,40,The boys must talk to you all the\ntime.,,
+838,0xC6CD,redirect,0xBE40,25,Try telling my dad that.,,1 isla(s) 91 inline
+839,0xC6EC,redirect,0xBE5C,61,Don't encourage her.  I don't want\nyou giving her any ideas.,,1 isla(s) 91 inline
+840,0xC71D,redirect,0xBE9C,37,I see the way you're looking at\nher!,,1 isla(s) 91 inline
+841,0xC748,redirect,0xBEC4,113,"C'mon, you heard her.  She says\nshe's ""ready for a relationship""\nand everything.{80238057}Don't lead her on like that.",,4 isla(s) 91 inline
+842,0xC775,redirect,0xBF41,5,Talk,,
+843,0xC780,redirect,0xBF46,11,"Hey, Anna?",,
+844,0xC787,redirect,0xBF51,19,How's the tempura?,,1 isla(s) 91 inline
+845,0xC79E,redirect,0xBF67,22,Do you like the stew?,,
+846,0xC7C7,redirect,0xBF7D,31,"The milk is really fresh, huh?",,1 isla(s) 91 inline
+847,0xC7EA,redirect,0xBF9F,19,How's the unohana?,,
+848,0xC7FF,redirect,0xBFB2,32,"That caviar's pretty good, huh?",,2 isla(s) 91 inline
+849,0xC81C,redirect,0xBFD8,29,"The oden's pretty good, huh?",,1 isla(s) 91 inline
+850,0xC837,redirect,0xBFF8,34,"The salad is nice and fresh, huh?",,2 isla(s) 91 inline
+851,0xC860,redirect,0xC020,12,What is it?,,
+852,0xC875,redirect,0xC02C,6,Yeah?,,
+853,0xC88C,redirect,0xC032,10,Ask about,,
+854,0xC891,redirect,0xC03C,4,Her,,
+855,0xC89A,redirect,0xC040,1,,,
+856,0xC8C5,redirect,0xC041,1,,,
+857,0xC8D6,redirect,0xC042,1,,,
+858,0xC917,redirect,0xC043,1,,,
+859,0xC920,redirect,0xC044,1,,,
+860,0xC93D,redirect,0xC045,1,,,
+861,0xC948,redirect,0xC046,1,,,
+862,0xC99B,redirect,0xC047,1,,,
+863,0xC9A4,redirect,0xC048,22,"You have a job, Anna?",,2 isla(s) 91 inline
+864,0xC9B5,redirect,0xC064,152,"I used to be a guide at the\nAstronauts Memorial Museum\nuntil last month.{80238057}I was majoring in space history\nbefore, so it was a good\nexperience for me.",,2 isla(s) 91 inline
+865,0xCA2C,redirect,0xC102,100,"I think I'm ready for a relationship,\nyou know? A real relationship. \nSomebody older.  More mature.",,4 isla(s) 91 inline
+866,0xCA5B,redirect,0xC172,48,What are you talking about?\nYou're still a kid!,,1 isla(s) 91 inline
+867,0xCA82,redirect,0xC1A5,57,"(No, she's a woman alright.  And\nquite a woman at that.)",,1 isla(s) 91 inline
+868,0xCAA5,redirect,0xC1E1,44,Don't you even joke about eating\nher again!,,2 isla(s) 91 inline
+869,0xCADC,redirect,0xC213,12,Her cooking,,
+870,0xCAE5,redirect,0xC21F,30,Do you always do the cooking?,,1 isla(s) 91 inline
+871,0xCAF4,redirect,0xC240,129,"Yeah.  I love to cook.  But on\nBeyond, nutritional balance is\nmore important than taste.{80238057}Especially when it comes to\ncalcium.",,3 isla(s) 91 inline
+872,0xCB6D,redirect,0xC2CA,55,"As long as I keep taking it in like\nyou, I'll be fine.",,1 isla(s) 91 inline
+873,0xCBAC,redirect,0xC304,86,Tokugawa put up recipes on\nBeyondNet everyday.  It's not that\nhard with those around.,,3 isla(s) 91 inline
+874,0xCC3B,redirect,0xC363,54,"(Damn you, Sadaoki.  One more\ngrievance to the list.)",,2 isla(s) 91 inline
+875,0xCC68,redirect,0xC39F,47,I won't let you leave until you eat\nsome more!,,1 isla(s) 91 inline
+876,0xCC99,redirect,0xC3D1,17,"(Bad, bad news.)",,
+877,0xCCBA,redirect,0xC3E2,7,School,,
+878,0xCCC3,redirect,0xC3E9,22,History of space food,,1 isla(s) 91 inline
+879,0xCCD0,redirect,0xC402,75,"Since you know so much about\nspace history, you mind if I pick\nyour brain?",,3 isla(s) 91 inline
+880,0xCD0F,redirect,0xC456,35,How about a story related to\nfood?,,2 isla(s) 91 inline
+881,0xCD38,redirect,0xC47F,188,"It's said the first person to use\nchopsticks in space was Astronaut\nOnizuka, who later died in the\n Challenger disaster.{80238057}The interesting thing is he didn't\neat Japanese food with them.",,8 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+882,0xCDBD,redirect,0xC564,133,"The first people to eat solid food in\nspace were Astronauts Young and\nGrissom, aboard Gemini 3.{80238057}They smuggled sandwiches\nonboard.",,2 isla(s) 91 inline
+883,0xCE3C,redirect,0xC5EF,122,"How do you like my cooking? Not\nbad for someone my age, huh?{80238057}This would be considered space\nfood to someone from Home.",,3 isla(s) 91 inline
+884,0xCEA1,redirect,0xC672,85,"(How do I like it? The space food\nwe ate back then was way, waaay\nbetter than this.)",,5 isla(s) 91 inline
+885,0xCEDE,redirect,0xC6D6,16,Calcium cuisine,,
+886,0xCEED,redirect,0xC6E6,45,How does calcium fit in with your\ndiet here?,,1 isla(s) 91 inline
+887,0xCF10,redirect,0xC716,195,"What's important isn't so much the\namount of calcium but the balance\n\n between the calcium and the\nphosphorous.{80238057}If there's too much phosphorous,\nyour body won't be able to absorb\nthe calcium.",,8 isla(s) 91 inline
+888,0xCF8B,redirect,0xC7F1,175,"I do zero-G rhythmic gymnastics,\nso I always try to make sure I get\nenough calcium.{80238057}Well, blacks have naturally higher\ncalcitonin levels anyway, so it's not\nas bad for me.",,8 isla(s) 91 inline
+889,0xD01A,redirect,0xC8B8,73,"(Taste takes a backseat, huh?\nCan't say I subscribe to that\nphilosophy.)",,2 isla(s) 91 inline
+890,0xD053,redirect,0xC907,27,Zero-G rhythmic gymnastics,,2 isla(s) 91 inline
+891,0xD064,redirect,0xC928,125,"I saw your poster.  Don't worry,\nthat thing's gonna take off like you\nwon't believe.{80238057}It's even better than mud\nwrestling.",,4 isla(s) 91 inline
+892,0xD0AF,redirect,0xC9B1,10,Bioethics,,1 isla(s) 91 inline
+893,0xD0BC,redirect,0xC9BE,5,Back,,
+894,0xD0C5,redirect,0xC9C3,36,I think that's enough talk for now.,,
+895,0xD0E8,redirect,0xC9E7,38,"You haven't eaten anything,\nJonathan!",,
+896,0xD10D,redirect,0xCA0D,39,Do you feel sick or something?\nEat up!,,1 isla(s) 91 inline
+897,0xD12C,redirect,0xCA37,18,"Eat up, Jonathan.",,
+898,0xD14B,redirect,0xCA49,38,Go ahead and eat as much as you\nwant.,,1 isla(s) 91 inline
+899,0xD170,redirect,0xCA72,4,Eat,,
+900,0xD177,redirect,0xCA76,39,This looks much more appetizing\nto me.,,1 isla(s) 91 inline
+901,0xD196,redirect,0xCAA0,66,"My stomach may be full, but I\ncould still go for a piece of this.",,3 isla(s) 91 inline
+902,0xD1BF,redirect,0xCAEB,29,"You say something, Jonathan?",,1 isla(s) 91 inline
+903,0xD1DA,redirect,0xCB0B,27,I most definitely did not.,,
+904,0xD1E7,redirect,0xCB26,50,"I'm telling you, keep your hands\noff my daughter!",,
+905,0xD20E,redirect,0xCB58,69,Why do you keep doing that? Is it\nsome sort of joke? I don't get it.,,1 isla(s) 91 inline
+906,0xD251,redirect,0xCBA0,61,"Why are you going on like that?\nThat's not very nice, is it?",,1 isla(s) 91 inline
+907,0xD27E,redirect,0xCBE0,38,"You're not eating very much, are\nyou?",,
+908,0xD297,redirect,0xCC06,64,It's hard work keeping a nice\nfigure.  I don't want to overeat.,,1 isla(s) 91 inline
+909,0xD2C4,redirect,0xCC49,65,This will be enough to fulfil my\ncalorie requirement for dinner.,,1 isla(s) 91 inline
+910,0xD2EB,redirect,0xCC8D,41,You're a growing girl.  You need\nto eat.,,1 isla(s) 91 inline
+911,0xD306,redirect,0xCCB9,31,"He's right, Anna.  Get eating.",,3 isla(s) 91 inline
+912,0xD321,redirect,0xCCE1,77,You spent all that time making\nthis.  It'd be a shame for it to go to\nwaste.,,1 isla(s) 91 inline
+913,0xD350,redirect,0xCD31,33,So why don't you help finish it!,,1 isla(s) 91 inline
+914,0xD36F,redirect,0xCD55,22,(The plan backfired.),,
+915,0xD384,redirect,0xCD6B,45,Don't worry about me.  You go\nahead and eat.,,
+916,0xD3A5,redirect,0xCD98,236,"I think it's the coolest sport\naround.{80238057}There's friction between the\nZero-G Gymnastics Association\nand Beyond's Board of Education\n over the calcium loss issue,\nthough.{80238057}Its critics say it isn't good for kids\nwho are still growing.",,2 isla(s) 91 inline
+917,0xD42C,redirect,0xCE8A,75,There's only one stadium on\nBeyond.  It would be nice if we\nhad some more.,,1 isla(s) 91 inline
+918,0xD483,redirect,0xCED8,45,That's my new uniform I was\nwearing earlier.,,2 isla(s) 91 inline
+919,0xD4AC,redirect,0xCF0B,84,I need to keep in shape for the\nsquad.  That's the other reason I\nwatch what I eat.,,1 isla(s) 91 inline
+920,0xD4F1,redirect,0xCF62,108,School's a blast.  I've got this one\nreally cute professor too.{80238057}I can't wait to get there every\nmorning.,,1 isla(s) 91 inline
+921,0xD524,redirect,0xCFD1,51,Wow.  I couldn't wait to get home\nevery afternoon.,,
+922,0xD545,redirect,0xD004,50,I always make sure I set aside time\nfor studying.,,1 isla(s) 91 inline
+923,0xD56C,redirect,0xD039,70,Anna gets good grades too.  Who\ndo you think she picked that up\nfrom?,,2 isla(s) 91 inline
+924,0xD591,redirect,0xD085,64,"Do you like school, Anna? What's\nyour major? You do any sports?",,3 isla(s) 91 inline
+925,0xD5BE,redirect,0xD0CE,91,"Yeah, it's great.  My major is\nbioethics.  As for sports, I do\nzero-G rhythmic gymnastics.",,3 isla(s) 91 inline
+926,0xD605,redirect,0xD132,48,"I've got plenty of friends.  All girls,\nthough.",,1 isla(s) 91 inline
+927,0xD634,redirect,0xD165,45,I make my own lunches that I take\nto school.,,3 isla(s) 91 inline
+928,0xD661,redirect,0xD19B,65,"I don't know what the schools on\nHome are like, but I love mine.",,2 isla(s) 91 inline
+929,0xD69E,redirect,0xD1E2,24,I was off school today.,,1 isla(s) 91 inline
+930,0xD6BB,redirect,0xD1FD,57,I like going to school.  I think\ntelelearning is boring.,,1 isla(s) 91 inline
+931,0xD6F8,redirect,0xD239,149,"With all the advances in science\nover the years, like organ\ntransplantation and gene therapy,\n we've entered territory some say\nis reserved for God.",,4 isla(s) 91 inline
+932,0xD76D,redirect,0xD2DA,183,"We study other issues as well, like\nartificial fertilization, surrogate\nmothers, cloning, and the\n relationship between comas,\npersistent vegetative states and\norgan transplantation.",,6 isla(s) 91 inline
+933,0xD7D2,redirect,0xD3A3,85,It's a field that's been gathering a\nlot of attention since the turn of\nthe century.,,1 isla(s) 91 inline
+934,0xD82F,redirect,0xD3FB,83,Some of the food we're eating\nright now actually violates\nprinciples of bioethics.,,1 isla(s) 91 inline
+935,0xD87E,redirect,0xD451,40,Why don't I tell you more after\ndinner?,,
+936,0xD8A9,redirect,0xD479,133,It's only going to become more\nimportant as time goes on.{80238057}We need to really consider the\nsort of direction our species is\nheaded.,,3 isla(s) 91 inline
+937,0xD8D4,redirect,0xD507,102,"They're delicate issues, things like\norgan transplants and gene\n\n therapy.  Those are necessary\nhere.",,3 isla(s) 91 inline
+938,0xD911,redirect,0xD576,46,Karen needs a bone marrow\ntransplant herself.,,1 isla(s) 91 inline
+939,0xD936,redirect,0xD5A7,107,"I think it's an important area of\nstudy.{80238057}We may have advanced into space,\nbut that doesn't make us God.",,2 isla(s) 91 inline
+940,0xD989,redirect,0xD618,59,Looks like he keeps his tablet with\nhim even at the table.,,1 isla(s) 91 inline
+941,0xD9B0,redirect,0xD656,50,Marc keeps his tablet with him\neven at the table?,,1 isla(s) 91 inline
+942,0xD9D5,redirect,0xD68B,104,About the only time he doesn't\nhave it is when he's taking a\nbath.{80238057}He's always off in his own world.,,3 isla(s) 91 inline
+943,0xDA22,redirect,0xD6FC,48,"It must be hard for him, all he's\ngone through.",,
+944,0xDA41,redirect,0xD72C,48,Poor guy's lost the innocence of\nhis childhood.,,
+945,0xDA5C,redirect,0xD75C,46,"Kinda weird, isn't it? Me having a\nwhite son.",,1 isla(s) 91 inline
+946,0xDA8D,redirect,0xD78D,5,Talk,,
+947,0xDA92,redirect,0xD792,1,,,
+948,0xDAE5,redirect,0xD793,1,,,
+949,0xDB1C,redirect,0xD794,1,,,
+950,0xDB67,redirect,0xD795,1,,,
+951,0xDB70,redirect,0xD796,1,,,
+952,0xDB99,redirect,0xD797,1,,,
+953,0xDBA0,redirect,0xD798,1,,,
+954,0xDBBF,redirect,0xD799,1,,,
+955,0xDBEC,redirect,0xD79A,1,,,
+956,0xDC23,redirect,0xD79B,1,,,
+957,0xDC3E,redirect,0xD79C,1,,,
+958,0xDC75,redirect,0xD79D,1,,,
+959,0xDC90,redirect,0xD79E,25,"You should eat up, Marc.",,
+960,0xDCA9,redirect,0xD7B7,57,"I tell ya, your sister's cooking is\nsomething else, huh?",,1 isla(s) 91 inline
+961,0xDCD0,redirect,0xD7F3,15,(He he he....),,
+962,0xDCDF,redirect,0xD802,18,You think so too?,,
+963,0xDCFC,redirect,0xD814,12,(He he....),,
+964,0xDD11,redirect,0xD820,32,What are you two smiling about?,,1 isla(s) 91 inline
+965,0xDD38,redirect,0xD843,44,"Oh, just shooting the breeze. \nRight, Marc?",,
+966,0xDD67,redirect,0xD86F,12,(He he....),,
+967,0xDD70,redirect,0xD87B,47,So I hear you always carry that\ntablet around.,,2 isla(s) 91 inline
+968,0xDDAB,redirect,0xD8B0,44,"I saw your drawing.  That's Home,\nisn't it?",,1 isla(s) 91 inline
+969,0xDDE4,redirect,0xD8DF,73,"You know, I come from Home. \nMaybe one day I'll show you the\nreal thing.",,1 isla(s) 91 inline
+970,0xDE47,redirect,0xD92B,39,"Hey, hey, don't put ideas in his\nhead.",,1 isla(s) 91 inline
+971,0xDE72,redirect,0xD955,25,"Be sure to eat up, Marc.",,
+972,0xDE8D,redirect,0xD96E,29,Marc's a really picky eater.,,1 isla(s) 91 inline
+973,0xDEA8,redirect,0xD98E,80,"C'mon, Marc, you can't be like\nthat.  You should try to eat some\nof everything.",,2 isla(s) 91 inline
+974,0xDED9,redirect,0xD9E4,93,It's more that he's afraid to try\nnew food as opposed to him not\nliking half the stuff here.,,2 isla(s) 91 inline
+975,0xDF14,redirect,0xDA47,27,Your plate's nearly empty.,,1 isla(s) 91 inline
+976,0xDF2D,redirect,0xDA65,39,"He goes at his own pace.  Right,\nMarc?",,
+977,0xDF58,redirect,0xDA8C,18,You full already?,,2 isla(s) 91 inline
+978,0xDF79,redirect,0xDAA4,49,"You shouldn't be such a picky\neater.  Right, Ed?",,
+979,0xDF9E,redirect,0xDAD5,36,"Yeah, Uncle Jonathan's right,\nMarc.",,1 isla(s) 91 inline
+980,0xDFBB,redirect,0xDAFC,32,"Here, we'll leave some for you.",,
+981,0xDFD0,redirect,0xDB1F,46,"Uhh... yeah.  You go ahead and\ntake it, Marc.",,
+982,0xDFEF,redirect,0xDB4D,79,"You need to eat a balanced diet. \nHere, I'll give you what's left on\nmy plate.",,4 isla(s) 91 inline
+983,0xE020,redirect,0xDBA8,29,"What's this about, Jonathan?",,1 isla(s) 91 inline
+984,0xE045,redirect,0xDBC8,67,What's with these plates? They\nlook different from regular plates.,,1 isla(s) 91 inline
+985,0xE068,redirect,0xDC0E,82,They've got sensors in them that\nrecord the number of calories and\nportion sizes.,,2 isla(s) 91 inline
+986,0xE0AF,redirect,0xDC66,56,They beep if you go over the\namount you've set them to.,,2 isla(s) 91 inline
+987,0xE0D6,redirect,0xDCA4,34,I feel like a damned farm animal.,,1 isla(s) 91 inline
+988,0xE0F9,redirect,0xDCC9,59,Meaning we can't leave until we've\neaten a certain amount?,,3 isla(s) 91 inline
+989,0xE11C,redirect,0xDD0D,52,"Ha ha ha, now you understand\nwhat it's like for me.",,2 isla(s) 91 inline
+990,0xE13B,redirect,0xDD47,40,I wonder if this one's got sensors\ntoo.,,2 isla(s) 91 inline
+991,0xE158,redirect,0xDD75,42,"I never knew you liked to draw,\nJonathan.",,
+992,0xE18F,redirect,0xDD9F,56,I never told you? I was in the art\nclub in high school.,,1 isla(s) 91 inline
+993,0xE1D6,redirect,0xDDDA,97,"Oh, I get it.  You probably thought\nyou'd get the chance to sketch\nsome nude model or something.",,1 isla(s) 91 inline
+994,0xE21D,redirect,0xDE3E,141,"No, they only did those at the\nculture festival.{80238057}I was trying to get this girl to like\nme.  She was bilingual.  You\nknow, a cultured gal.",,4 isla(s) 91 inline
+995,0xE2A0,redirect,0xDED7,57,So did she ignore you after she\nsaw how shallow you are?,,1 isla(s) 91 inline
+996,0xE2E3,redirect,0xDF13,147,"Not exactly.  She confessed to me\nunder the legendary tree.{80238057}Unfortunately for us, we didn't\nexactly end up living ""happily ever\nafter"", though.",,5 isla(s) 91 inline
+997,0xE362,redirect,0xDFB5,73,Legendary tree? Happily ever\nafter? What the hell are you\ntalking about?,,3 isla(s) 91 inline
+998,0xE38D,redirect,0xE007,23,"Eh, it's a long story.",,
+999,0xE3A6,redirect,0xE01E,36,"So were you in any clubs,\nJonathan?",,1 isla(s) 91 inline
+1000,0xE3E1,redirect,0xE048,36,Yeah.  I did zero-G gymnastics\ntoo.,,1 isla(s) 91 inline
+1001,0xE402,redirect,0xE06F,9,Really?!,,
+1002,0xE409,redirect,0xE078,9,"Heh, no.",,
+1003,0xE410,redirect,0xE081,99,"You need to watch it with him,\nAnna.  Half of what this guy says is\nlies, the other half is jokes.",,2 isla(s) 91 inline
+1004,0xE45B,redirect,0xE0EA,50,"So Jonathan, tell me about the\nclubs you were in.",,2 isla(s) 91 inline
+1005,0xE4C6,redirect,0xE122,58,"Clubs? Well, I was in the\nliterature club in high school.",,2 isla(s) 91 inline
+1006,0xE4F3,redirect,0xE162,26,The literature club? Wow.,,
+1007,0xE508,redirect,0xE17C,53,"Clubs? Well, I was in the drama\nclub in high school.",,1 isla(s) 91 inline
+1008,0xE535,redirect,0xE1B4,21,The drama club? Wow.,,
+1009,0xE54A,redirect,0xE1C9,55,"Clubs? Well, I was in the science\nclub in high school.",,1 isla(s) 91 inline
+1010,0xE577,redirect,0xE203,23,The science club? Wow.,,
+1011,0xE58C,redirect,0xE21A,56,"Clubs? Well, I was in the\ncomputer club in high school.",,1 isla(s) 91 inline
+1012,0xE5B9,redirect,0xE255,24,The computer club? Wow.,,
+1013,0xE5CE,redirect,0xE26D,47,"Clubs? Well, I was in the band in\nhigh school.",,
+1014,0xE5FD,redirect,0xE29C,15,The band? Wow.,,1 isla(s) 91 inline
+1015,0xE614,redirect,0xE2AE,54,"Clubs? Well, I was in the soccer\nclub in high school.",,1 isla(s) 91 inline
+1016,0xE645,redirect,0xE2E7,22,The soccer club? Wow.,,
+1017,0xE65E,redirect,0xE2FD,28,So? What kinda girl was it?,,
+1018,0xE67F,redirect,0xE319,59,"What are you talking about?{80238057}...Alright, how'd you know?",,
+1019,0xE6BC,redirect,0xE354,97,"We've been friends a long time.  I\nthink I know you pretty well by\nnow.{80238057}But please, continue.",,3 isla(s) 91 inline
+1020,0xE707,redirect,0xE3BE,247,"That obvious, huh?{80238057}She was really athletic, I mean she\nwas a wiz at soccer.{80238057}She said we should try and make\nit to the pros so we could play\ntogether at the National Stadium in\n Tokyo someday.  She got me all\npsyched up to do it for a while.",,5 isla(s) 91 inline
+1021,0xE7B6,redirect,0xE4C4,19,"Aww, that's sweet.",,1 isla(s) 91 inline
+1022,0xE7CD,redirect,0xE4DA,61,"Wait a second, Jonathan.  Tokyo?\nI thought you were from LA?",,2 isla(s) 91 inline
+1023,0xE814,redirect,0xE51D,35,"I'm just... entertaining Anna, Ed.",,1 isla(s) 91 inline
+1024,0xE829,redirect,0xE543,56,"Clubs? Well, I was in the baseball\nclub in high school.",,2 isla(s) 91 inline
+1025,0xE856,redirect,0xE581,24,The baseball club? Wow.,,1 isla(s) 91 inline
+1026,0xE86B,redirect,0xE59C,250,"That obvious, huh?{80238057}She was really athletic, I mean she\nwas a wiz at baseball.{80238057}She said we should try and make\nit to the pros so we could play\ntogether at Koshien Stadium in\n Nishinomiya someday.  She got me\nall psyched up to do it for a while.",,7 isla(s) 91 inline
+1027,0xE912,redirect,0xE6AB,54,"Clubs? Well, I was in the tennis\nclub in high school.",,1 isla(s) 91 inline
+1028,0xE941,redirect,0xE6E4,70,"The tennis club? Wow, it's kind of\nhard picturing you playing tennis.",,1 isla(s) 91 inline
+1029,0xE96C,redirect,0xE72D,20,No story behind it?,,
+1030,0xE98D,redirect,0xE741,152,It's coming.{80238057}The daughter of the president of\nthis real estate company was also\nin the club.{80238057}She was a little weird.  She was\nalways daydreaming.,,2 isla(s) 91 inline
+1031,0xEA04,redirect,0xE7DF,62,"So, you got close to her through\ntennis.  Then what happened?",,1 isla(s) 91 inline
+1032,0xEA1F,redirect,0xE820,82,She knitted me a sweater right\naround graduation.  It was a nice\ntime in my life.,,3 isla(s) 91 inline
+1033,0xEA4C,redirect,0xE87B,56,"Clubs? Well, I was in the\nswimming club in high school.",,
+1034,0xEA79,redirect,0xE8B3,24,The swimming club? Wow.,,
+1035,0xEA8E,redirect,0xE8CB,58,"Clubs? Well, I was in the\nbasketball club in high school.",,
+1036,0xEABD,redirect,0xE905,26,The basketball club? Wow.,,1 isla(s) 91 inline
+1037,0xEAD4,redirect,0xE922,198,"The younger sister of one of my\nfriends had just started school\nthere, and that was the club she\n was in.{80238057}Come to think of it, I have another\nfriend with a daughter that\ndoesn't look all that {D0}{06}",,3 isla(s) 91 inline
+1038,0xEB93,redirect,0xE9F1,53,"""A"" for effort, Jonathan, but you\nknow I'd kill you.",,2 isla(s) 91 inline
+1039,0xEBC2,redirect,0xEA2C,41,"Again, just kidding, juuust\nkidding, Ed.",,1 isla(s) 91 inline
+1040,0xEBD5,redirect,0xEA58,56,"Clubs? Well, I was in the\nget-home club in high school.",,2 isla(s) 91 inline
+1041,0xEC02,redirect,0xEA96,47,The get-home club? What sort\nof club was that?,,1 isla(s) 91 inline
+1042,0xEC27,redirect,0xEAC8,118,The club where we'd get\nourselves home as fast as we\ncould as soon as school ended.{80238057}Meaning I wasn't in any clubs.,,1 isla(s) 91 inline

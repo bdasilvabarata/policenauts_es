@@ -329,7 +329,7 @@ def check_reserved(s, cm):
 
 def apply_charmap(s, cm):
     """Reemplaza cada caracter acentuado por el de su ranura. Las ranuras que coinciden con
-    caracteres especiales del CSV (\\ y {) se escriben como token hexadecimal."""
+    caracteres especiales del CSV (\\, { y }) se escriben como token hexadecimal."""
     if not cm:
         return s
     out = []
@@ -337,7 +337,7 @@ def apply_charmap(s, cm):
         v = cm.get(c)
         if v is None:
             out.append(c)
-        elif v in '\\{':
+        elif v in '\\{}':
             out.append('{%02X}' % ord(v))
         else:
             out.append(v)

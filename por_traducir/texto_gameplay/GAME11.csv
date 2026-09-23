@@ -1,0 +1,900 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x4A6F,redirect,0x3E24,5,Move,,
+1,0x4A74,redirect,0x3E2C,10,Go inside,,
+2,0x4A7D,redirect,0x3E36,6,Drive,,
+3,0x4A86,redirect,0x3E3C,7,System,,
+4,0x4A8F,redirect,0x3E43,5,Look,,
+5,0x4A94,redirect,0x3E48,80,The building is modeled after\nKennedy Space Center's Vehicle\nAssembly Building.,,2 isla(s) 91 inline
+6,0x4AFF,redirect,0x3E9E,95,"The scale and inside are totally\ndifferent, but its outside\nappearance is an exact recreation.",,4 isla(s) 91 inline
+7,0x4B2E,redirect,0x3F09,30,I thought it looked familiar.,,1 isla(s) 91 inline
+8,0x4B4D,redirect,0x3F2A,83,"Launch Complex 39....  We went to\nKennedy once for part of our\ntraining, remember?",,2 isla(s) 91 inline
+9,0x4BA6,redirect,0x3F83,33,There's the main entrance there.,,
+10,0x4BC7,redirect,0x3FA4,20,What about tickets?,,
+11,0x4BD8,redirect,0x3FB8,54,Admission's free during the\nanniversary celebrations.,,2 isla(s) 91 inline
+12,0x4C2B,redirect,0x3FF4,59,That's AMM.  It's like being back at\nKennedy Space Center.,,2 isla(s) 91 inline
+13,0x4C6E,redirect,0x4035,35,So the informant's waiting inside?,,1 isla(s) 91 inline
+14,0x4C85,redirect,0x405B,41,You really think the informant's\ninside?,,
+15,0x4CAE,redirect,0x4084,51,It's AMM.  It won't be open at this\ntime of night.,,1 isla(s) 91 inline
+16,0x4CD7,redirect,0x40BA,60,All the lights are off.  Doesn't look\nlike anyone's around.,,
+17,0x4CFE,redirect,0x40F6,28,It definitely looks closed.,,
+18,0x4D2B,redirect,0x4112,64,You think he's really here? After\nhow careful he was last time?,,2 isla(s) 91 inline
+19,0x4D5A,redirect,0x4158,66,Something's obviously come up. \nSomething urgent that can't wait.,,1 isla(s) 91 inline
+20,0x4D97,redirect,0x419D,41,What the hell's taking this guy so\nlong?,,1 isla(s) 91 inline
+21,0x4DB4,redirect,0x41C9,66,Is he actually coming or what?\nMaybe he's just jerking us\naround?,,
+22,0x4DE1,redirect,0x420B,58,It's too early to say.  Let's just\ntrust that he'll show.,,
+23,0x4E0A,redirect,0x4245,34,Let's keep looking a little more.,,1 isla(s) 91 inline
+24,0x4E35,redirect,0x426A,45,We still haven't met with the\ninformant yet!,,
+25,0x4E5C,redirect,0x4297,54,"We're supposed to be meeting the\ninformant, remember?",,1 isla(s) 91 inline
+26,0x4E95,redirect,0x42D0,54,Where are you trying to go?\nWhat about the informant?,,
+27,0x4EC0,redirect,0x4306,1,,,
+28,0x4ED5,redirect,0x4307,1,,,
+29,0x4EEE,redirect,0x4308,1,,,
+30,0x4F1B,redirect,0x430C,1,,,
+31,0x4F28,redirect,0x430D,19,Let's head inside.,,
+32,0x4F39,redirect,0x4320,1,,,
+33,0x4F82,redirect,0x4321,1,,,
+34,0x4F9B,redirect,0x4322,53,"It's AMM's nameplate. \n""Astronauts Memorial Museum"".",,
+35,0x5036,redirect,0x4357,24,They're open right now.,,
+36,0x5047,redirect,0x436F,32,"They've got the ""OPEN"" sign up.",,1 isla(s) 91 inline
+37,0x5062,redirect,0x4392,88,We're in luck.{80238057}It says admission's free during the\nanniversary commemoration\nperiod.,,1 isla(s) 91 inline
+38,0x509B,redirect,0x43ED,93,It's AMM's nameplate.  It's just\nbarely visible with the ambient\nlighting they've got on it.,,2 isla(s) 91 inline
+39,0x50CC,redirect,0x4450,24,"The ""CLOSED"" sign's up.",,
+40,0x50E5,redirect,0x4468,27,The sign says it's closed.,,1 isla(s) 91 inline
+41,0x50FE,redirect,0x4486,16,That's our car.,,
+42,0x5139,redirect,0x4496,71,We really do stick out in this thing.\nReminds me of my uniformed\ndays.,,3 isla(s) 91 inline
+43,0x517C,redirect,0x44E6,58,I parked a little away from the\nbuilding as a precaution.,,
+44,0x51AB,redirect,0x4520,61,That's our car.  I turned off the\nlights to help us lay low.,,3 isla(s) 91 inline
+45,0x51EC,redirect,0x4566,82,It gonna be alright out here at this\ntime? What if someone tries to\nmess with it?,,1 isla(s) 91 inline
+46,0x5221,redirect,0x45BB,59,This ain't Home.  No one here\nwould do that to the police.,,2 isla(s) 91 inline
+47,0x526C,redirect,0x45FC,38,"Everyone behaves themselves, do\nthey?",,
+48,0x52A1,redirect,0x4622,62,We're driving a BCP squad car. \nWe can park wherever we want.,,1 isla(s) 91 inline
+49,0x52D0,redirect,0x4663,6,Drive,,
+50,0x52D9,redirect,0x4669,41,This is part of Beyond's artificial\nsea.,,1 isla(s) 91 inline
+51,0x5304,redirect,0x4695,21,Anything live in it?,,1 isla(s) 91 inline
+52,0x5325,redirect,0x46AD,71,You bet.  It contains the same\namount of salt as the seawater on\nHome.,,1 isla(s) 91 inline
+53,0x5360,redirect,0x46F7,101,They regulate the water's\nevaporation rate and salinity by\n\n producing waves to circulate the\nwater.,,4 isla(s) 91 inline
+54,0x53B3,redirect,0x4768,18,What's inside it?,,
+55,0x53BE,redirect,0x477A,183,"Plenty.  On top of the fish, it's got\nseaweed and all sorts of other\nmarine plants.{80238057}They let you fish and swim in it if\nyou want.{80238057}We even get floaters in it every\nnow and then.",,4 isla(s) 91 inline
+56,0x541F,redirect,0x483D,34,He couldn't possibly be in there.,,
+57,0x5440,redirect,0x485F,77,There's no way the informant\nwould be under the water.  At\nleast I hope not.,,2 isla(s) 91 inline
+58,0x5467,redirect,0x48B2,129,"Look at the city lights on the\nwater.  So pretty.  So romantic.{80238057}I wonder....  You think love can\nbloom on a space colony, Ed?",,2 isla(s) 91 inline
+59,0x5486,redirect,0x4939,40,I've given up trying to understand\nyou.,,1 isla(s) 91 inline
+60,0x54BD,redirect,0x4964,48,"Boy, it really is hard seeing in this\nlight....",,1 isla(s) 91 inline
+61,0x54D8,redirect,0x4997,50,Those are palm trees selectively\nbred for Beyond.,,
+62,0x551F,redirect,0x49C9,165,All plants here are resistant to\nultraviolet radiation and have high\nphotosynthesis rates.{80238057}That's how we have plenty of air\nto breath with so few of them\naround.,,8 isla(s) 91 inline
+63,0x557C,redirect,0x4A89,1,,,
+64,0x559F,redirect,0x4A8A,1,,,
+65,0x55B2,redirect,0x4A8B,1,,,
+66,0x55F9,redirect,0x4A8C,1,,,
+67,0x562E,redirect,0x4A8D,1,,,
+68,0x5695,redirect,0x4A8E,1,,,
+69,0x56B8,redirect,0x4A92,99,It's cool seeing all these.{80238057}Makes the place look like some\nspace base from an old sci-fi\nmovie.,,1 isla(s) 91 inline
+70,0x56F7,redirect,0x4AF8,48,Space geeks must freak out when\nthey see these.,,1 isla(s) 91 inline
+71,0x5724,redirect,0x4B2B,62,That's the Saturn V rocket.  It\nlaunched the Apollo missions.,,2 isla(s) 91 inline
+72,0x5753,redirect,0x4B6F,47,It was the largest rocket of the\n20th century.,,
+73,0x5770,redirect,0x4B9E,52,They've got an Apollo lander on\ndisplay inside too.,,2 isla(s) 91 inline
+74,0x5793,redirect,0x4BDB,104,"That's the Russian Proton\nrocket.{80238057}It launched the Salyut space\nstations, among a ton of other\nstuff.",,1 isla(s) 91 inline
+75,0x57E4,redirect,0x4C46,32,That's Space Shuttle Discovery.,,
+76,0x580D,redirect,0x4C66,84,Also known as Orbiter\nVehicle-103.{80238057}It flew more missions than any\nother Shuttle.,,3 isla(s) 91 inline
+77,0x5852,redirect,0x4CC3,66,It also carried the first Japanese\nmission specialist into space.,,2 isla(s) 91 inline
+78,0x589B,redirect,0x4D0B,33,That's the Russian Soyuz 11A511.,,1 isla(s) 91 inline
+79,0x58D6,redirect,0x4D2F,65,It played a huge part in space\nexploration.  We owe a lot to it.,,1 isla(s) 91 inline
+80,0x591D,redirect,0x4D73,86,"Yeah, it launched all of Russia's\nSoyuz flights.  More flights than\nany other rocket.",,2 isla(s) 91 inline
+81,0x5956,redirect,0x4DCF,56,"What's that one there?{80238057}That's right, I remember now.",,1 isla(s) 91 inline
+82,0x5985,redirect,0x4E0D,32,That's the Chinese FB-1 rocket.,,
+83,0x59B2,redirect,0x4E2D,35,That's Europe's Ariane 1 launcher.,,1 isla(s) 91 inline
+84,0x59D7,redirect,0x4E53,63,The Arianes were used a lot for\nlaunching business satellites.,,1 isla(s) 91 inline
+85,0x5A3C,redirect,0x4E98,66,"That's the H-II rocket built by\nJapan's NASDA, now known as\nJAXA.",,2 isla(s) 91 inline
+86,0x5A6D,redirect,0x4EE0,50,It was developed solely with\nJapanese technology.,,1 isla(s) 91 inline
+87,0x5AA2,redirect,0x4F15,72,"Yeah, this was before Japan\nbought up all of Russia's space\ntechnology.",,3 isla(s) 91 inline
+88,0x5B13,redirect,0x4F66,27,Its first launch was 1994.,,
+89,0x5B40,redirect,0x4F81,62,A precursor to Tokugawa Heavy\nIndustries' current domination.,,2 isla(s) 91 inline
+90,0x5B75,redirect,0x4FC5,29,That's the Titan 34D rocket.,,
+91,0x5BA2,redirect,0x4FE2,69,That's the Atlas D rocket.  It was\nused for part of Project Mercury.,,
+92,0x5BE5,redirect,0x5027,68,It's the rocket that launched craft\nlike Friendship 7 and Aurora 7.,,3 isla(s) 91 inline
+93,0x5C1C,redirect,0x5074,37,That was Friendship 7 we saw\ninside.,,
+94,0x5C43,redirect,0x5099,5,Move,,1 isla(s) 91 inline
+95,0x5C48,redirect,0x50A1,6,Leave,,
+96,0x5C51,redirect,0x50A7,56,"Well, we've got no choice but to\ntrust what he told us.",,1 isla(s) 91 inline
+97,0x5C78,redirect,0x50E2,56,Why don't we stop by Hojo's\nhouse and look for that CD?,,2 isla(s) 91 inline
+98,0x5CA9,redirect,0x5120,42,Maybe we should check around\noutside too?,,1 isla(s) 91 inline
+99,0x5CC0,redirect,0x514D,21,"Yeah, wouldn't hurt.",,
+100,0x5CCF,redirect,0x5162,47,Should we check out the Rocket\nGarden as well?,,1 isla(s) 91 inline
+101,0x5CF8,redirect,0x5194,78,I really don't think he'd wanna\nmeet outside.  What about Pioneer\nback there?,,1 isla(s) 91 inline
+102,0x5D2F,redirect,0x51E5,30,Why don't we go double-check.,,1 isla(s) 91 inline
+103,0x5D4A,redirect,0x5206,12,Moon Corner,,
+104,0x5D57,redirect,0x5212,13,Space Corner,,
+105,0x5D64,redirect,0x521F,14,Beyond Corner,,1 isla(s) 91 inline
+106,0x5D79,redirect,0x5230,7,System,,
+107,0x5D82,redirect,0x5237,59,There's definitely something going\non at the Space Corner.,,1 isla(s) 91 inline
+108,0x5DA7,redirect,0x5275,64,Why don't we take a look around\nthe Space Corner a little more?,,1 isla(s) 91 inline
+109,0x5DD0,redirect,0x52B8,47,We should check that headless\nspacesuit again.,,2 isla(s) 91 inline
+110,0x5DF7,redirect,0x52ED,48,I've got a bad feeling.  Something's\nnot right.,,1 isla(s) 91 inline
+111,0x5E14,redirect,0x5320,32,Where is he? Think it's a trap?,,1 isla(s) 91 inline
+112,0x5E33,redirect,0x5343,65,"He's gotta be around here\nsomewhere.  C'mon, let's look for\nhim.",,1 isla(s) 91 inline
+113,0x5E5C,redirect,0x5387,30,Let's look for the informant.,,
+114,0x5E83,redirect,0x53A5,34,We haven't met the informant yet!,,2 isla(s) 91 inline
+115,0x5EA2,redirect,0x53CD,39,"No, we have to look for the\ninformant.",,
+116,0x5EC5,redirect,0x53F4,36,Let's get over to the Space\nCorner.,,
+117,0x5EEA,redirect,0x5418,30,Let's get outta here already!,,1 isla(s) 91 inline
+118,0x5EF9,redirect,0x5439,38,"No, the massquitoes will get out\ntoo!",,1 isla(s) 91 inline
+119,0x5F1A,redirect,0x5462,31,We can't let them get outside!,,1 isla(s) 91 inline
+120,0x5F43,redirect,0x5484,66,Let's get the fire extinguisher and\nuse it to dissolve the coral!,,2 isla(s) 91 inline
+121,0x5F68,redirect,0x54CC,44,Let's look for a way to dissolve the\ncoral!,,1 isla(s) 91 inline
+122,0x5F89,redirect,0x54FB,112,All hell's gonna break loose if they\nget outside.{80238057}We've gotta think of a way to get\nrid of them inside here!,,1 isla(s) 91 inline
+123,0x5FCE,redirect,0x556E,5,Look,,
+124,0x5FD3,redirect,0x5573,191,"That's Project Mercury's\nFriendship 7, which carried the\n\n first American into orbit around\nHome.{80238057}Astronaut Glenn's mission lasted 4\nhours, 55 minutes, taking him\naround Home three times.",,5 isla(s) 91 inline
+125,0x6056,redirect,0x5641,57,It was launched by an Atlas rocket\nlike the one outside.,,
+126,0x6099,redirect,0x567A,53,This is in pretty good shape for\nsomething that old.,,1 isla(s) 91 inline
+127,0x60B8,redirect,0x56B2,97,This is only a replica.{80238057}The real one was charred to a\ncrisp when it reentered the\natmosphere.,,2 isla(s) 91 inline
+128,0x60E9,redirect,0x5719,32,It's a replica of Friendship 7.,,1 isla(s) 91 inline
+129,0x6110,redirect,0x573C,51,How did people ever cope with\nthese tiny capsules?,,2 isla(s) 91 inline
+130,0x613D,redirect,0x5775,1,,,
+131,0x617C,redirect,0x5776,1,,,
+132,0x61C9,redirect,0x5777,1,,,
+133,0x6208,redirect,0x5778,1,,,
+134,0x6231,redirect,0x5779,1,,,
+135,0x6248,redirect,0x577A,1,,,
+136,0x62BB,redirect,0x577B,29,It's a miniature of the Mir.,,1 isla(s) 91 inline
+137,0x62E8,redirect,0x579B,1,,,
+138,0x6323,redirect,0x579C,1,,,
+139,0x632C,redirect,0x579D,1,,,
+140,0x6353,redirect,0x579E,1,,,
+141,0x6372,redirect,0x579F,1,,,
+142,0x6397,redirect,0x57A0,1,,,
+143,0x63C6,redirect,0x57A1,1,,,
+144,0x6401,redirect,0x57A2,1,,,
+145,0x640E,redirect,0x57A3,1,,,
+146,0x642B,redirect,0x57A4,1,,,
+147,0x6440,redirect,0x57A5,1,,,
+148,0x6459,redirect,0x57A6,1,,,
+149,0x6464,redirect,0x57A7,1,,,
+150,0x64A5,redirect,0x57A8,1,,,
+151,0x64CA,redirect,0x57A9,1,,,
+152,0x64F3,redirect,0x57AA,1,,,
+153,0x652C,redirect,0x57AB,1,,,
+154,0x6555,redirect,0x57AC,1,,,
+155,0x659E,redirect,0x57AD,1,,,
+156,0x65D9,redirect,0x57AE,1,,,
+157,0x65F0,redirect,0x57AF,1,,,
+158,0x6609,redirect,0x57B0,1,,,
+159,0x662A,redirect,0x57B1,48,It looks like we'll have to dissolve\nthe coral.,,
+160,0x6651,redirect,0x57E1,47,We've got no choice but to\ndissolve the coral.,,2 isla(s) 91 inline
+161,0x6676,redirect,0x5816,57,Let's go get the fire extinguisher\nfrom the Moon Corner!,,
+162,0x669B,redirect,0x584F,42,Let's look for something with acid\nin it!,,1 isla(s) 91 inline
+163,0x66B4,redirect,0x587C,1,,,
+164,0x66F3,redirect,0x587D,1,,,
+165,0x6786,redirect,0x587E,1,,,
+166,0x67B5,redirect,0x587F,1,,,
+167,0x6802,redirect,0x5880,1,,,
+168,0x6811,redirect,0x5881,1,,,
+169,0x6838,redirect,0x5882,1,,,
+170,0x687D,redirect,0x5883,137,It's a fossilized coral reef.  It's the\nmain attraction in the hall here.{80238057}This is the only place on Beyond\nyou can view a coral reef.,,2 isla(s) 91 inline
+171,0x68F0,redirect,0x5912,77,This spent thousands of years\nalive on Home.  You can't help but\nrespect it.,,2 isla(s) 91 inline
+172,0x693F,inplace,0x693F,6,SANGO,,sin codigo 91: revisar
+173,0x6945,redirect,0x5965,41,I can't see that great in this\nlight....,,1 isla(s) 91 inline
+174,0x6960,redirect,0x5991,109,This is an information board.{80238057}The building is divided into three\nmain areas besides the one we're\nin now.,,2 isla(s) 91 inline
+175,0x69BF,redirect,0x5A04,57,"The Beyond Corner, the Moon\nCorner and the Space Corner?",,1 isla(s) 91 inline
+176,0x6A16,redirect,0x5A40,67,It's AMM's information board.  It\ngives you a map of the building.,,1 isla(s) 91 inline
+177,0x6A47,redirect,0x5A86,59,There's nowhere else left.  We've\nchecked all the corners.,,1 isla(s) 91 inline
+178,0x6A84,redirect,0x5AC4,52,The only area with any Pioneer is\nthe Space Corner.,,
+179,0x6AB3,redirect,0x5AF8,32,Should we go take another look?,,1 isla(s) 91 inline
+180,0x6ACE,redirect,0x5B1B,39,We've already been to all the\ncorners.,,1 isla(s) 91 inline
+181,0x6AFD,redirect,0x5B45,27,Maybe we missed something?,,
+182,0x6B1C,redirect,0x5B60,41,We could go ask for help at\nInformation.,,1 isla(s) 91 inline
+183,0x6B45,redirect,0x5B8C,33,"Let's see, we haven't been to...",,1 isla(s) 91 inline
+184,0x6B66,redirect,0x5BB0,18,The Space Corner.,,
+185,0x6B79,redirect,0x5BC2,19,The Beyond Corner.,,
+186,0x6BA6,redirect,0x5BD5,17,The Moon Corner.,,1 isla(s) 91 inline
+187,0x6BB9,redirect,0x5BE9,42,Let's just pick one and start from\nthere.,,
+188,0x6BE0,redirect,0x5C13,48,It really is hard to see without any\nlights....,,3 isla(s) 91 inline
+189,0x6BFD,redirect,0x5C4C,57,It's a map showing all the areas\nand how to get to them.,,2 isla(s) 91 inline
+190,0x6C32,redirect,0x5C8B,81,What about the second floor?\nThere might be something with\nCO{80}#2 in it up there.,,3 isla(s) 91 inline
+191,0x6C67,redirect,0x5CE5,65,There's nothing on the second\nfloor.  Let's look somewhere\nelse!,,1 isla(s) 91 inline
+192,0x6C86,redirect,0x5D29,40,Is there stuff on the second floor\ntoo?,,2 isla(s) 91 inline
+193,0x6C9D,redirect,0x5D5A,224,"No, they don't have any separate\nexhibits up there.{80238057}It does let you look down on the\ndisplays, though.{80238057}It's also used for security\npurposes and managing the\npieces.{80238057}Hmm.  The whole floor looks\nclosed off right now.",,8 isla(s) 91 inline
+194,0x6D1E,redirect,0x5E52,108,"The second floor has a lounge\narea as well, but it's usually\nshut.{80238057}They only open it for special\nevents.",,4 isla(s) 91 inline
+195,0x6D7F,redirect,0x5ECA,46,"Yeah, it does look like it's being\nrenovated.",,2 isla(s) 91 inline
+196,0x6DB0,redirect,0x5EFE,41,I don't think our guy would be up\nthere.,,1 isla(s) 91 inline
+197,0x6DCF,redirect,0x5F2A,37,It's a guide girl working reception.,,1 isla(s) 91 inline
+198,0x6DEE,redirect,0x5F52,65,We could try asking her about the\nplace the informant mentioned.,,2 isla(s) 91 inline
+199,0x6E23,redirect,0x5F99,5,Talk,,
+200,0x6E2E,redirect,0x5F9E,11,Excuse me?,,
+201,0x6E3D,redirect,0x5FA9,22,Do you have a minute?,,
+202,0x6E50,redirect,0x5FBF,20,How can I help you?,,2 isla(s) 91 inline
+203,0x6E57,redirect,0x5FD9,20,How can I help you?,,
+204,0x6E68,redirect,0x5FED,34,"Oh, you gentlemen are back\nagain?",,
+205,0x6E85,redirect,0x600F,10,Ask about,,
+206,0x6E8A,redirect,0x6019,4,AMM,,
+207,0x6E99,redirect,0x601D,194,"The museum is divided into three\nmain corners: Beyond, Moon and\nSpace.{80238057}Here at AMM you'll find a\nthorough retracing of space\nexploration and development from\n its genesis to the present day.",,3 isla(s) 91 inline
+208,0x6F1E,redirect,0x60E8,63,"The theme of our exhibition is\n""Beyond: Gateway to the Stars"".",,2 isla(s) 91 inline
+209,0x6F69,redirect,0x612D,107,We're run by the Tokugawa\nGroup and receive the full support\nof the International Space\n Promotion Agency.,,2 isla(s) 91 inline
+210,0x6FD2,redirect,0x619E,24,Tokugawa runs this too?,,
+211,0x6FF3,redirect,0x61B6,59,There's very little you can do on\nBeyond without Tokugawa.,,1 isla(s) 91 inline
+212,0x7040,redirect,0x61F4,59,We hope to see you back for our\nspecial anniversary event!,,2 isla(s) 91 inline
+213,0x7081,redirect,0x6235,8,Pioneer,,
+214,0x708C,redirect,0x623D,43,"Where can we find a ""Pioneer""\naround here?",,1 isla(s) 91 inline
+215,0x70B5,redirect,0x626B,83,The only Pioneer we have is\nPioneer 10.  We don't have\nPioneers 1 through 9 or 11.,,1 isla(s) 91 inline
+216,0x7116,redirect,0x62C1,25,And where is Pioneer 10?,,
+217,0x7125,redirect,0x62DA,45,Pioneer 10 can be found at the\nSpace Corner.,,1 isla(s) 91 inline
+218,0x7148,redirect,0x630A,107,"We don't have Pioneer-Venus 1\nor 2 either.{80238057}The only Pioneer we have is\nPioneer 10, at the Space Corner.",,4 isla(s) 91 inline
+219,0x71A7,redirect,0x6381,15,Finishing time,,
+220,0x71B0,redirect,0x6390,25,What time do you finish?,,1 isla(s) 91 inline
+221,0x71CF,redirect,0x63AC,27,The museum closes at 7 PM.,,1 isla(s) 91 inline
+222,0x721A,redirect,0x63CA,43,"No, not that.  I meant when do\nYOU finish?",,
+223,0x7247,redirect,0x63F5,7,Oh....,,
+224,0x7264,redirect,0x63FC,31,When do they let you guys off?,,2 isla(s) 91 inline
+225,0x7275,redirect,0x6421,55,"Why, are you planning to break in\nand steal something?",,3 isla(s) 91 inline
+226,0x72A8,redirect,0x6461,32,"Ha ha, you had that one coming.",,1 isla(s) 91 inline
+227,0x72C1,redirect,0x6484,31,"I'm hurt, Ed.  Genuinely hurt.",,
+228,0x72CE,redirect,0x64A3,78,How about dinner sometime? I'd\nlove to learn more about space\nfrom an expert.,,3 isla(s) 91 inline
+229,0x72DD,redirect,0x64FA,24,"I'm sorry, but I can't.",,
+230,0x7310,redirect,0x6512,46,We're not allowed to socialize with\nvisitors.,,1 isla(s) 91 inline
+231,0x7343,redirect,0x6543,28,It's one of the rules here.,,1 isla(s) 91 inline
+232,0x735C,redirect,0x6562,23,"Same story today, huh?",,
+233,0x736F,redirect,0x6579,25,The man in the spacesuit,,
+234,0x737A,redirect,0x6592,53,A spacesuit? You mean when we\nhave someone dress up?,,1 isla(s) 91 inline
+235,0x7397,redirect,0x65CA,37,There's nothing scheduled for\ntoday.,,2 isla(s) 91 inline
+236,0x73B8,redirect,0x65F5,40,"You were talking about an event,\nright?",,1 isla(s) 91 inline
+237,0x73CD,redirect,0x6620,53,We do hold a Lunar Experience\nevent on certain days.,,2 isla(s) 91 inline
+238,0x7408,redirect,0x665B,9,Costumes,,
+239,0x741D,redirect,0x6664,41,How did you know? We lost one\nyesterday.,,1 isla(s) 91 inline
+240,0x7454,redirect,0x6690,11,I knew it.,,
+241,0x7463,redirect,0x669E,67,We can't say for sure the\ninformant's connected to this place\nnow.,,1 isla(s) 91 inline
+242,0x74A6,redirect,0x66E4,30,Any idea what happened to it?,,1 isla(s) 91 inline
+243,0x74C9,redirect,0x6705,102,It may have been stolen by a\ncollector.{80238057}They're not cheap.  It's not like\nthey're easily replaced.,,
+244,0x7506,redirect,0x676B,17,The second floor,,
+245,0x750B,redirect,0x677C,53,The second floor is currently\nclosed for renovation.,,1 isla(s) 91 inline
+246,0x7538,redirect,0x67B4,46,They're redoing it for our\nanniversary event.,,1 isla(s) 91 inline
+247,0x7563,redirect,0x67E5,78,"I'm sorry, but no one is allowed\nup to the second floor until\nfurther notice.",,3 isla(s) 91 inline
+248,0x7592,redirect,0x683C,5,Show,,
+249,0x759D,redirect,0x6841,11,Hojo photo,,
+250,0x75AC,redirect,0x684C,38,"I'm sorry, I don't know these\npeople.",,
+251,0x75C9,redirect,0x6872,37,I haven't met either of them\nbefore.,,1 isla(s) 91 inline
+252,0x75E2,redirect,0x689A,18,Policenauts photo,,
+253,0x75F5,redirect,0x68AC,60,We have an exhibit on the\nPolicenauts at the Beyond Corner.,,
+254,0x764A,redirect,0x68E8,97,"We don't have that particular\nphotograph, but there are\n\n life-size figures of all five\nmembers.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+255,0x7683,redirect,0x6958,29,Life-size figures? Hot damn.,,1 isla(s) 91 inline
+256,0x76A0,redirect,0x6978,55,"Wanna take a look? You'll get a\ngood laugh, I promise.",,
+257,0x76BD,redirect,0x69AF,8,ID card,,
+258,0x76C8,redirect,0x69B7,43,"I'm sorry, why are you showing\nthis to me?",,1 isla(s) 91 inline
+259,0x76E7,redirect,0x69E5,28,Are you Tokugawa employees?,,
+260,0x76FC,redirect,0x6A01,5,Back,,
+261,0x7705,redirect,0x6A06,34,I guess that would have to be it.,,1 isla(s) 91 inline
+262,0x7728,redirect,0x6A2B,57,We've already been to the Space\nCorner.  Did we miss it?,,1 isla(s) 91 inline
+263,0x775F,redirect,0x6A67,22,Let's go take a look.,,
+264,0x7780,redirect,0x6A7D,64,"Say, what's happening on the\nsecond floor? It looks closed off.",,2 isla(s) 91 inline
+265,0x77B9,redirect,0x6AC3,73,"Why don't we ask her too.{80238057}We can't go up to the second\nfloor, can we?",,2 isla(s) 91 inline
+266,0x77F2,redirect,0x6B12,62,Have you by any chance had any\nLunar suits go missing lately?,,2 isla(s) 91 inline
+267,0x7833,redirect,0x6B56,62,Let's ask her as well.{80238057}Any Lunar suits disappeared\nlately?,,2 isla(s) 91 inline
+268,0x7864,redirect,0x6B9A,23,We heard you lost one.,,1 isla(s) 91 inline
+269,0x7883,redirect,0x6BB4,37,If this place is run by Tokugawa....,,1 isla(s) 91 inline
+270,0x78BA,redirect,0x6BDC,66,Anyone from there could get their\nhands on one of those costumes.,,2 isla(s) 91 inline
+271,0x7909,redirect,0x6C24,9,Exactly.,,
+272,0x791A,redirect,0x6C2D,1,,,
+273,0x7945,redirect,0x6C2E,1,,,
+274,0x7966,redirect,0x6C2F,1,,,
+275,0x7987,redirect,0x6C30,76,That's an AMM guide.  A lot of\nthem are just school kids working\npart-time.,,2 isla(s) 91 inline
+276,0x79C8,redirect,0x6C82,39,So this is what Anna was doing\nbefore?,,2 isla(s) 91 inline
+277,0x79F3,redirect,0x6CAF,81,I'm always worried about her.  I\nguess being a guide at a\nmuseum's not that bad.,,
+278,0x7A3C,redirect,0x6D00,20,She's an AMM guide.,,
+279,0x7A55,redirect,0x6D14,11,Excuse me?,,1 isla(s) 91 inline
+280,0x7A68,redirect,0x6D22,29,May we talk to you a second?,,
+281,0x7A75,redirect,0x6D3F,31,"How can I help you, gentlemen?",,
+282,0x7A84,redirect,0x6D5E,63,You're here again today? You\nmust be very interested in space.,,1 isla(s) 91 inline
+283,0x7AA1,redirect,0x6DA0,109,AMM gives you an up-close view\nof the history of mankind's\ncolonization of outer space and all\n its rewards.,,3 isla(s) 91 inline
+284,0x7AEA,redirect,0x6E16,42,"We have over 8,000 items on\ndisplay here.",,3 isla(s) 91 inline
+285,0x7B57,redirect,0x6E49,94,Some of the larger exhibits had to\nbe temporarily disassembled in\norder to be brought inside.,,6 isla(s) 91 inline
+286,0x7BA6,redirect,0x6EB9,90,We will be holding an event next\nmonth as part of Beyond's 30th\nanniversary celebrations.,,
+287,0x7BFD,redirect,0x6F13,29,"Where can we find ""Pioneer""?",,1 isla(s) 91 inline
+288,0x7C16,redirect,0x6F33,46,Pioneer 10 is on display at the\nSpace Corner.,,
+289,0x7C51,redirect,0x6F61,30,"So, what time do you get off?",,1 isla(s) 91 inline
+290,0x7C70,redirect,0x6F82,53,"I'm sorry, but we're not permitted\nto date visitors.",,
+291,0x7CBD,redirect,0x6FB7,52,I like that rule.  Good to see they\nenforce it too.,,1 isla(s) 91 inline
+292,0x7CEE,redirect,0x6FEE,72,I probably didn't need to worry\nabout Anna when she was here\nafter all.,,1 isla(s) 91 inline
+293,0x7D11,redirect,0x7039,18,"So that's a ""no""?",,1 isla(s) 91 inline
+294,0x7D18,redirect,0x704E,62,Please don't take it personally.  It's\none of the rules here.,,2 isla(s) 91 inline
+295,0x7D53,redirect,0x7092,28,My answer's still the same.,,
+296,0x7D74,redirect,0x70AE,41,Have you seen a man in a\nspacesuit here?,,1 isla(s) 91 inline
+297,0x7D97,redirect,0x70DA,88,You mean for an event? We're\nnot holding any today.  We only\nhave those on select days.,,2 isla(s) 91 inline
+298,0x7DF8,redirect,0x7138,69,"I'm sorry, but you'll have to come\nback when we're holding an\nevent.",,1 isla(s) 91 inline
+299,0x7E27,redirect,0x7180,34,I don't know anything about that.,,
+300,0x7E50,redirect,0x71A2,51,That would be a matter for the\ncostume department.,,3 isla(s) 91 inline
+301,0x7E7B,redirect,0x71DE,56,The second floor? It's currently\nclosed for renovation.,,
+302,0x7EBE,redirect,0x7216,60,It's being repainted and\nredecorated for an upcoming\nevent.,,2 isla(s) 91 inline
+303,0x7EEB,redirect,0x7258,51,I think we'll make it in time for the\nanniversary.,,2 isla(s) 91 inline
+304,0x7F1C,redirect,0x7291,70,The second floor is open only to\nthe construction crew at the\nmoment.,,4 isla(s) 91 inline
+305,0x7F51,redirect,0x72E3,47,I don't believe I've seen either of\nthem here.,,1 isla(s) 91 inline
+306,0x7F76,redirect,0x7315,45,They aren't featured in any of our\nexhibits.,,
+307,0x7FA1,redirect,0x7342,61,"The Policenauts? We have an\nexhibit on them here, of course.",,4 isla(s) 91 inline
+308,0x7FDE,redirect,0x738B,61,"I'm sorry, but... are you by any\nchance... Astronaut Ingram?",,3 isla(s) 91 inline
+309,0x801D,redirect,0x73D1,25,It just so happens I am!,,
+310,0x8026,redirect,0x73EA,87,"No, on second thought I guess\nthat couldn't be possible.{80238057}I'm sorry I brought it up.",,2 isla(s) 91 inline
+311,0x8057,redirect,0x7447,50,No tickets are required to move\nabout the museum.,,2 isla(s) 91 inline
+312,0x8076,redirect,0x747F,38,You don't need any sort of card\nhere.,,
+313,0x8097,redirect,0x74A5,45,Time for round two.  If you'll\nexcuse me....,,2 isla(s) 91 inline
+314,0x80C8,redirect,0x74D8,72,"You just never, ever let go, do\nyou? The pitbull of the romantic\nworld.",,2 isla(s) 91 inline
+315,0x80ED,redirect,0x7526,50,You forgotten what happened at\nthe party already?,,1 isla(s) 91 inline
+316,0x8118,redirect,0x755B,71,Ever hear of something called\ncompatibility? I'll find her\neventually.,,3 isla(s) 91 inline
+317,0x815D,redirect,0x75AB,49,"With that attitude you probably\nwill, I suppose.",,2 isla(s) 91 inline
+318,0x816A,redirect,0x75E5,20,Sounds interesting.,,1 isla(s) 91 inline
+319,0x8189,redirect,0x75FC,106,"That's right, they were talking\nabout the colony's deterioration on\nthe news.{80238057}What exactly's going on?",,1 isla(s) 91 inline
+320,0x81D2,redirect,0x7669,163,"Tokugawa are the ones who stand\nto make all the money out of fixing\nthe colony.{80238057}They also effectively control the\nISPA, who decides who gets to\nbuild colonies.",,7 isla(s) 91 inline
+321,0x8243,redirect,0x7721,54,Making the anniversary a golden\nopportunity for them.,,1 isla(s) 91 inline
+322,0x8282,redirect,0x775A,58,"It probably is an event costume he\nwas wearing, isn't it?",,2 isla(s) 91 inline
+323,0x82AD,redirect,0x779A,39,Wanna ask them if they're missing\nany?,,1 isla(s) 91 inline
+324,0x82D2,redirect,0x77C4,56,"We need to stay focused on the\ninvestigation, Jonathan.",,1 isla(s) 91 inline
+325,0x82FB,redirect,0x77FF,67,"Please, just ignore him, ma'am. \nHe's a very disturbed individual.",,1 isla(s) 91 inline
+326,0x8332,redirect,0x7845,44,"We ain't got time to play around,\nJonathan!",,1 isla(s) 91 inline
+327,0x8359,redirect,0x7874,45,You're trying to hit on a guide at a\nmuseum?,,1 isla(s) 91 inline
+328,0x8378,redirect,0x78A4,39,She's gonna get mad if you keep it\nup.,,1 isla(s) 91 inline
+329,0x83A3,redirect,0x78CE,48,"C'mon, man, what do you think we\ncame here for?",,
+330,0x83CE,redirect,0x78FE,84,"I'll need to keep a closer eye on\nAnna in the future, with guys like\nyou out there.",,3 isla(s) 91 inline
+331,0x8419,redirect,0x795B,59,"Nothing wrong with looking, just\nkeep a lid on that mouth.",,2 isla(s) 91 inline
+332,0x8442,redirect,0x799C,41,Remember the whole point of\ncoming here.,,
+333,0x8483,redirect,0x79C5,60,That boy's here again today.  He\nmust really be into space.,,2 isla(s) 91 inline
+334,0x84B4,redirect,0x7A07,39,That boy must be in elementary\nschool.,,
+335,0x84CD,redirect,0x7A2E,62,I was just like him when I was his\nage {D0}{06} in love with space.,,3 isla(s) 91 inline
+336,0x84F4,redirect,0x7A78,55,It's a small boy.  He looks like he's\nhere by himself.,,2 isla(s) 91 inline
+337,0x851B,redirect,0x7AB5,58,There's no way he could be the\ninformant.{80238057}...Could he?,,1 isla(s) 91 inline
+338,0x8548,redirect,0x7AF2,5,Talk,,
+339,0x854D,redirect,0x7AF7,117,"When I grow up, I'm gonna blow\nthis joint and become an\nAmphibian.{80238057}I'll get to travel to Home and all\nover space!",,1 isla(s) 91 inline
+340,0x85BA,redirect,0x7B6F,62,That's interesting.  Kids from\nBeyond are the opposite of us.,,1 isla(s) 91 inline
+341,0x8601,redirect,0x7BB0,67,"Kids from Home wanna go to\nspace, kids from Beyond wanna\nsee Home.",,
+342,0x8690,redirect,0x7BF3,40,I love museums.  I come here\nevery day.,,2 isla(s) 91 inline
+343,0x86C1,redirect,0x7C21,35,Wanna explore the museum\ntogether?,,
+344,0x86DA,redirect,0x7C44,22,"Some other time, kid.",,1 isla(s) 91 inline
+345,0x86F1,redirect,0x7C5D,17,Maybe next time.,,
+346,0x8704,redirect,0x7C6E,31,We're a little busy right now.,,1 isla(s) 91 inline
+347,0x8719,redirect,0x7C90,40,"Sorry, but we've got things to do\nhere.",,
+348,0x8742,redirect,0x7CB8,33,That old man's here again today.,,1 isla(s) 91 inline
+349,0x8763,redirect,0x7CDC,32,That family's here again today.,,1 isla(s) 91 inline
+350,0x8782,redirect,0x7CFF,33,Those kids are here again today.,,2 isla(s) 91 inline
+351,0x879D,redirect,0x7D26,29,That boy's here again today.,,
+352,0x87B6,redirect,0x7D43,35,He's still reading that plate too.,,1 isla(s) 91 inline
+353,0x87E1,redirect,0x7D69,32,That couple's here again today.,,1 isla(s) 91 inline
+354,0x8800,redirect,0x7D8C,40,They're still looking at the floor\nmap.,,1 isla(s) 91 inline
+355,0x8821,redirect,0x7DB7,38,Those two girls are here again\ntoday.,,
+356,0x8840,redirect,0x7DDD,33,They must really like the coral.,,1 isla(s) 91 inline
+357,0x885F,redirect,0x7E01,48,He's an old man.  He must be at\nleast 80 or so.,,1 isla(s) 91 inline
+358,0x887A,redirect,0x7E34,96,He looks really interested in\neverything.{80238057}Maybe being here's brought back\nsome old memories?,,2 isla(s) 91 inline
+359,0x88A9,redirect,0x7E9A,45,This is an emotional place for\nTerrestrials.,,1 isla(s) 91 inline
+360,0x88E2,redirect,0x7ECA,17,It's an old man.,,
+361,0x88F1,redirect,0x7EDB,36,He doesn't seem like the\ninformant.,,1 isla(s) 91 inline
+362,0x8916,redirect,0x7F02,98,I enjoy coming here.  It find it\nsoothing.{80238057}The Mir....  It was just us out\nhere in those days.,,2 isla(s) 91 inline
+363,0x8979,redirect,0x7F6A,23,Were you an astronaut?,,1 isla(s) 91 inline
+364,0x89D0,redirect,0x7F84,89,"They stopped using ""astronaut""\nin official lingo not long after the\nturn of the century.",,2 isla(s) 91 inline
+365,0x8A09,redirect,0x7FE3,58,I was a mission controller.  See\nthat model? That was me.,,
+366,0x8A3A,redirect,0x8020,35,"You mean the Mir? Yeah, we saw\nit.",,1 isla(s) 91 inline
+367,0x8A61,redirect,0x8046,19,I miss those days.,,1 isla(s) 91 inline
+368,0x8A74,redirect,0x805C,52,"This really... this really takes me\nback, you know?",,1 isla(s) 91 inline
+369,0x8A85,redirect,0x8093,20,Let's leave him be.,,1 isla(s) 91 inline
+370,0x8AA0,redirect,0x80AA,79,"It's a father and his son, I guess. \nThey're studying the coral reef\ntogether.",,2 isla(s) 91 inline
+371,0x8AC7,redirect,0x80FF,35,They look like they're having fun.,,1 isla(s) 91 inline
+372,0x8AD4,redirect,0x8125,33,It's a young father and his son.,,
+373,0x8AEB,redirect,0x8146,53,I don't think either of them would\nbe the informant.,,2 isla(s) 91 inline
+374,0x8B0C,redirect,0x8181,54,It's a young girl.  Looks like she's\nhere on her own.,,1 isla(s) 91 inline
+375,0x8B37,redirect,0x81BA,54,She's looking for something on\nthe information board.,,1 isla(s) 91 inline
+376,0x8B52,redirect,0x81F3,51,It's a girl.  She's reading the\ninformation board.,,
+377,0x8B77,redirect,0x8226,31,She couldn't be the informant.,,1 isla(s) 91 inline
+378,0x8B9A,redirect,0x8248,59,It's a young boy and a girl. \nThey're enjoying themselves.,,1 isla(s) 91 inline
+379,0x8BBB,redirect,0x8286,28,Are they lost or something?,,
+380,0x8BCE,redirect,0x82A2,22,It's two little kids.,,1 isla(s) 91 inline
+381,0x8BDF,redirect,0x82BB,40,Neither of them could be the\ninformant.,,1 isla(s) 91 inline
+382,0x8C04,redirect,0x82E6,56,It's a young couple.  They're\nlooking at the floor map.,,1 isla(s) 91 inline
+383,0x8C31,redirect,0x8321,43,This must be a nice place to bring\na date.,,1 isla(s) 91 inline
+384,0x8C5A,redirect,0x834F,30,What's that supposed to mean?,,1 isla(s) 91 inline
+385,0x8C69,redirect,0x8370,15,Oh... nothing.,,1 isla(s) 91 inline
+386,0x8C7E,redirect,0x8382,56,It's a couple.  They're reading the\nfloor map together.,,1 isla(s) 91 inline
+387,0x8CA9,redirect,0x83BD,56,It's two young girls.  They look\nlike college students.,,1 isla(s) 91 inline
+388,0x8CCA,redirect,0x83F8,24,Maybe they're tourists?,,
+389,0x8CDD,redirect,0x8410,48,"No, look at them.  They seem to\nlike the coral.",,2 isla(s) 91 inline
+390,0x8D08,redirect,0x8446,27,"They must be Beyonds, huh?",,
+391,0x8D29,redirect,0x8461,62,It's two young girls.  They're\nlooking at the coral together.,,1 isla(s) 91 inline
+392,0x8D54,redirect,0x84A2,53,I don't think either of them could\nbe the informant.,,2 isla(s) 91 inline
+393,0x8D79,redirect,0x84DD,74,He looks like a college student. \nHe's studying the Friendship 7\nreplica.,,2 isla(s) 91 inline
+394,0x8DB0,redirect,0x852D,68,He looks like a college student. \nHe's studying that capsule there.,,2 isla(s) 91 inline
+395,0x8DE5,redirect,0x8577,68,It's a college student.  He seems\nto have a thing for Friendship 7.,,1 isla(s) 91 inline
+396,0x8E12,redirect,0x85BE,38,Doesn't look like he's the\ninformant.,,
+397,0x8E31,redirect,0x85E4,81,That boy looks like he'd be in\nmiddle school or so.  He's looking\nat that plate.,,1 isla(s) 91 inline
+398,0x8E5E,redirect,0x8638,67,He looks like a middle school\nstudent.  He's looking at the plate.,,
+399,0x8E83,redirect,0x867B,30,He couldn't be the informant.,,1 isla(s) 91 inline
+400,0x8EA6,redirect,0x869C,70,That guy there keeps looking\naround.  Maybe he's waiting for\nsomeone?,,2 isla(s) 91 inline
+401,0x8EDD,redirect,0x86E8,68,"His girlfriend, maybe? I bet a\nnumber of people come on dates\nhere.",,3 isla(s) 91 inline
+402,0x8F1C,redirect,0x8735,59,It's a young guy.  He looks like\nhe's waiting for someone.,,2 isla(s) 91 inline
+403,0x8F41,redirect,0x8776,28,I doubt he's the informant.,,1 isla(s) 91 inline
+404,0x8F66,redirect,0x8795,80,It's a kid.  Looks like he's asking\nsomething at Information.  Maybe\nhe's lost?,,3 isla(s) 91 inline
+405,0x8FB5,redirect,0x87EE,78,"Yeah, I think he's lost.  Poor guy. \nYou're supposed to have fun at a\nmuseum.",,3 isla(s) 91 inline
+406,0x8FF6,redirect,0x8845,41,I can't picture him being the\ninformant.,,1 isla(s) 91 inline
+407,0x901B,redirect,0x8871,1,,,
+408,0x9044,redirect,0x8872,1,,,
+409,0x905D,redirect,0x8873,20,We're at the lobby.,,1 isla(s) 91 inline
+410,0x9068,redirect,0x888A,25,We're at the Coral Hall.,,
+411,0x9077,redirect,0x88A3,19,Where is that guy?,,1 isla(s) 91 inline
+412,0x9096,redirect,0x88B9,1,,,
+413,0x90B7,redirect,0x88BA,1,,,
+414,0x90D4,redirect,0x88BB,1,,,
+415,0x90FD,redirect,0x88BC,1,,,
+416,0x9124,redirect,0x88BD,1,,,
+417,0x914B,redirect,0x88BE,1,,,
+418,0x917C,redirect,0x88BF,1,,,
+419,0x9195,redirect,0x88C0,1,,,
+420,0x91E4,redirect,0x88C1,1,,,
+421,0x9229,redirect,0x88C2,1,,,
+422,0x9262,redirect,0x88C3,1,,,
+423,0x92B9,redirect,0x88C4,1,,,
+424,0x9310,redirect,0x88C5,1,,,
+425,0x933D,redirect,0x88C6,1,,,
+426,0x9358,redirect,0x88C7,1,,,
+427,0x9391,redirect,0x88C8,1,,,
+428,0x93B6,redirect,0x88C9,36,Let's go get the fire extinguisher!,,1 isla(s) 91 inline
+429,0x93CF,redirect,0x88F0,52,"Alright, let's look for something\nwith CO{80}#2 in it!",,2 isla(s) 91 inline
+430,0x93F8,redirect,0x892A,56,There's gotta be something\naround here with acid in it!,,
+431,0x941D,redirect,0x8962,60,"Let's look for some acid, and use it\nto dissolve the coral!",,1 isla(s) 91 inline
+432,0x944A,redirect,0x89A1,54,"We have to find something with\nCO{80}#2 in it, Jonathan!",,1 isla(s) 91 inline
+433,0x9485,redirect,0x89DA,96,We can't just leave here like\nthis!{80238057}There's gotta be something\naround here with CO{80}#2 in it.,,2 isla(s) 91 inline
+434,0x94D4,inplace,0x94D4,9,yure.pak,,sin codigo 91: revisar
+435,0x94DD,redirect,0x8A40,1,,,
+436,0x9504,redirect,0x8A41,1,,,
+437,0x951D,redirect,0x8A42,1,,,
+438,0x954C,redirect,0x8A43,1,,,
+439,0x9589,redirect,0x8A44,1,,,
+440,0x95B2,redirect,0x8A45,48,Let's just hurry and get the fire\nextinguisher!,,2 isla(s) 91 inline
+441,0x95DB,redirect,0x8A7B,72,We have to go get the fire\nextinguisher.  Forget about\neverything else!,,3 isla(s) 91 inline
+442,0x9602,redirect,0x8ACC,57,We won't find any there.  Let's\nlook for something else!,,2 isla(s) 91 inline
+443,0x962D,redirect,0x8B0B,40,"C'mon, there won't be any inside\nthere.",,1 isla(s) 91 inline
+444,0x9650,redirect,0x8B36,70,Forget about that for now.  We\nhave to get away from the\nmassquitoes!,,3 isla(s) 91 inline
+445,0x9687,redirect,0x8B85,29,"Forget about that, Jonathan!",,1 isla(s) 91 inline
+446,0x96A2,redirect,0x8BA5,86,What are you wasting time for?\nWe should be worrying about\ngetting out of here alive.,,3 isla(s) 91 inline
+447,0x96D5,redirect,0x8C07,41,Let's just hurry up and get out of\nhere!,,
+448,0x96FA,redirect,0x8C30,71,"What do you wanna do, just let\n'em kill us?! We've gotta do\nsomething!",,4 isla(s) 91 inline
+449,0x9735,redirect,0x8C83,58,Our priority right now is getting\nthat fire extinguisher!,,1 isla(s) 91 inline
+450,0x9766,redirect,0x8CC0,53,That can wait.  Let's go get that\nfire extinguisher!,,2 isla(s) 91 inline
+451,0x9797,redirect,0x8CFB,35,What about this? Any acid in\nthis?,,1 isla(s) 91 inline
+452,0x97BA,redirect,0x8D21,36,What about this? Any CO{80}#2 in\nthis?,,1 isla(s) 91 inline
+453,0x97E3,redirect,0x8D48,41,"Well, so much for the fire\nextinguisher.",,1 isla(s) 91 inline
+454,0x9808,redirect,0x8D74,16,How about this?,,1 isla(s) 91 inline
+455,0x9819,redirect,0x8D87,17,What about this?,,
+456,0x982A,redirect,0x8D98,36,You think there's any acid in\nthis?,,1 isla(s) 91 inline
+457,0x9845,redirect,0x8DBF,37,You think there's any CO{80}#2 in\nthis?,,
+458,0x9866,redirect,0x8DE4,39,That won't be any help.  Keep\nlooking!,,1 isla(s) 91 inline
+459,0x9887,redirect,0x8E0E,28,There won't be any in that.,,1 isla(s) 91 inline
+460,0x989E,redirect,0x8E2D,66,There won't be any in that either. \nThere must be some somewhere!,,2 isla(s) 91 inline
+461,0x98C9,redirect,0x8E75,32,The massquitoes are here!\nMove!,,1 isla(s) 91 inline
+462,0x98E8,redirect,0x8E98,22,It's the massquitoes!,,1 isla(s) 91 inline
+463,0x9905,redirect,0x8EB1,1,,,
+464,0x9944,redirect,0x8EB2,1,,,
+465,0x9969,redirect,0x8EB3,25,This is the Moon Corner.,,
+466,0x9980,redirect,0x8ECC,26,We're at the Moon Corner.,,1 isla(s) 91 inline
+467,0x9997,redirect,0x8EE9,1,,,
+468,0x99D0,redirect,0x8EEA,1,,,
+469,0x99EF,redirect,0x8EEB,48,This is the Moon Corner.  What do\nyou wanna do?,,
+470,0x9A0C,redirect,0x8F1B,26,We're at the Moon Corner.,,1 isla(s) 91 inline
+471,0x9A21,redirect,0x8F38,22,It's the Moon Corner.,,1 isla(s) 91 inline
+472,0x9A32,redirect,0x8F51,48,What do you wanna do? We're at\nthe Moon Corner.,,1 isla(s) 91 inline
+473,0x9A5B,redirect,0x8F84,40,Let's go pick up the fire\nextinguisher.,,
+474,0x9A76,redirect,0x8FAC,66,"There it is, Jonathan {D0}{06} the fire\nextinguisher.  Let's go get it.",,1 isla(s) 91 inline
+475,0x9A9D,redirect,0x8FF1,46,Maybe there's something here\nwith acid in it?,,2 isla(s) 91 inline
+476,0x9AC8,redirect,0x9025,47,Maybe there's something here\nwith CO{80}#2 in it?,,1 isla(s) 91 inline
+477,0x9AF9,redirect,0x9057,5,Move,,
+478,0x9AFE,redirect,0x905C,11,Coral Hall,,2 isla(s) 91 inline
+479,0x9B09,redirect,0x906D,13,Space Corner,,1 isla(s) 91 inline
+480,0x9B16,redirect,0x907D,14,Beyond Corner,,
+481,0x9B2B,redirect,0x908B,7,System,,
+482,0x9B34,redirect,0x9092,35,Let's go back to the Space Corner.,,2 isla(s) 91 inline
+483,0x9B51,redirect,0x90BB,5,Look,,
+484,0x9B56,redirect,0x90C0,1,,,
+485,0x9B77,redirect,0x90C1,1,,,
+486,0x9B9E,redirect,0x90C2,37,We can get BCP to examine him\nlater.,,1 isla(s) 91 inline
+487,0x9BC1,redirect,0x90EA,69,We can deal with the body later. \nIt's not like he's going anywhere.,,2 isla(s) 91 inline
+488,0x9C06,redirect,0x9135,16,Anyone in here?,,
+489,0x9C17,redirect,0x9145,55,This one's definitely a dummy. \nThere's nobody inside.,,2 isla(s) 91 inline
+490,0x9C44,redirect,0x9182,64,Maybe we could put these on to\nprotect us from the massquitoes?,,1 isla(s) 91 inline
+491,0x9C63,redirect,0x91C5,71,These are only displays.  They've\ngot no ventilation.  We'd suffocate.,,1 isla(s) 91 inline
+492,0x9CB0,redirect,0x920F,9,No dice.,,
+493,0x9CC5,redirect,0x9218,42,That's a life-support device on its\nback.,,1 isla(s) 91 inline
+494,0x9CEA,redirect,0x9245,40,You'd be like a hunchback with\nthis on.,,1 isla(s) 91 inline
+495,0x9D03,redirect,0x9270,34,Probably couldn't even bend over.,,
+496,0x9D22,redirect,0x9292,105,"It contains things like\ncommunications equipment, a\ndistance measuring device and its\n own power supply.",,1 isla(s) 91 inline
+497,0x9D7B,redirect,0x92FE,69,It's the life-support device for the\nLunar suits used during Apollo.,,2 isla(s) 91 inline
+498,0x9DAA,redirect,0x9349,19,Could this be him?,,1 isla(s) 91 inline
+499,0x9DC9,redirect,0x935F,24,"No, it's only a figure.",,
+500,0x9DF0,redirect,0x9377,46,There's nobody's inside.  It's just a\nfigure.,,1 isla(s) 91 inline
+501,0x9E13,redirect,0x93A8,70,Look at the stuff they had to wear\nback then.  Must've weighed a\nton.,,2 isla(s) 91 inline
+502,0x9E4E,redirect,0x93F4,48,Today's hard suits look much\neasier to move in.,,2 isla(s) 91 inline
+503,0x9E7F,redirect,0x942A,70,It's amazing how just one\nspacesuit can take you so far back\nin time.,,1 isla(s) 91 inline
+504,0x9EAC,redirect,0x9473,44,You could call this the Yuri of\nspacesuits.,,1 isla(s) 91 inline
+505,0x9EF1,redirect,0x94A2,60,"They look like they've got\nsomeone inside them, don't they?",,cadena 92: 2 fragmentos unidos
+506,0x9F16,redirect,0x94ED,36,You wouldn't know even if they\ndid.,,1 isla(s) 91 inline
+507,0x9F37,redirect,0x9514,59,"It doesn't look like the informant's\ninside here, does it?",,2 isla(s) 91 inline
+508,0x9F5E,redirect,0x9555,24,"No, it's just a figure.",,
+509,0x9F77,redirect,0x956D,58,That's the Lunar EVA suit used\nduring the Apollo program.,,1 isla(s) 91 inline
+510,0x9FA8,redirect,0x95AA,49,That's another second-generation\nLunar EVA suit.,,2 isla(s) 91 inline
+511,0x9FDB,redirect,0x95E1,74,"I bet pretty soon they'll have these\nturned into animatronic robots,\nhuh?",,2 isla(s) 91 inline
+512,0xA006,redirect,0x9631,66,Yeah.  You could call them more\nof an attraction than an exhibit.,,1 isla(s) 91 inline
+513,0xA033,redirect,0x9676,52,This is the type of suit the\ninformant was wearing.,,2 isla(s) 91 inline
+514,0xA05E,redirect,0x96B0,58,"This is another Apollo EVA suit,\nsame as the informant's.",,1 isla(s) 91 inline
+515,0xA097,redirect,0x96ED,31,How about we hide inside here?,,1 isla(s) 91 inline
+516,0xA0AA,redirect,0x970F,44,"What, and just wait for someone\nto show up?",,1 isla(s) 91 inline
+517,0xA0E5,redirect,0x973E,19,"Yeah, I guess not.",,
+518,0xA0FC,redirect,0x9751,58,"This is a replica of Apollo 11's\nLunar Module, the Eagle.",,1 isla(s) 91 inline
+519,0xA12B,redirect,0x978E,17,"July 20th, 1969.",,1 isla(s) 91 inline
+520,0xA144,redirect,0x97A2,32,Who could ever forget that day.,,1 isla(s) 91 inline
+521,0xA171,redirect,0x97C5,98,"The Ascent Module was recovered\nand brought back Home, but the\nDescent Module is still out there.",,4 isla(s) 91 inline
+522,0xA1B8,redirect,0x9833,31,It's Apollo 11's Lunar Module.,,1 isla(s) 91 inline
+523,0xA1E1,redirect,0x9855,67,That Saturn rocket outside was\nused to launch the Apollo\nmissions.,,2 isla(s) 91 inline
+524,0xA218,redirect,0x98A1,85,The Saturn rocket outside is the\nsame as the ones that launched\nthe Apollo missions.,,2 isla(s) 91 inline
+525,0xA257,redirect,0x98FC,60,"They can still follow us even if we\nclimb up there, genius!",,1 isla(s) 91 inline
+526,0xA280,redirect,0x993B,34,"Hey, I'm just throwing out ideas!",,1 isla(s) 91 inline
+527,0xA293,redirect,0x9960,152,This is the Lunar Module's\nladder.{80238057}Astronaut Armstrong's famous\nwords were broadcast as he\nstepped down from the ninth rung\n onto the Lunar surface.,,5 isla(s) 91 inline
+528,0xA306,redirect,0x9A07,92,"Who knows, if that bottom rung\nhad been a little higher, his words\nmight've been different.",,4 isla(s) 91 inline
+529,0xA34D,redirect,0x9A6F,25,It's the Eagle's ladder.,,1 isla(s) 91 inline
+530,0xA362,redirect,0x9A8B,31,What's this aluminum foil for?,,1 isla(s) 91 inline
+531,0xA373,redirect,0x9AAD,44,It was to provide protection from\nthe heat.,,1 isla(s) 91 inline
+532,0xA38C,redirect,0x9ADC,40,It's aluminum foil used for\ninsulation.,,3 isla(s) 91 inline
+533,0xA3A5,redirect,0x9B0D,99,"That's Surveyor, the Lunar probe\nthat was used to scout for landing\nsites for the Apollo missions.",,6 isla(s) 91 inline
+534,0xA3DA,redirect,0x9B82,68,Surveyor 1 got there several\nyears before the first humans\narrived.,,2 isla(s) 91 inline
+535,0xA417,redirect,0x9BCC,87,"The Surveyor Program ended\nwith Surveyor 7, 18 months\nbefore the first manned mission.",,2 isla(s) 91 inline
+536,0xA460,redirect,0x9C29,30,It's a replica of Surveyor 1.,,1 isla(s) 91 inline
+537,0xA493,redirect,0x9C4A,78,This is the so-called Genesis Rock\nthat Apollo 11 brought back from\nthe Moon.,,1 isla(s) 91 inline
+538,0xA4B0,redirect,0x9C9B,56,"It's not as special now as it was\nback then, of course.",,2 isla(s) 91 inline
+539,0xA4F5,redirect,0x9CD9,24,Is this the real thing?,,1 isla(s) 91 inline
+540,0xA504,redirect,0x9CF4,106,"Yeah.  Moon rocks are a dime a\ndozen now, but I suppose you\ncould call this a ""first-edition""\n Moon rock.",,2 isla(s) 91 inline
+541,0xA559,redirect,0x9D64,108,I saw them selling them at the\nspaceport in OLA.{80238057}That just sucks all that was special\nright out of them.,,3 isla(s) 91 inline
+542,0xA59E,redirect,0x9DD9,106,"Lunar regolith was once heavily\nsought after for experiments,\n\n since there was so little available\nthen.",,2 isla(s) 91 inline
+543,0xA607,redirect,0x9E49,40,That all changed with the 21st\ncentury.,,1 isla(s) 91 inline
+544,0xA61C,redirect,0x9E74,97,People would even go to the\ntrouble of making their own\n\n regolith.  That's how valuable it\nwas.,,2 isla(s) 91 inline
+545,0xA663,redirect,0x9EDB,55,This is the first Moon rock ever\nbrought back to Home.,,1 isla(s) 91 inline
+546,0xA69C,redirect,0x9F15,125,"It feels like all the magic behind\nit's been lost.{80238057}I mean, they're selling Moon rocks\nat gift shops like cheap souvenirs.",,4 isla(s) 91 inline
+547,0xA6E3,redirect,0x9F9E,42,We could try escaping in the\nLunar rover!,,1 isla(s) 91 inline
+548,0xA700,redirect,0x9FCB,57,What the hell are you thinking?\nThis won't work anymore!,,2 isla(s) 91 inline
+549,0xA72D,redirect,0xA00A,32,"So what do you suggest, genius?",,
+550,0xA744,redirect,0xA02A,166,"That's the Lunar Roving Vehicle\nthat was taken aboard Apollos 15,\n16 and 17.{80238057}It was electric-powered, with a\ntop speed of 14 kilometers an\nhour on a flat surface.",,4 isla(s) 91 inline
+551,0xA7BD,redirect,0xA0DC,43,Kinda like an EMPS for the guys\nback then.,,2 isla(s) 91 inline
+552,0xA7FA,redirect,0xA10D,38,It's an electric-powered Lunar\nRover.,,1 isla(s) 91 inline
+553,0xA80F,redirect,0xA136,37,It's hard to see since it's so dark.,,1 isla(s) 91 inline
+554,0xA82E,redirect,0xA15E,125,"That's part of the Apollo Lunar\nSurface Experiments Package that\nwas deployed on the Moon by\n Apollos 12, 14, 15, 16 and 17.",,2 isla(s) 91 inline
+555,0xA8A9,redirect,0xA1E4,88,"This is an ALSEP device sensitive\nto Lunar surface movement.  A\nseismometer, basically.",,1 isla(s) 91 inline
+556,0xA8EC,redirect,0xA23F,77,I heard there are stores that fix\nup this kind of old equipment and\nsell it.,,2 isla(s) 91 inline
+557,0xA943,redirect,0xA292,46,It's a Lunar seismometer from the\nApollo Era.,,1 isla(s) 91 inline
+558,0xA968,redirect,0xA2C3,94,It's the American flag.  The Apollo\nastronauts planted one on the\nsurface after each landing.,,1 isla(s) 91 inline
+559,0xA993,redirect,0xA324,157,"When you think about it, planting a\nnational flag in space like that does\nseem pretty ridiculous, even if it\n was smack during the middle of\nthe Space Race.",,5 isla(s) 91 inline
+560,0xA9E8,redirect,0xA3D0,92,That was back when America was\nstill a superpower.  She needed a\nway of flexing her muscle.,,2 isla(s) 91 inline
+561,0xAA09,redirect,0xA432,61,Space was dominated by a handful\nof countries in those days.,,1 isla(s) 91 inline
+562,0xAA2E,redirect,0xA472,37,"Yeah, and now business dominates\nit.",,1 isla(s) 91 inline
+563,0xAA5D,redirect,0xA49A,92,It's the Stars and Stripes.  It was\nplanted on the Lunar surface after\neach Apollo landing.,,2 isla(s) 91 inline
+564,0xAA8A,redirect,0xA4FC,1,,,
+565,0xAAA7,redirect,0xA4FD,1,,,
+566,0xAACC,redirect,0xA4FE,1,,,
+567,0xAAEF,redirect,0xA4FF,1,,,
+568,0xAB26,redirect,0xA500,1,,,
+569,0xAB57,redirect,0xA501,1,,,
+570,0xAB78,redirect,0xA502,1,,,
+571,0xABBD,redirect,0xA503,1,,,
+572,0xABE8,redirect,0xA507,1,,,
+573,0xAC35,redirect,0xA508,1,,,
+574,0xACA0,redirect,0xA509,1,,,
+575,0xACB7,redirect,0xA50A,1,,,
+576,0xACDE,redirect,0xA50B,1,,,
+577,0xACED,redirect,0xA50C,1,,,
+578,0xAD12,redirect,0xA50D,1,,,
+579,0xAD2F,redirect,0xA50E,1,,,
+580,0xAD42,redirect,0xA50F,1,,,
+581,0xAD53,redirect,0xA510,1,,,
+582,0xAD7C,redirect,0xA511,1,,,
+583,0xADAB,redirect,0xA512,1,,,
+584,0xADE8,redirect,0xA513,1,,,
+585,0xAE13,redirect,0xA514,1,,,
+586,0xAE5C,redirect,0xA515,1,,,
+587,0xAE81,redirect,0xA516,1,,,
+588,0xAE94,redirect,0xA517,51,We can't use this.  Let's look for\nsomething else.,,
+589,0xAEB5,redirect,0xA54A,54,Forget about the fire\nextinguisher.  We can't use it.,,1 isla(s) 91 inline
+590,0xAEDE,redirect,0xA583,1,,,
+591,0xAF07,redirect,0xA584,1,,,
+592,0xAF4E,redirect,0xA585,1,,,
+593,0xAF83,redirect,0xA586,1,,,
+594,0xAFB4,redirect,0xA587,1,,,
+595,0xAFEF,redirect,0xA588,1,,,
+596,0xB02A,redirect,0xA589,1,,,
+597,0xB051,redirect,0xA58A,1,,,
+598,0xB0B8,redirect,0xA58B,1,,,
+599,0xB0F5,redirect,0xA58C,1,,,
+600,0xB140,redirect,0xA58D,1,,,
+601,0xB161,redirect,0xA58E,1,,,
+602,0xB1A2,redirect,0xA58F,1,,,
+603,0xB1AD,redirect,0xA590,27,This is the Beyond Corner.,,1 isla(s) 91 inline
+604,0xB1D8,redirect,0xA5AE,28,We're at the Beyond Corner.,,
+605,0xB209,redirect,0xA5CA,1,,,
+606,0xB256,redirect,0xA5CB,1,,,
+607,0xB27D,redirect,0xA5CC,1,,,
+608,0xB2B6,redirect,0xA5CD,61,"This is the Beyond Corner.{80238057}They're only dolls, but still.",,1 isla(s) 91 inline
+609,0xB2F7,redirect,0xA60D,27,This is the Beyond Corner.,,1 isla(s) 91 inline
+610,0xB330,redirect,0xA62B,95,We're at the Beyond Corner. \nWhat do you wanna do?{80238057}The massquitoes will be here any\nminute.,,1 isla(s) 91 inline
+611,0xB387,redirect,0xA68D,50,This is the Beyond Corner.  What\ndo you wanna do?,,1 isla(s) 91 inline
+612,0xB3C8,redirect,0xA6C2,48,"There isn't a fire extinguisher\nhere, Jonathan!",,1 isla(s) 91 inline
+613,0xB3E7,redirect,0xA6F5,44,The fire extinguisher's at the\nMoon Corner!,,1 isla(s) 91 inline
+614,0xB402,redirect,0xA724,42,Let's look for something with acid\nin it!,,2 isla(s) 91 inline
+615,0xB41B,redirect,0xA754,49,Let's look for something that'll\ngive off CO{80}#2!,,
+616,0xB440,redirect,0xA785,5,Move,,
+617,0xB445,redirect,0xA78A,11,Coral Hall,,
+618,0xB450,redirect,0xA795,13,Space Corner,,
+619,0xB45D,redirect,0xA7A2,12,Moon Corner,,
+620,0xB46A,redirect,0xA7AE,7,System,,
+621,0xB473,redirect,0xA7B5,43,"Yeah, let's head back to the Space\nCorner.",,1 isla(s) 91 inline
+622,0xB494,redirect,0xA7E3,5,Look,,
+623,0xB499,redirect,0xA7E8,22,Would this Yuri work?,,1 isla(s) 91 inline
+624,0xB4BE,redirect,0xA801,53,"No, it's only a replica, and that's\nonly a figurine.",,2 isla(s) 91 inline
+625,0xB4F1,redirect,0xA83C,59,Good.  I never wanna have to deal\nwith one of these again.,,
+626,0xB520,redirect,0xA877,179,"This is a replica of the Yuri, the\nforerunner to the modern\nEMPS.{80238057}Its emphasis was on mechanical\nwork outside the colony, so its\n\n armor's thin and it's only lightly\nequipped.",,2 isla(s) 91 inline
+627,0xB599,redirect,0xA930,36,Totally different setup from today.,,1 isla(s) 91 inline
+628,0xB5D0,redirect,0xA957,110,"It was hailed as the successor to\nNASA's MMU.{80238057}Hard to imagine this is where\ncombat EMPS evolved from, huh?",,2 isla(s) 91 inline
+629,0xB637,redirect,0xA9CB,56,"Still better than the suits at the\nMoon Corner, though.",,1 isla(s) 91 inline
+630,0xB672,redirect,0xAA06,54,You can't really compare this to\nthe old Lunar suits.,,2 isla(s) 91 inline
+631,0xB69B,redirect,0xAA42,29,"Yeah, I suppose that's true.",,1 isla(s) 91 inline
+632,0xB6AC,redirect,0xAA62,35,This is what I had my accident in.,,
+633,0xB6E3,redirect,0xAA85,47,Nearly sent me on a one-way\nticket to nowhere.,,2 isla(s) 91 inline
+634,0xB70C,redirect,0xAABA,39,The Yuri was the first EMPS ever\nmade.,,1 isla(s) 91 inline
+635,0xB759,redirect,0xAAE4,39,I can't stand the sight of this thing.,,1 isla(s) 91 inline
+636,0xB77A,redirect,0xAB0E,38,You had a survival ball with you\ntoo.,,1 isla(s) 91 inline
+637,0xB7A5,redirect,0xAB37,38,You had a survival ball with you\ntoo.,,1 isla(s) 91 inline
+638,0xB7D0,redirect,0xAB60,18,Good thing I did.,,
+639,0xB7F7,redirect,0xAB72,56,"Yeah.  After all, the Yuri didn't\nhave its own lifepod.",,1 isla(s) 91 inline
+640,0xB83A,redirect,0xABAD,48,"You made me take it.  ""Just in\ncase,"" you said.",,1 isla(s) 91 inline
+641,0xB85D,redirect,0xABE0,62,The Yuri by itself would only have\nkept you alive for 3 days.,,1 isla(s) 91 inline
+642,0xB890,redirect,0xAC21,61,How about climbing in here to get\naway from the massquitoes?,,1 isla(s) 91 inline
+643,0xB8BD,redirect,0xAC61,105,"Go ahead if you want, but I'd\nrather take my chances with those\n\n things than get in one of these\nagain.",,2 isla(s) 91 inline
+644,0xB8F8,redirect,0xACD0,52,I suppose the two of us couldn't\nfit inside anyway.,,2 isla(s) 91 inline
+645,0xB91F,redirect,0xAD0A,1,,,
+646,0xB936,redirect,0xAD0B,1,,,
+647,0xB999,redirect,0xAD0C,1,,,
+648,0xB9B6,redirect,0xAD0D,1,,,
+649,0xBA09,redirect,0xAD0E,1,,,
+650,0xBA50,redirect,0xAD0F,1,,,
+651,0xBAAF,redirect,0xAD10,1,,,
+652,0xBAD0,redirect,0xAD11,1,,,
+653,0xBAF3,redirect,0xAD15,1,,,
+654,0xBB0E,redirect,0xAD16,1,,,
+655,0xBB13,redirect,0xAD17,1,,,
+656,0xBB76,redirect,0xAD18,1,,,
+657,0xBBA7,redirect,0xAD19,1,,,
+658,0xBC04,redirect,0xAD1A,51,"It's a survival ball, the escape\ncapsule you used.",,2 isla(s) 91 inline
+659,0xBC3D,redirect,0xAD56,57,A time machine that carried me 25\nyears into the future.,,1 isla(s) 91 inline
+660,0xBC70,redirect,0xAD92,99,This is a small monument built in\nhonor of the Policenauts.{80238057}It's even got our autographs on it.,,2 isla(s) 91 inline
+661,0xBCBF,redirect,0xADFB,52,"So it does.  Makes you feel kinda\nstupid, don't it?",,1 isla(s) 91 inline
+662,0xBCF4,redirect,0xAE32,80,It's a monument to the\nPolicenauts.  There's a plate with\nour autographs on it.,,2 isla(s) 91 inline
+663,0xBD39,redirect,0xAE88,33,We're like some Hollywood stars.,,1 isla(s) 91 inline
+664,0xBD56,redirect,0xAEAC,45,It's the figure of Salvatore. \nCreepy stuff.,,1 isla(s) 91 inline
+665,0xBD85,redirect,0xAEDC,40,Salvatore's figure hasn't been\ntouched.,,1 isla(s) 91 inline
+666,0xBDA8,redirect,0xAF0A,68,It's a figure of Salvatore.  It looks\na little big for some reason.,,
+667,0xBDCF,redirect,0xAF51,64,"Well, he's the kinda guy who\nseems smaller than he actually is.",,1 isla(s) 91 inline
+668,0xBDF2,redirect,0xAF94,19,"Yeah, that's true.",,
+669,0xBE07,redirect,0xAFA7,52,"Sal's made some mistakes in his\nlife, just like us.",,1 isla(s) 91 inline
+670,0xBE4A,redirect,0xAFDE,59,Ended up better off than us. \nLeast he's got a decent job.,,1 isla(s) 91 inline
+671,0xBE73,redirect,0xB01C,38,It's a life-size figure of Salvatore.,,1 isla(s) 91 inline
+672,0xBE90,redirect,0xB045,29,It's the figure of Tokugawa.,,1 isla(s) 91 inline
+673,0xBEAD,redirect,0xB065,45,Nothing wrong with Sadaoki's. \nBig surprise.,,
+674,0xBED2,redirect,0xB092,72,It's a figure of Tokugawa. \nSometimes I forget he used to be\none of us.,,1 isla(s) 91 inline
+675,0xBF11,redirect,0xB0DD,37,Now he's practically some kinda\ngod.,,1 isla(s) 91 inline
+676,0xBF3C,redirect,0xB105,100,He's a shrewd guy.{80238057}He's used the Policenauts to\npromote the Group a number of\ntimes in the past.,,2 isla(s) 91 inline
+677,0xBF91,redirect,0xB16F,27,It's a figure of Tokugawa.,,
+678,0xBFA4,redirect,0xB18A,30,It's the figure of the chief.,,1 isla(s) 91 inline
+679,0xBFBB,redirect,0xB1AB,27,Gates hasn't been touched.,,1 isla(s) 91 inline
+680,0xBFD8,redirect,0xB1C9,24,It's a figure of Gates.,,1 isla(s) 91 inline
+681,0xBFF1,redirect,0xB1E4,62,"Of the five of us, he was always\nmost likely to end up chief.",,1 isla(s) 91 inline
+682,0xC00A,redirect,0xB225,25,Yeah.  Now he's my boss.,,
+683,0xC01F,redirect,0xB23E,28,It's a figure of the chief.,,1 isla(s) 91 inline
+684,0xC038,redirect,0xB25D,36,Can't say I wanna end up like this.,,1 isla(s) 91 inline
+685,0xC057,redirect,0xB284,60,This is your figure.  I think it's\nslightly better-looking.,,1 isla(s) 91 inline
+686,0xC088,redirect,0xB2C3,95,Look at how they've got me\nsmiling.  I look like a fag.  I don't\nsmile like this in real life.,,1 isla(s) 91 inline
+687,0xC0A5,redirect,0xB325,85,You're worried about how your\ndoll looks? Maybe you really are\nas vain as Anna said?,,1 isla(s) 91 inline
+688,0xC0DA,redirect,0xB37D,38,"You know, I think you might be\nright.",,1 isla(s) 91 inline
+689,0xC0F5,redirect,0xB3A6,40,"You think a lot of yourself, don't\nyou?",,1 isla(s) 91 inline
+690,0xC118,redirect,0xB3D1,50,I guess I do.  I never realized I\nacted that way.,,2 isla(s) 91 inline
+691,0xC133,redirect,0xB409,46,"Kidding aside, they did a good job,\nfor sure.",,1 isla(s) 91 inline
+692,0xC15A,redirect,0xB43A,32,It's a life-size figure of you.,,4 isla(s) 91 inline
+693,0xC175,redirect,0xB466,30,Who'd do something like this?,,2 isla(s) 91 inline
+694,0xC1A4,redirect,0xB48A,31,This is me in my younger days.,,2 isla(s) 91 inline
+695,0xC1B7,redirect,0xB4AF,25,I'd never recognize you.,,1 isla(s) 91 inline
+696,0xC1D2,redirect,0xB4CB,46,"C'mon, I hate it when people bring\nup my age.",,1 isla(s) 91 inline
+697,0xC1FB,redirect,0xB4FC,16,It's my figure.,,
+698,0xC208,redirect,0xB50C,61,These are really well done. \nThey're like our doppelgangers.,,1 isla(s) 91 inline
+699,0xC235,redirect,0xB54C,150,"They got the best in the business\non these.{80238057}They were given every piece of\ndata they had on us {D0}{06} body\n\n measurements, hair samples {D0}{06}\neverything.",,2 isla(s) 91 inline
+700,0xC28E,redirect,0xB5E8,44,They knew us better than we\nknow ourselves.,,
+701,0xC2BD,redirect,0xB614,100,I remember them going over our\nbodies with a fine-tooth comb\n\n when we applied for the\nPolicenauts.,,2 isla(s) 91 inline
+702,0xC308,redirect,0xB67E,66,I heard they're gonna replace\nthese with animatronic robots\nsoon.,,2 isla(s) 91 inline
+703,0xC347,redirect,0xB6C6,49,They're gonna have us moving\naround like idiots?,,1 isla(s) 91 inline
+704,0xC36A,redirect,0xB6FA,186,"Using hydraulics and air pressure,\nyeah.  And, we'll even talk.{80238057}The same Japanese company that\nmade those animatronic dinosaurs\nis gonna make 'em.{80238057}You know the ones I mean,\nright?",,4 isla(s) 91 inline
+705,0xC3C9,redirect,0xB7C0,27,Who'll decide how we move?,,1 isla(s) 91 inline
+706,0xC3F0,redirect,0xB7DE,171,"They've already got all the\nnecessary data.  They're working\nwith the ISPA on them.{80238057}They'll end up as some live action\nshow, almost indistinguishable\nfrom the real us.",,4 isla(s) 91 inline
+707,0xC47D,redirect,0xB895,49,They did an amazing job with\nthese.  It's scary.,,1 isla(s) 91 inline
+708,0xC4AE,redirect,0xB8C9,49,It looks like it's been cut with a\nlaser cutter.,,1 isla(s) 91 inline
+709,0xC4E1,redirect,0xB8FD,43,Whoever did this went to a lot of\ntrouble.,,1 isla(s) 91 inline
+710,0xC4FE,redirect,0xB92B,116,"I don't think it was a bunch of\nhigh schoolers who did this.{80238057}This was clearly aimed at us, as\nsome kinda threat.",,2 isla(s) 91 inline
+711,0xC533,redirect,0xB9A5,44,"Same for this one.  It's a nice,\nclean cut.",,1 isla(s) 91 inline
+712,0xC560,redirect,0xB9D4,75,These were cut with the same\ntool used to cut the head off that\nspacesuit.,,1 isla(s) 91 inline
+713,0xC58D,redirect,0xBA22,23,Everyone else is fine.,,
+714,0xC5AC,redirect,0xBA39,30,They only took off our heads.,,1 isla(s) 91 inline
+715,0xC5DD,redirect,0xBA5A,32,Looks like we're the favorites.,,
+716,0xC602,redirect,0xBA7A,32,I know what they meant by this.,,
+717,0xC61F,redirect,0xBA9A,37,That we're gonna end up like\nIshida?,,1 isla(s) 91 inline
+718,0xC640,redirect,0xBAC2,20,This was a warning.,,1 isla(s) 91 inline
+719,0xC65F,redirect,0xBAD9,1,,,
+720,0xC6A2,redirect,0xBADA,1,,,
+721,0xC6CB,redirect,0xBADB,24,It's a model of Beyond.,,
+722,0xC71E,redirect,0xBAF6,44,You could call this place Home for\nBeyonds.,,2 isla(s) 91 inline
+723,0xC763,redirect,0xBB28,35,That diagram is a good visual aid.,,
+724,0xC78C,redirect,0xBB4B,50,Beyond's exact position is on that\ndiagram there.,,1 isla(s) 91 inline
+725,0xC7BF,redirect,0xBB80,38,You made a model of it for me\nbefore.,,
+726,0xC7E8,redirect,0xBBA6,31,"Yeah, I did.  Heh, I remember.",,1 isla(s) 91 inline
+727,0xC807,redirect,0xBBC8,47,I've still got it.  It's sitting in my\noffice.,,
+728,0xC84C,redirect,0xBBF7,66,"Hey, glad to hear that, man. \nThat's the only model I ever built.",,1 isla(s) 91 inline
+729,0xC87B,redirect,0xBC3C,6,What?,,1 isla(s) 91 inline
+730,0xC888,redirect,0xBC45,14,"Not bad, huh?",,
+731,0xC899,redirect,0xBC53,21,So that explains it.,,
+732,0xC8B4,redirect,0xBC68,1,,,
+733,0xC8EF,redirect,0xBC69,1,,,
+734,0xC908,redirect,0xBC6A,1,,,
+735,0xC91F,redirect,0xBC6B,1,,,
+736,0xC94C,redirect,0xBC6C,1,,,
+737,0xC995,redirect,0xBC6D,1,,,
+738,0xC9A4,redirect,0xBC6E,1,,,
+739,0xC9E3,redirect,0xBC6F,1,,,
+740,0xCA3E,redirect,0xBC73,1,,,
+741,0xCA73,redirect,0xBC74,1,,,
+742,0xCAB4,redirect,0xBC75,1,,,
+743,0xCAEF,redirect,0xBC76,1,,,
+744,0xCB30,redirect,0xBC77,1,,,
+745,0xCB57,redirect,0xBC78,1,,,
+746,0xCB8A,redirect,0xBC79,1,,,
+747,0xCBC7,redirect,0xBC7A,1,,,
+748,0xCBF6,redirect,0xBC7B,1,,,
+749,0xCC0D,redirect,0xBC7C,1,,,
+750,0xCC70,redirect,0xBC7D,1,,,
+751,0xCC97,redirect,0xBC7E,1,,,
+752,0xCCA6,redirect,0xBC7F,1,,,
+753,0xCCE7,redirect,0xBC80,1,,,
+754,0xCD1E,redirect,0xBC81,1,,,
+755,0xCD5D,redirect,0xBC82,1,,,
+756,0xCD80,redirect,0xBC83,1,,,
+757,0xCDC5,redirect,0xBC84,42,It's a diagram showing Beyond's\nposition.,,
+758,0xCE00,redirect,0xBCAE,19,Still no one here.,,1 isla(s) 91 inline
+759,0xCE11,redirect,0xBCC4,1,,,
+760,0xCE58,redirect,0xBCC5,1,,,
+761,0xCE87,redirect,0xBCC6,1,,,
+762,0xCE9C,redirect,0xBCC7,1,,,
+763,0xCEB1,redirect,0xBCC8,1,,,
+764,0xCED6,redirect,0xBCC9,1,,,
+765,0xCF07,redirect,0xBCCA,27,We're at the Space Corner.,,
+766,0xCF1E,redirect,0xBCE5,59,The Pioneer the informant\nmentioned should be around\nhere.,,1 isla(s) 91 inline
+767,0xCF4D,redirect,0xBD23,44,Pioneer should be somewhere in\nthis corner.,,1 isla(s) 91 inline
+768,0xCF76,redirect,0xBD52,1,,,
+769,0xCF97,redirect,0xBD53,1,,,
+770,0xCFC2,redirect,0xBD54,1,,,
+771,0xD00D,redirect,0xBD55,1,,,
+772,0xD068,redirect,0xBD59,1,,,
+773,0xD0B3,redirect,0xBD5A,1,,,
+774,0xD0E8,redirect,0xBD5B,1,,,
+775,0xD0F7,redirect,0xBD5C,1,,,
+776,0xD102,redirect,0xBD5D,1,,,
+777,0xD139,redirect,0xBD5E,1,,,
+778,0xD16C,redirect,0xBD5F,1,,,
+779,0xD187,redirect,0xBD60,1,,,
+780,0xD1BE,redirect,0xBD61,1,,,
+781,0xD1EB,redirect,0xBD62,1,,,
+782,0xD20C,redirect,0xBD63,1,,,
+783,0xD21F,redirect,0xBD64,1,,,
+784,0xD23C,redirect,0xBD65,1,,,
+785,0xD259,redirect,0xBD66,1,,,
+786,0xD282,redirect,0xBD67,1,,,
+787,0xD2C3,redirect,0xBD68,1,,,
+788,0xD2F2,redirect,0xBD69,1,,,
+789,0xD315,redirect,0xBD6A,75,We're at the Space Corner. \nBetter stay on your guard.  I don't\nlike this.,,2 isla(s) 91 inline
+790,0xD342,redirect,0xBDBB,55,We're at the Space Corner.  Don't\nlet your guard down.,,2 isla(s) 91 inline
+791,0xD36D,redirect,0xBDF8,26,This is the Space Corner.,,1 isla(s) 91 inline
+792,0xD38C,redirect,0xBE15,41,Looks like the informant isn't here\nyet.,,
+793,0xD3A7,redirect,0xBE3E,49,Doesn't seem like the informant's\nshowed up yet.,,1 isla(s) 91 inline
+794,0xD3CA,redirect,0xBE72,51,The informant isn't here.  What's\nhappened to him?,,2 isla(s) 91 inline
+795,0xD3FB,redirect,0xBEAB,1,,,
+796,0xD434,redirect,0xBEAC,1,,,
+797,0xD447,inplace,0xD447,7,masq_1,,sin codigo 91: revisar
+798,0xD44E,redirect,0xBEB0,1,,,
+799,0xD4A7,redirect,0xBEB1,1,,,
+800,0xD4E4,redirect,0xBEB2,1,,,
+801,0xD52B,redirect,0xBEB3,1,,,
+802,0xD56E,redirect,0xBEB4,1,,,
+803,0xD59F,redirect,0xBEB5,1,,,
+804,0xD5AA,redirect,0xBEB6,50,We're at the Space Corner.  What\ndo you wanna do?,,1 isla(s) 91 inline
+805,0xD5D1,redirect,0xBEEB,38,There isn't a fire extinguisher\nhere!,,
+806,0xD5E8,redirect,0xBF14,54,"Jonathan, the fire extinguisher's at\nthe Moon Corner!",,1 isla(s) 91 inline
+807,0xD60F,redirect,0xBF4D,39,Is there nothing here with acid in\nit?,,
+808,0xD630,redirect,0xBF74,48,We have to find something that\ngives off CO{80}#2!,,2 isla(s) 91 inline
+809,0xD659,redirect,0xBFAA,5,Move,,
+810,0xD65E,redirect,0xBFAF,11,Coral Hall,,
+811,0xD669,redirect,0xBFBA,12,Moon Corner,,1 isla(s) 91 inline
+812,0xD676,redirect,0xBFC9,14,Beyond Corner,,
+813,0xD68B,redirect,0xBFD7,7,System,,1 isla(s) 91 inline
+814,0xD694,redirect,0xBFE1,5,Look,,
+815,0xD699,redirect,0xBFE6,145,I've got it! Mars' atmosphere is\ncomposed mainly of carbon\ndioxide.{80238057}The carbon dioxide there\nregularly freezes around the\nMartian polar caps!,,5 isla(s) 91 inline
+816,0xD724,redirect,0xC086,80,"That's true, yeah, but we're not\non Mars right now.  This is only a\nrecreation.",,3 isla(s) 91 inline
+817,0xD773,redirect,0xC0DF,12,Oh yeah....,,
+818,0xD786,redirect,0xC0EB,63,It's hard to make out stuff with all\nthe lights off like this.,,2 isla(s) 91 inline
+819,0xD7AF,redirect,0xC130,109,This is a reproduction of the\nMartian surface.{80238057}The reason it appears red is\nbecause of the oxidized iron.,,4 isla(s) 91 inline
+820,0xD82C,redirect,0xC1A9,40,But you'll know more about Mars\nthan I.,,2 isla(s) 91 inline
+821,0xD863,redirect,0xC1D7,79,I remember there was a dust\nstorm when we landed.{80238057}All we could see was red.,,2 isla(s) 91 inline
+822,0xD8B0,redirect,0xC22C,50,This is supposed to resemble the\nMartian surface.,,1 isla(s) 91 inline
+823,0xD8DB,redirect,0xC261,53,"I can tell you, it's pretty close to\nthe real thing.",,1 isla(s) 91 inline
+824,0xD8FE,redirect,0xC299,111,That's one of the Viking landers.{80238057}There were two landers that\nlanded on Mars as part of the\nViking program.,,2 isla(s) 91 inline
+825,0xD94F,redirect,0xC30E,93,"This is a Viking 1 lander replica,\nwhich touched down in Chryse\nPlanitia on July 20th, 1976.",,2 isla(s) 91 inline
+826,0xD9A0,redirect,0xC371,44,I saw what was left of it when I\nwas there.,,
+827,0xD9DB,redirect,0xC39D,33,"The media dubbed it a\n""reunion"".",,
+828,0xDA08,redirect,0xC3BE,47,It's a life-size model of the Viking\n1 lander.,,1 isla(s) 91 inline
+829,0xDA41,redirect,0xC3F3,44,That's a replica of the Galileo\nspacecraft.,,
+830,0xDA64,redirect,0xC41F,102,It's famous for launching a probe\ninto Jupiter's atmosphere in 1995\nand performing an analysis of it.,,1 isla(s) 91 inline
+831,0xDAA3,redirect,0xC488,114,It then did fly-bys of the four\nGalilean moons.{80238057}I remember watching it when I\nwas kid.  Now that was exciting.,,3 isla(s) 91 inline
+832,0xDB04,redirect,0xC503,24,It's a Galileo replica.,,
+833,0xDB31,redirect,0xC51B,48,That's the Voyager 1\ninterplanetary spacecraft.,,1 isla(s) 91 inline
+834,0xDB54,redirect,0xC54E,149,"Voyager 1 traveled to the outer\nplanets Jupiter and Saturn.{80238057}It discovered Io's volcanoes and\nJupiter's rings, as well as new\nmoons around Saturn.",,4 isla(s) 91 inline
+835,0xDBCB,redirect,0xC5EF,78,It'll be making its way through the\nfar reaches of the heliosphere\nabout now.,,3 isla(s) 91 inline
+836,0xDBF8,redirect,0xC646,27,It's a model of Voyager 1.,,1 isla(s) 91 inline
+837,0xDC17,redirect,0xC664,89,Inside that display case is a copy of\nthe gramophone record carried\non Voyagers 1 and 2.,,1 isla(s) 91 inline
+838,0xDC5A,redirect,0xC6C0,131,"That's Pioneer 10 there.  It was\nthe first spacecraft to make a close\nencounter with Jupiter.{80238057}That's only a replica, of course.",,2 isla(s) 91 inline
+839,0xDCD3,redirect,0xC749,58,"The real one left the solar system\na long, long time ago.",,1 isla(s) 91 inline
+840,0xDD08,redirect,0xC786,68,"Yeah, back in 1983 or something,\nbefore either of us was even\nborn.",,2 isla(s) 91 inline
+841,0xDD5B,redirect,0xC7D0,87,"It's a replica of Pioneer 10, the\nworld's first interplanetary\nexploration spacecraft.",,2 isla(s) 91 inline
+842,0xDD8E,redirect,0xC82D,69,So this is the Pioneer the\ninformant was talking about?\nWhere is he?,,1 isla(s) 91 inline
+843,0xDDC7,redirect,0xC875,46,You know that case with the SETI\nstuff in it?,,3 isla(s) 91 inline
+844,0xDDEE,redirect,0xC8AC,25,You see that case there?,,1 isla(s) 91 inline
+845,0xDE07,redirect,0xC8C8,75,There's a plaque the same as the\none carried on Pioneers 10 and 11\ninside.,,2 isla(s) 91 inline
+846,0xDE38,redirect,0xC919,43,Maybe there's some kinda\nmessage from him?,,1 isla(s) 91 inline
+847,0xDE6D,redirect,0xC947,19,Let's take a look.,,1 isla(s) 91 inline
+848,0xDE7E,redirect,0xC95D,74,"We took a look at the record, but\nnot the plaque.  Let's go check it\nout.",,2 isla(s) 91 inline
+849,0xDEAB,redirect,0xC9AD,1,,,
+850,0xDEC4,redirect,0xC9AE,1,,,
+851,0xDED3,redirect,0xC9AF,1,,,
+852,0xDEFE,redirect,0xC9B0,1,,,
+853,0xDF11,redirect,0xC9B1,39,That's a hologram of the solar\nsystem.,,
+854,0xDF36,redirect,0xC9D8,54,Just an ordinary hologram. \nNothing unusual about it.,,1 isla(s) 91 inline
+855,0xDF65,redirect,0xCA11,121,This is a hologram of the solar\nsystem.{80238057}A lot of the information used to\nmake it came from the craft on\ndisplay here.,,2 isla(s) 91 inline
+856,0xDFAE,redirect,0xCA90,66,It's a shame there isn't as much\nexploration going on these days.,,1 isla(s) 91 inline
+857,0xDFE3,redirect,0xCAD5,37,It's a hologram of our solar\nsystem.,,1 isla(s) 91 inline
+858,0xE002,redirect,0xCAFD,68,He's dead.  The only ones giving\noff any CO{80}#2 here are you and\nme.,,1 isla(s) 91 inline
+859,0xE045,redirect,0xCB44,25,We're their new targets.,,1 isla(s) 91 inline
+860,0xE060,redirect,0xCB60,1,,,
+861,0xE079,redirect,0xCB61,1,,,
+862,0xE0B0,redirect,0xCB62,1,,,
+863,0xE0CD,redirect,0xCB63,1,,,
+864,0xE0F4,redirect,0xCB64,1,,,
+865,0xE10F,redirect,0xCB65,39,This is someone's attempt at a\nthreat.,,1 isla(s) 91 inline
+866,0xE140,redirect,0xCB8F,161,"Inside this case they have on\ndisplay some messages, I suppose\nyou could call them, that were\n sent into space to any\nextraterrestrials that might be out\nthere.",,3 isla(s) 91 inline
+867,0xE165,redirect,0xCC39,76,They were loosely related to the\nSETI program the US conducted\nfor a while.,,1 isla(s) 91 inline
+868,0xE242,redirect,0xCC88,68,They would attach them to probes\nthat were being sent out to space.,,2 isla(s) 91 inline
+869,0xE281,redirect,0xCCD2,117,They have the metal plaque that\nwas on the Pioneer probes and\nthe gramophone record that was\n on the Voyager probes.,,2 isla(s) 91 inline
+870,0xE2CC,redirect,0xCD4D,62,The case contains messages from\nmankind to extraterrestrials.,,2 isla(s) 91 inline
+871,0xE315,redirect,0xCD91,58,This is the Golden Record that\nwas on the Voyager probes.,,1 isla(s) 91 inline
+872,0xE364,redirect,0xCDCE,194,"It's a 12-inch gold-plated copper\nrecord containing greetings in\nnearly 60 different languages,\n animal calls, sounds of nature and\na wide variety of music {D0}{06}\neverything from classical to folk.",,4 isla(s) 91 inline
+873,0xE3F3,redirect,0xCE9F,60,They also included a cartridge and\na needle for playing it.,,2 isla(s) 91 inline
+874,0xE41E,redirect,0xCEE1,55,It's the record that was placed on\nthe Voyager probes.,,1 isla(s) 91 inline
+875,0xE43D,redirect,0xCF1B,1,,,
+876,0xE462,redirect,0xCF1C,1,,,
+877,0xE49D,redirect,0xCF1D,1,,,
+878,0xE4BE,redirect,0xCF21,1,,,
+879,0xE4E7,redirect,0xCF22,1,,,
+880,0xE50E,redirect,0xCF23,65,This must mean something.  Let's\ngo take a look at the hologram.,,1 isla(s) 91 inline
+881,0xE55F,redirect,0xCF67,1,,,
+882,0xE5A2,redirect,0xCF68,1,,,
+883,0xE5D1,redirect,0xCF69,1,,,
+884,0xE5E8,redirect,0xCF6A,57,It's the plaque that was attached\nto the Pioneer crafts.,,2 isla(s) 91 inline
+885,0xE60F,redirect,0xCFA9,74,This radial diagram shows the\nlocation of the Sun relative to 14\npulsars.,,1 isla(s) 91 inline
+886,0xE660,redirect,0xCFF6,84,"With this, you'd be able to locate\nour solar system from anywhere\nin the Milky Way.",,1 isla(s) 91 inline
+887,0xE68F,redirect,0xD04D,150,"The man's raising his right arm as\na sign of friendship.{80238057}You can also tell its shape, the\nway it would move and the\nnumber of fingers on the hand.",,3 isla(s) 91 inline
+888,0xE6DE,redirect,0xD0EC,30,It's the naked body of a man.,,2 isla(s) 91 inline
+889,0xE6F7,redirect,0xD110,49,So THIS is what a woman's\nprivates look like....,,1 isla(s) 91 inline
+890,0xE726,redirect,0xD144,30,"Please, don't start.  Please.",,
+891,0xE745,redirect,0xD162,114,This shows the nine planets of the\nsolar system and how the\nspacecraft came from the third\n planet from our star.,,3 isla(s) 91 inline
+892,0xE788,redirect,0xD1DD,65,The distance between the planets\nis expressed in binary numbers.,,3 isla(s) 91 inline
+893,0xE7A9,redirect,0xD227,122,This is a drawing of the Pioneer\nspacecraft behind the two\npeople.{80238057}You could deduce the size of our\nspecies with this.,,3 isla(s) 91 inline
+894,0xE818,redirect,0xD2AA,195,"I don't know the details, but\napparently this represents the\n\n spin-flip transition of a hydrogen\natom.{80238057}This gives you certain universal\nmeasurements that play into other\nparts of the plaque.",,5 isla(s) 91 inline
+895,0xE84F,redirect,0xD37C,5,Back,,
+896,0xE858,redirect,0xD381,73,The height of human beings is\ndrawn to scale with the size of the\nprobe.,,3 isla(s) 91 inline
+897,0xE885,redirect,0xD3D3,133,This drawing was on the receiving\nend of criticism from conservatives\nat the time.{80238057}They said we'd dirtied space with\npornography.,,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+898,0xE8C0,redirect,0xD46B,231,"The heights of the man and the\nwoman are expressed in binary\nnumbers, with the unit of\n measure being 21 centimeters.{80238057}An intelligent species could derive\nthat wavelength from the\ntransition of the hydrogen\n molecule shown here.",,3 isla(s) 91 inline

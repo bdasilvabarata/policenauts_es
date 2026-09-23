@@ -1,0 +1,436 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x2572,redirect,0x2129,11,Go inside{0D},,1 isla(s) 91 inline
+1,0x257B,redirect,0x2137,8,System{0D},,
+2,0x2584,redirect,0x213F,6,Look{0D},,
+3,0x2589,redirect,0x2145,51,He's not there anymore.  He ran\ninto the station!{0D},,
+4,0x25B0,redirect,0x2178,34,He might be hiding behind there.{0D},,
+5,0x25DD,redirect,0x219A,27,He could be behind there.{0D},,
+6,0x2606,redirect,0x21B5,33,He might be behind that pillar.{0D},,
+7,0x2635,redirect,0x21D6,40,"Whatever you do, don't hit a\ncivilian.{0D}",,1 isla(s) 91 inline
+8,0x2666,redirect,0x2201,56,"I'm sorry I can't help you,\nJonathan.  It's up to you.{0D}",,1 isla(s) 91 inline
+9,0x269F,redirect,0x223C,70,He escaped inside the station. \nHe's gonna try and get on the\ntrain.{0D},,1 isla(s) 91 inline
+10,0x26E4,redirect,0x2288,86,This is a linear rail station.  This is\nBeyond's one and only mass\ntransport system.{0D},,1 isla(s) 91 inline
+11,0x2731,redirect,0x22E4,37,Anna goes to school by linear rail.{0D},,
+12,0x2758,redirect,0x2309,128,It'll be a real pain in the ass trying\nto track him down if he gets on a\ntrain.{80238057}Let's take him down before that\ncan happen.{0D},,2 isla(s) 91 inline
+13,0x2791,redirect,0x238F,53,Meryl and Dave will be waiting at\nthe next station.{0D},,2 isla(s) 91 inline
+14,0x27D6,redirect,0x23CA,31,This is Central Port Station.{0D},,
+15,0x27EF,redirect,0x23E9,122,Its Japanese name is Nakafuto\nStation.{80238057}A lot of places on Beyond are\nnamed after places in Japan\nbecause of Tokugawa.{0D},,4 isla(s) 91 inline
+16,0x2850,redirect,0x246F,114,Those are the linear rail tracks.{80238057}A police car can drive on them in\nemergencies using the car's linear\nskirt.{0D},,3 isla(s) 91 inline
+17,0x28AB,redirect,0x24EA,2,{0D},,
+18,0x28D8,redirect,0x24EC,98,"You can't see them from here, but\nthe tracks aren't any different\nfrom the linear rails on Home.{0D}",,2 isla(s) 91 inline
+19,0x2925,redirect,0x2554,61,He ran up these stairs here.  He's\nheaded for the platform!{0D},,5 isla(s) 91 inline
+20,0x295A,redirect,0x25A0,24,Let's go on after him!{0D},,1 isla(s) 91 inline
+21,0x2975,redirect,0x25BB,81,These are the stairs leading up to\nthe station.  I don't see any blood\non them.{0D},,2 isla(s) 91 inline
+22,0x299E,redirect,0x2612,29,He must still be down here.{0D},,
+23,0x29CF,redirect,0x262F,51,These stairs are the only way up\nto the platform.{0D},,1 isla(s) 91 inline
+24,0x2A06,redirect,0x2665,85,He has to come out sooner or\nlater.  We just gotta stay put and\nkeep our eyes open.{0D},,2 isla(s) 91 inline
+25,0x2A2D,redirect,0x26C0,65,Hard to believe we're in outer\nspace.  It feels just like Home.{0D},,1 isla(s) 91 inline
+26,0x2A7A,redirect,0x2704,61,Yeah.  This is a world of illusion. \nOur world of illusion.{0D},,1 isla(s) 91 inline
+27,0x2AB9,redirect,0x2744,32,Look at that.  Almost sunrise.{0D},,1 isla(s) 91 inline
+28,0x2ADA,redirect,0x2767,51,Now's not the time for your\nsentimental bullshit!{0D},,1 isla(s) 91 inline
+29,0x2AFD,redirect,0x279D,147,That's a linear rail train.{80238057}The ceilings of the cars are built\nas low as possible to keep the\nbody light and give it a low center\n of gravity.{0D},,2 isla(s) 91 inline
+30,0x2B5C,redirect,0x2836,136,The cars are constructed out of\nfiberglass reinforced plastic\ncontaining epoxy and phenolic\n resins.  That makes them\nextremely light.{0D},,2 isla(s) 91 inline
+31,0x2BB3,redirect,0x28C4,47,I used epoxy resin a lot when I\nbuilt models.{0D},,1 isla(s) 91 inline
+32,0x2BE2,redirect,0x28F6,155,"They're smart cars with advanced\ncapabilities like real-time status\nmonitoring as well as full system\n management, including automatic\ncourse adjustment.{0D}",,3 isla(s) 91 inline
+33,0x2C2F,redirect,0x299A,57,He's gonna get on that train. \nSomebody could get hurt.{0D},,2 isla(s) 91 inline
+34,0x2C5A,redirect,0x29D9,65,Let's hurry up to the platform. \nThe linear's gonna leave soon!{0D},,1 isla(s) 91 inline
+35,0x2C9B,redirect,0x2A1D,41,We don't have time to hang\naround here!{0D},,1 isla(s) 91 inline
+36,0x2CB8,redirect,0x2A49,36,Let's go! He's up on the platform.{0D},,
+37,0x2CD5,redirect,0x2A6D,45,You just wanna let him get\naway?! Let's go!{0D},,1 isla(s) 91 inline
+38,0x2CF6,redirect,0x2A9D,53,If we stay here any longer he\nreally will get away.{0D},,1 isla(s) 91 inline
+39,0x2D1B,redirect,0x2AD5,23,We're gonna lose him!{0D},,1 isla(s) 91 inline
+40,0x2D32,redirect,0x2AEF,31,Let's get up to the platform.{0D},,1 isla(s) 91 inline
+41,0x2D59,redirect,0x2B11,28,We better hurry after him!{0D},,
+42,0x2D74,redirect,0x2B2D,62,We've wasted too much time.  He\nmight've gotten away by now.{0D},,1 isla(s) 91 inline
+43,0x2DAD,redirect,0x2B6E,43,We gotta hurry! The linear's\ngonna leave!{0D},,
+44,0x2DE6,redirect,0x2B99,2,{0D},,
+45,0x2E03,redirect,0x2B9B,2,{0D},,
+46,0x2E36,redirect,0x2B9D,2,{0D},,
+47,0x2E5F,redirect,0x2B9F,2,{0D},,
+48,0x2E94,redirect,0x2BA1,50,"No, hold on.  He might be\nsomewhere around here.{0D}",,1 isla(s) 91 inline
+49,0x2EC3,redirect,0x2BD6,116,"Relax, Jonathan, there aren't any\nlinears at the station.  He can't go\nanywhere.{80238057}Let's take a look around here.{0D}",,2 isla(s) 91 inline
+50,0x2F10,redirect,0x2C50,42,Let's check out this area a little\nmore.{0D},,1 isla(s) 91 inline
+51,0x2F33,redirect,0x2C7D,58,What about that pillar over\nthere? Let's go take a look.{0D},,2 isla(s) 91 inline
+52,0x2F5E,redirect,0x2CBD,46,He isn't there.  He's gone into the\nstation!{0D},,1 isla(s) 91 inline
+53,0x2F7F,redirect,0x2CEE,29,That's a convenience store.{0D},,1 isla(s) 91 inline
+54,0x2FD0,redirect,0x2D0E,27,He might be inside there.{0D},,1 isla(s) 91 inline
+55,0x2FFF,redirect,0x2D2C,60,He might be hiding in there.  Be\nready if he makes a move.{0D},,2 isla(s) 91 inline
+56,0x3040,redirect,0x2D6E,29,Never mind the stupid sign.{0D},,1 isla(s) 91 inline
+57,0x3069,redirect,0x2D8E,56,That's a sign promoting Beyond's\nanniversary festival.{0D},,1 isla(s) 91 inline
+58,0x30A4,redirect,0x2DC9,27,He might be behind there.{0D},,
+59,0x30DB,redirect,0x2DE4,34,He could be hiding behind there.{0D},,2 isla(s) 91 inline
+60,0x310E,redirect,0x2E0C,28,There's some bushes there.{0D},,
+61,0x3121,redirect,0x2E28,28,There's some bushes there.{0D},,1 isla(s) 91 inline
+62,0x3138,redirect,0x2E47,28,There's some bushes there.{0D},,1 isla(s) 91 inline
+63,0x314D,redirect,0x2E66,43,He's not there.  He ran into the\nstation!{0D},,
+64,0x3170,redirect,0x2E91,30,He might be hiding in there.{0D},,1 isla(s) 91 inline
+65,0x31A7,redirect,0x2EB2,34,He definitely could be in there.{0D},,1 isla(s) 91 inline
+66,0x31DA,redirect,0x2ED7,49,"He's not in the bushes.  Dammit,\nwhere'd he go?{0D}",,
+67,0x3209,redirect,0x2F08,2,{0D},,
+68,0x321E,redirect,0x2F0A,2,{0D},,
+69,0x3259,redirect,0x2F0C,2,{0D},,
+70,0x3270,redirect,0x2F0E,20,This is his blood.{0D},,1 isla(s) 91 inline
+71,0x327F,redirect,0x2F25,58,He should be around here\nsomewhere.  Stay on your guard.{0D},,2 isla(s) 91 inline
+72,0x32A4,redirect,0x2F65,55,That's his blood trail.  It leads up\nto the platform.{0D},,1 isla(s) 91 inline
+73,0x32C7,redirect,0x2F9F,31,Let's get up to the platform.{0D},,
+74,0x32EA,redirect,0x2FBE,2,{0D},,
+75,0x3317,redirect,0x2FC0,2,{0D},,
+76,0x3326,redirect,0x2FC2,2,{0D},,
+77,0x334B,redirect,0x2FC4,2,{0D},,
+78,0x336E,redirect,0x2FC6,2,{0D},,
+79,0x337B,redirect,0x2FC8,2,{0D},,
+80,0x33AA,redirect,0x2FCA,2,{0D},,
+81,0x33C1,redirect,0x2FCC,2,{0D},,
+82,0x33D6,redirect,0x2FCE,2,{0D},,
+83,0x33EB,redirect,0x2FD3,2,{0D},,
+84,0x340A,redirect,0x2FD5,2,{0D},,
+85,0x3447,redirect,0x2FD7,2,{0D},,
+86,0x3452,redirect,0x2FD9,2,{0D},,
+87,0x3465,redirect,0x2FDB,2,{0D},,
+88,0x347C,redirect,0x2FDD,2,{0D},,
+89,0x348D,redirect,0x2FDF,2,{0D},,
+90,0x34C0,redirect,0x2FE1,2,{0D},,
+91,0x34D7,redirect,0x2FE3,2,{0D},,
+92,0x34EC,redirect,0x2FE5,2,{0D},,
+93,0x3511,redirect,0x2FE7,6,Move{0D},,
+94,0x3516,redirect,0x2FED,12,Go outside{0D},,
+95,0x351F,redirect,0x2FF9,46,"No, he's gotta be somewhere on\nthe platform.{0D}",,1 isla(s) 91 inline
+96,0x3544,redirect,0x302A,43,If we go back outside now he'll\nget away!{0D},,1 isla(s) 91 inline
+97,0x356B,redirect,0x3058,14,Get on train{0D},,
+98,0x3576,redirect,0x3066,8,System{0D},,1 isla(s) 91 inline
+99,0x357F,redirect,0x3071,47,He's gotten on the train.  We've\ngotta hurry!{0D},,
+100,0x35A2,redirect,0x30A0,63,What are you talking about?!\nYou just wanna let him get away?{0D},,2 isla(s) 91 inline
+101,0x35C5,redirect,0x30E5,32,"C'mon, let's get on the train!{0D}",,
+102,0x35EA,redirect,0x3105,29,The train's about to leave!{0D},,2 isla(s) 91 inline
+103,0x360D,redirect,0x3128,34,"We don't have all day, Jonathan!{0D}",,1 isla(s) 91 inline
+104,0x362C,redirect,0x3150,6,Look{0D},,
+105,0x3631,redirect,0x3156,30,This is a linear rail train.{0D},,1 isla(s) 91 inline
+106,0x3650,redirect,0x3177,28,You think he got on board?{0D},,
+107,0x3667,redirect,0x3193,42,This door's closest to the ticket\ngates.{0D},,1 isla(s) 91 inline
+108,0x3688,redirect,0x31C0,58,The large number of cars doesn't\nmake things any easier.{0D},,1 isla(s) 91 inline
+109,0x36A1,redirect,0x31FD,42,We can't see inside that well from\nhere.{0D},,2 isla(s) 91 inline
+110,0x36BE,redirect,0x322D,52,It's hard to see inside from where\nwe're standing.{0D},,1 isla(s) 91 inline
+111,0x36E7,redirect,0x3264,33,He definitely got on the train.{0D},,2 isla(s) 91 inline
+112,0x3706,redirect,0x328B,42,Let's get inside before the doors\nclose.{0D},,1 isla(s) 91 inline
+113,0x372D,redirect,0x32B8,41,That's one of the linear train's\ndoors.{0D},,1 isla(s) 91 inline
+114,0x3748,redirect,0x32E4,39,That's another of the linear's\ndoors.{0D},,1 isla(s) 91 inline
+115,0x375D,redirect,0x330E,34,That's another one of the doors.{0D},,2 isla(s) 91 inline
+116,0x3774,redirect,0x3336,40,The doors are open.  Did he go\ninside?{0D},,1 isla(s) 91 inline
+117,0x378B,redirect,0x3361,57,The doors are gonna close soon. \nLet's go in after him!{0D},,2 isla(s) 91 inline
+118,0x37B4,redirect,0x33A0,57,The departure bell's going off!\nLet's get on the train!{0D},,3 isla(s) 91 inline
+119,0x37D9,redirect,0x33E2,47,Wait! We don't know if he went\ninside or not.{0D},,2 isla(s) 91 inline
+120,0x380E,redirect,0x3417,47,He might be hiding somewhere on\nthe platform!{0D},,
+121,0x3837,redirect,0x3446,31,This one's nearest the gates.{0D},,3 isla(s) 91 inline
+122,0x3856,redirect,0x346E,42,We can see the sign perfectly from\nhere.{0D},,2 isla(s) 91 inline
+123,0x3873,redirect,0x349E,35,We can't see that well from here.{0D},,1 isla(s) 91 inline
+124,0x388E,redirect,0x34C4,44,Dammit! That stupid bell's pissing\nme off!{0D},,2 isla(s) 91 inline
+125,0x38AF,redirect,0x34F6,48,"Calm down, will you? No need to\nrush anything.{0D}",,3 isla(s) 91 inline
+126,0x38D0,redirect,0x352F,79,"There's a lot of civilians here.  For\nthe love of god, don't hit any of\nthem!{0D}",,4 isla(s) 91 inline
+127,0x3907,redirect,0x358A,57,Just stay back for now.  We don't\nwant a gunfight here.{0D},,2 isla(s) 91 inline
+128,0x3934,redirect,0x35C9,44,Can you see him? He might be\nbehind there.{0D},,1 isla(s) 91 inline
+129,0x395B,redirect,0x35F8,47,He might be behind that one too. \nBe careful.{0D},,1 isla(s) 91 inline
+130,0x3980,redirect,0x362A,80,This is a Local R Line train.  It\ngoes around the circumference of\nthe colony.{0D},,4 isla(s) 91 inline
+131,0x39C5,redirect,0x3686,31,The train's gonna leave soon!{0D},,2 isla(s) 91 inline
+132,0x39E2,redirect,0x36AB,62,That's a sign to alert people about\ndepartures and arrivals.{0D},,2 isla(s) 91 inline
+133,0x3A09,redirect,0x36EF,70,That's another sign for the\npassengers.  The train's about to\nleave!{0D},,2 isla(s) 91 inline
+134,0x3A3C,redirect,0x373B,104,That white line has pressure\nsensors under it.{80238057}It was designed to prevent\naccidents with the doors.{0D},,4 isla(s) 91 inline
+135,0x3A71,redirect,0x37AF,66,They're off right now since the\ntrain's stopped at the platform.{0D},,2 isla(s) 91 inline
+136,0x3A92,redirect,0x37F7,35,The sensors are about to come\non!{0D},,1 isla(s) 91 inline
+137,0x3AB5,redirect,0x381D,62,The sensors are on {D0}{06} that\nmeans the train's about to leave!{0D},,2 isla(s) 91 inline
+138,0x3ADC,redirect,0x3861,51,Central Port Station.  Just like it\nsaid outside.{0D},,2 isla(s) 91 inline
+139,0x3B0B,redirect,0x389A,52,These signs carry the name of the\nstation on them.{0D},,2 isla(s) 91 inline
+140,0x3B26,redirect,0x38D4,32,We're at Central Port Station.{0D},,
+141,0x3B4D,redirect,0x38F4,55,That's got all the linear rail stations\nlisted on it.{0D},,1 isla(s) 91 inline
+142,0x3B6E,redirect,0x392E,50,That monitor shows a map of all\nthe train lines.{0D},,2 isla(s) 91 inline
+143,0x3B99,redirect,0x3966,40,"So, this line goes around in a\ncircle.{0D}",,1 isla(s) 91 inline
+144,0x3BB0,redirect,0x3991,219,"There are two types of train lines\non Beyond, the Oval Lines and the\nCircle Lines.{80238057}The Oval Lines go around each of\nthe three surface areas, while the\nCircle Lines go between surface\n areas.  This is a Circle Line.{0D}",,5 isla(s) 91 inline
+145,0x3BEF,redirect,0x3A7B,35,The next station is South Garden.{0D},,1 isla(s) 91 inline
+146,0x3C0E,redirect,0x3AA1,51,The times of the trains are shown\non the monitor.{0D},,1 isla(s) 91 inline
+147,0x3C3B,redirect,0x3AD7,53,That monitor displays the timetable\nof the linears.{0D},,2 isla(s) 91 inline
+148,0x3C6E,redirect,0x3B12,42,It looks like they're on 24 hours a\nday.{0D},,1 isla(s) 91 inline
+149,0x3C8B,redirect,0x3B3F,74,The colony operates on a 24-hour\nsystem.  The linears run day and\nnight.{0D},,2 isla(s) 91 inline
+150,0x3CC4,redirect,0x3B8F,121,Having dedicated day and night\nshifts is essential here.{80238057}We need to get the most out of\nwhat limited space there is.{0D},,4 isla(s) 91 inline
+151,0x3D19,redirect,0x3C14,120,"Besides, we need people watching\nover the colony at all times.{80238057}The entire place can't just go to\nsleep for 8 hours.{0D}",,3 isla(s) 91 inline
+152,0x3D38,redirect,0x3C95,36,We can't see down there from\nhere.{0D},,
+153,0x3D5F,redirect,0x3CB9,43,I doubt he's gone all the way over\nthere.{0D},,1 isla(s) 91 inline
+154,0x3D86,redirect,0x3CE7,57,We don't know for sure.  We took\nawhile coming up here.{0D},,1 isla(s) 91 inline
+155,0x3DB9,redirect,0x3D23,33,"Yeah, we got here pretty quick.{0D}",,1 isla(s) 91 inline
+156,0x3DD8,redirect,0x3D47,21,That's a trash can.{0D},,
+157,0x3DF3,redirect,0x3D5C,53,"C'mon, he couldn't possibly be\nhiding inside there!{0D}",,2 isla(s) 91 inline
+158,0x3E16,redirect,0x3D97,41,That's not him.  It's just a\npassenger.{0D},,1 isla(s) 91 inline
+159,0x3E35,redirect,0x3DC3,6,Talk{0D},,
+160,0x3E3A,redirect,0x3DC9,62,"Hey, you! Did you see a guy\nwearing a bike suit around here?{0D}",,2 isla(s) 91 inline
+161,0x3E6D,redirect,0x3E0D,24,Can't say that I have.{0D},,1 isla(s) 91 inline
+162,0x3E84,redirect,0x3E28,41,"Sorry, I haven't seen anyone like\nthat.{0D}",,2 isla(s) 91 inline
+163,0x3E9F,redirect,0x3E57,2,{0D},,
+164,0x3EBA,redirect,0x3E59,2,{0D},,
+165,0x3EDD,redirect,0x3E5B,2,{0D},,
+166,0x3F0C,redirect,0x3E5D,2,{0D},,
+167,0x3F29,redirect,0x3E5F,43,Those are passengers waiting for\na train.{0D},,2 isla(s) 91 inline
+168,0x3F40,redirect,0x3E90,29,I don't see him among them.{0D},,1 isla(s) 91 inline
+169,0x3F5B,redirect,0x3EB0,57,That's a woman.  Looks like she\njust got off the train.{0D},,2 isla(s) 91 inline
+170,0x3F92,redirect,0x3EEF,2,{0D},,
+171,0x3FA5,redirect,0x3EF1,55,That's a passenger.  She looks like\nan office worker.{0D},,2 isla(s) 91 inline
+172,0x3FC0,redirect,0x3F2E,2,{0D},,
+173,0x3FCD,redirect,0x3F30,14,Is this him?{0D},,
+174,0x3FDA,redirect,0x3F3E,14,Is this him?{0D},,1 isla(s) 91 inline
+175,0x3FF3,redirect,0x3F4F,30,This isn't him! Where is he?{0D},,1 isla(s) 91 inline
+176,0x400A,redirect,0x3F70,61,"C'mon, Jonathan, the guy we're\nafter's wearing a bike suit.{0D}",,2 isla(s) 91 inline
+177,0x4035,redirect,0x3FB3,2,{0D},,
+178,0x405C,redirect,0x3FB5,2,{0D},,
+179,0x408B,redirect,0x3FB7,2,{0D},,
+180,0x40BA,redirect,0x3FB9,45,Those are the ticket gates for the\nstation.{0D},,3 isla(s) 91 inline
+181,0x40DB,redirect,0x3FEF,25,Those are ticket gates.{0D},,2 isla(s) 91 inline
+182,0x40F6,redirect,0x400E,66,Those are the only gates.  He had\nto have come in through there.{0D},,1 isla(s) 91 inline
+183,0x4125,redirect,0x4053,53,"Let's get on the train, Jonathan!\nIt's gonna leave!{0D}",,1 isla(s) 91 inline
+184,0x414E,redirect,0x408E,25,"C'mon, there's no time!{0D}",,
+185,0x416B,redirect,0x40A7,32,"Let's go, what are you doing?!{0D}",,1 isla(s) 91 inline
+186,0x4180,redirect,0x40CA,21,Let's go after him!{0D},,1 isla(s) 91 inline
+187,0x4195,redirect,0x40E2,2,{0D},,
+188,0x41D8,redirect,0x40E4,2,{0D},,
+189,0x41F5,redirect,0x40E6,2,{0D},,
+190,0x4238,redirect,0x40E8,2,{0D},,
+191,0x426B,redirect,0x40EA,2,{0D},,
+192,0x428C,redirect,0x40EC,6,Move{0D},,
+193,0x4291,redirect,0x40F2,16,Go to next car{0D},,1 isla(s) 91 inline
+194,0x42A0,redirect,0x4105,8,System{0D},,
+195,0x42A9,redirect,0x410D,25,Go back to previous car{0D},,1 isla(s) 91 inline
+196,0x42B8,redirect,0x4129,6,Look{0D},,
+197,0x42BD,redirect,0x412F,29,He escaped to the next car.{0D},,
+198,0x42DA,redirect,0x414C,39,We've finally got the son of a bitch.{0D},,2 isla(s) 91 inline
+199,0x42F7,redirect,0x4179,37,I can't see him anywhere from\nhere.{0D},,2 isla(s) 91 inline
+200,0x431C,redirect,0x41A4,29,Let's head to the next car!{0D},,
+201,0x432F,redirect,0x41C1,60,That's the car's door.  We can see\nthe next car from here.{0D},,2 isla(s) 91 inline
+202,0x4356,redirect,0x4203,71,There's a window on the door.  I\ndon't see anyone who looks like\nhim.{0D},,1 isla(s) 91 inline
+203,0x438B,redirect,0x424D,47,This is his blood.  It leads to the\nnext car.{0D},,1 isla(s) 91 inline
+204,0x43B4,redirect,0x427F,45,Look at all this.  He must be losing\na lot.{0D},,4 isla(s) 91 inline
+205,0x43D9,redirect,0x42BB,23,We've almost got him.{0D},,1 isla(s) 91 inline
+206,0x43F0,redirect,0x42D5,67,"Judging from the blood trail, he\nmust've gone on to the next car.{0D}",,3 isla(s) 91 inline
+207,0x4411,redirect,0x4321,38,It fits with what that man said too.{0D},,1 isla(s) 91 inline
+208,0x4438,redirect,0x434A,35,"Yeah, he must be in the next car.{0D}",,1 isla(s) 91 inline
+209,0x4467,redirect,0x4370,202,"These seats have vibrating alarms\nin them to prevent people from\nsleeping past their station.{80238057}If you designate the station you\nwanna get off at, it'll wake you up\nright before the train gets there.{0D}",,6 isla(s) 91 inline
+210,0x44B0,redirect,0x444C,33,"You tired, Ed? You need a seat?{0D}",,1 isla(s) 91 inline
+211,0x44D5,redirect,0x4470,43,"Dammit, Jonathan, not now,\nalright! Shit.{0D}",,
+212,0x44F2,redirect,0x449B,20,That seat's empty.{0D},,
+213,0x4507,redirect,0x44AF,63,"Shit, the train's gonna be arriving\nat the next station soon.{0D}",,3 isla(s) 91 inline
+214,0x4526,redirect,0x44F7,70,We gotta hurry after him.  We're\nnot that far from the next station.{0D},,2 isla(s) 91 inline
+215,0x4557,redirect,0x4543,38,You can see across Beyond from\nhere.{0D},,1 isla(s) 91 inline
+216,0x4584,redirect,0x456C,72,Why are you so interested in the\nscenery? We don't have time for\nthat.{0D},,1 isla(s) 91 inline
+217,0x45BB,redirect,0x45B7,44,We're about to arrive at the next\nstation.{0D},,2 isla(s) 91 inline
+218,0x45D2,redirect,0x45E9,57,"Don't worry, the next station's still\nquite a bit away.{0D}",,2 isla(s) 91 inline
+219,0x45F3,redirect,0x4628,50,"I highly doubt he's outside the\ntrain, Jonathan.{0D}",,
+220,0x4624,redirect,0x465A,101,Those are HD screen ads.{80238057}They're also used for displaying\ninformation and broadcasting TV\nshows.{0D},,4 isla(s) 91 inline
+221,0x4669,redirect,0x46CB,74,Those are news monitors.  You\ncan even get newspapers from\nHome on them.{0D},,2 isla(s) 91 inline
+222,0x46AA,redirect,0x471B,6,Talk{0D},,
+223,0x46AF,redirect,0x4724,2,{0D},,
+224,0x46C6,redirect,0x4726,2,{0D},,
+225,0x46F5,redirect,0x4728,2,{0D},,
+226,0x4712,redirect,0x472A,2,{0D},,
+227,0x4721,redirect,0x472C,2,{0D},,
+228,0x4736,redirect,0x472E,2,{0D},,
+229,0x4757,redirect,0x4730,2,{0D},,
+230,0x4764,redirect,0x4732,2,{0D},,
+231,0x4787,redirect,0x4734,2,{0D},,
+232,0x47A4,redirect,0x4739,96,He's an elderly salaryman.  He's\nprobably got a weak heart.{80238057}Don't do anything to scare him.{0D},,3 isla(s) 91 inline
+233,0x47CD,redirect,0x47A2,57,He looks like an honest guy.  I\ndon't think he's lying.{0D},,2 isla(s) 91 inline
+234,0x47F2,redirect,0x47E1,63,Don't say anything to worry him. \nYou'll just stress him out.{0D},,2 isla(s) 91 inline
+235,0x4811,redirect,0x4826,56,He must be busy if he's taking his\nwork home with him.{0D},,1 isla(s) 91 inline
+236,0x4834,redirect,0x4864,63,Let's just leave him alone.  It's got\nnothing to do with him.{0D},,1 isla(s) 91 inline
+237,0x4861,redirect,0x48A6,73,He's got a laptop in his bag.  He's\nprobably on his way home from\nwork.{0D},,2 isla(s) 91 inline
+238,0x4884,redirect,0x48F5,79,He's definitely a salaryman.  He's\nnot returning from a vacation or\nanything.{0D},,1 isla(s) 91 inline
+239,0x48AF,redirect,0x4947,77,He probably didn't see anything if\nhe was looking out the window\nlike that.{0D},,2 isla(s) 91 inline
+240,0x48DE,redirect,0x499A,39,Look at you guys.  No respect at\nall.{0D},,1 isla(s) 91 inline
+241,0x48FD,redirect,0x49C4,46,"Don't wanna get involved, huh?\nSame as Home.{0D}",,1 isla(s) 91 inline
+242,0x4968,redirect,0x49F5,41,It doesn't look like he knows\nanything.{0D},,2 isla(s) 91 inline
+243,0x4987,redirect,0x4A24,67,He's wearing a suit.  He's probably\na salaryman.  That's not him.{0D},,1 isla(s) 91 inline
+244,0x49BE,redirect,0x4A6A,26,He's listening to music.{0D},,1 isla(s) 91 inline
+245,0x49DF,redirect,0x4A87,2,{0D},,
+246,0x49FA,redirect,0x4A89,2,{0D},,
+247,0x4A11,redirect,0x4A8B,2,{0D},,
+248,0x4A2E,redirect,0x4A8D,2,{0D},,
+249,0x4A71,redirect,0x4A8F,2,{0D},,
+250,0x4AA4,redirect,0x4A91,2,{0D},,
+251,0x4AC5,redirect,0x4A93,57,"It's no use, he's listening to music.\nHe can't hear us.{0D}",,2 isla(s) 91 inline
+252,0x4AF0,redirect,0x4AD2,90,He's listening to music.  He won't\nbe able to hear us unless we take\noff his headphones.{0D},,2 isla(s) 91 inline
+253,0x4B2B,redirect,0x4B32,19,Remove headphones{0D},,1 isla(s) 91 inline
+254,0x4B3C,redirect,0x4B48,2,{0D},,
+255,0x4B4F,redirect,0x4B4A,2,{0D},,
+256,0x4B66,redirect,0x4B4C,2,{0D},,
+257,0x4B91,redirect,0x4B4E,65,It's a middle-aged woman.  Looks\nlike she's reading a magazine.{0D},,3 isla(s) 91 inline
+258,0x4BBC,redirect,0x4B98,41,She seems engrossed with that\nmagazine.{0D},,1 isla(s) 91 inline
+259,0x4BDF,redirect,0x4BC4,50,She probably never even realized\nhe was in here.{0D},,1 isla(s) 91 inline
+260,0x4C16,redirect,0x4BF9,11,"Hey, you.{0D}",,
+261,0x4C21,redirect,0x4C04,66,Let's just leave her alone.  She\nprobably doesn't know anything.{0D},,3 isla(s) 91 inline
+262,0x4C48,redirect,0x4C4F,80,"We'd better not say anything to\nher, Jonathan.  We don't want\nanyone to panic.{0D}",,1 isla(s) 91 inline
+263,0x4C7B,redirect,0x4CA2,74,He really does seem hard of\nhearing.  He probably doesn't\nknow anything.{0D},,2 isla(s) 91 inline
+264,0x4CAC,redirect,0x4CF2,21,That's a salaryman.{0D},,2 isla(s) 91 inline
+265,0x4CC7,redirect,0x4D0D,74,I don't see anything unusual about\nhim.  Probably an upstanding\ncitizen.{0D},,3 isla(s) 91 inline
+266,0x4CF4,redirect,0x4D60,2,{0D},,
+267,0x4D01,redirect,0x4D62,2,{0D},,
+268,0x4D22,redirect,0x4D64,2,{0D},,
+269,0x4D3B,redirect,0x4D66,12,Salaryman?{0D},,
+270,0x4D4C,redirect,0x4D72,193,"Yeah, it basically refers to a\nbusinessman who works for a\ncompany.{80238057}They call them ""salarymen"" in\nJapan.{80238057}Almost all of them pick one\ncompany for life and stay with it\nuntil they retire.{0D}",,3 isla(s) 91 inline
+271,0x4D9D,redirect,0x4E3C,134,They're very loyal to their\ncompany.  It becomes a part of\ntheir life.{80238057}Their attitude towards work is\ndifferent from Westerners'.{0D},,3 isla(s) 91 inline
+272,0x4DE8,redirect,0x4ECB,98,I could never do something like\nthat.{80238057}This something else Tokugawa's\nbrought onto the colony?{0D},,2 isla(s) 91 inline
+273,0x4E33,redirect,0x4F33,32,Another dark-suited salaryman.{0D},,1 isla(s) 91 inline
+274,0x4E58,redirect,0x4F56,69,Most of the people who wear this\nkinda suit are Tokugawa\nemployees.{0D},,2 isla(s) 91 inline
+275,0x4E95,redirect,0x4FA1,30,Are there that many of them?{0D},,2 isla(s) 91 inline
+276,0x4EA8,redirect,0x4FC5,64,Tokugawa control a good chunk of\nthe businesses on the colony.{0D},,2 isla(s) 91 inline
+277,0x4ED5,redirect,0x500B,54,There's another.  It feels like\nbeing back in Japan.{0D},,1 isla(s) 91 inline
+278,0x4F06,redirect,0x5044,74,"It doesn't look like he's here,\nJonathan.  Let's check out the\nnext car.{0D}",,2 isla(s) 91 inline
+279,0x4F41,redirect,0x5094,69,Let's hurry up and take him down\nbefore we get to the next station!{0D},,2 isla(s) 91 inline
+280,0x4F68,redirect,0x50DF,48,"C'mon, let's go.  He went to the\ncar up ahead.{0D}",,1 isla(s) 91 inline
+281,0x4F85,redirect,0x5112,70,There's nothing else for us to do\nhere.  Let's move to the next car!{0D},,1 isla(s) 91 inline
+282,0x4FA8,redirect,0x515B,39,"Alright, let's head for the next\ncar!{0D}",,1 isla(s) 91 inline
+283,0x4FC1,redirect,0x5185,46,Wait! He might be inside this car\nsomewhere.{0D},,2 isla(s) 91 inline
+284,0x4FE8,redirect,0x51B9,47,Let's check out this car a little\nmore first.{0D},,1 isla(s) 91 inline
+285,0x5007,redirect,0x51EB,76,We've wasted a lot of time here. \nWe'll be at the next station any\nminute.{0D},,1 isla(s) 91 inline
+286,0x5038,redirect,0x523A,15,"Let's go, Ed!{0D}",,1 isla(s) 91 inline
+287,0x5057,redirect,0x524C,38,"Alright, let's head to the next car!{0D}",,1 isla(s) 91 inline
+288,0x507C,redirect,0x5275,71,Hold on! He's in here\nsomewhere.  Let's check out this\none some more.{0D},,2 isla(s) 91 inline
+289,0x50AB,redirect,0x52C2,79,There's definitely something going\non here.  He's gotta be in here\nsomewhere.{0D},,2 isla(s) 91 inline
+290,0x50DA,redirect,0x5317,101,"I know this is all new and\ninteresting for you, but we've got\n\n other things to focus on right\nnow.{0D}",,4 isla(s) 91 inline
+291,0x5109,redirect,0x5388,95,"Jonathan, we have to find that\nbiker! You can ride the train all\nyou want after this is over.{0D}",,2 isla(s) 91 inline
+292,0x513C,redirect,0x53ED,38,Those aren't gonna help us find\nhim.{0D},,1 isla(s) 91 inline
+293,0x5163,redirect,0x5416,79,This is his blood.  He's gotta be\nseriously wounded if he's losing\nthis much.{0D},,4 isla(s) 91 inline
+294,0x5198,redirect,0x5471,42,Who the hell do you suppose this\nguy is?{0D},,1 isla(s) 91 inline
+295,0x51AD,redirect,0x549E,62,I'd say he's bleeding pretty heavily\nby the looks of things.{0D},,3 isla(s) 91 inline
+296,0x51D4,redirect,0x54E5,28,More of his blood in here.{0D},,1 isla(s) 91 inline
+297,0x51FB,redirect,0x5504,116,"This is his blood.  It stops here. \nLook, it seems like he's tried to\nmess around with it, maybe to\n throw us off.{0D}",,2 isla(s) 91 inline
+298,0x5244,redirect,0x557E,71,It's not like he can fly or anything. \nHe has to be somewhere nearby.{0D},,2 isla(s) 91 inline
+299,0x526D,redirect,0x55CB,43,That's not him.  That's just a\nsalaryman.{0D},,2 isla(s) 91 inline
+300,0x529A,redirect,0x55FC,41,There's something funny about\nthis guy.{0D},,1 isla(s) 91 inline
+301,0x52BB,redirect,0x5628,60,He looks like he's got something\nto hide.  Watch yourself.{0D},,1 isla(s) 91 inline
+302,0x52DE,redirect,0x5667,41,Look at him.  He's sweating like\ncrazy.{0D},,2 isla(s) 91 inline
+303,0x52FF,redirect,0x5696,27,Let's try talking to him.{0D},,
+304,0x5318,redirect,0x56B1,2,{0D},,
+305,0x5337,redirect,0x56B3,2,{0D},,
+306,0x5368,redirect,0x56B5,2,{0D},,
+307,0x5383,redirect,0x56B7,2,{0D},,
+308,0x53A0,redirect,0x56B9,2,{0D},,
+309,0x53D3,redirect,0x56BB,2,{0D},,
+310,0x53F8,redirect,0x56BD,2,{0D},,
+311,0x541B,redirect,0x56BF,6,....{0D},,
+312,0x5422,redirect,0x56C5,2,{0D},,
+313,0x544D,redirect,0x56C7,2,{0D},,
+314,0x545C,redirect,0x56C9,35,He must be that girl's boyfriend.{0D},,1 isla(s) 91 inline
+315,0x547D,redirect,0x56EF,67,It's a young man.  He looks like\nthat girl's boyfriend.  Not him.{0D},,2 isla(s) 91 inline
+316,0x54A0,redirect,0x5738,44,Look at him! Look at how pale his\nface is.{0D},,2 isla(s) 91 inline
+317,0x54BB,redirect,0x576A,47,"Yeah, you're right.  Maybe he's\nfeeling sick?{0D}",,1 isla(s) 91 inline
+318,0x54DA,redirect,0x579C,35,He looks uptight about something.{0D},,1 isla(s) 91 inline
+319,0x54FD,redirect,0x57C2,2,{0D},,
+320,0x551E,redirect,0x57C4,2,{0D},,
+321,0x5545,redirect,0x57C6,2,{0D},,
+322,0x5586,redirect,0x57C8,2,{0D},,
+323,0x55AD,redirect,0x57CA,2,{0D},,
+324,0x55D4,redirect,0x57CC,2,{0D},,
+325,0x55EB,redirect,0x57CE,66,This guy's wearing a bike suit!\nMaybe he's taken off his helmet?{0D},,2 isla(s) 91 inline
+326,0x5624,redirect,0x5816,43,I think he was a little bigger than\nthis.{0D},,1 isla(s) 91 inline
+327,0x5649,redirect,0x5844,30,"Look, he's pissed his pants.{0D}",,
+328,0x566A,redirect,0x5862,65,This is definitely a bike suit he's\ngot on.  Think this is him?{0D},,3 isla(s) 91 inline
+329,0x568F,redirect,0x58AC,2,{0D},,
+330,0x56D6,redirect,0x58AE,2,{0D},,
+331,0x5705,redirect,0x58B0,2,{0D},,
+332,0x571E,redirect,0x58B2,2,{0D},,
+333,0x5745,redirect,0x58B4,2,{0D},,
+334,0x5766,redirect,0x58B6,2,{0D},,
+335,0x5787,redirect,0x58B8,2,{0D},,
+336,0x57B4,redirect,0x58BA,66,He's not wearing a helmet.  He's\ngot a coat on.  This isn't him.{0D},,2 isla(s) 91 inline
+337,0x57F7,redirect,0x5902,50,He's wearing a coat.  I guess this\ncan't be him.{0D},,1 isla(s) 91 inline
+338,0x5810,redirect,0x5937,50,That guy over there said\nsomething about a coat.{0D},,2 isla(s) 91 inline
+339,0x583F,redirect,0x596F,2,{0D},,
+340,0x5866,redirect,0x5971,2,{0D},,
+341,0x5895,redirect,0x5973,2,{0D},,
+342,0x58A6,redirect,0x5975,2,{0D},,
+343,0x58C7,redirect,0x5977,64,It's a middle-aged man.  He's\nwearing a suit.  This isn't him.{0D},,1 isla(s) 91 inline
+344,0x58F2,redirect,0x59BA,50,Is it just me or is he shaking?\nMaybe he's cold?{0D},,2 isla(s) 91 inline
+345,0x5919,redirect,0x59F2,33,Maybe he's cold without a coat?{0D},,1 isla(s) 91 inline
+346,0x593E,redirect,0x5A19,47,There is that other guy wearing a\ncoat there.{0D},,1 isla(s) 91 inline
+347,0x5961,redirect,0x5A4B,76,We can't see his face.  He's staring\nat the floor.  Doesn't seem like\nhim.{0D},,3 isla(s) 91 inline
+348,0x5990,redirect,0x5AA0,2,{0D},,1 isla(s) 91 inline
+349,0x59C1,redirect,0x5AA5,2,{0D},,
+350,0x59DA,redirect,0x5AA7,2,{0D},,
+351,0x59F7,redirect,0x5AA9,2,{0D},,
+352,0x5A16,redirect,0x5AAB,2,{0D},,
+353,0x5A35,redirect,0x5AAD,2,{0D},,
+354,0x5A4C,redirect,0x5AAF,21,Is the kid alright?{0D},,1 isla(s) 91 inline
+355,0x5A5F,redirect,0x5AC7,67,"Yeah.  That was close.  You were\nabout to shoot him, weren't you?{0D}",,2 isla(s) 91 inline
+356,0x5A84,redirect,0x5B10,52,She's crying.  Did they have a\nfight or something?{0D},,1 isla(s) 91 inline
+357,0x5AA1,redirect,0x5B47,23,Doesn't look like it.{0D},,1 isla(s) 91 inline
+358,0x5ABC,redirect,0x5B61,36,She must be that guy's girlfriend.{0D},,
+359,0x5ADD,redirect,0x5B85,116,It's a young girl.  She looks like\nthat guy's girlfriend.  I don't think\nshe's connected to the biker in\n any way.{0D},,5 isla(s) 91 inline
+360,0x5B04,redirect,0x5C08,30,It looks like she's shaking.{0D},,
+361,0x5B25,redirect,0x5C26,47,"She seems upset about\nsomething, doesn't she?{0D}",,2 isla(s) 91 inline
+362,0x5B48,redirect,0x5C5B,2,{0D},,
+363,0x5B93,redirect,0x5C5D,2,{0D},,
+364,0x5BAA,redirect,0x5C5F,2,{0D},,
+365,0x5BC9,redirect,0x5C61,2,{0D},,
+366,0x5BEC,redirect,0x5C63,2,{0D},,
+367,0x5BFF,redirect,0x5C65,49,"It's nothing.  We just had a fight,\nthat's all.{0D}",,3 isla(s) 91 inline
+368,0x5C2E,redirect,0x5C9F,27,What's with these people?{0D},,1 isla(s) 91 inline
+369,0x5C53,redirect,0x5CBD,27,They're all acting weird.{0D},,1 isla(s) 91 inline
+370,0x5C72,redirect,0x5CDB,18,"Yeah, seriously.{0D}",,
+371,0x5C81,redirect,0x5CED,31,What exactly's going on here?{0D},,1 isla(s) 91 inline
+372,0x5C96,redirect,0x5D0F,30,Every one of them's bananas.{0D},,1 isla(s) 91 inline
+373,0x5CB5,redirect,0x5D30,32,"He isn't back there, Jonathan!{0D}",,1 isla(s) 91 inline
+374,0x5CCC,redirect,0x5D53,44,"No, he's definitely somewhere in\nthis car!{0D}",,2 isla(s) 91 inline
+375,0x5CEF,redirect,0x5D85,55,What are you talking about? He\nran into the next car!{0D},,1 isla(s) 91 inline
+376,0x5D16,redirect,0x5DBF,27,"No, he's in the next car!{0D}",,1 isla(s) 91 inline
+377,0x5D33,redirect,0x5DDD,2,{0D},,
+378,0x5D68,redirect,0x5DDF,2,{0D},,
+379,0x5D79,redirect,0x5DE1,45,Everyone's alright.  Let's hurry\nafter him!{0D},,1 isla(s) 91 inline
+380,0x5D9A,redirect,0x5E11,68,They must've been scared out of\ntheir minds.  They'll be fine now.{0D},,3 isla(s) 91 inline
+381,0x5DC7,redirect,0x5E5E,63,"Thank god everyone's okay. \nC'mon, we can't let him get away!{0D}",,2 isla(s) 91 inline
+382,0x5DFA,redirect,0x5EA3,60,We have to go after the biker. \nLet's get to the next car!{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+383,0x5E25,redirect,0x5EF1,46,We have to hurry! We can't let\nhim get away!{0D},,1 isla(s) 91 inline
+384,0x5E3E,redirect,0x5F22,24,Let's hurry after him!{0D},,1 isla(s) 91 inline
+385,0x5E59,redirect,0x5F3D,21,"Let's go, Jonathan!{0D}",,1 isla(s) 91 inline
+386,0x5E72,redirect,0x5F55,45,We'll be arriving at the next station\nsoon!{0D},,1 isla(s) 91 inline
+387,0x5E8F,redirect,0x5F85,53,We'll be pulling in to the next\nstation any minute!{0D},,2 isla(s) 91 inline
+388,0x5EB4,inplace,0x5EB4,9,yure.pak,,sin codigo 91: revisar
+389,0x5EBD,redirect,0x5FC0,2,{0D},,
+390,0x5EE6,redirect,0x5FC2,2,{0D},,
+391,0x5EF9,redirect,0x5FC4,2,{0D},,
+392,0x5F2E,redirect,0x5FC6,2,{0D},,
+393,0x5F4B,redirect,0x5FC8,2,{0D},,
+394,0x5F6C,redirect,0x5FCA,2,{0D},,
+395,0x5F87,redirect,0x5FCC,2,{0D},,
+396,0x5FB6,redirect,0x5FCE,2,{0D},,
+397,0x5FD3,redirect,0x5FD0,2,{0D},,
+398,0x5FDE,inplace,0x5FDE,12,lt_x139.pak,,sin codigo 91: revisar
+399,0x5FEA,redirect,0x5FD2,2,{0D},,1 isla(s) 91 inline
+400,0x6013,redirect,0x5FD7,2,{0D},,
+401,0x602C,redirect,0x5FD9,2,{0D},,
+402,0x604F,redirect,0x5FDB,2,{0D},,cadena 92: 2 fragmentos unidos
+403,0x605C,redirect,0x5FEF,2,{0D},,
+404,0x60A5,redirect,0x5FF1,2,{0D},,
+405,0x60B8,redirect,0x5FF3,2,{0D},,
+406,0x60CF,redirect,0x5FF5,2,{0D},,
+407,0x60E6,redirect,0x5FF7,2,{0D},,
+408,0x6111,redirect,0x5FF9,2,{0D},,
+409,0x612E,redirect,0x5FFB,2,{0D},,
+410,0x613D,redirect,0x5FFD,2,{0D},,
+411,0x615C,redirect,0x5FFF,2,{0D},,
+412,0x618B,redirect,0x6001,2,{0D},,
+413,0x6196,redirect,0x6003,2,{0D},,
+414,0x61CB,redirect,0x6005,2,{0D},,
+415,0x61EC,redirect,0x6007,2,{0D},,
+416,0x620B,redirect,0x6009,2,{0D},,
+417,0x623C,redirect,0x600B,2,{0D},,
+418,0x627F,redirect,0x600D,2,{0D},,
+419,0x6296,redirect,0x600F,2,{0D},,
+420,0x62AD,redirect,0x6011,2,{0D},,
+421,0x62C8,redirect,0x6016,2,{0D},,
+422,0x62E3,redirect,0x6018,2,{0D},,
+423,0x630A,redirect,0x601A,2,{0D},,
+424,0x631D,redirect,0x601C,2,{0D},,
+425,0x634C,redirect,0x601E,2,{0D},,
+426,0x6379,redirect,0x6020,2,{0D},,
+427,0x63A2,redirect,0x6022,2,{0D},,
+428,0x63D5,redirect,0x6024,2,{0D},,
+429,0x6412,redirect,0x6026,2,{0D},,
+430,0x6431,redirect,0x6028,2,{0D},,
+431,0x645A,redirect,0x602A,2,{0D},,
+432,0x6469,redirect,0x602F,2,{0D},,
+433,0x647E,redirect,0x6031,2,{0D},,
+434,0x649F,redirect,0x6033,2,{0D},,

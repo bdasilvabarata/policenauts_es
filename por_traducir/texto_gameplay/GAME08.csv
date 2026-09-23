@@ -1,0 +1,1270 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x40E3,redirect,0x404E,20,We're outside BCCH.,,
+1,0x40FA,redirect,0x4062,46,Can you believe Chris runs this\nentire place?,,
+2,0x4121,redirect,0x4090,18,I don't envy her.,,
+3,0x413E,redirect,0x40A2,1,,,
+4,0x4167,inplace,0x4167,3,n?,,sin codigo 91: revisar
+5,0x4182,inplace,0x4182,5, us.,,sin codigo 91: revisar
+6,0x419F,inplace,0x419F,5,eft.,,sin codigo 91: revisar
+7,0x41BA,inplace,0x41BA,21,ly lead we\nhave now.,,sin codigo 91: revisar
+8,0x41DB,inplace,0x41DB,56,hink the front door will be\nopen at this time of night?,,sin codigo 91: revisar; 2 isla(s) 91 inline
+9,0x41F8,redirect,0x40A3,23,We've arrived at BCCH.,,
+10,0x420D,redirect,0x40BA,63,"Time to see Chris again.  I mean,\ntime to look for more clues.",,2 isla(s) 91 inline
+11,0x4228,inplace,0x4228,2,1,,sin codigo 91: revisar
+12,0x422A,inplace,0x422A,2,2,,sin codigo 91: revisar
+13,0x422C,inplace,0x422C,2,3,,sin codigo 91: revisar
+14,0x422E,inplace,0x422E,2,4,,sin codigo 91: revisar
+15,0x4230,redirect,0x40FF,1,,,
+16,0x4257,inplace,0x4257,35,ou think the door's gonna be\nopen?,,sin codigo 91: revisar
+17,0x4262,inplace,0x4262,24,e door's gonna be\nopen?,,sin codigo 91: revisar
+18,0x4275,inplace,0x4275,5,pen?,,sin codigo 91: revisar
+19,0x429A,inplace,0x429A,6,ight.,,sin codigo 91: revisar
+20,0x42A5,inplace,0x42A5,23,der... let's go check.,,sin codigo 91: revisar
+21,0x42BE,inplace,0x42BE,57,"thought we were going to check\nout the morgue, Jonathan?",,sin codigo 91: revisar
+22,0x42FD,inplace,0x42FD,57,'t go wandering around. \nThe police are looking for you.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+23,0x4306,inplace,0x4306,48,dering around. \nThe police are looking for you.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+24,0x4317,inplace,0x4317,31,he police are looking for you.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+25,0x4328,redirect,0x4100,28,We're outside the hospital.,,
+26,0x433B,redirect,0x411C,15,We're at BCCH.,,1 isla(s) 91 inline
+27,0x434E,redirect,0x412E,1,,,
+28,0x4353,inplace,0x4353,28,"k out the\nmorgue, remember?",,sin codigo 91: revisar
+29,0x4388,inplace,0x4388,150," are out.  The\nonly people up at this time would\nbe those on call.{80238057}Well, the hospital's run by\ncomputer, so you don't even need\nthat many of them.",,sin codigo 91: revisar
+30,0x43A7,inplace,0x43A7,119,"t this time would\nbe those on call.{80238057}Well, the hospital's run by\ncomputer, so you don't even need\nthat many of them.",,sin codigo 91: revisar
+31,0x43B0,inplace,0x43B0,110,"me would\nbe those on call.{80238057}Well, the hospital's run by\ncomputer, so you don't even need\nthat many of them.",,sin codigo 91: revisar
+32,0x4415,inplace,0x4415,9,of them.,,sin codigo 91: revisar
+33,0x4448,redirect,0x412F,1,,,
+34,0x445B,inplace,0x445B,18,s weird at\nnight.,,sin codigo 91: revisar
+35,0x4498,inplace,0x4498,7,y\nnow.,,sin codigo 91: revisar
+36,0x44B5,redirect,0x4130,5,Move,,
+37,0x44BA,redirect,0x4135,10,Go inside,,1 isla(s) 91 inline
+38,0x44C3,redirect,0x4142,6,Drive,,
+39,0x44CC,redirect,0x4148,34,"Where you trying to go,\nJonathan?",,
+40,0x44ED,redirect,0x416A,29,There's nowhere else for us.,,
+41,0x4510,redirect,0x4187,29,This is the only place left.,,
+42,0x4533,redirect,0x41A4,43,This hospital's the only lead we\nhave now.,,
+43,0x4560,redirect,0x41CF,7,System,,
+44,0x4569,redirect,0x41D6,61,You think the front door will be\nopen at this time of night?,,2 isla(s) 91 inline
+45,0x458A,redirect,0x4219,47,Only one way to find out.  You\nknow the drill.,,cadena 92: 2 fragmentos unidos
+46,0x45A9,redirect,0x4256,36,You think the door's gonna be\nopen?,,
+47,0x45C2,redirect,0x427A,38,Security here does seem pretty\nlight.,,
+48,0x45F1,redirect,0x42A0,28,I wonder... let's go check.,,
+49,0x4610,redirect,0x42BC,59,"I thought we were going to check\nout the morgue, Jonathan?",,
+50,0x4659,redirect,0x42F7,63,We can't go wandering around. \nThe police are looking for you.,,1 isla(s) 91 inline
+51,0x4694,redirect,0x4339,48,"We came here to check out the\nmorgue, remember?",,2 isla(s) 91 inline
+52,0x46DD,redirect,0x436F,5,Look,,
+53,0x46E2,redirect,0x4374,170,"Look, all the lights are out.  The\nonly people up at this time would\nbe those on call.{80238057}Well, the hospital's run by\ncomputer, so you don't even need\nthat many of them.",,
+54,0x475B,redirect,0x441E,76,"I thought I was used to this place\nby now, but it really is weird at\nnight.",,1 isla(s) 91 inline
+55,0x4790,redirect,0x446D,15,Sure is quiet.,,
+56,0x479F,redirect,0x447C,35,Everyone's probably asleep by\nnow.,,
+57,0x47BC,redirect,0x449F,33,This place gives me the willies.,,3 isla(s) 91 inline
+58,0x47E9,redirect,0x44C9,41,I can't get over the size of this\nplace.,,2 isla(s) 91 inline
+59,0x4800,redirect,0x44F8,151,"You won't find a better hospital\nhere, not just in terms of\ntreatment facilities, but patient\n capacity, numbers of doctors and\nnurses {D0}{06} you name it.",,5 isla(s) 91 inline
+60,0x4873,redirect,0x459E,106,"I don't know the specifics, but\napparently the building was\ndesigned by some famous\n architect from Home.",,4 isla(s) 91 inline
+61,0x48BE,redirect,0x4614,41,The lobby was smaller than I'd\nimagined.,,
+62,0x48E5,redirect,0x463D,72,Their main focus is more toward\nhospitalized patients than\noutpatients.,,1 isla(s) 91 inline
+63,0x490E,redirect,0x4688,83,Many of their patients are people\nseeking treatment beyond what\nyou get elsewhere.,,2 isla(s) 91 inline
+64,0x4957,redirect,0x46E1,94,They've got several\nstate-of-the-art facilities you\n\n can't find anywhere else on the\ncolony.,,1 isla(s) 91 inline
+65,0x49A8,redirect,0x4742,35,One of them being the zero G\nward.,,1 isla(s) 91 inline
+66,0x49C1,redirect,0x4768,60,That's the linear elevator.  It goes\nup to the zero G ward.,,2 isla(s) 91 inline
+67,0x49EA,redirect,0x47AA,64,The morgue is down in the\nbasement.  We won't need to use\nthat.,,2 isla(s) 91 inline
+68,0x4A2B,redirect,0x47F0,97,That's the high-speed linear\nelevator that goes up to the zero\nG ward.{80238057}I don't see it moving.,,1 isla(s) 91 inline
+69,0x4A66,redirect,0x4854,47,We rode one of those at the\nTokugawa Building.,,1 isla(s) 91 inline
+70,0x4AAD,redirect,0x4886,60,That's the linear elevator that goes\nup to the zero G ward.,,1 isla(s) 91 inline
+71,0x4AD8,redirect,0x48C5,13,Zero G ward?,,
+72,0x4AE5,redirect,0x48D2,189,It's a zero-gravity ward set up in\nthe center of the colony.{80238057}Weightlessness is a good\nenvironment for treating patients\nwho are bed-ridden or have\n burns over large areas of their\nbody.,,3 isla(s) 91 inline
+73,0x4B62,redirect,0x4998,91,"They also perform certain\noperations there, since blood\ndoesn't spurt out in zero gravity.",,3 isla(s) 91 inline
+74,0x4BAD,redirect,0x49FC,60,That's the linear elevator that goes\nup to the zero G ward.,,1 isla(s) 91 inline
+75,0x4BD0,redirect,0x4A3B,35,The receptionist mentioned it too.,,
+76,0x4C01,redirect,0x4A5E,66,It's BCCH's nameplate.  It's really\nhard to make out the writing.,,1 isla(s) 91 inline
+77,0x4C2E,redirect,0x4AA3,65,It's BCCH's nameplate.  It's\nglowing with the city lights above.,,3 isla(s) 91 inline
+78,0x4C63,redirect,0x4AED,31,It's the hospital's nameplate.,,
+79,0x4C7E,redirect,0x4B0C,70,"""Beyond Coast Central Hospital"".\nJust like you said.  I believed\nyou.",,
+80,0x4D1F,redirect,0x4B52,23,It's BCCH's nameplate.,,1 isla(s) 91 inline
+81,0x4D36,redirect,0x4B6C,45,The door's open.  We can enter\nthrough here.,,
+82,0x4D5D,redirect,0x4B99,78,How can something like this\nhappen with the place supposedly\nrun by computer?,,2 isla(s) 91 inline
+83,0x4D92,redirect,0x4BED,27,"The door's open, Jonathan.",,1 isla(s) 91 inline
+84,0x4DC7,redirect,0x4C0B,26,That's the main entrance.,,
+85,0x4DDA,redirect,0x4C25,30,It's the hospital's entrance.,,1 isla(s) 91 inline
+86,0x4DEB,redirect,0x4C46,26,What's that entrance for?,,
+87,0x4DFA,redirect,0x4C60,44,I'd say it looks like an employee\nentrance.,,2 isla(s) 91 inline
+88,0x4E29,redirect,0x4C92,56,It's probably an entrance for\nemployees.  Not too sure.,,
+89,0x4E5C,redirect,0x4CCA,40,We should go in through the front\ndoor.,,
+90,0x4E8D,redirect,0x4CF2,30,That's not the main entrance.,,
+91,0x4EB4,redirect,0x4D10,34,So what's this entrance here for?,,1 isla(s) 91 inline
+92,0x4ECB,redirect,0x4D35,36,Probably an entrance for\nemployees.,,1 isla(s) 91 inline
+93,0x4EE6,redirect,0x4D5C,44,We can go inside through the\nmain entrance.,,1 isla(s) 91 inline
+94,0x4F03,redirect,0x4D8B,32,Let's check out the front door.,,1 isla(s) 91 inline
+95,0x4F2A,redirect,0x4DAE,34,You were right.  The door's open.,,1 isla(s) 91 inline
+96,0x4F53,redirect,0x4DD3,22,"Hey, the door's open.",,2 isla(s) 91 inline
+97,0x4F70,redirect,0x4DEF,83,"That's the entrance to the\nemergency room.  It's always\nopen, for obvious reasons.",,2 isla(s) 91 inline
+98,0x4FA7,redirect,0x4E48,52,I see.  You really know your way\naround this place.,,1 isla(s) 91 inline
+99,0x4FD2,redirect,0x4E7F,47,"(Nice try, Ed.  ""Employee\nentrance"", he says.)",,1 isla(s) 91 inline
+100,0x4FF5,redirect,0x4EB1,19,We can enter here.,,1 isla(s) 91 inline
+101,0x5018,redirect,0x4EC7,31,We can go inside through here.,,2 isla(s) 91 inline
+102,0x502F,redirect,0x4EEC,90,Those have been modified to repel\ninsects.{80238057}They emit an odor that they find\noffensive.,,2 isla(s) 91 inline
+103,0x5078,redirect,0x4F4C,47,I thought there weren't any\ninsects on Beyond?,,2 isla(s) 91 inline
+104,0x509B,redirect,0x4F81,105,It's not like there are none at all.{80238057}They just keep the bare minimum\nnecessary to support the CELESS.,,2 isla(s) 91 inline
+105,0x50FE,redirect,0x4FF0,69,It's nice for patients to be able to\nsee these from anywhere inside.,,3 isla(s) 91 inline
+106,0x512D,redirect,0x503E,172,This is the hospital's foliage. \nThey've planted trees and bushes\nall around the building.{80238057}The layout was designed to make\nthem visible from every room in\nthe hospital.,,2 isla(s) 91 inline
+107,0x5186,redirect,0x50F0,59,"Yeah, it's soothing having other\nlife around you in space.",,2 isla(s) 91 inline
+108,0x51B3,redirect,0x5131,39,It's foliage planted for the patients.,,
+109,0x51D0,redirect,0x5158,83,That's one of the hospital's lights. \nIt automatically comes on when it\ngets dark.,,1 isla(s) 91 inline
+110,0x520B,redirect,0x51AE,43,No one will ever forget to hit the\nswitch.,,2 isla(s) 91 inline
+111,0x522A,redirect,0x51DF,39,"You know, I never noticed that\nbefore.",,
+112,0x5249,redirect,0x5206,77,That's one of the hospital's lights. \nOne on its own does a pretty good\njob.,,3 isla(s) 91 inline
+113,0x527C,redirect,0x525C,24,What's that pole there?,,
+114,0x5297,redirect,0x5274,94,It's one of the hospital's lights. \nMust be bright if they've only got\nthe one for out front.,,3 isla(s) 91 inline
+115,0x52C2,redirect,0x52DB,71,That's a light.  It's the same as the\none at Tokugawa Pharmaceuticals.,,1 isla(s) 91 inline
+116,0x52F9,redirect,0x5325,52,That light contains high-sensitivity\nlight sensors.,,1 isla(s) 91 inline
+117,0x532E,redirect,0x535C,1,,,
+118,0x5355,inplace,0x5355,7,nsors.,,sin codigo 91: revisar
+119,0x5366,inplace,0x5366,17,"ad inside, then.",,sin codigo 91: revisar
+120,0x537F,inplace,0x537F,32, let's go see what we can\nfind.,,sin codigo 91: revisar
+121,0x53B8,inplace,0x53B8,44,the door's locked!\nWhy? It was open before.,,sin codigo 91: revisar
+122,0x53D3,inplace,0x53D3,17,was open before.,,sin codigo 91: revisar
+123,0x53DE,inplace,0x53DE,6,fore.,,sin codigo 91: revisar
+124,0x541F,redirect,0x535D,1,,,
+125,0x5448,inplace,0x5448,56, inside through the\nemergency room entrance over\nthere.,,sin codigo 91: revisar
+126,0x5481,inplace,0x5481,23,e're inside the lobby.,,sin codigo 91: revisar
+127,0x5494,inplace,0x5494,4,by.,,sin codigo 91: revisar
+128,0x54A9,redirect,0x535E,25,"Let's head inside, then.",,
+129,0x54BA,redirect,0x5377,40,"Alright, let's go see what we can\nfind.",,
+130,0x54D9,redirect,0x539F,17,Let's go inside.,,
+131,0x54F4,redirect,0x53B0,52,"Dammit, the door's locked!\nWhy? It was open before.",,
+132,0x5521,redirect,0x53E4,58,"It's alright, the emergency room\nentrance is always open.",,
+133,0x5548,redirect,0x541E,30,What would you do without me?,,1 isla(s) 91 inline
+134,0x556B,redirect,0x543F,65,We can go inside through the\nemergency room entrance over\nthere.,,
+135,0x5592,redirect,0x5480,24,We're inside the lobby.,,
+136,0x55A9,redirect,0x5498,1,,,
+137,0x55EA,inplace,0x55EA,18,u speak with\nher?,,sin codigo 91: revisar
+138,0x562F,redirect,0x5499,43,We're in the lobby.  What do you\nwanna do?,,2 isla(s) 91 inline
+139,0x564E,redirect,0x54CA,25,We're back in the lobby.,,1 isla(s) 91 inline
+140,0x566B,redirect,0x54E6,1,,,
+141,0x5694,inplace,0x5694,44,r's office.  Or do you have\nmore questions?,,sin codigo 91: revisar
+142,0x56B3,inplace,0x56B3,13,e questions?,,sin codigo 91: revisar
+143,0x56E0,redirect,0x54E7,20,We're in the lobby.,,1 isla(s) 91 inline
+144,0x56EB,redirect,0x54FE,1,,,
+145,0x5720,inplace,0x5720,16,rector's Office,,sin codigo 91: revisar
+146,0x574D,inplace,0x574D,58,upposed to\nbe here.  Let's just do what we've\ncome to do.,,sin codigo 91: revisar
+147,0x5772,inplace,0x5772,21,at we've\ncome to do.,,sin codigo 91: revisar
+148,0x5795,inplace,0x5795,33,a see us if we\nhang around here!,,sin codigo 91: revisar
+149,0x57B4,inplace,0x57B4,2,!,,sin codigo 91: revisar
+150,0x57C5,inplace,0x57C5,64,lking about? We\ncan't just turn back after coming\nall this way!,,sin codigo 91: revisar; 1 isla(s) 91 inline
+151,0x57D6,redirect,0x54FF,1,,,
+152,0x5809,inplace,0x5809,42,"re you nervous? We can do\nthis, Jonathan.",,sin codigo 91: revisar
+153,0x5830,inplace,0x5830,3,n.,,sin codigo 91: revisar
+154,0x583D,inplace,0x583D,31,er around someone will\nsee us.,,sin codigo 91: revisar
+155,0x588C,inplace,0x588C,5,rgue,,sin codigo 91: revisar
+156,0x58A9,redirect,0x5500,40,"Oh, you guys again? How can I\nhelp you?",,1 isla(s) 91 inline
+157,0x58C6,redirect,0x552B,70,I didn't know you were still here. \nYou really put in a lot of hours.,,2 isla(s) 91 inline
+158,0x58ED,redirect,0x5577,70,You're back again today? Nice to\nsee our tax dollars put to good\nuse.,,2 isla(s) 91 inline
+159,0x590C,redirect,0x55C3,57,What happened with the\ndirector? Did you speak with\nher?,,
+160,0x5933,redirect,0x55FC,6,Yeah.,,
+161,0x593E,redirect,0x5602,68,"What a knockout.  And she's an\nold friend of ours, as it turns out.",,1 isla(s) 91 inline
+162,0x5973,redirect,0x5649,31,"Yes, how can I help you again?",,1 isla(s) 91 inline
+163,0x5996,redirect,0x566E,82,You can proceed through to the\ndirector's office.  Or do you have\nmore questions?,,
+164,0x59CF,redirect,0x56C0,67,"If you'd like to speak with the\ndirector, you can head on\nthrough.",,2 isla(s) 91 inline
+165,0x59F6,redirect,0x5709,5,Move,,
+166,0x59FB,redirect,0x570E,6,Leave,,
+167,0x5A04,redirect,0x5714,10,Reception,,
+168,0x5A09,redirect,0x571E,18,Director's Office,,
+169,0x5A12,redirect,0x5730,7,System,,
+170,0x5A1B,redirect,0x5737,1,,,
+171,0x5A48,inplace,0x5A48,2,.,,sin codigo 91: revisar
+172,0x5A71,inplace,0x5A71,50, signboard giving directions\naround the hospital.,,sin codigo 91: revisar
+173,0x5A80,inplace,0x5A80,35,ng directions\naround the hospital.,,sin codigo 91: revisar
+174,0x5AA3,inplace,0x5AA3,54,The director's office is the green\nline.  Here it is.,,sin codigo 91: revisar
+175,0x5AD6,inplace,0x5AD6,3,s.,,sin codigo 91: revisar
+176,0x5AF5,inplace,0x5AF5,43, All we\ngotta do is follow the green line.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+177,0x5B06,redirect,0x5738,79,"Jonathan, we're not supposed to\nbe here.  Let's just do what we've\ncome to do.",,
+178,0x5B37,redirect,0x5787,47,Someone's gonna see us if we\nhang around here!,,
+179,0x5B66,redirect,0x57B6,79,What are you talking about? We\ncan't just turn back after coming\nall this way!,,1 isla(s) 91 inline
+180,0x5B95,redirect,0x5808,43,"Are you nervous? We can do\nthis, Jonathan.",,
+181,0x5BC6,redirect,0x5833,41,If we wander around someone will\nsee us.,,
+182,0x5BED,redirect,0x585C,46,We don't need to go to the\ndirector's office.,,
+183,0x5C0E,redirect,0x588A,7,Morgue,,
+184,0x5C15,redirect,0x5891,1,,,
+185,0x5C6C,inplace,0x5C6C,29,rds for my number to\nappear.,,sin codigo 91: revisar
+186,0x5C8D,inplace,0x5C8D,40, an electronic notice board.  It's\noff.,,sin codigo 91: revisar
+187,0x5CB6,redirect,0x5892,81,"We have to check out the morgue\nto see if we can prove your\ninnocence, remember?",,2 isla(s) 91 inline
+188,0x5D0F,redirect,0x58E9,35,Let's hurry and get to the\nmorgue.,,2 isla(s) 91 inline
+189,0x5D42,redirect,0x5912,48,"Now's not the time to get\ndistracted, Jonathan.",,2 isla(s) 91 inline
+190,0x5D77,redirect,0x5948,68,There's no point hanging around\nhere.  We should get to the\nmorgue.,,1 isla(s) 91 inline
+191,0x5DB4,redirect,0x598F,47,Someone might see us if we stay\nhere too long.,,1 isla(s) 91 inline
+192,0x5DDF,redirect,0x59C1,5,Look,,
+193,0x5DE4,redirect,0x59C6,72,"That's a signboard.  It's off right\nnow, but I know my way around\nhere.",,7 isla(s) 91 inline
+194,0x5E1D,redirect,0x5A23,39,It's a signboard.  Its lights are off.,,
+195,0x5E3A,redirect,0x5A4A,33,The signboard's been turned off.,,
+196,0x5E4F,redirect,0x5A6B,56,It's a signboard giving directions\naround the hospital.,,
+197,0x5E66,redirect,0x5AA3,54,The director's office is the green\nline.  Here it is.,,mismo destino que #174
+198,0x5E95,redirect,0x5AD9,71,We didn't need to check it.  All we\ngotta do is follow the green line.,,1 isla(s) 91 inline
+199,0x5EC4,redirect,0x5B23,67,I wonder where the director's\noffice is.  This place is confusing.,,2 isla(s) 91 inline
+200,0x5EF1,redirect,0x5B6C,45,It'd probably be faster asking at\nreception.,,1 isla(s) 91 inline
+201,0x5F0E,redirect,0x5B9C,50,Where do you suppose all the\nsales reps hang out?,,1 isla(s) 91 inline
+202,0x5F33,redirect,0x5BD1,56,It won't say anything on this.  Let's\nask at reception.,,1 isla(s) 91 inline
+203,0x5F6E,redirect,0x5C0C,48,That's an electronic notice board\nwhen it's on.,,2 isla(s) 91 inline
+204,0x5F93,redirect,0x5C42,71,I often wait here while watching\nthese boards for my number to\nappear.,,
+205,0x5FBE,redirect,0x5C89,44,It's an electronic notice board.  It's\noff.,,
+206,0x5FDF,redirect,0x5CB5,24,The notice board's off.,,1 isla(s) 91 inline
+207,0x5FF8,redirect,0x5CD0,71,It's a notice board for people\nwaiting for appointments or\nmedication.,,1 isla(s) 91 inline
+208,0x6019,redirect,0x5D1A,29,"What, run out of your pills?",,
+209,0x6044,redirect,0x5D37,46,You can see outside with all the\ncity lights.,,1 isla(s) 91 inline
+210,0x6063,redirect,0x5D68,30,"It really is quiet, isn't it?",,1 isla(s) 91 inline
+211,0x6076,redirect,0x5D89,24,There's no one outside.,,
+212,0x6093,redirect,0x5DA1,51,It's brighter outside with the\nlights off in here.,,1 isla(s) 91 inline
+213,0x60B2,redirect,0x5DD7,67,Look how well you can see\noutside.  This must be adjustable\nglass.,,3 isla(s) 91 inline
+214,0x60DF,redirect,0x5E23,84,There's a lot of light coming\nthrough the windows.  Makes the\nlobby feel more open.,,3 isla(s) 91 inline
+215,0x6112,redirect,0x5E80,31,Looks like any ordinary plant.,,1 isla(s) 91 inline
+216,0x612B,redirect,0x5EA2,108,It's a houseplant.  Plants have long\nbeen used for calming the mind.{80238057}You especially need that on\nBeyond.,,3 isla(s) 91 inline
+217,0x618C,redirect,0x5F17,35,It's one of the hospital's plants.,,1 isla(s) 91 inline
+218,0x61B5,redirect,0x5F3D,34,What do you want to sit down\nfor?,,
+219,0x61CE,redirect,0x5F5F,43,Are you feeling tired? We can't\nstop here.,,1 isla(s) 91 inline
+220,0x61FD,redirect,0x5F8D,43,It's weird not seeing anyone sitting\ndown.,,1 isla(s) 91 inline
+221,0x6222,redirect,0x5FBB,47,It's like being in an all-night movie\ntheater.,,2 isla(s) 91 inline
+222,0x6249,redirect,0x5FF0,78,The seats in any hospital waiting\nroom I've been in are always cold\nand hard.,,2 isla(s) 91 inline
+223,0x6282,redirect,0x6047,118,Not here.  These are all fitted with\nchaos systems.{80238057}The feel of the seat changes to\nmatch the patient's condition.,,4 isla(s) 91 inline
+224,0x62D9,redirect,0x60C9,43,They're seats with built-in chaos\nsystems.,,1 isla(s) 91 inline
+225,0x62F4,redirect,0x60F7,44,"It's okay, I don't see anyone at\nreception.",,1 isla(s) 91 inline
+226,0x6313,redirect,0x6126,29,There's no one at reception.,,1 isla(s) 91 inline
+227,0x632A,redirect,0x6146,33,The lights at reception are off.,,
+228,0x633F,redirect,0x6167,41,It's the hospital's information\ncounter.,,1 isla(s) 91 inline
+229,0x636C,redirect,0x6193,78,It's the hospital's information\ncounter.  Why don't we try asking\nabout Hojo.,,2 isla(s) 91 inline
+230,0x63AB,redirect,0x61E7,11,Good idea.,,
+231,0x63C8,redirect,0x61F2,9,Approach,,
+232,0x63CF,redirect,0x61FB,39,I get the feeling the place is\nclosed.,,2 isla(s) 91 inline
+233,0x63F8,redirect,0x6228,71,Only the main lobby.  The hospital\nruns 24 hours a day like any\nother.,,1 isla(s) 91 inline
+234,0x642D,redirect,0x6272,134,Everywhere else is still running\nlike normal.{80238057}We'd have some serious explaining\nto do if we walked into the wrong\narea by mistake.,,3 isla(s) 91 inline
+235,0x647E,redirect,0x6301,32,May we speak with you a\nmoment?,,1 isla(s) 91 inline
+236,0x649F,redirect,0x6324,26,Mind if we have a second?,,2 isla(s) 91 inline
+237,0x64B2,redirect,0x6344,49,That guy looks like he's been\nhospitalized here.,,1 isla(s) 91 inline
+238,0x64C9,redirect,0x6378,61,He seems pretty healthy to me. \nMaybe he's here for surgery?,,1 isla(s) 91 inline
+239,0x64EA,redirect,0x63B8,35,It's a patient in a hospital gown.,,2 isla(s) 91 inline
+240,0x6505,redirect,0x63E1,30,These people won't know Hojo.,,1 isla(s) 91 inline
+241,0x652A,redirect,0x6402,54,He looks like he's got a mental\nillness or something.,,1 isla(s) 91 inline
+242,0x653F,redirect,0x643B,48,"Man, why you gotta talk about\npeople like that?",,
+243,0x655C,redirect,0x646B,48,He looks like he's talking to the\nreceptionist.,,1 isla(s) 91 inline
+244,0x657D,redirect,0x649E,48,We should try inquiring at\nreception ourselves.,,3 isla(s) 91 inline
+245,0x65A2,redirect,0x64D7,44,"Hey, she looks pretty nice from\nthis angle.",,2 isla(s) 91 inline
+246,0x65C1,redirect,0x6509,36,They must be waiting for\nsomething.,,1 isla(s) 91 inline
+247,0x65DC,redirect,0x6530,30,They look like a patient too.,,1 isla(s) 91 inline
+248,0x6603,redirect,0x6551,55,Seems like another patient.  They\ndon't look too good.,,2 isla(s) 91 inline
+249,0x6628,redirect,0x658E,61,These are hospital patients.  They\nwon't be able to help us.,,2 isla(s) 91 inline
+250,0x6655,redirect,0x65D1,27,They're all patients here.,,1 isla(s) 91 inline
+251,0x6664,redirect,0x65EF,38,Those two look like they're\ntogether.,,1 isla(s) 91 inline
+252,0x667F,redirect,0x6618,46,I think we've wasted enough time\non that nut.,,1 isla(s) 91 inline
+253,0x66A4,redirect,0x6649,37,Check out that Chinese-looking\ndude.,,2 isla(s) 91 inline
+254,0x66B9,redirect,0x6674,141,He's got a hand towel tied around\nhis head.  A lot of them do that to\nkeep warm.{80238057}Why would anyone in their right\nmind be doing that here?,,4 isla(s) 91 inline
+255,0x66DA,redirect,0x670D,142,"C'mon, quit staring at him.{80238057}Guys like him start something\nsoon as you make eye contact.{80238057}Look away the same way you'd\navoid a shady dog.",,4 isla(s) 91 inline
+256,0x6727,redirect,0x67A7,5,Talk,,
+257,0x6732,redirect,0x67AC,45,You wanna talk to him? I don't\nlike this....,,2 isla(s) 91 inline
+258,0x675B,redirect,0x67DF,25,"Hey, you with the towel.",,
+259,0x6770,redirect,0x67F8,182,"{D0}{06}achoo!{D0}{06} The hell do you\nwant?{80238057}Lemme guess {D0}{06} friendly\nneighborhood law enforcement,\nam I right?{80238057}I could pick you out from the\nother side of the cylinder with\nthose outfits.",,2 isla(s) 91 inline
+260,0x67AF,redirect,0x68B4,54,"Well, my associate is.{80238057}...Man, is it that obvious?",,2 isla(s) 91 inline
+261,0x67CA,redirect,0x68F0,62,Name's Napoleon.  I'm an\ninformant on Home.  Nice to meet\nya.,,1 isla(s) 91 inline
+262,0x682D,redirect,0x6931,62,You won't get much business\nfrom me.  I don't use informants.,,2 isla(s) 91 inline
+263,0x6858,redirect,0x6975,154,"{D0}{06}aaa... aaa... aaa... achoo!{D0}{06}\nEh, technically I'm on vacation\nanyway.{80238057}I came here to see if they can do\nsomething about this SNOW-9\nallergy of mine.",,4 isla(s) 91 inline
+264,0x68C9,redirect,0x6A1B,32,"But look at me,\n{D0}{06}aaaaachoo!{D0}{06}.",,1 isla(s) 91 inline
+265,0x68E8,redirect,0x6A3E,29,Damned thing's gotten worse.,,1 isla(s) 91 inline
+266,0x6901,redirect,0x6A5E,62,"This place is a joke!\n{D0}{06}achoo!{D0}{06} ""Space's\nCalifornia"" my ass.",,2 isla(s) 91 inline
+267,0x693E,redirect,0x6AA2,65,"Riiight, well, good luck with\nyour... whatever's wrong with\nyou.",,2 isla(s) 91 inline
+268,0x6959,redirect,0x6AE9,108,"Wait a minute....  That you,\nGillian? Gillian Seed?{80238057}What in god's name did you do to\nyour hair, Gillian?",,1 isla(s) 91 inline
+269,0x6998,redirect,0x6B58,5,Who?,,
+270,0x69A5,redirect,0x6B5D,73,Gillian! It's me! Napoleon!{80238057}Don't tell me you lost your\nmemory again?,,
+271,0x69CA,redirect,0x6BA6,112,"Look, I don't know what your deal\nis, but you got the wrong guy,\npal.{80238057}My name's not... Gilligan or\nwhatever.",,2 isla(s) 91 inline
+272,0x6A01,redirect,0x6C1C,50,Strange....  Your face.  You guys\ncould be twins.,,
+273,0x6A2E,redirect,0x6C4E,27,"Leave him alone, Jonathan.",,
+274,0x6A51,redirect,0x6C69,46,She looks busy.  We shouldn't\nwaste her time.,,
+275,0x6A78,redirect,0x6C97,19,"Look, Ed! A nurse!",,
+276,0x6A93,redirect,0x6CAA,24,Why am I not surprised.,,
+277,0x6AB0,redirect,0x6CC2,23,You better believe it.,,
+278,0x6AC7,redirect,0x6CD9,29,She looks like a nurse here.,,1 isla(s) 91 inline
+279,0x6AEC,redirect,0x6CF9,1,,,
+280,0x6B07,inplace,0x6B07,81,",\nGillian? Gillian Seed?{80238057}What in god's name did you do to\nyour hair, Gillian?",,sin codigo 91: revisar
+281,0x6B54,inplace,0x6B54,4,an?,,sin codigo 91: revisar
+282,0x6B63,inplace,0x6B63,67,n! It's me! Napoleon!{80238057}Don't tell me you lost your\nmemory again?,,sin codigo 91: revisar
+283,0x6BA4,inplace,0x6BA4,2,?,,sin codigo 91: revisar
+284,0x6BDD,redirect,0x6CFA,5,Back,,
+285,0x6BE8,redirect,0x6CFF,1,,,
+286,0x6C61,inplace,0x6C61,8,nathan.,,sin codigo 91: revisar
+287,0x6C84,inplace,0x6C84,19,'t\nwaste her time.,,sin codigo 91: revisar
+288,0x6C91,inplace,0x6C91,6,time.,,sin codigo 91: revisar
+289,0x6CD4,inplace,0x6CD4,5, it.,,sin codigo 91: revisar
+290,0x6CE3,redirect,0x6D00,1,,,
+291,0x6D14,inplace,0x6D14,53,please limit our\nconversation to your\ninvestigation?,,sin codigo 91: revisar
+292,0x6D25,inplace,0x6D25,36,conversation to your\ninvestigation?,,sin codigo 91: revisar
+293,0x6D50,redirect,0x6D01,12,What is it?,,
+294,0x6D5F,redirect,0x6D0D,60,Can we please limit our\nconversation to your\ninvestigation?,,
+295,0x6D94,redirect,0x6D49,31,I have work to do here myself.,,2 isla(s) 91 inline
+296,0x6DB5,redirect,0x6D6E,23,She's solid as a rock.,,
+297,0x6DCC,redirect,0x6D85,38,You've got your work cut out for\nyou.,,1 isla(s) 91 inline
+298,0x6DDB,redirect,0x6DAE,36,Have you met with the director\nyet?,,2 isla(s) 91 inline
+299,0x6DF8,redirect,0x6DD8,13,"No, not yet.",,1 isla(s) 91 inline
+300,0x6E07,redirect,0x6DE8,38,I'm sure she's still waiting for you.,,2 isla(s) 91 inline
+301,0x6E26,redirect,0x6E14,78,The director will be waiting for\nyou.  Why don't you head over to\nher office?,,2 isla(s) 91 inline
+302,0x6E53,redirect,0x6E68,45,I don't know how much more I\ncan be of help.,,3 isla(s) 91 inline
+303,0x6E74,redirect,0x6E9E,10,Ask about,,
+304,0x6E79,redirect,0x6EA8,5,Hojo,,
+305,0x6E86,redirect,0x6EAD,71,He would've been here a number\nof times.  You honestly don't know\nhim?,,2 isla(s) 91 inline
+306,0x6EBD,redirect,0x6EFA,45,"I'm sorry, but I don't remember\nmeeting him.",,
+307,0x6EEA,redirect,0x6F27,101,I only deal with patients.{80238057}I don't know anything about sales\nreps from Tokugawa or anywhere\nelse.,,2 isla(s) 91 inline
+308,0x6F33,redirect,0x6F92,105,"Well, it's not that surprising one\nperson doesn't stand out, what if\nthey've got over 800 doctors alone.",,4 isla(s) 91 inline
+309,0x6F70,redirect,0x7007,33,Did you try asking the director?,,1 isla(s) 91 inline
+310,0x6F93,redirect,0x702B,29,She doesn't know him either.,,1 isla(s) 91 inline
+311,0x6FAA,redirect,0x704B,63,"Well, why don't you try speaking\nwith someone at the pharmacy?",,3 isla(s) 91 inline
+312,0x6FD7,redirect,0x7093,16,We already did.,,1 isla(s) 91 inline
+313,0x6FE6,redirect,0x70A6,65,"I'm sorry, but I really can't help\nyou with something like that.",,2 isla(s) 91 inline
+314,0x7019,redirect,0x70ED,35,Try asking the director about him.,,
+315,0x703A,redirect,0x7110,39,Seeing his picture didn't help at\nall?,,2 isla(s) 91 inline
+316,0x7055,redirect,0x713D,15,"No, I'm sorry.",,
+317,0x706C,redirect,0x714C,13,The director,,
+318,0x707B,redirect,0x7159,36,Where do we go to see the\ndirector?,,
+319,0x709A,redirect,0x717D,52,The director can be found in the\ndirector's office.,,1 isla(s) 91 inline
+320,0x70B9,redirect,0x71B4,29,Why do I feel like an idiot.,,
+321,0x70D6,redirect,0x71D1,88,Dr. Goldwin is so beautiful.{80238057}Everyone here loves her.  There's\njust... one thing....,,2 isla(s) 91 inline
+322,0x712F,redirect,0x722F,13,What's that?,,
+323,0x7138,redirect,0x723C,134,"It's rumored she... spends time\nwith President Tokugawa, if you\nknow what I mean.{80238057}I'd hate to think something like\nthat were true.",,4 isla(s) 91 inline
+324,0x7183,redirect,0x72CE,67,I think Dr. Goldwin is amazing. \nShe runs all this all by herself.,,2 isla(s) 91 inline
+325,0x71D4,redirect,0x7317,26,What's the director like?,,1 isla(s) 91 inline
+326,0x71EB,redirect,0x7334,91,"She's young, and extremely\ncharming.{80238057}You can definitely see how she\nused to be a model.",,2 isla(s) 91 inline
+327,0x7242,redirect,0x7395,66,"We all love her here.  She's smart\nand beautiful, and famous too.",,
+328,0x7275,redirect,0x73D7,56,The director has been waiting for\nyou this entire time.,,1 isla(s) 91 inline
+329,0x72A2,redirect,0x7412,14,"Sorry, sorry.",,
+330,0x72B3,redirect,0x7420,58,Please try to hurry.  The director\nis a very busy person.,,
+331,0x72E4,redirect,0x745A,59,Are you just going to keep the\ndirector waiting like this?,,2 isla(s) 91 inline
+332,0x730B,redirect,0x749B,49,I'll cancel your appointment if you\ndon't hurry.,,
+333,0x7328,redirect,0x74CC,46,"No, please don't.  C'mon,\nJonathan, let's go.",,2 isla(s) 91 inline
+334,0x734D,redirect,0x7500,13,The hospital,,
+335,0x735A,redirect,0x750D,163,This is the largest hospital on\nBeyond.{80238057}We've also been designated as one\nof the colony's emergency relief\nfacilities in the event of an accident\n or disaster.,,3 isla(s) 91 inline
+336,0x73FF,redirect,0x75B9,107,Our organ transplantation\ntechnology is the most advanced in\nthe world.{80238057}We're well known even on Earth.,,1 isla(s) 91 inline
+337,0x745C,redirect,0x7627,81,There are many people who come\nall the way from Earth to receive\ntreatment here.,,1 isla(s) 91 inline
+338,0x7497,redirect,0x767B,73,"It's easier to obtain organs here\non Beyond than it is on Home, you\nsee.",,1 isla(s) 91 inline
+339,0x74E4,redirect,0x76C7,12,Why's that?,,1 isla(s) 91 inline
+340,0x74EF,redirect,0x76D6,100,They've established a unified\norgan distribution network and\n\n transplant coordination system\nhere.,,4 isla(s) 91 inline
+341,0x752C,redirect,0x7746,91,There still isn't a consensus\nbetween countries on Earth on\nhow to handle the organ issue.,,1 isla(s) 91 inline
+342,0x757B,redirect,0x77A4,64,You have to go through a lot of\nred tape to get anywhere there.,,2 isla(s) 91 inline
+343,0x75A0,redirect,0x77EA,198,"The first floor consists of\noutpatient examination rooms,\nwhile the second floor and above\n house patient rooms and ORs.{80238057}There's also a zero G treatment\nward located in the center of the\ncolony.",,5 isla(s) 91 inline
+344,0x7613,redirect,0x78BF,35,"Yeah, we saw the elevator\noutside.",,2 isla(s) 91 inline
+345,0x7638,redirect,0x78E8,73,"We have approximately 800 doctors\non staff, divided into 25\ndepartments.",,2 isla(s) 91 inline
+346,0x7681,redirect,0x7937,108,"The hospital is about as perfect as\nany hospital could be, what with\n\n its size, technology,\nmanagement....",,4 isla(s) 91 inline
+347,0x76C8,redirect,0x79AF,84,"Can't argue with you there, what\nwith its gorgeous director, cute\nreceptionists....",,2 isla(s) 91 inline
+348,0x76F9,redirect,0x7A09,20,Ssswing and a fail.,,
+349,0x7718,redirect,0x7A20,4,Her,,
+350,0x7727,redirect,0x7A24,54,"So, is there a name I can put to\nthis beautiful face?",,1 isla(s) 91 inline
+351,0x773E,redirect,0x7A5D,32,Are you... trying to hit on me?,,1 isla(s) 91 inline
+352,0x775B,redirect,0x7A80,134,"Destiny has obviously brought us\ntogether for some reason we've\nyet to understand.{80238057}I'm just trying to get to know you,\nthat's all.",,4 isla(s) 91 inline
+353,0x77AC,redirect,0x7B12,41,"Those lines will get you nowhere,\nbuddy.",,
+354,0x77D5,redirect,0x7B3B,81,"If you were hospitalized here, I\nsuppose you might get to know\nme a little then.",,2 isla(s) 91 inline
+355,0x7800,redirect,0x7B92,19,"So is that a ""no""?",,2 isla(s) 91 inline
+356,0x7813,redirect,0x7BAB,53,Would I be treated by nurses as\nbreathtaking as you?,,2 isla(s) 91 inline
+357,0x784C,redirect,0x7BE6,114,"Of course, you'd get the very best\ncare.{80238057}But they wouldn't be indulging in\nany fantasies of yours, I'm afraid.",,3 isla(s) 91 inline
+358,0x788B,redirect,0x7C64,48,She'd make sure you got a bunch\nof male nurses.,,1 isla(s) 91 inline
+359,0x7898,redirect,0x7C97,65,Maybe I'll just have to tell\neveryone here how I feel about\nyou.,,3 isla(s) 91 inline
+360,0x78C9,redirect,0x7CE1,23,"No, don't even try it!",,1 isla(s) 91 inline
+361,0x78DA,redirect,0x7CFB,52,The director told me I shouldn't\nbe hitting on you.,,1 isla(s) 91 inline
+362,0x7909,redirect,0x7D32,32,Ha ha ha....  Serves you right.,,
+363,0x7916,redirect,0x7D55,61,"Alright, that's enough with that. \nYou're ruining our image.",,1 isla(s) 91 inline
+364,0x7943,redirect,0x7D95,22,The director's office,,1 isla(s) 91 inline
+365,0x7952,redirect,0x7DAE,31,Where's the director's office?,,1 isla(s) 91 inline
+366,0x7963,redirect,0x7DD0,81,At the end of Block B here on the\nfirst floor.  I'll let her know you're\ncoming.,,2 isla(s) 91 inline
+367,0x79A4,redirect,0x7E27,63,"If you follow the green line, that'll\ntake you straight there.",,1 isla(s) 91 inline
+368,0x79D1,redirect,0x7E69,7,Ishida,,
+369,0x79DE,redirect,0x7E70,78,What can you tell us about a man\ncalled Jun Ishida? He's the\npharmacist here.,,1 isla(s) 91 inline
+370,0x7A1D,redirect,0x7EC1,57,"Well, nothing, I'm afraid.  This is a\nvery big hospital.",,1 isla(s) 91 inline
+371,0x7A44,redirect,0x7EFD,32,We have 800 doctors alone here.,,1 isla(s) 91 inline
+372,0x7A79,redirect,0x7F20,86,We have several thousand\nemployees.  It's not like we all\npersonally know each other.,,2 isla(s) 91 inline
+373,0x7AAA,redirect,0x7F7C,73,I've never dealt with anyone at the\npharmacy before.  I really am\nsorry.,,3 isla(s) 91 inline
+374,0x7AE3,redirect,0x7FCE,5,Show,,
+375,0x7AEE,redirect,0x7FD3,11,Hojo photo,,
+376,0x7AFD,redirect,0x7FDE,113,"Let me think....{80238057}I'm sorry, I still don't recall seeing\nanyone like that.  He certainly isn't\na patient here.",,2 isla(s) 91 inline
+377,0x7B46,redirect,0x8055,89,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,
+378,0x7B6F,redirect,0x80B1,54,Sales reps enter round back.  We\nnever see them here.,,2 isla(s) 91 inline
+379,0x7B9A,redirect,0x80ED,15,Lorraine photo,,1 isla(s) 91 inline
+380,0x7BA7,redirect,0x80FF,39,Is there something special about\nthat?,,
+381,0x7BB4,redirect,0x8126,19,"Oh, no, forget it.",,
+382,0x7BCF,redirect,0x8139,35,There's no point showing her this.,,
+383,0x7BFA,redirect,0x815C,18,Policenauts photo,,
+384,0x7C0D,redirect,0x816E,61,That's a really old picture.  That's\nfrom before I was born.,,
+385,0x7C3E,redirect,0x81AB,41,What does that have to do with\nanything?,,
+386,0x7C61,redirect,0x81D4,8,ID card,,
+387,0x7C6C,redirect,0x81DC,38,"That's a Tokugawa Group ID, isn't\nit?",,1 isla(s) 91 inline
+388,0x7C99,redirect,0x8205,64,You see people from Tokugawa\nwith those clipped to their suits.,,2 isla(s) 91 inline
+389,0x7CC4,redirect,0x824B,5,Back,,
+390,0x7CCD,redirect,0x8250,51,She kinda shows a lot for a\nhospital receptionist.,,3 isla(s) 91 inline
+391,0x7CF2,redirect,0x828C,54,She's cute.  I wouldn't mind\ngetting a shot from her.,,1 isla(s) 91 inline
+392,0x7D21,redirect,0x82C5,47,Smart idea putting girls like these\nout front.,,2 isla(s) 91 inline
+393,0x7D52,redirect,0x82FA,19,"Nice going, Chris.",,
+394,0x7D77,redirect,0x830D,47,Her hair's pretty.  It almost looks\nlike silk.,,2 isla(s) 91 inline
+395,0x7D9A,redirect,0x8342,49,I like her hair.  She must take\ngood care of it.,,2 isla(s) 91 inline
+396,0x7DB9,redirect,0x8379,40,It's a nice shade of blond.  Real\nsexy.,,1 isla(s) 91 inline
+397,0x7DDA,redirect,0x83A4,34,That's the uniform you wear\nhere?,,1 isla(s) 91 inline
+398,0x7E03,redirect,0x83C9,93,"This is a BCCH uniform, yes.  It's\nall brand-name clothing.  The\ndirector is big on fashion.",,2 isla(s) 91 inline
+399,0x7E54,redirect,0x842F,31,She used to be a model before.,,
+400,0x7E87,redirect,0x844E,151,"What's more, they're woven with\nacetate fibers, which are\nextremely resistant to bacteria.{80238057}They're part of the hospital's\ninfection control system.",,8 isla(s) 91 inline
+401,0x7EE0,redirect,0x84FD,42,There's more to these than meets\nthe eye.,,2 isla(s) 91 inline
+402,0x7F05,redirect,0x852D,67,I'm liking these uniforms.  Makes\nyou forget you're in a hospital.,,2 isla(s) 91 inline
+403,0x7F3E,redirect,0x8576,46,Personally I'd prefer something\nmore low-cut.,,3 isla(s) 91 inline
+404,0x7F6D,redirect,0x85AD,48,Like the receptionist at the\nTokugawa Building.,,2 isla(s) 91 inline
+405,0x7F8C,redirect,0x85E3,30,It's a microphone for the PA.,,1 isla(s) 91 inline
+406,0x7FA7,redirect,0x8604,25,You stay away from this!,,1 isla(s) 91 inline
+407,0x7FC6,redirect,0x8620,25,Don't you get any ideas.,,1 isla(s) 91 inline
+408,0x7FE7,redirect,0x863C,4,Use,,
+409,0x7FF2,redirect,0x8640,1,,,
+410,0x800B,inplace,0x800B,74,don't recall seeing\nanyone like that.  He certainly isn't\na patient here.,,sin codigo 91: revisar
+411,0x803E,inplace,0x803E,23, isn't\na patient here.,,sin codigo 91: revisar
+412,0x8059,inplace,0x8059,85,hat's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,sin codigo 91: revisar
+413,0x8074,inplace,0x8074,58,k like\nthe type who'd just leave\neverything and take off.,,sin codigo 91: revisar
+414,0x8083,inplace,0x8083,43, who'd just leave\neverything and take off.,,sin codigo 91: revisar
+415,0x80AE,redirect,0x8641,21,I can't believe you.,,
+416,0x80C3,redirect,0x8656,38,Cut it out already.  I ain't kidding.,,1 isla(s) 91 inline
+417,0x80DE,redirect,0x867F,28,You're totally out of line!,,2 isla(s) 91 inline
+418,0x80F9,redirect,0x86A1,1,,,
+419,0x8128,inplace,0x8128,17,", no, forget it.",,sin codigo 91: revisar
+420,0x813F,inplace,0x813F,29,s no point showing her this.,,sin codigo 91: revisar
+421,0x8188,inplace,0x8188,35,e.  That's\nfrom before I was born.,,sin codigo 91: revisar
+422,0x81BB,inplace,0x81BB,25,ave to do with\nanything?,,sin codigo 91: revisar
+423,0x81EE,inplace,0x81EE,20,"Group ID, isn't\nit?",,sin codigo 91: revisar; 1 isla(s) 91 inline
+424,0x820B,inplace,0x820B,58,e people from Tokugawa\nwith those clipped to their suits.,,sin codigo 91: revisar; 2 isla(s) 91 inline
+425,0x821C,redirect,0x86A3,27,She seems pretty cute too.,,1 isla(s) 91 inline
+426,0x823B,redirect,0x86C1,54,She looks like she's calculating a\nbill for somebody.,,1 isla(s) 91 inline
+427,0x825E,redirect,0x86FA,11,Excuse me?,,
+428,0x826F,redirect,0x8705,11,You there!,,
+429,0x8280,redirect,0x8710,41,"Hey, you! You mind turning\naround a sec?",,
+430,0x82AB,redirect,0x8739,39,Yoohoo! Sweetcheeks! You deaf\nor what?,,
+431,0x82C8,redirect,0x8760,58,"Would you look at that.  God\ndamn.  God damn, that's hot.",,
+432,0x82F1,redirect,0x879A,38,Show a little control when we're\nout!,,
+433,0x8312,redirect,0x87C0,93,"Please don't be a butterface,\nplease don't be a butterface,\nplease don't be a butterface....",,2 isla(s) 91 inline
+434,0x832B,redirect,0x8823,26,"Give it a rest, will you?",,1 isla(s) 91 inline
+435,0x8348,redirect,0x8840,54,Look at that ass.  I would eat\nanything off that ass.,,1 isla(s) 91 inline
+436,0x8363,redirect,0x8879,58,"Yeah, I'd hit that.{80238057}...I said that out loud, didn't I?",,1 isla(s) 91 inline
+437,0x838A,redirect,0x88B6,62,"You haven't changed either. \nDon't fight it, Ed.  Go with it.",,
+438,0x83AD,redirect,0x88F4,72,I'm sure she'd just love to turn\naround and see that look on your\nface.,,
+439,0x83DE,redirect,0x893C,46,Will you quit it? Chris'll get\nannoyed again.,,
+440,0x8407,redirect,0x896A,70,I guarantee you Chris is gonna\nfind out if you start acting up\nagain.,,1 isla(s) 91 inline
+441,0x842C,redirect,0x89B3,51,She's busy at the moment.  I can\nhelp you instead.,,
+442,0x8465,redirect,0x89E6,50,Do you not want to speak with me\nfor some reason?,,2 isla(s) 91 inline
+443,0x8480,redirect,0x8A1E,24,They're busy right now!,,
+444,0x84A1,redirect,0x8A36,31,"""She""? The director's a\nwoman?",,1 isla(s) 91 inline
+445,0x84B6,redirect,0x8A58,5,Move,,1 isla(s) 91 inline
+446,0x84BB,redirect,0x8A60,6,Lobby,,
+447,0x84C2,redirect,0x8A66,22,"See you later, Chris.",,1 isla(s) 91 inline
+448,0x84D7,redirect,0x8A7F,30,"Thanks for your time, doctor.",,1 isla(s) 91 inline
+449,0x84F0,redirect,0x8AA0,8,See ya!,,
+450,0x84FF,redirect,0x8AA8,31,Don't you have more questions?,,
+451,0x8522,redirect,0x8AC7,47,Go ahead and ask more questions\nif you'd like.,,1 isla(s) 91 inline
+452,0x853F,redirect,0x8AF9,54,"You can ask more questions if you\nwant, I don't mind.",,2 isla(s) 91 inline
+453,0x855E,redirect,0x8B35,36,You're just going to leave\nalready?,,1 isla(s) 91 inline
+454,0x857B,redirect,0x8B5C,41,I thought you guys wanted to talk\nto me?,,1 isla(s) 91 inline
+455,0x859E,redirect,0x8B88,9,Pharmacy,,
+456,0x85A3,redirect,0x8B91,49,Is it alright if we take a look at the\npharmacy?,,3 isla(s) 91 inline
+457,0x85C2,redirect,0x8BCB,36,"Sure, it's through that door\nthere.",,
+458,0x85D7,redirect,0x8BEF,42,Can we nip through to the\npharmacy again?,,1 isla(s) 91 inline
+459,0x85FA,redirect,0x8C1C,16,"Yeah, go ahead.",,
+460,0x8609,redirect,0x8C2C,46,I don't think we're gonna find\nanything else.,,1 isla(s) 91 inline
+461,0x862A,redirect,0x8C5D,77,You guys seem to get along with\nhim.  Not many people like that\naround here.,,4 isla(s) 91 inline
+462,0x8661,redirect,0x8CB6,38,"Forgot to ask him something, did\nyou?",,1 isla(s) 91 inline
+463,0x868A,redirect,0x8CDF,7,System,,
+464,0x8693,redirect,0x8CE6,64,Where are you going? I thought\nyou needed to do something\nhere?,,2 isla(s) 91 inline
+465,0x86BA,redirect,0x8D2C,70,Trying to run away? I thought\nthere was something you had to\ndo here?,,2 isla(s) 91 inline
+466,0x86E3,redirect,0x8D78,1,,,
+467,0x8714,inplace,0x8714,37, you! You mind turning\naround a sec?,,sin codigo 91: revisar
+468,0x872D,inplace,0x872D,12,ound a sec?,,sin codigo 91: revisar
+469,0x8750,inplace,0x8750,16,u deaf\nor what?,,sin codigo 91: revisar
+470,0x8761,inplace,0x8761,57,"ould you look at that.  God\ndamn.  God damn, that's hot.",,sin codigo 91: revisar
+471,0x877E,inplace,0x877E,28,"amn.  God damn, that's hot.",,sin codigo 91: revisar
+472,0x87A7,inplace,0x87A7,25, control when we're\nout!,,sin codigo 91: revisar
+473,0x87C0,inplace,0x87C0,93,"Please don't be a butterface,\nplease don't be a butterface,\nplease don't be a butterface....",,sin codigo 91: revisar; mismo destino que #433; 2 isla(s) 91 inline
+474,0x87CB,redirect,0x8D79,1,,,
+475,0x87F2,redirect,0x8D7A,54,The pharmacy is off-limits to\nunauthorized personnel.,,2 isla(s) 91 inline
+476,0x8831,redirect,0x8DB6,43,I can't let you in unless you tell me\nwhy.,,
+477,0x8856,redirect,0x8DE1,97,The hospital's pharmacy is actually\ncontrolled by Tokugawa.{80238057}You can't go in without a reason.,,1 isla(s) 91 inline
+478,0x8893,redirect,0x8E45,1,,,
+479,0x88A6,inplace,0x88A6,16,"loud, didn't I?",,sin codigo 91: revisar
+480,0x88B1,inplace,0x88B1,5,t I?,,sin codigo 91: revisar
+481,0x88D4,inplace,0x88D4,32,"on't fight it, Ed.  Go with it.",,sin codigo 91: revisar
+482,0x88E5,inplace,0x88E5,15,.  Go with it.,,sin codigo 91: revisar
+483,0x8916,inplace,0x8916,38,round and see that look on your\nface.,,sin codigo 91: revisar
+484,0x892B,inplace,0x892B,17,ok on your\nface.,,sin codigo 91: revisar
+485,0x893A,inplace,0x893A,2,.,,sin codigo 91: revisar
+486,0x8957,inplace,0x8957,19,get\nannoyed again.,,sin codigo 91: revisar
+487,0x8966,inplace,0x8966,4,in.,,sin codigo 91: revisar
+488,0x8989,redirect,0x8E46,1,,,
+489,0x89B6,inplace,0x89B6,48,'s busy at the moment.  I can\nhelp you instead.,,sin codigo 91: revisar
+490,0x89D7,inplace,0x89D7,15,p you instead.,,sin codigo 91: revisar
+491,0x89EC,redirect,0x8E47,77,"Come on, we haven't seen each\nother in years.  Let's catch up on\neverything.",,1 isla(s) 91 inline
+492,0x8A17,redirect,0x8E97,87,"It's been so long since we've seen\neach other.  You don't have to go\njust yet, do you?",,3 isla(s) 91 inline
+493,0x8A3C,redirect,0x8EF7,34,There's some kinda smell in here.,,2 isla(s) 91 inline
+494,0x8A5B,redirect,0x8F1F,32,"Don't you smell that, Jonathan?",,1 isla(s) 91 inline
+495,0x8A78,redirect,0x8F42,42,I wonder what's in that case in\nher hand.,,
+496,0x8A97,redirect,0x8F6C,64,"Oh, it's just a massquito.  We can\ntalk about them if you want.",,3 isla(s) 91 inline
+497,0x8AD0,redirect,0x8FB5,44,I wonder what's in that case she's\nholding.,,1 isla(s) 91 inline
+498,0x8B03,redirect,0x8FE4,38,"You mean this? Go ahead, take a\nlook.",,2 isla(s) 91 inline
+499,0x8B24,redirect,0x9010,25,"Hey, something's moving.",,
+500,0x8B37,redirect,0x9029,82,I've got an old picture up there. \nWhy don't you take a look at it\nbefore you go?,,4 isla(s) 91 inline
+501,0x8B6A,redirect,0x9087,40,"Not this one here, the one on the\nleft.",,
+502,0x8B9B,redirect,0x90B2,5,Look,,
+503,0x8BA0,redirect,0x90B7,21,Is this a fireplace?,,
+504,0x8BB1,redirect,0x90CC,102,"Yeah, but I don't use it.  You're\nnot allowed to use fireplaces on\nBeyond.  It's just for decoration.",,1 isla(s) 91 inline
+505,0x8C0E,redirect,0x9135,57,"This is marble, isn't it? Pretty\nextravagant decoration.",,2 isla(s) 91 inline
+506,0x8C37,redirect,0x9174,68,It's a fireplace.  It's funny.  You\nfeel warmer just looking at it.,,2 isla(s) 91 inline
+507,0x8C68,redirect,0x91BE,6,Light,,
+508,0x8C6F,redirect,0x91C4,22,So we can't light it?,,
+509,0x8C8A,redirect,0x91DA,44,"Sorry, but it isn't built for actual\nfires.",,1 isla(s) 91 inline
+510,0x8CAF,redirect,0x9209,32,Are you listening to me at all?,,1 isla(s) 91 inline
+511,0x8CCA,redirect,0x922C,21,That's a nice chair.,,
+512,0x8CEF,redirect,0x9241,51,It better be.  I spend half my life\nsitting on it.,,1 isla(s) 91 inline
+513,0x8D22,redirect,0x9277,19,It's Chris' chair.,,1 isla(s) 91 inline
+514,0x8D3D,redirect,0x928D,42,These are books on organ\ntransplantation.,,1 isla(s) 91 inline
+515,0x8D6A,redirect,0x92BA,48,"Like I was saying, that's my area of\nexpertise.",,1 isla(s) 91 inline
+516,0x8D95,redirect,0x92ED,29,That's my area of expertise.,,1 isla(s) 91 inline
+517,0x8DAE,redirect,0x930D,109,"They're all books about organ\ntransplantation.{80238057}I wrote a few of them myself. \nThey're really old, though.",,2 isla(s) 91 inline
+518,0x8E1F,redirect,0x9380,81,I'm probably the only doctor on\nthe colony who keeps so much\npaper media around.,,3 isla(s) 91 inline
+519,0x8E64,redirect,0x93DA,68,They look complicated.  I don't\nthink they'd make much sense to\nus.,,3 isla(s) 91 inline
+520,0x8EA3,redirect,0x9427,58,"How could anyone understand\nthese? You're amazing, Chris.",,
+521,0x8ECE,redirect,0x9461,37,Is this what you were talking\nabout?,,
+522,0x8EDB,redirect,0x9486,53,"Yeah, that's my potpourri.  It\nsmells like lavender.",,
+523,0x8F0E,redirect,0x94BB,13,What's this?,,1 isla(s) 91 inline
+524,0x8F19,redirect,0x94CB,46,It's potpourri.  It has a lavender\nfragrance.,,1 isla(s) 91 inline
+525,0x8F3C,redirect,0x94FC,65,I get it sent to me by a friend on\nHome.  Go ahead and smell it.,,3 isla(s) 91 inline
+526,0x8F7B,redirect,0x9546,25,It's lavender potpourri.,,
+527,0x8F92,redirect,0x955F,6,Smell,,
+528,0x8F9D,redirect,0x9565,35,"Yeah, it does smell like lavender.",,2 isla(s) 91 inline
+529,0x8FC4,redirect,0x958E,34,Mmm....  Lavender's a nice smell.,,
+530,0x8FE9,redirect,0x95B0,31,It's just like Chris' perfume.,,3 isla(s) 91 inline
+531,0x9004,redirect,0x95D8,77,Is it just me or does something\nsmell like a toilet in here all of a\nsudden?,,2 isla(s) 91 inline
+532,0x902F,redirect,0x962B,29,I... I don't smell anything.,,1 isla(s) 91 inline
+533,0x904A,redirect,0x964B,27,What are all these papers?,,2 isla(s) 91 inline
+534,0x9059,redirect,0x966C,83,I've got things like my medical\nlicense and the hospital's\naccreditation up there.,,2 isla(s) 91 inline
+535,0x9080,redirect,0x96C5,100,There are documents hanging all\nover the walls.{80238057}The place really feels like a\ndirector's office.,,2 isla(s) 91 inline
+536,0x90AF,redirect,0x972F,55,I also have a few awards I\nreceived for my organ work.,,3 isla(s) 91 inline
+537,0x90DE,redirect,0x976F,111,It's the cover of a teen magazine\nfrom 30 years ago.{80238057}They've got us and the other\nPolicenauts on the front.,,2 isla(s) 91 inline
+538,0x913F,redirect,0x97E4,46,Seeing you guys brings back so\nmany memories.,,2 isla(s) 91 inline
+539,0x915A,redirect,0x9818,47,It's a magazine cover with us and\nChris on it.,,
+540,0x9181,redirect,0x9847,47,"You didn't come here to look at\nthat, did you?",,1 isla(s) 91 inline
+541,0x91A8,redirect,0x9879,65,This magazine had the largest\ncirculation on Beyond at the time.,,2 isla(s) 91 inline
+542,0x91F5,redirect,0x98C0,23,"It's called ""Beyonds"".",,
+543,0x921A,redirect,0x98D7,29,It's the October 2013 issue.,,
+544,0x9249,redirect,0x98F4,38,This was me before I lost\neverything.,,
+545,0x9278,redirect,0x991A,35,I was just a kid back then myself.,,
+546,0x9297,redirect,0x993D,75,There's Salvatore.  He always\njoked around when we did\npictures like this.,,1 isla(s) 91 inline
+547,0x92D2,redirect,0x998B,47,He's definitely gained some weight\nsince then.,,
+548,0x92FD,redirect,0x99BA,67,There's Tokugawa.  He never\nsmiles when he gets his picture\ntaken.,,
+549,0x9328,redirect,0x99FD,32,Sadaoki seemed happy to see us.,,3 isla(s) 91 inline
+550,0x935B,redirect,0x9A26,36,There's Gates.  He was Mr.\nPopular.,,2 isla(s) 91 inline
+551,0x9392,redirect,0x9A50,37,"I remember how cute you were,\nChris.",,
+552,0x93AB,redirect,0x9A75,17,"Yeah, real cute.",,1 isla(s) 91 inline
+553,0x93BC,redirect,0x9A89,54,Don't think you can flatter your\nway out of this one.,,4 isla(s) 91 inline
+554,0x93E1,redirect,0x9ACB,25,I would've been 14 then.,,
+555,0x9400,redirect,0x9AE4,5,Back,,
+556,0x9409,redirect,0x9AE9,1,,,
+557,0x9418,inplace,0x9418,15,h sense to\nus.,,sin codigo 91: revisar
+558,0x9435,inplace,0x9435,44,"ne understand\nthese? You're amazing, Chris.",,sin codigo 91: revisar
+559,0x944A,inplace,0x944A,23,"You're amazing, Chris.",,sin codigo 91: revisar
+560,0x945F,inplace,0x945F,2,.,,sin codigo 91: revisar
+561,0x9470,inplace,0x9470,22,u were talking\nabout?,,sin codigo 91: revisar
+562,0x94AB,inplace,0x94AB,16, like lavender.,,sin codigo 91: revisar
+563,0x94C0,redirect,0x9AEA,33,"You saw that before, didn't you?",,1 isla(s) 91 inline
+564,0x94E1,redirect,0x9B0E,51,He belonged to someone I knew. \nHe's cute alright.,,1 isla(s) 91 inline
+565,0x9502,redirect,0x9B44,27,Look at how young you are.,,1 isla(s) 91 inline
+566,0x9525,redirect,0x9B62,26,That was a long time ago.,,1 isla(s) 91 inline
+567,0x953C,redirect,0x9B7F,47,You seem... a little sad for\nsomeone your age.,,1 isla(s) 91 inline
+568,0x9569,redirect,0x9BB1,31,"I was 19, if I remember right.",,2 isla(s) 91 inline
+569,0x957E,redirect,0x9BD6,48,It's Chris in her teens.  She's\nholding a baby.,,1 isla(s) 91 inline
+570,0x95B1,redirect,0x9C09,21,It's a newborn baby.,,
+571,0x95C8,redirect,0x9C1E,5,....,,
+572,0x95CF,redirect,0x9C23,32,I don't even remember his name.,,
+573,0x95EE,redirect,0x9C43,24,He's a cute little guy.,,
+574,0x9607,redirect,0x9C5B,48,I'd rather not talk about that\npicture anymore.,,
+575,0x962C,redirect,0x9C8B,65,"That's a nice smell.  It's the same\nas that potpourri, isn't it?",,1 isla(s) 91 inline
+576,0x9655,redirect,0x9CCF,6,Yeah.,,
+577,0x9662,redirect,0x9CD5,34,That's a nice smell.  What is it?,,1 isla(s) 91 inline
+578,0x967D,redirect,0x9CFA,91,It's lavender perfume.  I just hate\nthe smell of drugs.  That's the\nonly reason I wear it.,,1 isla(s) 91 inline
+579,0x96AE,redirect,0x9D58,83,You get about as many people\nwearing fragrances here as you\ndo smoking cigarettes.,,
+580,0x96FD,redirect,0x9DAB,32,Hey! Nothing wrong with either.,,1 isla(s) 91 inline
+581,0x970E,redirect,0x9DCE,30,Mmm....  Suits you perfectly.,,
+582,0x9731,redirect,0x9DEC,42,I'd take this over Ishida in a\nheartbeat.,,
+583,0x9752,redirect,0x9E16,13,O... kay....,,
+584,0x975B,redirect,0x9E23,37,"He has a sensitive nose, that's all.",,1 isla(s) 91 inline
+585,0x977E,redirect,0x9E4B,48,It's a nice smell.  Perfume reminds\nme of Home.,,
+586,0x97B7,redirect,0x9E7B,90,"Wearing perfume or cologne is\ntaboo on Beyond, but I just can't\nstand the smell of drugs.",,1 isla(s) 91 inline
+587,0x97FE,redirect,0x9ED8,28,Mmm....  What a nice smell.,,1 isla(s) 91 inline
+588,0x9813,redirect,0x9EF7,104,I've got potpourri with the same\nfragrance up on the mantlepiece. \nGo ahead and smell it if you'd like.,,
+589,0x984E,redirect,0x9F5F,40,I like this smell.  I find it relaxing.,,1 isla(s) 91 inline
+590,0x987D,redirect,0x9F8A,5,Talk,,
+591,0x9888,redirect,0x9F8F,1,,,
+592,0x98D3,inplace,0x98D3,4,"s"".",,sin codigo 91: revisar
+593,0x98FE,inplace,0x98FE,28,e before I lost\neverything.,,sin codigo 91: revisar
+594,0x9957,inplace,0x9957,49,ays\njoked around when we did\npictures like this.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+595,0x9984,redirect,0x9F90,1,,,
+596,0x99FD,inplace,0x99FD,32,Sadaoki seemed happy to see us.,,sin codigo 91: revisar; mismo destino que #549; 3 isla(s) 91 inline
+597,0x9A0C,redirect,0x9F91,7,Chris?,,
+598,0x9A15,redirect,0x9F98,8,Doctor?,,
+599,0x9A22,redirect,0x9FA0,10,Go ahead.,,
+600,0x9A35,redirect,0x9FAD,6,Yeah?,,
+601,0x9A3C,redirect,0x9FB3,93,"Sorry we tried to sneak in here\nlike this, Chris.  There was\nsomething we just had to check.",,1 isla(s) 91 inline
+602,0x9A83,redirect,0xA013,40,"Yeah, you told me.  So what's\ngoing on?",,1 isla(s) 91 inline
+603,0x9A98,redirect,0xA03E,26,What do you want to know?,,1 isla(s) 91 inline
+604,0x9AA9,redirect,0xA05B,10,Ask about,,
+605,0x9AAE,redirect,0xA065,5,Hojo,,
+606,0x9ABB,redirect,0xA06D,77,So you don't know anything at all\nabout Hojo? The littlest thing\ncould help.,,3 isla(s) 91 inline
+607,0x9AFE,redirect,0xA0C3,58,"No, this is the first time I've heard\nof him.  I'm sorry.",,3 isla(s) 91 inline
+608,0x9B2B,redirect,0xA106,63,He would've dealt mainly with the\npharmacist when he was here.,,2 isla(s) 91 inline
+609,0x9B58,redirect,0xA14B,30,Did you ask Ishida about him?,,2 isla(s) 91 inline
+610,0x9B6B,redirect,0xA16F,38,He didn't seem to know him that\nwell.,,
+611,0x9B86,redirect,0xA195,40,You could always try going to\nTokugawa.,,1 isla(s) 91 inline
+612,0x9BB7,redirect,0xA1C0,13,The pharmacy,,
+613,0x9BC0,redirect,0xA1CD,33,You have your own pharmacy\nhere?,,1 isla(s) 91 inline
+614,0x9BDB,redirect,0xA1F1,204,"Beyond has the same medical\nsystem you find in Japan, where a\ndoctor can also serve as\n pharmacist.  When people get\ntheir prescription in a hospital,\nthey'll receive their medication\n from its pharmacy.",,3 isla(s) 91 inline
+615,0x9C96,redirect,0xA2C6,114,We have our own pharmacy since\nthere's no separation between\nprescribing and dispensing in our\n medical industry.,,2 isla(s) 91 inline
+616,0x9CD7,redirect,0xA33E,229,The profit margin for drugs here\nis astronomical.{80238057}Doctors rake in an extra 20 to 30%\nby dispensing themselves.{80238057}Hospitals and drug companies\nmake a killing in this system\nbecause the price of drugs for\n patients is so high.,,5 isla(s) 91 inline
+617,0x9D50,redirect,0xA432,181,One of the reasons Tokugawa\nPharmaceuticals has become so\nsuccessful is because it lobbied\n for the implementation of the\nJapanese system on Beyond in the\nearly days of the colony.,,3 isla(s) 91 inline
+618,0x9DB7,redirect,0xA4F0,113,Plus there's the fact that people\nhere prefer to take a drug for\nsomething even if they don't\n actually need it.,,3 isla(s) 91 inline
+619,0x9E40,redirect,0xA56A,148,"All this has led to\nover-prescription, a large drug\nprofit margin, and a medical\n industry that benefits doctors and\nhospitals instead of patients.",,2 isla(s) 91 inline
+620,0x9E95,redirect,0xA604,119,"Personally, I'm against doing\nthings this way.{80238057}We should be working on\nseparating the industry like places\non Home.",,3 isla(s) 91 inline
+621,0x9EF2,redirect,0xA684,110,"But as a businesswoman, it's great\nfor us.{80238057}The hospital wouldn't be where it\nis today without this system.",,2 isla(s) 91 inline
+622,0x9F6B,redirect,0xA6F8,53,"Yeah, I get all that, but what about\nthe pharmacist?",,2 isla(s) 91 inline
+623,0x9FAA,redirect,0xA733,47,"Oh yeah, the pharmacist.  You\nmean Jun Ishida.",,1 isla(s) 91 inline
+624,0xA00F,redirect,0xA765,9,The 15th,,1 isla(s) 91 inline
+625,0xA01C,redirect,0xA771,36,It seems Hojo was here on the\n15th.,,1 isla(s) 91 inline
+626,0xA045,redirect,0xA798,34,"The 15th? Let's see, the 15th....",,1 isla(s) 91 inline
+627,0xA06A,redirect,0xA7BD,68,I wasn't here that day.  I was away\nattending a medical conference.,,
+628,0xA09D,redirect,0xA801,22,A medical conference?,,1 isla(s) 91 inline
+629,0xA0A4,redirect,0xA81A,28,"Yeah, on organ transplants.",,1 isla(s) 91 inline
+630,0xA0BB,redirect,0xA839,9,Oh well.,,
+631,0xA0D8,redirect,0xA842,37,Ishida should've been here that\nday.,,1 isla(s) 91 inline
+632,0xA0F1,redirect,0xA86A,14,"Yeah, he was.",,1 isla(s) 91 inline
+633,0xA102,redirect,0xA87B,7,Ishida,,1 isla(s) 91 inline
+634,0xA10F,redirect,0xA885,25,Is Ishida working today?,,
+635,0xA12C,redirect,0xA89E,52,"No, he hasn't showed up.  He's\nsupposed to be here.",,
+636,0xA153,redirect,0xA8D2,25,He's just skipping work?,,1 isla(s) 91 inline
+637,0xA15E,redirect,0xA8EE,123,He's never done anything like this\nbefore.  I can't get a hold of him.{80238057}It was a nightmare at the\npharmacy this morning.,,1 isla(s) 91 inline
+638,0xA1AD,redirect,0xA96C,40,I'll need to contact Tokugawa\nabout it.,,
+639,0xA1DE,redirect,0xA994,118,I wonder what could've happened\nto him.  He was always serious\nabout work.{80238057}That was the only good thing\nabout him.,,1 isla(s) 91 inline
+640,0xA219,redirect,0xAA0D,40,What can you tell us about this\nIshida?,,2 isla(s) 91 inline
+641,0xA23A,redirect,0xAA3B,156,"Jun Ishida is an employee of\nTokugawa Pharmaceuticals\nassigned to us here at the\n hospital.  He can be a bit of an odd\ncharacter, but he gets the job\ndone.",,3 isla(s) 91 inline
+642,0xA2AD,redirect,0xAAE0,39,He works for Tokugawa\nPharmaceuticals?,,
+643,0xA2C8,redirect,0xAB07,127,We have an important relationship\nwith Tokugawa.  A number of\ntheir employees work here.{80238057}We could never just shut them\nout.,,2 isla(s) 91 inline
+644,0xA31D,redirect,0xAB8C,131,"He's a Nisei Beyond.  He hasn't\ngot much of a personality, really. \nNone of them do.{80238057}I only talk to him when it's\nwork-related.",,2 isla(s) 91 inline
+645,0xA366,redirect,0xAC15,64,"What did you think of him? Kind\nof a dark guy, don't you think?",,1 isla(s) 91 inline
+646,0xA399,redirect,0xAC58,55,"Doesn't seem like he tries very\nhard, that's for sure.",,1 isla(s) 91 inline
+647,0xA3D2,redirect,0xAC92,24,The pharmacy's location,,1 isla(s) 91 inline
+648,0xA3DD,redirect,0xACAD,30,Where's the pharmacy located?,,
+649,0xA3EC,redirect,0xACCB,206,"Through that door there.  The\ntwo rooms were originally one. \nIt's a little inconvenient, I know.{80238057}We split this room up, and that's\nwhere we put the pharmacy.{80238057}The window's out in the hall, of\ncourse.",,3 isla(s) 91 inline
+650,0xA463,redirect,0xADA2,43,"You make sure no one steals\nanything, huh?",,1 isla(s) 91 inline
+651,0xA494,redirect,0xADD0,42,Ha ha ha....  I guess you could say\nthat.,,
+652,0xA4B3,redirect,0xADFA,89,We're planning on moving it soon\nsince it's been a pain having it like\nthis for so long.,,3 isla(s) 91 inline
+653,0xA4F6,redirect,0xAE5C,4,Her,,1 isla(s) 91 inline
+654,0xA505,redirect,0xAE63,79,So how did Beyond's first teen idol\nwind up in charge of its biggest\nhospital?,,1 isla(s) 91 inline
+655,0xA54E,redirect,0xAEB5,71,I quit modeling 20 years ago.  My\nparents were doctors here on\nBeyond.,,1 isla(s) 91 inline
+656,0xA599,redirect,0xAEFF,61,But then... they were killed in that\nspaceplane disaster....,,
+657,0xA5D8,redirect,0xAF3C,109,"That's when I inherited this\nplace.{80238057}I'd gone to medical school, and\nthis was the only thing they left\nme.",,3 isla(s) 91 inline
+658,0xA639,redirect,0xAFB2,69,"I'm always busy with something,\nwhether it's here or somewhere\nelse.",,1 isla(s) 91 inline
+659,0xA65A,redirect,0xAFFA,20,"You married, Chris?",,
+660,0xA66B,redirect,0xB00E,61,Nope.  I've never had much time\nfor relationships with work.,,1 isla(s) 91 inline
+661,0xA6AE,redirect,0xB04E,102,I've devoted my life to my\ncareer.{80238057}Guys stopped showing any interest\nin me a long time ago anyway.,,1 isla(s) 91 inline
+662,0xA6E5,redirect,0xB0B7,40,"I find that very, very hard to\nbelieve.",,1 isla(s) 91 inline
+663,0xA6FE,redirect,0xB0E2,36,Are you saying you'd be\ninterested?,,
+664,0xA727,redirect,0xB106,28,I just might.{80238057}...Really?,,
+665,0xA734,redirect,0xB122,52,Honestly? No.  Maybe if you\nweren't such a pervert.,,
+666,0xA76D,redirect,0xB156,38,So whose child is that in that\nphoto?,,2 isla(s) 91 inline
+667,0xA790,redirect,0xB182,17,Son of a friend.,,
+668,0xA7A9,redirect,0xB193,115,"Before I forget, I don't mind when\nyou say things like that to me, but\n\n leave that poor receptionist alone,\nokay?",,1 isla(s) 91 inline
+669,0xA80A,redirect,0xB209,30,You heard about that already?,,1 isla(s) 91 inline
+670,0xA821,redirect,0xB22A,41,"Come on, everybody heard it over\nthe PA.",,
+671,0xA846,redirect,0xB253,70,"You must have more important\nthings to talk about than me, don't\nyou?",,1 isla(s) 91 inline
+672,0xA871,redirect,0xB29C,8,Her job,,
+673,0xA87E,redirect,0xB2A4,134,"My main job is running the\nhospital, but since my area of\nexpertise is organ transplantation,\n I help out a little with that as well.",,2 isla(s) 91 inline
+674,0xA8E1,redirect,0xB330,161,"For instance, I'm a consultant for\nthe Beyond Coast Organ\nProcurement Network, the\n Beyond Coast Organ Distribution\nNetwork and various other\ntransplant groups.",,2 isla(s) 91 inline
+675,0xA930,redirect,0xB3D7,87,"I also work as an intermediary\nbetween transplant coordinators,\ndonors and recipients.",,1 isla(s) 91 inline
+676,0xA9DF,redirect,0xB431,26,Can I ask you a question?,,2 isla(s) 91 inline
+677,0xAA2A,redirect,0xB451,6,Sure.,,
+678,0xAA31,redirect,0xB457,127,Ishida and this guy at Tokugawa\nPharmaceuticals were both saying\nthere are a lot of cases of Beyonds\n disappearing on purpose.,,2 isla(s) 91 inline
+679,0xAA94,redirect,0xB4DC,26,You mean Return Syndrome?,,
+680,0xAAC1,redirect,0xB4F6,27,Does that actually happen?,,
+681,0xAACE,redirect,0xB511,102,"It did before, yeah.  But these\ndays it's rare.  The colony's full of\nsecond-generation citizens now.",,2 isla(s) 91 inline
+682,0xAB2D,redirect,0xB57D,39,So what about a Terrestrial like\nHojo?,,
+683,0xAB6C,redirect,0xB5A4,137,"Well, it is possible.  But I've been\nliving here for the last 30 years,\nand I feel fine.{80238057}I don't know what to tell you, to\nbe honest.",,2 isla(s) 91 inline
+684,0xABB3,redirect,0xB633,9,Tokugawa,,
+685,0xABC0,redirect,0xB63C,152,Most medical products used on\nBeyond are made by Tokugawa\nPharmaceuticals.{80238057}I'd be lying if I said there weren't\nany sort of relationship between\nus.,,3 isla(s) 91 inline
+686,0xAC2F,redirect,0xB6DD,69,"We do have a business\nrelationship, but I don't know him\npersonally.",,1 isla(s) 91 inline
+687,0xAC66,redirect,0xB725,60,We heard a rumor you and\nSadaoki are... particularly close.,,1 isla(s) 91 inline
+688,0xACA9,redirect,0xB764,97,"What?! Oh, come on.  They're\nsaying that again? Like I'd ever be\ninterested in someone like him.",,2 isla(s) 91 inline
+689,0xACF2,redirect,0xB7CB,22,The Tokugawa Building,,1 isla(s) 91 inline
+690,0xAD07,redirect,0xB7E4,134,It's the headquarters of the\nTokugawa Group on the colony. \nYou should go there sometime.{80238057}It's one of Beyond's most famous\nplaces.,,1 isla(s) 91 inline
+691,0xAD6C,redirect,0xB86D,110,"I've been there a few times\nmyself.  It's an incredible place,\nJonathan.{80238057}You'll see what I mean if you go.",,4 isla(s) 91 inline
+692,0xADAD,redirect,0xB8E7,115,"Yeah, we were there.  You're\nright.{80238057}You can't deny the hold he's got\non people, even if you don't like\nthe guy.",,1 isla(s) 91 inline
+693,0xAE00,redirect,0xB95D,57,Yeah.  The Prop is the main thing\nsupporting this place.,,
+694,0xAE41,redirect,0xB996,29,"In an economic sense, maybe.",,
+695,0xAE52,redirect,0xB9B3,4,K-9,,
+696,0xAE5D,redirect,0xB9B7,40,You ever heard of something\ncalled K-9?,,1 isla(s) 91 inline
+697,0xAE76,redirect,0xB9E2,139,"K-9? Maybe it's part of\nTokugawa Pharmaceuticals' K\nSeries?{80238057}I know about the ones up to K-8,\nbut this is the first I've heard of a\nK-9.",,2 isla(s) 91 inline
+698,0xAEDD,redirect,0xBA73,149,Tokugawa's DDS drugs became\nparticularly famous after they\ndeveloped the first SAS medicine\n for astronauts.  It's a patch you\nstick behind the ear.,,2 isla(s) 91 inline
+699,0xAF54,redirect,0xBB0E,58,The only thing that comes to mind\nis Tokugawa's K Series.,,
+700,0xAF7D,redirect,0xBB48,22,Organ transplantation,,1 isla(s) 91 inline
+701,0xAF8E,redirect,0xBB61,54,Are organ transplants really that\nimportant in space?,,
+702,0xAFC1,redirect,0xBB97,151,"Yeah, they're absolutely essential\nto us.{80238057}Space's environment has massive\neffects on the human body, what\nwith the weightlessness and\n cosmic rays.",,4 isla(s) 91 inline
+703,0xB040,redirect,0xBC3A,141,We still aren't ready for\ntransplanting artificial organs.{80238057}All medical science can do at the\nmoment is transplant them from\nother people.,,6 isla(s) 91 inline
+704,0xB0B3,redirect,0xBCD9,43,What are the dangers of organ\ntransplants?,,3 isla(s) 91 inline
+705,0xB0C8,redirect,0xBD0D,236,"In the past the biggest problem\nwas post-op rejection, but we've\novercome that with the\n development of Tokugawa\nPharmaceuticals'\nimmunosuppressant cypusloidine,\n as well as masked transplants,\nwhich don't trigger a rejection\nreaction.",,7 isla(s) 91 inline
+706,0xB161,redirect,0xBE0E,20,Masked transplants?,,
+707,0xB176,redirect,0xBE22,162,It's a revolutionary procedure\nthat's eliminated rejections in\nrecipients.{80238057}With it we're able to mask the\norgan's HLA class I antigens\nbefore transplantation.,,1 isla(s) 91 inline
+708,0xB1E5,redirect,0xBEC7,114,"I'm not too familiar with it, but\nwith its introduction the number\n\n of organ transplants has risen\ndramatically.",,2 isla(s) 91 inline
+709,0xB222,redirect,0xBF3F,109,"The success rates of transplants\nhave gone up, while the side\neffects of immunosuppressants\n have gone down.",,2 isla(s) 91 inline
+710,0xB255,redirect,0xBFB2,169,"We've made countless advances in\nprocedures, preservation methods\nand tissue compatibility tests over\n the years.  Technologically\nspeaking, we've cleared every\nhurdle.",,1 isla(s) 91 inline
+711,0xB2AA,redirect,0xC05E,55,The only real problem would be\nthe shortage of donors.,,2 isla(s) 91 inline
+712,0xB2E1,redirect,0xC09B,146,"We finally established global\ncriteria for brain death after the\nturn of the century, but a number\n of issues have maintained the\ndonor shortage.",,1 isla(s) 91 inline
+713,0xB372,redirect,0xC130,64,"We have the technology, but it's\nuseless without enough donors.",,
+714,0xB3BB,redirect,0xC170,39,My wife died waiting for a\ntransplant.,,1 isla(s) 91 inline
+715,0xB402,redirect,0xC19A,37,Karen's waiting for a donor\nherself.,,
+716,0xB437,redirect,0xC1BF,18,Artificial organs,,
+717,0xB448,redirect,0xC1D1,36,What about using artificial\norgans?,,1 isla(s) 91 inline
+718,0xB45D,redirect,0xC1F8,177,"We're a long way from developing\norgans that can be used long\nterm, function as a complete\n replacement for the failed organ,\nand are small enough to be\ninserted into the body.",,6 isla(s) 91 inline
+719,0xB4A0,redirect,0xC2BB,206,"We do have machine organs and\nbio organs, but the only\nreplacements that can currently be\n classified as complete are artificial\nbones, teeth and a type of blood\n\n used exclusively for transporting\noxygen.",,5 isla(s) 91 inline
+720,0xB519,redirect,0xC39B,51,You're talking about the artificial\nblood AP uses.,,1 isla(s) 91 inline
+721,0xB536,redirect,0xC3D1,256,"There are machines that can\nfunction as supplementary hearts\nand kidneys outside the body, but\n there are problems with\ninternalizing them.{80238057}The most advanced artificial kidney\nI can ever see us developing is\n\n continuous ambulatory peritoneal\ndialysis.",,8 isla(s) 91 inline
+722,0xB5D1,redirect,0xC4E9,46,Are there any organs you could\nnever replace?,,1 isla(s) 91 inline
+723,0xB5F0,redirect,0xC51A,213,"I'd say the liver, the pancreas and\nthe gastrointestinal organs.{80238057}There are hybrid types in\ndevelopment that combine organic\ntissue and synthetic materials, but\n they're still testing them on\nanimals right now.",,7 isla(s) 91 inline
+724,0xB667,redirect,0xC607,129,"The only place you'll find cyborgs\nfor now are movies and video\ngames and the like.{80238057}We can't play God at everything,\nperhaps.",,3 isla(s) 91 inline
+725,0xB6BE,redirect,0xC691,10,Radiation,,1 isla(s) 91 inline
+726,0xB6CD,redirect,0xC69E,42,Which organs are affected by\ncosmic rays?,,1 isla(s) 91 inline
+727,0xB6F4,redirect,0xC6CB,187,"The ones with rapid cell division\nrates are affected the most.{80238057}For instance, bone marrow,\nlymphatic tissue, the mucosal\nepithelium of the digestive tract,\n the reproductive organs....",,7 isla(s) 91 inline
+728,0xB74D,redirect,0xC79B,33,That's what's happened to Karen.,,1 isla(s) 91 inline
+729,0xB786,redirect,0xC7BF,73,"Then come the kidneys, the liver,\nthe lungs, the skin, blood\nvessels....",,3 isla(s) 91 inline
+730,0xB7B1,redirect,0xC811,58,The effects on sperm and fetuses\nare the most pronounced.,,2 isla(s) 91 inline
+731,0xB7DA,redirect,0xC851,113,"Yeah, I know about that.{80238057}You had to avoid conceiving for at\nleast 6 months after returning\nfrom space before.",,3 isla(s) 91 inline
+732,0xB827,redirect,0xC8CB,81,"The timeframe's been reduced,\nbut Amphibians still have to be\ncareful with that.",,3 isla(s) 91 inline
+733,0xB86E,redirect,0xC925,12,Brain death,,
+734,0xB87B,redirect,0xC931,27,You mentioned brain death?,,1 isla(s) 91 inline
+735,0xB886,redirect,0xC94F,182,"Brain death is different from\npersistent vegetative state.{80238057}In persistent vegetative state, the\ncerebral cortex stops functioning\nwhile the brain stem continues to\n work normally.",,4 isla(s) 91 inline
+736,0xB8D7,redirect,0xCA11,196,"Some people differentiate between\ntotal brain death and brain stem\ndeath, but in both cases, the brain\n stem, which basically speaking\nregulates the body's life support\nsystem, stops functioning.",,4 isla(s) 91 inline
+737,0xB932,redirect,0xCAE1,185,"There's many criteria involved in\ndeclaring brain death.{80238057}Before, conditions varied from\ncountry to country, but we now\nhave a worldwide consensus for\n declaring a person brain dead.",,5 isla(s) 91 inline
+738,0xB9CB,redirect,0xCBA9,208,"The donation of organs or tissue\nfrom a brain-dead individual is\nbased on the doctrine of informed\n consent from either the individual,\nwhen still mentally competent, or\nthe individual's family or caregiver.",,6 isla(s) 91 inline
+739,0xBA56,redirect,0xCC8B,24,Bone marrow transplants,,
+740,0xBA67,redirect,0xCCA6,115,"This doesn't have anything to do\nwith our investigation, but how\ncomplex a procedure is a bone\n marrow transplant?",,2 isla(s) 91 inline
+741,0xBA9E,redirect,0xCD1F,116,"A bone marrow transplant? Well,\nall transplants are complex\nprocedures, but bone marrow\n transplants in particular.",,4 isla(s) 91 inline
+742,0xBAE1,redirect,0xCD9F,124,You can't perform the transplant\nwithout a donor whose HLA\nmatches the recipient's.{80238057}Everything depends on them\nmatching.,,5 isla(s) 91 inline
+743,0xBB50,redirect,0xCE2A,78,The problem doesn't hinge on the\nprocedure itself as much as\nfinding a donor.,,3 isla(s) 91 inline
+744,0xBB99,redirect,0xCE81,60,We know someone who's waiting\nfor a bone marrow transplant.,,2 isla(s) 91 inline
+745,0xBBD0,redirect,0xCEC3,27,Do they have any siblings?,,1 isla(s) 91 inline
+746,0xBBDF,redirect,0xCEE1,6,None.,,
+747,0xBBEE,redirect,0xCEE7,111,"In that case, it won't be easy.  You\nneed a donor with matching\nHLA.{80238057}You can't do the transplant\notherwise.",,5 isla(s) 91 inline
+748,0xBC47,redirect,0xCF65,30,"You look impressed, Jonathan.",,2 isla(s) 91 inline
+749,0xBC68,redirect,0xCF89,12,I guess....,,
+750,0xBC85,redirect,0xCF95,9,Diarrhea,,
+751,0xBC92,redirect,0xCF9E,64,"Uhh, Chris, this doesn't have to\ndo with anything else, but....",,
+752,0xBCBF,redirect,0xCFDE,12,What is it?,,
+753,0xBCC6,redirect,0xCFEA,34,Say you've got a sore stomach....,,
+754,0xBCE5,redirect,0xD00C,13,In what way?,,
+755,0xBCF4,redirect,0xD019,14,"Uhh, well....",,1 isla(s) 91 inline
+756,0xBD03,redirect,0xD02A,30,"He's got diarrhea, basically.",,1 isla(s) 91 inline
+757,0xBD20,redirect,0xD04B,19,You have diarrhea?,,
+758,0xBD37,redirect,0xD05E,29,"You and your big, fat mouth!",,1 isla(s) 91 inline
+759,0xBD42,redirect,0xD07E,27,Let me take a look at you.,,
+760,0xBD55,redirect,0xD099,68,"No, it's not diarrhea.  Sorry for\nbringing it up.  Forget about it.",,2 isla(s) 91 inline
+761,0xBD80,redirect,0xD0E3,12,Massquitoes,,
+762,0xBD8F,redirect,0xD0EF,98,It's a mosquito-type robot\ndeveloped by Tokugawa Heavy\n\n Industries and Tokugawa\nPharmaceuticals.,,3 isla(s) 91 inline
+763,0xBDF0,redirect,0xD15A,194,"It's designed for drawing blood\nfrom people and animals and\nadministering shots.{80238057}With this, you can draw blood\nwithout the subject feeling a\nthing.{80238057}It can also be used for donating\nblood.",,5 isla(s) 91 inline
+764,0xBE85,redirect,0xD22B,149,"They've been hit with a lot of\ncriticism, but these guys are one\nof the reasons we've been able to\n keep AIDS and other diseases\nunder control here.",,2 isla(s) 91 inline
+765,0xBEEC,redirect,0xD2C6,34,They fly by flapping their wings?,,
+766,0xBF0F,redirect,0xD2E8,68,They were designed through\nbiomechanics.  I don't know the\ndetails.,,
+767,0xBF42,redirect,0xD32C,53,"Massquito is a portmanteau of\n""mass"" and ""mosquito"".",,1 isla(s) 91 inline
+768,0xBF93,redirect,0xD364,231,"Apart from massquitoes, the only\nmedical micromachines you find\nare capsules and smart pills for\n the digestive system.{80238057}You can't use them in the\ncirculatory system.  A\nnon-mechanical DDS is the only\n treatment effective there.",,5 isla(s) 91 inline
+769,0xC018,redirect,0xD45A,93,I hear they're looking into the\npossibility of using them in place of\nbiological pesticides.,,3 isla(s) 91 inline
+770,0xC065,redirect,0xD4C0,53,We saw a hologram of it at\nTokugawa Pharmaceuticals.,,1 isla(s) 91 inline
+771,0xC08E,redirect,0xD4F8,9,T-Gear99,,
+772,0xC09F,redirect,0xD501,1,,,
+773,0xC0EA,inplace,0xC0EA,70," century, but a number\n of issues have maintained the\ndonor shortage.",,sin codigo 91: revisar
+774,0xC133,inplace,0xC133,61,"have the technology, but it's\nuseless without enough donors.",,sin codigo 91: revisar
+775,0xC17C,redirect,0xD502,1,,,
+776,0xC1DC,redirect,0xD503,40,We definitely have one in the\npharmacy.,,1 isla(s) 91 inline
+777,0xC1F9,redirect,0xD52E,10,Apologize,,
+778,0xC1FE,redirect,0xD538,85,"I'm sorry, Chris, I just... I just had\nto see you.  I can't stop thinking\nabout you.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+779,0xC233,redirect,0xD5A0,31,You expect me to believe that?,,
+780,0xC24E,redirect,0xD5BF,22,"Sorry, Chris.  Truly.",,
+781,0xC265,redirect,0xD5D5,75,"We really are sorry.  Cops\nshouldn't do things like this, we\nknow, but....",,
+782,0xC2A4,redirect,0xD620,66,"It's alright, you don't have to keep\napologizing.  I'll help you.",,1 isla(s) 91 inline
+783,0xC2D9,redirect,0xD665,55,I can think of other things I'd\nprefer an apology for.,,
+784,0xC31E,redirect,0xD69C,51,"Like, I don't know... your little\ngame of peekabo?",,
+785,0xC347,redirect,0xD6CF,2,!,,
+786,0xC356,redirect,0xD6D1,79,Sorry about that.  Cops definitely\nshouldn't be doing things like that\neither.,,
+787,0xC385,redirect,0xD720,15,I'm not a cop.,,
+788,0xC398,redirect,0xD72F,31,"Don't even try it, Policenaut.",,1 isla(s) 91 inline
+789,0xC3C9,redirect,0xD751,5,Show,,
+790,0xC3D4,redirect,0xD756,11,Hojo photo,,
+791,0xC3E3,redirect,0xD761,47,You can't remember anything at all\nabout Hojo?,,
+792,0xC3FC,redirect,0xD790,72,"I might've seen him once or twice\nat the pharmacy, but I can't be\nsure.",,
+793,0xC425,redirect,0xD7D8,66,I honestly can't remember\nanything.  All Asians look alike to\nme.,,1 isla(s) 91 inline
+794,0xC466,redirect,0xD81D,63,I haven't remembered anything\nsince you asked me at the party.,,
+795,0xC489,redirect,0xD85C,25,This is a photo of Hojo.,,
+796,0xC49E,redirect,0xD875,52,"I mmmay have met him before. \nI'm not sure, though.",,
+797,0xC4DF,redirect,0xD8A9,89,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,1 isla(s) 91 inline
+798,0xC508,redirect,0xD905,54,He looks like your typical serious\nTokugawa employee.,,2 isla(s) 91 inline
+799,0xC545,redirect,0xD941,15,Lorraine photo,,
+800,0xC552,redirect,0xD950,28,"Hey, this is you, isn't it?",,1 isla(s) 91 inline
+801,0xC571,redirect,0xD96F,58,This could've been taken\nyesterday.  Who's this with you?,,2 isla(s) 91 inline
+802,0xC58E,redirect,0xD9AF,16,Someone I knew.,,
+803,0xC5A3,redirect,0xD9BF,43,Rather not go into it? I can\nrespect that.,,2 isla(s) 91 inline
+804,0xC5C4,redirect,0xD9F0,28,Same as you and your photo.,,1 isla(s) 91 inline
+805,0xC5E7,redirect,0xDA0F,56,Does this have something to do\nwith your investigation?,,1 isla(s) 91 inline
+806,0xC604,redirect,0xDA4A,18,Policenauts photo,,
+807,0xC617,redirect,0xDA5C,53,Surely you didn't come here just\nto show this to me?,,
+808,0xC63E,redirect,0xDA91,54,Enough of that picture.  What do\nyou want to do here?,,
+809,0xC667,redirect,0xDAC7,28,"Wow, I remember this photo.",,
+810,0xC698,redirect,0xDAE3,48,Look at you.  You're all so young\nand handsome.,,1 isla(s) 91 inline
+811,0xC6B3,redirect,0xDB16,58,I've got another picture taken\naround then on the mantle.,,
+812,0xC6D6,redirect,0xDB50,8,ID card,,
+813,0xC6E1,redirect,0xDB58,41,Now we get to be Tokugawa\nemployees too.,,
+814,0xC708,redirect,0xDB81,36,Will you be alright borrowing\nthat?,,
+815,0xC727,redirect,0xDBA5,29,"That's a Tokugawa ID, right?",,
+816,0xC750,redirect,0xDBC2,37,I'm surprised they lent that to\nyou.,,1 isla(s) 91 inline
+817,0xC77B,redirect,0xDBEA,3,CD,,
+818,0xC788,redirect,0xDBED,42,"You want to load the data on that,\nright?",,
+819,0xC7AF,redirect,0xDC17,27,Let's go see what's on it.,,
+820,0xC7D2,redirect,0xDC32,18,What's with that?,,
+821,0xC7E9,redirect,0xDC44,43,You came all the way here to\nshow me that?,,
+822,0xC80A,redirect,0xDC6F,5,Back,,
+823,0xC813,redirect,0xDC74,42,"You know, you still strike me as a\nmodel.",,1 isla(s) 91 inline
+824,0xC842,redirect,0xDCA1,73,I don't think I've ever seen anyone\nlook this good in a lab coat before.,,
+825,0xC869,redirect,0xDCEA,45,"Oh, Ed....  You been learning from\nJonathan?",,
+826,0xC8A2,redirect,0xDD17,46,"I would never, ever guess you're\nin your 40s.",,
+827,0xC8C3,redirect,0xDD45,22,What would you guess?,,
+828,0xC8D0,redirect,0xDD5B,16,"Late 20s, tops.",,
+829,0xC8E5,redirect,0xDD6B,38,"That's awfully nice of you,\nJonathan.",,1 isla(s) 91 inline
+830,0xC8FE,redirect,0xDD94,83,I didn't expect to find you here at\nthis time of night.  What a pleasant\nsurprise.,,
+831,0xC93B,redirect,0xDDE7,52,"Boy, you can turn that on like a\nfaucet, can't you.",,
+832,0xC964,redirect,0xDE1B,70,You look tired.  You must be\nreally busy if you're working this\nlate.,,1 isla(s) 91 inline
+833,0xC993,redirect,0xDE64,75,If I don't stay on top of things I\nend up falling behind before I\nknow it.,,
+834,0xC9BC,redirect,0xDEAF,79,"As great as you looked in that\ndress, I have to say that lab coat is\nmore you.",,
+835,0xC9FF,redirect,0xDEFE,54,I'm not surprised you're always\nlooking so carefully.,,
+836,0xCA22,redirect,0xDF34,176,"When I have this on... I forget I'm\neven wearing it.  It's like a part of\nme.{80238057}It's light and easy to move around\nin, but at the same time it brings a\nlot of responsibility.",,1 isla(s) 91 inline
+837,0xCA79,redirect,0xDFE7,97,"I simply can't get over how\nbeautiful you are, Chris.{80238057}You've aged like a... like a fine\nwine.",,1 isla(s) 91 inline
+838,0xCA98,redirect,0xE04B,30,"You're a sweet guy, Jonathan.",,
+839,0xCAC1,redirect,0xE069,75,"No staring, okay? I'm not as\nyoung as I look.  You'll see all my\nwrinkles.",,
+840,0xCAFE,redirect,0xE0B4,63,I must say you're just as charming\nas when we shot that photo.,,
+841,0xCB27,redirect,0xE0F3,20,"You know, Chris....",,
+842,0xCB34,redirect,0xE107,34,"It's alright, I'm not mad at you.",,cadena 92: 2 fragmentos unidos
+843,0xCB5D,redirect,0xE139,79,I was gonna say you look better\nwithout that necklace you had on\nat the party.,,1 isla(s) 91 inline
+844,0xCB92,redirect,0xE18B,76,This is how I'm usually dressed. \nI'm just your ordinary woman\naround here.,,
+845,0xCBBF,redirect,0xE1D7,65,"You don't have to stare at me like\nthat, Jonathan, it's alright.",,
+846,0xCBE6,redirect,0xE218,42,"You're not wearing any earrings,\nare you?",,
+847,0xCC0B,redirect,0xE242,46,"Earrings? Oh, you mean that pair\nfrom before?",,1 isla(s) 91 inline
+848,0xCC2A,redirect,0xE273,60,I don't wear jewelry when I'm\nhere.  It doesn't feel right.,,3 isla(s) 91 inline
+849,0xCC65,redirect,0xE2B8,37,You really take your work\nseriously.,,1 isla(s) 91 inline
+850,0xCC7C,redirect,0xE2E0,53,You could say it's one of my\nprinciples as a doctor.,,2 isla(s) 91 inline
+851,0xCCA3,redirect,0xE31B,65,You have got a fantastic body. \nThose look absolutely delicious.,,2 isla(s) 91 inline
+852,0xCCCE,redirect,0xE362,107,"I go to zero G salons and spend\ntime in the zero G ward, so gravity\n\n hasn't had its way with me too\nmuch.",,6 isla(s) 91 inline
+853,0xCD0F,redirect,0xE3DF,93,"Ooohh, you really gotta watch\nyour words around this guy.{80238057}That's just asking for trouble.",,2 isla(s) 91 inline
+854,0xCD36,redirect,0xE442,66,"Boy, are they the elephant in the\nroom.{80238057}Or two baby elephants.",,2 isla(s) 91 inline
+855,0xCD4B,redirect,0xE48A,59,No kidding.  Got a better view with\nthat dress she had on.,,1 isla(s) 91 inline
+856,0xCD7A,redirect,0xE4C8,47,"I think Jonathan's a bad influence\non you, Ed.",,
+857,0xCD97,redirect,0xE4F7,17,"...Sorry, Chris.",,1 isla(s) 91 inline
+858,0xCDB2,redirect,0xE50B,29,Speaking of quite a pair....,,
+859,0xCDD5,redirect,0xE528,28,(I really do hate my life.),,1 isla(s) 91 inline
+860,0xCDFA,redirect,0xE547,6,Touch,,
+861,0xCDFF,redirect,0xE550,38,Hold still! There's a fly on you\nnow!,,
+862,0xCE1C,redirect,0xE576,27,I'm sure she believes you.,,1 isla(s) 91 inline
+863,0xCE39,redirect,0xE594,13,"Oh, brother.",,
+864,0xCE46,redirect,0xE5A1,43,Ooohh! (She's bigger than the\nstewardess!),,2 isla(s) 91 inline
+865,0xCE75,redirect,0xE5D2,57,"(Not quite as big as the Tokugawa\nreceptionist, though.)",,2 isla(s) 91 inline
+866,0xCEA0,redirect,0xE611,64,May I? I wouldn't mind playing\ndoctor myself for a minute here.,,1 isla(s) 91 inline
+867,0xCEB3,redirect,0xE654,18,"What, with these?",,
+868,0xCEDC,redirect,0xE666,21,You actually did it.,,
+869,0xCEF7,redirect,0xE67B,21,Welcome to my world.,,
+870,0xCF04,redirect,0xE690,18,Are you for real?,,
+871,0xCF1B,redirect,0xE6A2,27,That answer your question?,,1 isla(s) 91 inline
+872,0xCF2E,redirect,0xE6C0,35,What am I going to do with you....,,1 isla(s) 91 inline
+873,0xCF4D,redirect,0xE6E6,24,Jonathan! Knock it off!,,
+874,0xCF6E,redirect,0xE6FE,5,Peek,,
+875,0xCF73,redirect,0xE703,1,,,
+876,0xCFB2,inplace,0xCFB2,44,"sn't have to\ndo with anything else, but....",,sin codigo 91: revisar
+877,0xCFD1,inplace,0xCFD1,13,"lse, but....",,sin codigo 91: revisar
+878,0xCFE0,inplace,0xCFE0,10,at is it?,,sin codigo 91: revisar
+879,0xCFE7,inplace,0xCFE7,3,t?,,sin codigo 91: revisar
+880,0xCFFC,inplace,0xCFFC,16,ore stomach....,,sin codigo 91: revisar
+881,0xD01F,redirect,0xE704,54,You've got legs from here to...\nsome wonderful place.,,2 isla(s) 91 inline
+882,0xD038,redirect,0xE740,120,"Well, I can tell you they're not as\nnice as they used to be.{80238057}Certainly nothing compared to any\nyoung girl out there.",,5 isla(s) 91 inline
+883,0xD06B,redirect,0xE7C7,40,(I wish she'd stop moving them\naround.),,2 isla(s) 91 inline
+884,0xD09C,redirect,0xE7F5,34,"(Hell, we already saw it anyway.)",,1 isla(s) 91 inline
+885,0xD0BD,redirect,0xE81A,79,"Come on, don't do this to me.  I\npromise you they're not as nice as\nyou think.",,2 isla(s) 91 inline
+886,0xD0F0,redirect,0xE86F,25,"No more peeking, got it?",,1 isla(s) 91 inline
+887,0xD103,redirect,0xE88B,29,He was a tough li'l bastard.,,1 isla(s) 91 inline
+888,0xD138,redirect,0xE8AB,57,They can be dangerous if enough\nof them end up together.,,2 isla(s) 91 inline
+889,0xD167,redirect,0xE8EA,34,A swarm nearly killed a dog once.,,1 isla(s) 91 inline
+890,0xD18A,redirect,0xE90F,27,They sucked out its blood?,,1 isla(s) 91 inline
+891,0xD19F,redirect,0xE92D,76,"Yeah, it got into a testing area. \nThey put it down to a\nprogramming error.",,1 isla(s) 91 inline
+892,0xD1EE,redirect,0xE97C,48,I'm surprised they ever let them\non the market.,,1 isla(s) 91 inline
+893,0xD213,redirect,0xE9AF,44,It's only because they're made by\nTokugawa.,,1 isla(s) 91 inline
+894,0xD22C,redirect,0xE9DE,77,They tend to break down a lot. \nThey can be more trouble than\nthey're worth.,,1 isla(s) 91 inline
+895,0xD25F,redirect,0xEA31,1,,,
+896,0xD278,inplace,0xD278,78, reasons we've been able to\n keep AIDS and other diseases\nunder control here.,,sin codigo 91: revisar
+897,0xD287,inplace,0xD287,63,been able to\n keep AIDS and other diseases\nunder control here.,,sin codigo 91: revisar
+898,0xD294,inplace,0xD294,50, keep AIDS and other diseases\nunder control here.,,sin codigo 91: revisar
+899,0xD2CD,inplace,0xD2CD,27,y by flapping their wings?,,sin codigo 91: revisar
+900,0xD336,redirect,0xEA32,75,This type of medical micromachine\nis used on the colony for drawing\nblood.,,1 isla(s) 91 inline
+901,0xD37D,redirect,0xEA80,51,I can tell you more about it if\nyou're interested.,,2 isla(s) 91 inline
+902,0xD3A0,redirect,0xEAB9,37,I had no idea you were so\nperverted.,,
+903,0xD3C3,redirect,0xEADE,83,"You little pervert.  I'm used to it,\nbut you better watch out around\nother people.",,2 isla(s) 91 inline
+904,0xD3F0,redirect,0xEB37,46,"You didn't come here to ask me\nthat, did you?",,1 isla(s) 91 inline
+905,0xD437,redirect,0xEB68,63,Is that really that important right\nnow? I guess I don't mind.,,2 isla(s) 91 inline
+906,0xD45E,redirect,0xEBAD,46,Are you honestly here for your\ninvestigation?,,1 isla(s) 91 inline
+907,0xD48D,redirect,0xEBDE,40,"You know how a network works,\nJonathan?",,1 isla(s) 91 inline
+908,0xD4BC,redirect,0xEC09,49,"Sure, I was in the computer club\nin high school.",,1 isla(s) 91 inline
+909,0xD4E1,redirect,0xEC3D,45,"Yeah, you were telling Anna about\nit before.",,1 isla(s) 91 inline
+910,0xD512,redirect,0xEC6D,58,"Wow, a computer club? That's an\ninteresting kind of club.",,1 isla(s) 91 inline
+911,0xD539,redirect,0xECAA,41,We only had six arts clubs at my\nschool.,,1 isla(s) 91 inline
+912,0xD56A,inplace,0xD56A,10,telop.pak,,sin codigo 91: revisar
+913,0xD574,redirect,0xECD6,1,,,
+914,0xD5A3,inplace,0xD5A3,28, expect me to believe that?,,sin codigo 91: revisar
+915,0xD5D0,inplace,0xD5D0,5,uly.,,sin codigo 91: revisar
+916,0xD607,inplace,0xD607,25,"e this, we\nknow, but....",,sin codigo 91: revisar
+917,0xD634,inplace,0xD634,46,n't have to keep\napologizing.  I'll help you.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+918,0xD655,redirect,0xECD7,1,,,
+919,0xD674,inplace,0xD674,40,other things I'd\nprefer an apology for.,,sin codigo 91: revisar
+920,0xD699,inplace,0xD699,3,r.,,sin codigo 91: revisar
+921,0xD6BC,inplace,0xD6BC,19,e\ngame of peekabo?,,sin codigo 91: revisar
+922,0xD6E5,inplace,0xD6E5,59,ops definitely\nshouldn't be doing things like that\neither.,,sin codigo 91: revisar
+923,0xD712,inplace,0xD712,14, that\neither.,,sin codigo 91: revisar
+924,0xD735,redirect,0xECD8,1,,,
+925,0xD7A5,inplace,0xD7A5,51,"nce or twice\nat the pharmacy, but I can't be\nsure.",,sin codigo 91: revisar
+926,0xD7D0,inplace,0xD7D0,8,e\nsure.,,sin codigo 91: revisar
+927,0xD7E1,redirect,0xECD9,1,,,
+928,0xD83C,inplace,0xD83C,32,ince you asked me at the party.,,sin codigo 91: revisar
+929,0xD88C,inplace,0xD88C,29,"fore. \nI'm not sure, though.",,sin codigo 91: revisar
+930,0xD89B,inplace,0xD89B,14,"sure, though.",,sin codigo 91: revisar
+931,0xD8BE,redirect,0xECDA,1,,,
+932,0xD90D,inplace,0xD90D,46, like your typical serious\nTokugawa employee.,,sin codigo 91: revisar; 2 isla(s) 91 inline
+933,0xD922,redirect,0xECDB,24,Did you learn anything?,,1 isla(s) 91 inline
+934,0xD937,redirect,0xECF6,19,Pick up any leads?,,
+935,0xD958,redirect,0xED09,36,You were talking for quite a\nwhile.,,
+936,0xD97F,redirect,0xED2D,27,You weren't in there long.,,1 isla(s) 91 inline
+937,0xD9A0,redirect,0xED4B,29,"Oh, you guys are still here?",,
+938,0xD9C1,redirect,0xED68,26,Did you forget something?,,1 isla(s) 91 inline
+939,0xD9D0,redirect,0xED85,22,"Oh, what is it, guys?",,
+940,0xD9F1,redirect,0xED9B,39,"Hey, come on in.  What's up this\ntime?",,
+941,0xDA10,redirect,0xEDC2,1,,,
+942,0xDA1D,inplace,0xDA1D,45,ave something to do\nwith your investigation?,,sin codigo 91: revisar
+943,0xDA3A,inplace,0xDA3A,16, investigation?,,sin codigo 91: revisar
+944,0xDA5D,inplace,0xDA5D,52,urely you didn't come here just\nto show this to me?,,sin codigo 91: revisar
+945,0xDA9C,inplace,0xDA9C,43,hat picture.  What do\nyou want to do here?,,sin codigo 91: revisar
+946,0xDAB9,inplace,0xDAB9,14,t to do here?,,sin codigo 91: revisar
+947,0xDAE4,inplace,0xDAE4,47,ook at you.  You're all so young\nand handsome.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+948,0xDAFB,redirect,0xEDC3,1,,,
+949,0xDB22,inplace,0xDB22,46,ther picture taken\naround then on the mantle.,,sin codigo 91: revisar
+950,0xDB6B,inplace,0xDB6B,22,kugawa\nemployees too.,,sin codigo 91: revisar
+951,0xDB96,inplace,0xDB96,15,orrowing\nthat?,,sin codigo 91: revisar
+952,0xDBD1,redirect,0xEDC4,1,,,
+953,0xDC00,inplace,0xDC00,23,"e data on that,\nright?",,sin codigo 91: revisar
+954,0xDC45,inplace,0xDC45,42,ou came all the way here to\nshow me that?,,sin codigo 91: revisar
+955,0xDC4E,inplace,0xDC4E,33,ll the way here to\nshow me that?,,sin codigo 91: revisar
+956,0xDC95,redirect,0xEDC5,1,,,
+957,0xDCDC,inplace,0xDCDC,14, coat before.,,sin codigo 91: revisar
+958,0xDCE5,inplace,0xDCE5,5,ore.,,sin codigo 91: revisar
+959,0xDD18,inplace,0xDD18,45," would never, ever guess you're\nin your 40s.",,sin codigo 91: revisar
+960,0xDD5F,inplace,0xDD5F,12," 20s, tops.",,sin codigo 91: revisar
+961,0xDD6C,redirect,0xEDC6,1,,,
+962,0xDD97,inplace,0xDD97,80,idn't expect to find you here at\nthis time of night.  What a pleasant\nsurprise.,,sin codigo 91: revisar
+963,0xDDAC,inplace,0xDDAC,59,you here at\nthis time of night.  What a pleasant\nsurprise.,,sin codigo 91: revisar
+964,0xDDC1,inplace,0xDDC1,38, of night.  What a pleasant\nsurprise.,,sin codigo 91: revisar
+965,0xDDDE,inplace,0xDDDE,9,urprise.,,sin codigo 91: revisar
+966,0xDDF1,inplace,0xDDF1,42,"an turn that on like a\nfaucet, can't you.",,sin codigo 91: revisar
+967,0xDDFE,inplace,0xDDFE,29,"on like a\nfaucet, can't you.",,sin codigo 91: revisar
+968,0xDE0F,inplace,0xDE0F,12, can't you.,,sin codigo 91: revisar
+969,0xDE32,inplace,0xDE32,47,st be\nreally busy if you're working this\nlate.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+970,0xDE55,redirect,0xEDC7,1,,,
+971,0xDE70,inplace,0xDE70,63,tay on top of things I\nend up falling behind before I\nknow it.,,sin codigo 91: revisar
+972,0xDE8F,inplace,0xDE8F,32,alling behind before I\nknow it.,,sin codigo 91: revisar
+973,0xDEB6,inplace,0xDEB6,72,"t as you looked in that\ndress, I have to say that lab coat is\nmore you.",,sin codigo 91: revisar
+974,0xDED1,inplace,0xDED1,45,"ss, I have to say that lab coat is\nmore you.",,sin codigo 91: revisar
+975,0xDEE4,inplace,0xDEE4,26,hat lab coat is\nmore you.,,sin codigo 91: revisar
+976,0xDEFF,inplace,0xDEFF,53,'m not surprised you're always\nlooking so carefully.,,sin codigo 91: revisar
+977,0xDF0C,inplace,0xDF0C,40,sed you're always\nlooking so carefully.,,sin codigo 91: revisar
+978,0xDF21,inplace,0xDF21,19,king so carefully.,,sin codigo 91: revisar
+979,0xDF40,redirect,0xEDC8,1,,,
+980,0xDF59,inplace,0xDF59,142,"m\neven wearing it.  It's like a part of\nme.{80238057}It's light and easy to move around\nin, but at the same time it brings a\nlot of responsibility.",,sin codigo 91: revisar
+981,0xDF72,inplace,0xDF72,117,"like a part of\nme.{80238057}It's light and easy to move around\nin, but at the same time it brings a\nlot of responsibility.",,sin codigo 91: revisar
+982,0xDF7F,inplace,0xDF7F,104,"f\nme.{80238057}It's light and easy to move around\nin, but at the same time it brings a\nlot of responsibility.",,sin codigo 91: revisar
+983,0xDF98,inplace,0xDF98,79,"asy to move around\nin, but at the same time it brings a\nlot of responsibility.",,sin codigo 91: revisar
+984,0xDFB7,inplace,0xDFB7,48,he same time it brings a\nlot of responsibility.,,sin codigo 91: revisar
+985,0xDFD4,inplace,0xDFD4,19,of responsibility.,,sin codigo 91: revisar
+986,0xDFE1,inplace,0xDFE1,6,lity.,,sin codigo 91: revisar
+987,0xDFFE,inplace,0xDFFE,74," how\nbeautiful you are, Chris.{80238057}You've aged like a... like a fine\nwine.",,sin codigo 91: revisar; 1 isla(s) 91 inline
+988,0xE01B,inplace,0xE01B,45,.{80238057}You've aged like a... like a fine\nwine.,,sin codigo 91: revisar; 1 isla(s) 91 inline
+989,0xE03A,inplace,0xE03A,17,ike a fine\nwine.,,sin codigo 91: revisar
+990,0xE06F,inplace,0xE06F,69,"ring, okay? I'm not as\nyoung as I look.  You'll see all my\nwrinkles.",,sin codigo 91: revisar
+991,0xE09C,inplace,0xE09C,24,ll see all my\nwrinkles.,,sin codigo 91: revisar
+992,0xE0D1,inplace,0xE0D1,34,rming\nas when we shot that photo.,,sin codigo 91: revisar
+993,0xE0F8,inplace,0xE0F8,15,"now, Chris....",,sin codigo 91: revisar
+994,0xE125,inplace,0xE125,10,telop.pak,,sin codigo 91: revisar
+995,0xE12F,redirect,0xEDCA,1,,,
+996,0xE15A,redirect,0xEDCB,1,,,
+997,0xE197,inplace,0xE197,64,I'm usually dressed. \nI'm just your ordinary woman\naround here.,,sin codigo 91: revisar
+998,0xE1A4,inplace,0xE1A4,51,ressed. \nI'm just your ordinary woman\naround here.,,sin codigo 91: revisar
+999,0xE1EC,inplace,0xE1EC,44,"re at me like\nthat, Jonathan, it's alright.",,sin codigo 91: revisar
+1000,0xE20F,inplace,0xE20F,9,alright.,,sin codigo 91: revisar
+1001,0xE236,inplace,0xE236,12,"s,\nare you?",,sin codigo 91: revisar
+1002,0xE255,redirect,0xEDCC,25,You guys are still here?,,1 isla(s) 91 inline
+1003,0xE274,redirect,0xEDE8,16,You guys again?,,
+1004,0xE28F,redirect,0xEDF8,28,What do you want this time?,,
+1005,0xE2A8,redirect,0xEE14,25,You guys are back again?,,
+1006,0xE2C3,redirect,0xEE2D,38,I already told you everything I\nknow.,,
+1007,0xE2E8,redirect,0xEE53,38,Did you meet with President\nTokugawa?,,1 isla(s) 91 inline
+1008,0xE30D,redirect,0xEE7C,30,"No, we didn't get the chance.",,
+1009,0xE33C,redirect,0xEE9A,60,"Doesn't surprise me, what with\nhow busy he is all the time.",,2 isla(s) 91 inline
+1010,0xE359,redirect,0xEEDC,1,,,
+1011,0xE37E,redirect,0xEEDD,1,,,
+1012,0xE3AB,redirect,0xEEE1,5,Move,,
+1013,0xE3B0,redirect,0xEEE6,18,Director's Office,,
+1014,0xE3B9,redirect,0xEEF8,7,System,,
+1015,0xE3C2,redirect,0xEEFF,5,Look,,
+1016,0xE3C7,redirect,0xEF04,37,Look at all the drugs in this place.,,
+1017,0xE3EA,redirect,0xEF29,112,We got almost all the hospital's\ndrugs here.{80238057}I take 'em over to the window\nwhenever someone needs\nsomething.,,3 isla(s) 91 inline
+1018,0xE435,redirect,0xEFA2,39,They've got an incredible supply\nhere.,,
+1019,0xE44A,redirect,0xEFC9,93,"Those are the shelves where\nmost of the drugs are stored.  I\ndon't know what's what, really.",,3 isla(s) 91 inline
+1020,0xE479,redirect,0xF02F,70,"As far as I know, nobody's\ntouched anything since Ishida\ndisappeared.",,2 isla(s) 91 inline
+1021,0xE4B0,redirect,0xF07B,129,"That's a refrigerated storage\ncloset.{80238057}Unlike over-the-counter drugs,\na lot of hospital drugs don't\ncontain any preservatives.",,3 isla(s) 91 inline
+1022,0xE507,redirect,0xF105,76,If you don't maintain a strict\ntemperature control they spoil\npretty quick.,,3 isla(s) 91 inline
+1023,0xE536,redirect,0xF15A,20,What a huge fridge.,,2 isla(s) 91 inline
+1024,0xE54D,redirect,0xF174,72,That's the pharmacy's\nrefrigerator.  I'm not exactly sure\nhow it works.,,1 isla(s) 91 inline
+1025,0xE57A,redirect,0xF1BF,63,"There are drugs stored inside it,\nbut I'm not sure which ones.",,2 isla(s) 91 inline
+1026,0xE5A9,redirect,0xF204,46,They must really fill a lot of\nprescriptions.,,2 isla(s) 91 inline
+1027,0xE5CC,redirect,0xF238,25,What's in these drawers?,,
+1028,0xE5D9,redirect,0xF251,63,Hard copies of receipts and\nprescriptions {D0}{06} things like that.,,2 isla(s) 91 inline
+1029,0xE60A,redirect,0xF296,54,These are all filled with receipts\nand prescriptions?,,2 isla(s) 91 inline
+1030,0xE631,redirect,0xF2D2,150,"Apparently there are copies of\nreceipts and prescriptions in here,\nbut since all that stuff's done on\n computer these days, they must\nbe from before.",,10 isla(s) 91 inline
+1031,0xE6AA,redirect,0xF386,57,Everything in the hospital is\norganized by computer now.,,1 isla(s) 91 inline
+1032,0xE6D3,redirect,0xF3C2,31,"These won't be any help, then.",,
+1033,0xE708,redirect,0xF3E1,72,They're full of old papers.  I've\nnever actually looked at them\nmyself.,,1 isla(s) 91 inline
+1034,0xE73B,redirect,0xF42C,33,These lights aren't very bright.,,1 isla(s) 91 inline
+1035,0xE74A,redirect,0xF450,32,Yeah? You think it's that dark?,,
+1036,0xE75F,redirect,0xF470,24,"Yeah, you and the room.",,
+1037,0xE778,redirect,0xF488,22,"Sorry, what was that?",,
+1038,0xE791,redirect,0xF49E,56,Can you believe these are all the\nlights for the place?,,1 isla(s) 91 inline
+1039,0xE7BC,redirect,0xF4D9,50,Vice is like a day at the beach\ncompared to this.,,1 isla(s) 91 inline
+1040,0xE7D5,redirect,0xF50E,49,It's pretty dark in here with just\nthese lights.,,2 isla(s) 91 inline
+1041,0xE7EA,redirect,0xF545,63,"It was originally my storeroom, so\nit never needed much light.",,1 isla(s) 91 inline
+1042,0xE80D,redirect,0xF587,44,It's better for the drugs like this\nanyway.,,2 isla(s) 91 inline
+1043,0xE832,redirect,0xF5B9,29,"Man, this room's depressing.",,
+1044,0xE851,redirect,0xF5D6,48,We're not going to be using it\nmuch longer now.,,1 isla(s) 91 inline
+1045,0xE878,redirect,0xF609,38,There's something stuck to the\nshelf.,,
+1046,0xE88F,redirect,0xF62F,37,We can't see it with him in the\nway.,,
+1047,0xE8AC,redirect,0xF654,30,Looks like some kinda poster.,,1 isla(s) 91 inline
+1048,0xE8C9,redirect,0xF675,52,I don't think it's anything we need\nto worry about.,,
+1049,0xE8EE,redirect,0xF6A9,52,We couldn't see this before with\nIshida in the way.,,1 isla(s) 91 inline
+1050,0xE919,redirect,0xF6E0,33,Of all the....  It's a calendar.,,1 isla(s) 91 inline
+1051,0xE93C,redirect,0xF704,60,"Wait, the year on this says 2047. \nThat's 7 years from now.",,
+1052,0xE985,redirect,0xF740,54,"Oh, he told me he got that as a\nprize from somewhere.",,1 isla(s) 91 inline
+1053,0xE9B0,redirect,0xF779,112,"I don't know the details, but\napparently if you mailed in these\ntokens, this company would send\n you something.",,1 isla(s) 91 inline
+1054,0xE9F9,redirect,0xF7EC,57,"That's right, I think it had to do\nwith some video game.",,
+1055,0xEA2E,redirect,0xF825,116,"Yeah, that crowd does this kinda\nthing a lot.{80238057}Collect all the tokens in a set and\nthey give you stuff in return.",,1 isla(s) 91 inline
+1056,0xEA65,redirect,0xF89C,32,Why do you think it's for 2047?,,
+1057,0xEA86,redirect,0xF8BC,33,An attempt at... postmodern art?,,2 isla(s) 91 inline
+1058,0xEA9F,redirect,0xF8E3,132,"Hey, check out the guy in the\nmiddle.{80238057}He looks a little like Jonathan,\ndon't you think? If you changed\nthe hair and the clothes.",,3 isla(s) 91 inline
+1059,0xEAE4,redirect,0xF970,89,"Come to think of it, that psycho in\nthe lobby thought you were\nsomebody else, didn't he?",,4 isla(s) 91 inline
+1060,0xEB13,redirect,0xF9D5,46,"Yeah, something Seed.  Real\nweird first name.",,
+1061,0xEB3E,redirect,0xFA03,72,"Well, you've got one of those\neven-featured faces like a lot of\npeople.",,1 isla(s) 91 inline
+1062,0xEB6F,redirect,0xFA4E,40,I guess they're just trying to be\ncool.,,
+1063,0xEB94,redirect,0xFA76,47,This has nothing to do with the\ninvestigation.,,1 isla(s) 91 inline
+1064,0xEBC7,redirect,0xFAA8,27,How do you manage so many?,,
+1065,0xEBEE,redirect,0xFAC3,59,"That terminal there.  Not\nsomething you see everyday,\nhuh?",,2 isla(s) 91 inline
+1066,0xEC27,redirect,0xFB04,37,We handle all data by computer\nhere.,,
+1067,0xEC62,redirect,0xFB29,40,You manage them with that\nterminal too?,,1 isla(s) 91 inline
+1068,0xEC9B,redirect,0xFB54,26,Yep.  It does everything.,,
+1069,0xECBE,redirect,0xFB6E,71,"This is the same thing they had at\nTokugawa Pharmaceuticals, isn't\nit?",,2 isla(s) 91 inline
+1070,0xECE9,redirect,0xFBBB,55,Of course.  This links the\nTokugawa Group via network.,,1 isla(s) 91 inline
+1071,0xED36,redirect,0xFBF5,58,It's called the T-Gear99. \nEveryone in the Group uses it.,,
+1072,0xED7D,redirect,0xFC2F,41,Only Tokugawa employees can log\nonto it.,,
+1073,0xEDD8,redirect,0xFC58,161,"It may look out of style, but under\nthe hood it's light years beyond\nanything else.{80238057}It links all Group facilities.  It gives\nyou access to all kinds of info.",,4 isla(s) 91 inline
+1074,0xEE69,redirect,0xFD05,84,That's why the hardware isn't\nmade public.  The machine itself is\na company secret.,,2 isla(s) 91 inline
+1075,0xEEAC,redirect,0xFD5F,1,,,
+1076,0xEEBD,redirect,0xFD60,1,,,
+1077,0xEEDE,redirect,0xFD61,1,,,
+1078,0xEF31,redirect,0xFD62,1,,,
+1079,0xEF6A,redirect,0xFD63,1,,,
+1080,0xEF9B,redirect,0xFD64,61,It's the same as the one we saw at\nTokugawa Pharmaceuticals.,,1 isla(s) 91 inline
+1081,0xEFD2,redirect,0xFDA4,4,Use,,
+1082,0xEFDB,redirect,0xFDA8,54,"Don't mind us, we're just gonna\npoke around a little.",,
+1083,0xEFF4,redirect,0xFDDE,128,"Yeah, nice try.{80238057}I don't care if you're the police\n{D0}{06} if something got out, it's me\n\n who'd be getting the knock on the\ndoor.",,3 isla(s) 91 inline
+1084,0xF035,redirect,0xFE67,62,They didn't let us use it at\nTokugawa Pharmaceuticals either.,,1 isla(s) 91 inline
+1085,0xF056,redirect,0xFEA8,55,"What do you expect? That's our\nR&D, for Christ's sake.",,1 isla(s) 91 inline
+1086,0xF09B,redirect,0xFEE2,33,"Sorry, but it's privileged data.",,
+1087,0xF0B8,redirect,0xFF03,1,,,
+1088,0xF0FB,redirect,0xFF04,1,,,
+1089,0xF114,redirect,0xFF05,62,It should work just like the one at\nTokugawa Pharmaceuticals.,,1 isla(s) 91 inline
+1090,0xF13D,redirect,0xFF46,6,Smell,,
+1091,0xF148,redirect,0xFF4C,37,{D0}{06}sniff sniff{D0}{06} What's that I\nsmell?,,
+1092,0xF161,redirect,0xFF71,24,You mean... like a rat?,,1 isla(s) 91 inline
+1093,0xF170,redirect,0xFF8C,69,"No, I mean like what on earth is\nthat stench.  Guess it's the drugs.",,2 isla(s) 91 inline
+1094,0xF197,redirect,0xFFD7,39,Now I see why Chris wears her\nperfume.,,1 isla(s) 91 inline
+1095,0xF1D2,redirect,0x10001,29,This smell's making me sick.,,1 isla(s) 91 inline
+1096,0xF1E9,redirect,0x10021,36,You really think it smells in here?,,
+1097,0xF208,redirect,0x10045,16,Is it that bad?,,
+1098,0xF227,redirect,0x10055,27,Maybe I'm just used to it.,,
+1099,0xF25C,redirect,0x10070,5,Talk,,
+1100,0xF267,redirect,0x10075,1,,,
+1101,0xF2AC,redirect,0x10076,1,,,
+1102,0xF2CB,redirect,0x10077,1,,,
+1103,0xF2DC,redirect,0x10078,1,,,
+1104,0xF31F,redirect,0x10079,1,,,
+1105,0xF330,redirect,0x1007A,1,,,
+1106,0xF347,redirect,0x1007B,5,Sir?,,
+1107,0xF350,redirect,0x10083,12,Mr. Ishida?,,
+1108,0xF35B,redirect,0x1008F,23,What can I do for you?,,1 isla(s) 91 inline
+1109,0xF366,redirect,0x100A9,6,Yeah?,,
+1110,0xF36F,redirect,0x100AF,10,Ask about,,
+1111,0xF374,redirect,0x100B9,19,Hojo's personality,,1 isla(s) 91 inline
+1112,0xF37F,redirect,0x100CF,28,What kinda person was Hojo?,,
+1113,0xF392,redirect,0x100EB,153,I couldn't tell you much about him.\nWe only knew each other through\nwork.{80238057}He was a traditional Japanese type\nof guy.  Different from Beyonds\nlike me.,,3 isla(s) 91 inline
+1114,0xF41B,redirect,0x1018D,37,It's not like him to just disappear.,,2 isla(s) 91 inline
+1115,0xF442,redirect,0x101B8,116,"You might say he was a little too\nserious, and that turned people\noff.{80238057}But for something like this to\nhappen....",,
+1116,0xF4A7,redirect,0x1022C,159,Why don't you try talking to\nPresident Tokugawa about\nhim?{80238057}It seemed like he and the\npresident were somewhat close.{80238057}He could tell you more than I\ncould.,,2 isla(s) 91 inline
+1117,0xF4EC,redirect,0x102D1,46,We weren't that close.  We stuck\nto business.,,
+1118,0xF527,redirect,0x102FF,19,Hojo's whereabouts,,
+1119,0xF532,redirect,0x10312,54,I'm sure President Tokugawa will\nknow more about him.,,1 isla(s) 91 inline
+1120,0xF56B,redirect,0x1034B,73,You should talk to the president\nor someone at Tokugawa\nPharmaceuticals.,,
+1121,0xF59C,redirect,0x10394,40,Any idea what might've happened\nto him?,,1 isla(s) 91 inline
+1122,0xF5B5,redirect,0x103BF,54,Not really.  He's not the type to\ntake off like that.,,2 isla(s) 91 inline
+1123,0xF5FA,redirect,0x103FB,90,But a number of the Terrestrials\nwho come here end up going a\nlittle screwy and skip out.,,1 isla(s) 91 inline
+1124,0xF669,redirect,0x10458,86,The rate of mental illness here is\nseveral times higher than the\nbases in Antarctica.,,
+1125,0xF6BE,redirect,0x104AE,57,The guy at Tokugawa\nPharmaceuticals brought that up\ntoo.,,1 isla(s) 91 inline
+1126,0xF6E5,redirect,0x104EA,124,"I'm a Beyond, so I don't get it.{80238057}It's been a good while since the\nlast time he was here.  I wonder\nwhat happened to him.",,2 isla(s) 91 inline
+1127,0xF752,redirect,0x1056C,125,"Have you tried checking\nspaceplane passenger lists?{80238057}If he hasn't left Beyond, something\nreal bad must've happened to him.",,4 isla(s) 91 inline
+1128,0xF7E7,redirect,0x105F5,88,"It's harder for someone to stay\nhidden here than on Home.  Close\nto impossible, really.",,1 isla(s) 91 inline
+1129,0xF840,redirect,0x10650,129,Maybe he really did go back\nHome?{80238057}No one ever stays missing for long\nhere.  This is a colony.  They find\nyou sooner or later.,,1 isla(s) 91 inline
+1130,0xF8C5,redirect,0x106D4,23,The last time they met,,
+1131,0xF8D4,redirect,0x106EB,37,When was the last time you saw\nHojo?,,1 isla(s) 91 inline
+1132,0xF8F1,redirect,0x10713,81,"Lemme think....{80238057}It was the last K-9 delivery, so\nthat would've been the 15th.",,1 isla(s) 91 inline
+1133,0xF92A,redirect,0x10767,50,Delivery? I thought K-9 wasn't\non the market yet?,,1 isla(s) 91 inline
+1134,0xF94D,redirect,0x1079C,41,They're only samples for data\ngathering.,,2 isla(s) 91 inline
+1135,0xF972,redirect,0x107CB,9,The 15th,,1 isla(s) 91 inline
+1136,0xF97F,redirect,0x107D7,1,,,
+1137,0xF990,redirect,0x107D8,1,,,
+1138,0xF9C3,redirect,0x107D9,1,,,
+1139,0xFA2E,redirect,0x107DA,1,,,
+1140,0xFA9B,redirect,0x107DB,1,,,
+1141,0xFAD0,redirect,0x107DC,1,,,
+1142,0xFAE7,redirect,0x107DD,1,,,
+1143,0xFB38,redirect,0x107E1,1,,,
+1144,0xFB7D,redirect,0x107E2,15,Anything else?,,
+1145,0xFB86,redirect,0x107F1,134,"He definitely acted different, but\nthat's all that comes to mind.{80238057}It's a worry for me too.  We\nhaven't finished the K-9 study\nyet.",,5 isla(s) 91 inline
+1146,0xFBE9,redirect,0x10886,171,"The company won't talk to me,\nmeanwhile the hospital's been on\nmy case about it.{80238057}This thing's all kinds of trouble.{80238057}At least now I know why Hojo\nhasn't been around.",,4 isla(s) 91 inline
+1147,0xFC60,redirect,0x1093D,9,Tokugawa,,
+1148,0xFC6D,redirect,0x10946,1,,,
+1149,0xFC90,redirect,0x10947,1,,,
+1150,0xFCC5,redirect,0x10948,1,,,
+1151,0xFD24,redirect,0x10949,1,,,
+1152,0xFD4F,redirect,0x1094A,108,"I've never spoken with him at\nlength.{80238057}We chatted briefly when I joined\nthe company, but that's about it.",,3 isla(s) 91 inline
+1153,0xFDA0,redirect,0x109BF,133,"You hear rumors about him, but\nyou can't always believe what you\nhear.{80238057}We certainly don't have a direct\nrelationship or anything.",,4 isla(s) 91 inline
+1154,0xFDEB,redirect,0x10A50,84,"I know he used to be a Policenaut,\nsure, but everyone who works\nfor him knows that.",,4 isla(s) 91 inline
+1155,0xFE46,redirect,0x10AB0,23,Tokugawa's whereabouts,,
+1156,0xFE53,redirect,0x10AC7,1,,,
+1157,0xFE74,redirect,0x10AC8,1,,,
+1158,0xFEDB,redirect,0x10AC9,1,,,
+1159,0xFF28,redirect,0x10ACA,1,,,
+1160,0xFF83,redirect,0x10ACB,1,,,
+1161,0xFF9E,redirect,0x10ACC,4,K-9,,1 isla(s) 91 inline
+1162,0xFFA9,redirect,0x10AD3,124,"It's Tokugawa Pharmaceuticals'\nnewest DDS, a capsule that's\ndistributed evenly throughout the\n body even in weightlessness.",,3 isla(s) 91 inline
+1163,0xFFF6,redirect,0x10B58,18,How does it work?,,1 isla(s) 91 inline
+1164,0x10007,redirect,0x10B6D,185,It uses the difference in osmotic\npressure between areas of the\n\n body to control the release of a\ndrug.{80238057}Gravity doesn't play a factor at all. \nHojo was bringing samples of it\nover.,,7 isla(s) 91 inline
+1165,0x10080,redirect,0x10C3B,45,I wonder if that's what I got from\nLorraine.,,1 isla(s) 91 inline
+1166,0x100A5,redirect,0x10C6B,30,Is it that big a development?,,1 isla(s) 91 inline
+1167,0x100BE,redirect,0x10C8C,115,"Yep.  Well, something that uses\nosmotic pressure isn't that new,\nbut the one in K-9 is by far the\n most effective.",,1 isla(s) 91 inline
+1168,0x1010F,redirect,0x10D02,45,May we take a look at the K-9\nyou have here?,,2 isla(s) 91 inline
+1169,0x10132,redirect,0x10D35,33,Unfortunately there's none left.,,
+1170,0x1014F,redirect,0x10D56,73,K-9 is a capsule that uses osmotic\npressure to control a drug's\nrelease.,,2 isla(s) 91 inline
+1171,0x101A4,redirect,0x10DA5,4,Him,,
+1172,0x101B1,redirect,0x10DA9,149,"Me? Not much to say, really.{80238057}I was born and raised on Beyond,\ngraduated from university here,\ngot my pharmacist's license, then\n joined Tokugawa.",,2 isla(s) 91 inline
+1173,0x10268,redirect,0x10E44,46,"Yeah, I noticed you don't have a\nHome accent.",,1 isla(s) 91 inline
+1174,0x10299,redirect,0x10E78,202,We still don't have a separation of\nthe medical industry on Beyond.{80238057}Pharmacists like me aren't held in\nvery high regard here.{80238057}Our only options are to join either\na company or a hospital pharmacy.,,4 isla(s) 91 inline
+1175,0x10324,redirect,0x10F4E,142,"Fortunately for me, I was able to\njoin Tokugawa since I'm a Nisei.{80238057}But then they went and sent me to\nthis damned hospital! Fucking\ninsult.",,4 isla(s) 91 inline
+1176,0x103AD,redirect,0x10FE8,46,What does my life story have to do\nwith Hojo?,,1 isla(s) 91 inline
+1177,0x103E6,redirect,0x11019,13,The pharmacy,,
+1178,0x103F1,redirect,0x11026,76,I bet the folks on Home would be\nsurprised to hear about what\ngoes on here.,,1 isla(s) 91 inline
+1179,0x10430,redirect,0x11075,187,"The only ones who benefit from\nthis system are people like\nTokugawa and the doctors.{80238057}They pump Beyonds full of drugs\nthey don't need, and those fools\nare happy to keep paying for 'em.",,4 isla(s) 91 inline
+1180,0x104B3,redirect,0x1113C,166,"The more drugs we shell out, the\nmore the drug companies and\nhospitals make.{80238057}Not to mention the insurance\ncompanies.  That's the way the\nwhole system is designed.",,6 isla(s) 91 inline
+1181,0x10518,redirect,0x111F4,38,This is what happens to guys like\nme.,,1 isla(s) 91 inline
+1182,0x10543,redirect,0x1121D,57,They stick pharmacies in hospitals\npurely for the money.,,2 isla(s) 91 inline
+1183,0x10574,redirect,0x1125C,61,Who'd want to spend their life\nworking in a place like this?,,2 isla(s) 91 inline
+1184,0x105A1,redirect,0x112A2,71,Know why it's so dark in here? It\nused to be the director's\nstoreroom.,,2 isla(s) 91 inline
+1185,0x105D8,redirect,0x112EF,80,The storeroom! And what do you\nput in a storeroom? All the shit\nyou don't need.,,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+1186,0x105EF,redirect,0x11348,22,The Tokugawa Building,,
+1187,0x10604,redirect,0x1135E,145,"It's the headquarters of the\nTokugawa Group on Beyond.{80238057}It supports a set of the colony's\nsurfaces and windows, figuratively\nif not literally.",,
+1188,0x10679,redirect,0x113EF,153,"I'm hardly ever there.  Got no\nreason to.{80238057}If you're heading that way, be\nsure and ask about Hojo.{80238057}That's where he met with the\npresident that day.",,
+1189,0x106EE,redirect,0x11488,74,I guess it's been at least several\nyears since the last time I was\nthere.,,
+1190,0x1072B,redirect,0x114D2,87,We were just there.  It's got\nthis... presence.  I don't know\nhow else to describe it.,,
+1191,0x10768,redirect,0x11529,116,"Exactly.{80238057}People here, I bet you that's the\nmain reason they join Tokugawa.{80238057}That's what the thing does to 'em.",,
+1192,0x107A7,redirect,0x1159D,34,"It did it to me.  Before, anyway.",,
+1193,0x107C4,redirect,0x115BF,5,Show,,
+1194,0x107CF,redirect,0x115C4,11,Hojo photo,,
+1195,0x107DE,redirect,0x115CF,35,"Yeah, that's Hojo.  That his wife?",,
+1196,0x10805,redirect,0x115F2,89,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,
+1197,0x1082E,redirect,0x1164B,59,First time I ever seen his wife. \nNot a bad-looking woman.,,
+1198,0x10853,redirect,0x11686,15,Lorraine photo,,
+1199,0x10860,redirect,0x11695,13,What's this?,,
+1200,0x10877,redirect,0x116A2,29,Why are you showing me this?,,
+1201,0x108A4,redirect,0x116BF,39,She does kind of resemble Hojo's\nwife.,,
+1202,0x108D7,redirect,0x116E6,18,Policenauts photo,,
+1203,0x108EA,redirect,0x116F8,61,"Yeah, I know that.  That's\nPresident Tokugawa in the middle.",,
+1204,0x1091B,redirect,0x11735,102,That's the president when he was\nyounger.{80238057}They tell you the whole story\nwhen you join the company.,,
+1205,0x10964,redirect,0x1179B,79,I don't see what the big deal was. \nI guess the world's a different\nplace now.,,
+1206,0x10999,redirect,0x117EA,8,ID card,,
+1207,0x109A4,redirect,0x117F2,47,That's the same kind of card as\nthe one I got.,,
+1208,0x109CB,redirect,0x11821,69,"Where'd you get that? That looks\nlike Hojo's ID.  Or a copy, anyway.",,
+1209,0x10A04,redirect,0x11866,97,"You better not tell anyone there\nyou have that.  You wouldn't want\nthem to find out, believe me.",,
+1210,0x10A35,redirect,0x118C7,5,Back,,
+1211,0x10A3E,redirect,0x118CC,35,He reminds me of that otaku\ncrowd.,,
+1212,0x10A5B,redirect,0x118EF,25,What are you staring at?,,
+1213,0x10A76,redirect,0x11908,38,What you looking at me like that\nfor?,,
+1214,0x10A8D,redirect,0x1192E,43,He's got one of those real\nJapanese faces.,,
+1215,0x10AA2,redirect,0x11959,35,What? I got a booger or\nsomething?,,
+1216,0x10ACF,redirect,0x1197C,45,"Look, I don't like other guys\nstaring at me.",,
+1217,0x10AFA,redirect,0x119A9,45,It doesn't seem like he knows\nanything else.,,
+1218,0x10B15,redirect,0x119D6,83,His hair looks really dirty.  When\nwas the last time you suppose he\ntook a shower?,,
+1219,0x10B3E,redirect,0x11A29,48,His hair's so oily it's like he just\nwashed it.,,
+1220,0x10B63,redirect,0x11A59,39,What I do with my body is my\nbusiness.,,
+1221,0x10B80,redirect,0x11A80,6,Touch,,
+1222,0x10B85,redirect,0x11A86,44,"You just wanna touch everything,\ndon't you?",,
+1223,0x10BAA,redirect,0x11AB2,11,What's up?,,
+1224,0x10BB7,redirect,0x11ABD,28,Just... crossed some wires.,,
+1225,0x10BCA,redirect,0x11AD9,52,It's a lab coat.  It's a lot cleaner\nthan Victor's.,,
+1226,0x10BFD,redirect,0x11B0D,67,"The company gives us these.  You\ncould call it a uniform, I guess.",,
+1227,0x10C30,redirect,0x11B50,38,This has the Tokugawa logo on it\ntoo.,,
+1228,0x10C5D,redirect,0x11B76,29,It's a Tokugawa employee ID.,,
+1229,0x10C80,redirect,0x11B93,111,You can't enter any Tokugawa\nfacility or use any of our\nequipment without one of these.{80238057}Talk about a bitch.,,
+1230,0x10CD7,redirect,0x11C02,58,The guard at Tokugawa\nPharmaceuticals pointed it out too.,,
+1231,0x10D06,redirect,0x11C3C,31,It's a Tokugawa Group ID card.,,
+1232,0x10D29,redirect,0x11C5B,48,"So you must need that for that\nterminal, right?",,
+1233,0x10D5E,redirect,0x11C8B,31,Yep.  Can't log on without it.,,
+1234,0x10D91,redirect,0x11CAA,83,It's a one-touch quick tie.  Young\npeople today are more about\nfunction than form.,,
+1235,0x10DD0,redirect,0x11CFD,127,It's made with shape memory alloy\nfibers.{80238057}You can tie the knot simply by\nrunning a low-voltage electric\ncurrent through it.,,
+1236,0x10E13,redirect,0x11D7C,64,"The Group makes everyone wear\na tie.  Kinda gay, if you ask me.",,
+1237,0x10E5A,redirect,0x11DBC,24,Did they give you that?,,
+1238,0x10E75,redirect,0x11DD4,63,"No, this is mine.  But they specify\nthe color we have to wear.",,
+1239,0x10EA0,redirect,0x11E13,47,At least he's better off than\nwhat's-his-face.,,
+1240,0x10ED3,redirect,0x11E42,67,It's one of those quick ties you can\ntie with an electric current.,,
+1241,0x10EFC,redirect,0x11E85,57,"They wanna be sure people\nremember who's your boss,\nhuh?",,
+1242,0x10F1B,redirect,0x11EBE,39,Everything changes when this\nshows up.,,
+1243,0x10F56,redirect,0x11EE5,30,It's the Tokugawa Group logo.,,
+1244,0x10F85,redirect,0x11F03,1,,,
+1245,0x10FAE,redirect,0x11F04,1,,,
+1246,0x10FE1,redirect,0x11F05,1,,,
+1247,0x11004,redirect,0x11F06,1,,,
+1248,0x1103F,redirect,0x11F07,68,"Let's just hurry and get this over\nwith, Jonathan.  Think of Chris.",,
+1249,0x1107A,redirect,0x11F4B,39,"We came here to load the CD,\nremember?",,
+1250,0x110B1,redirect,0x11F72,66,That's got nothing to do with\nloading the CD.  Let's hurry it up.,,
+1251,0x110E2,redirect,0x11FB4,102,"We've got a good idea of what\nHojo was doing here now, but\nwhy don't we keep questioning\n him anyway?",,
+1252,0x1111D,redirect,0x1201A,61,You wanna go already? Let's look\naround a little more first.,,
+1253,0x11148,redirect,0x12057,66,We still don't have any leads yet. \nLet's talk to the pharmacist.,,
+1254,0x11173,redirect,0x12099,39,We can't just leave here with\nnothing!,,
+1255,0x11194,redirect,0x120C0,36,Let's talk to Ishida a little more.,,
+1256,0x111AD,redirect,0x120E4,29,So what can I help you with?,,
+1257,0x111C0,redirect,0x12101,69,"Can we keep the chit-chat to a\nminimum and get down to it,\nofficers?",,
+1258,0x111E9,redirect,0x12146,38,So what did you want to see me\nabout?,,
+1259,0x11200,redirect,0x1216C,28,"What do you want, officers?",,
+1260,0x11223,redirect,0x12188,36,"C'mon, what are you two doing\nhere?",,
+1261,0x11246,redirect,0x121AC,43,You still haven't told me why\nyou're here.,,
+1262,0x11261,redirect,0x121D7,1,,,
+1263,0x11280,redirect,0x121D8,1,,,
+1264,0x1129F,redirect,0x121D9,1,,,
+1265,0x112C6,redirect,0x121DA,1,,,
+1266,0x112E3,redirect,0x121DB,1,,,
+1267,0x112FC,redirect,0x121DC,1,,,
+1268,0x11311,redirect,0x121DD,1,,,

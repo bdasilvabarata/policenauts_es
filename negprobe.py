@@ -83,6 +83,47 @@ def runs_80(data, minlen):
     return runs
 
 
+def runs_wide_le(data, minlen):
+    """Rachas de texto ancho tipo UTF-16LE: <ascii> 0x00 <ascii> 0x00 ...
+    (cada caracter ocupa 2 bytes, el byte alto en 0). Explica un dominio
+    aplastante de 0x00 en el histograma (mitad de los bytes lo son) que
+    ni 'identidad' ni 'negado' de 1 byte/caracter pueden ver."""
+    runs, chars, start, i, n = [], [], None, 0, len(data) - 1
+    while i < n:
+        if data[i] in PRINTABLE and data[i + 1] == 0x00:
+            if start is None:
+                start, chars = i, []
+            chars.append(chr(data[i]))
+            i += 2
+            continue
+        if start is not None and len(chars) >= minlen:
+            runs.append((start, i, ''.join(chars)))
+        start, chars = None, []
+        i += 1
+    if start is not None and len(chars) >= minlen:
+        runs.append((start, i, ''.join(chars)))
+    return runs
+
+
+def runs_wide_be(data, minlen):
+    """Igual que runs_wide_le pero con el byte 0x00 primero: 0x00 <ascii> ..."""
+    runs, chars, start, i, n = [], [], None, 0, len(data) - 1
+    while i < n:
+        if data[i] == 0x00 and data[i + 1] in PRINTABLE:
+            if start is None:
+                start, chars = i, []
+            chars.append(chr(data[i + 1]))
+            i += 2
+            continue
+        if start is not None and len(chars) >= minlen:
+            runs.append((start, i, ''.join(chars)))
+        start, chars = None, []
+        i += 1
+    if start is not None and len(chars) >= minlen:
+        runs.append((start, i, ''.join(chars)))
+    return runs
+
+
 def summarize(runs, total):
     cov = sum(e - s for s, e, _ in runs)
     # Leccion del informe: mirar diversidad DENTRO de cada racha, no el total.
@@ -159,6 +200,8 @@ def main():
     ap.add_argument('--minlen', type=int, default=8,
                     help='largo minimo de racha de ASCII plano (mas alto, porque el '
                          'azar produce mas rachas cortas de imprimibles)')
+    ap.add_argument('--minlen-ancho', type=int, default=6,
+                    help='largo minimo de racha de texto ancho (2 bytes/caracter)')
     ap.add_argument('--show', type=int, default=8,
                     help='cuantas rachas de muestra mostrar de la mejor variante')
     ap.add_argument('--dump-neg', default=None,
@@ -181,6 +224,8 @@ def main():
     for label, buf in (('identidad', data), ('negado', neg(data))):
         variants[(label, '0x80+ascii')] = (buf, runs_80(buf, args.minlen80))
         variants[(label, 'ascii plano')] = (buf, runs_plain(buf, args.minlen))
+        variants[(label, 'ancho LE')] = (buf, runs_wide_le(buf, args.minlen_ancho))
+        variants[(label, 'ancho BE')] = (buf, runs_wide_be(buf, args.minlen_ancho))
 
     print(f"{'transformacion':<12} {'esquema':<12} {'rachas':>7} {'cobertura':>10} "
           f"{'rachas diversas':>16}")

@@ -1,0 +1,143 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x2256,redirect,0x2160,12,KOBAYAKAWA{0D},,1 isla(s) 91 inline
+1,0x2279,redirect,0x216F,12,KOBAYAKAWA{0D},,
+2,0x2298,redirect,0x217B,8,SASAKI{0D},,
+3,0x22B7,redirect,0x2183,8,SASAKI{0D},,1 isla(s) 91 inline
+4,0x22D2,redirect,0x218E,9,SHIMAZU{0D},,
+5,0x22F1,redirect,0x2197,9,SHIMAZU{0D},,
+6,0x230D,redirect,0x21A0,6,ASAI{0D},,1 isla(s) 91 inline
+7,0x232C,redirect,0x21A9,6,ASAI{0D},,
+8,0x2345,redirect,0x21AF,7,SAITO{0D},,
+9,0x2366,redirect,0x21B6,7,SAITO{0D},,
+10,0x2381,redirect,0x21BD,7,HONDA{0D},,1 isla(s) 91 inline
+11,0x23A0,redirect,0x21C7,7,HONDA{0D},,
+12,0x23BA,redirect,0x21CE,8,SATAKE{0D},,
+13,0x23D9,redirect,0x21D6,8,SATAKE{0D},,1 isla(s) 91 inline
+14,0x23F4,redirect,0x21E1,10,TAKENAKA{0D},,
+15,0x2415,redirect,0x21EB,10,TAKENAKA{0D},,
+16,0x2432,redirect,0x21F5,9,IMAGAWA{0D},,1 isla(s) 91 inline
+17,0x2453,redirect,0x2201,9,IMAGAWA{0D},,
+18,0x246F,redirect,0x220A,8,SANADA{0D},,
+19,0x248E,redirect,0x2212,8,SANADA{0D},,1 isla(s) 91 inline
+20,0x24A9,redirect,0x221D,8,System{0D},,
+21,0x24B2,redirect,0x2225,13,Leave alone{0D},,
+22,0x24BD,redirect,0x2232,8,Remove{0D},,
+23,0x24C6,redirect,0x223A,32,Let's take a look at this one.{0D},,2 isla(s) 91 inline
+24,0x24DF,redirect,0x2260,13,Here it is.{0D},,
+25,0x24FA,redirect,0x226D,38,Let's take another look at this one.{0D},,1 isla(s) 91 inline
+26,0x251B,redirect,0x2296,40,We probably don't have much time\nleft.{0D},,2 isla(s) 91 inline
+27,0x2542,redirect,0x22C4,30,We don't have time to waste.{0D},,1 isla(s) 91 inline
+28,0x255F,redirect,0x22E5,37,Let's leave this one alone for now.{0D},,1 isla(s) 91 inline
+29,0x257E,redirect,0x2310,37,Why don't we come back to this\none.{0D},,1 isla(s) 91 inline
+30,0x2597,redirect,0x2338,36,"We don't have much time,\nJonathan.{0D}",,1 isla(s) 91 inline
+31,0x25B8,redirect,0x235F,55,We gotta hurry.  It's gonna go off\nbefore we find it.{0D},,2 isla(s) 91 inline
+32,0x25E5,redirect,0x239C,46,We haven't really made much\nprogress either.{0D},,2 isla(s) 91 inline
+33,0x2608,redirect,0x23D0,60,"I really don't wanna go through\nanother explosion, do you?{0D}",,2 isla(s) 91 inline
+34,0x2633,redirect,0x2412,39,Better to move on if you're not\nsure.{0D},,2 isla(s) 91 inline
+35,0x2650,redirect,0x243F,48,"Yeah, no need to hurry.  We've\nstill got time.{0D}",,2 isla(s) 91 inline
+36,0x267D,redirect,0x2475,32,We don't wanna screw up again.{0D},,1 isla(s) 91 inline
+37,0x269A,redirect,0x2498,37,"Alright, we'll get rid of this one.{0D}",,3 isla(s) 91 inline
+38,0x26C5,redirect,0x24C9,35,"Okay, we're eliminating this one.{0D}",,1 isla(s) 91 inline
+39,0x26F0,redirect,0x24EF,66,"Yeah, I'm positive.  I could do this\nblindfolded now.  Probably.{0D}",,2 isla(s) 91 inline
+40,0x272B,redirect,0x2537,20,Here goes nothing!{0D},,1 isla(s) 91 inline
+41,0x273A,redirect,0x254E,20,"Dammit, not again!{0D}",,1 isla(s) 91 inline
+42,0x2753,inplace,0x2753,7,masq_2,,sin codigo 91: revisar
+43,0x275A,inplace,0x275A,12,AMMnois.pak,,sin codigo 91: revisar
+44,0x2766,redirect,0x2565,8,System{0D},,
+45,0x276F,inplace,0x276F,7,case 1,,sin codigo 91: revisar
+46,0x2776,inplace,0x2776,7,case 3,,sin codigo 91: revisar
+47,0x277D,inplace,0x277D,7,case 5,,sin codigo 91: revisar
+48,0x2784,inplace,0x2784,7,case 8,,sin codigo 91: revisar
+49,0x278B,inplace,0x278B,10,"case 9,10",,sin codigo 91: revisar
+50,0x2795,inplace,0x2795,8,case 11,,sin codigo 91: revisar
+51,0x279D,inplace,0x279D,8,case 12,,sin codigo 91: revisar
+52,0x27A5,inplace,0x27A5,8,case 15,,sin codigo 91: revisar
+53,0x27AD,inplace,0x27AD,12,"case 16, 17",,sin codigo 91: revisar
+54,0x27B9,inplace,0x27B9,8,case 18,,sin codigo 91: revisar
+55,0x27C1,redirect,0x256D,6,Look{0D},,
+56,0x27C6,redirect,0x2573,27,Marc's at the Coral Hall!{0D},,1 isla(s) 91 inline
+57,0x27E5,redirect,0x2591,12,He's gone!{0D},,1 isla(s) 91 inline
+58,0x27F6,redirect,0x25A0,42,If we don't hurry we'll lose them\nagain.{0D},,1 isla(s) 91 inline
+59,0x280F,redirect,0x25CD,20,Where's Marc gone?{0D},,
+60,0x2826,redirect,0x25E1,36,Nothing unusual at the Coral Hall.{0D},,1 isla(s) 91 inline
+61,0x2841,redirect,0x260B,32,It's a shot of the Coral Hall.{0D},,
+62,0x286C,redirect,0x262B,37,He's not showing up on this\ncamera!{0D},,2 isla(s) 91 inline
+63,0x288B,redirect,0x2656,41,Where's Marc? I can't see him\nanywhere.{0D},,1 isla(s) 91 inline
+64,0x28BE,redirect,0x2682,37,It's a wide shot of the Coral Hall.{0D},,1 isla(s) 91 inline
+65,0x28EF,redirect,0x26AA,31,Nothing unusual at the lobby.{0D},,1 isla(s) 91 inline
+66,0x2902,redirect,0x26CC,33,Redwood's at the Beyond Corner!{0D},,
+67,0x293D,redirect,0x26ED,51,He's disappeared from the\ncamera's field of view.{0D},,1 isla(s) 91 inline
+68,0x2969,redirect,0x2723,41,"Hurry up, Ed....  We're gonna lose\nhim.{0D}",,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+69,0x2986,redirect,0x276B,29,We can't see him from here.{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+70,0x29A3,redirect,0x27E3,35,It's a shot of the Beyond Corner.{0D},,2 isla(s) 91 inline
+71,0x29E6,redirect,0x280C,39,Nothing unusual at the Beyond\nCorner.{0D},,2 isla(s) 91 inline
+72,0x2A1B,redirect,0x2839,35,I can't see him with this camera!{0D},,1 isla(s) 91 inline
+73,0x2A38,redirect,0x285F,64,Where'd he go? He's not\nshowing up on the other camera\neither.{0D},,2 isla(s) 91 inline
+74,0x2A65,redirect,0x28A5,26,Everything looks normal.{0D},,1 isla(s) 91 inline
+75,0x2A9C,redirect,0x28C2,40,It's a wide shot of the Beyond\nCorner.{0D},,
+76,0x2AE9,redirect,0x28EA,33,It's a shot of the Moon Corner.{0D},,2 isla(s) 91 inline
+77,0x2B12,redirect,0x2911,37,Nothing unusual at the Moon\nCorner.{0D},,
+78,0x2B2D,redirect,0x2936,29,The Moon Corner looks fine.{0D},,1 isla(s) 91 inline
+79,0x2B4A,redirect,0x2956,38,It's a wide shot of the Moon\nCorner.{0D},,1 isla(s) 91 inline
+80,0x2B79,redirect,0x297F,29,Marc's at the Space Corner!{0D},,1 isla(s) 91 inline
+81,0x2B92,redirect,0x299F,34,It's a shot of the Space Corner.{0D},,1 isla(s) 91 inline
+82,0x2BBB,redirect,0x29C4,38,Nothing unusual at the Space\nCorner.{0D},,1 isla(s) 91 inline
+83,0x2BD6,redirect,0x29ED,36,"Dammit, I can't see him from\nhere!{0D}",,
+84,0x2BFD,redirect,0x2A11,39,It's a wide shot of the Space\nCorner.{0D},,2 isla(s) 91 inline
+85,0x2C30,redirect,0x2A3E,44,Everything seems fine at the Space\nCorner.{0D},,1 isla(s) 91 inline
+86,0x2C49,redirect,0x2A6D,34,Something's wrong with the feed.{0D},,
+87,0x2C60,redirect,0x2A8F,29,Is it a problem on our end?{0D},,1 isla(s) 91 inline
+88,0x2C7B,inplace,0x2C7B,4,ttt,,sin codigo 91: revisar
+89,0x2C7F,redirect,0x2AAF,31,Meryl's patrolling the lobby.{0D},,
+90,0x2C9E,redirect,0x2ACE,39,Meryl's arrived at the Beyond\nCorner.{0D},,1 isla(s) 91 inline
+91,0x2CE1,redirect,0x2AF8,30,Meryl's at the Space Corner.{0D},,1 isla(s) 91 inline
+92,0x2CFE,redirect,0x2B19,31,Meryl's made it to the lobby.{0D},,1 isla(s) 91 inline
+93,0x2D19,redirect,0x2B3B,23,Meryl's at the lobby.{0D},,1 isla(s) 91 inline
+94,0x2D3E,redirect,0x2B55,33,Meryl's at the lobby right now.{0D},,
+95,0x2D5D,redirect,0x2B76,6,Talk{0D},,1 isla(s) 91 inline
+96,0x2D62,redirect,0x2B7F,30,Nothing to report right now.{0D},,1 isla(s) 91 inline
+97,0x2D77,redirect,0x2BA0,46,I haven't noticed anyone\nsuspicious come in.{0D},,1 isla(s) 91 inline
+98,0x2D98,redirect,0x2BD1,68,"He's not around here, Jonathan. \nYou see anything on the\nmonitors?{0D}",,2 isla(s) 91 inline
+99,0x2DD5,redirect,0x2C1B,47,He's not showing up anywhere on\nthe monitors.{0D},,2 isla(s) 91 inline
+100,0x2DEC,redirect,0x2C50,26,"He isn't here, Jonathan.{0D}",,1 isla(s) 91 inline
+101,0x2E14,redirect,0x2C6D,32,You have any idea where he is?{0D},,cadena 92: 2 fragmentos unidos
+102,0x2E35,redirect,0x2C97,34,Ed's patrolling the Moon Corner.{0D},,1 isla(s) 91 inline
+103,0x2E56,redirect,0x2CBC,36,Ed's arrived at the Beyond Corner.{0D},,
+104,0x2E8F,redirect,0x2CE0,28,Ed's at the Beyond Corner.{0D},,2 isla(s) 91 inline
+105,0x2ECC,redirect,0x2D02,38,Ed's at the Beyond Corner right\nnow.{0D},,1 isla(s) 91 inline
+106,0x2F09,redirect,0x2D2B,31,I don't see anything unusual.{0D},,1 isla(s) 91 inline
+107,0x2F38,redirect,0x2D4D,36,Can you get Meryl to check it\nout?{0D},,2 isla(s) 91 inline
+108,0x2F57,redirect,0x2D7A,21,Meryl's on her way.{0D},,
+109,0x2F74,redirect,0x2D8F,7,Okay.{0D},,
+110,0x2F89,redirect,0x2D96,34,I'll keep an eye on things here.{0D},,1 isla(s) 91 inline
+111,0x2FAC,redirect,0x2DBB,39,Meryl's arrived at the Beyond\nCorner.{0D},,1 isla(s) 91 inline
+112,0x2FE7,redirect,0x2DE5,19,So what happened?{0D},,1 isla(s) 91 inline
+113,0x2FFE,redirect,0x2DFB,47,We got the cameras at the Beyond\nCorner back.{0D},,1 isla(s) 91 inline
+114,0x3039,redirect,0x2E2D,33,You see anything from your end?{0D},,1 isla(s) 91 inline
+115,0x3052,redirect,0x2E51,25,I'll keep my eyes open.{0D},,1 isla(s) 91 inline
+116,0x3065,redirect,0x2E6D,24,"Where is he, Jonathan?{0D}",,
+117,0x3080,redirect,0x2E85,42,I lost him.  You don't see him\nanywhere?{0D},,1 isla(s) 91 inline
+118,0x30A5,redirect,0x2EB2,22,"No, I can't see him.{0D}",,
+119,0x30B8,redirect,0x2EC8,38,He should be around there\nsomewhere.{0D},,1 isla(s) 91 inline
+120,0x30D3,redirect,0x2EF1,32,"Okay, well, I'll keep looking.{0D}",,1 isla(s) 91 inline
+121,0x30F4,redirect,0x2F14,60,He isn't here.  I'll take another\nlook for the heck of it.{0D},,1 isla(s) 91 inline
+122,0x3127,redirect,0x2F53,58,Meryl's headed for the lobby. \nYou keep an eye on there.{0D},,3 isla(s) 91 inline
+123,0x3152,redirect,0x2F96,7,Yeah.{0D},,
+124,0x3165,redirect,0x2F9D,25,You see anything there?{0D},,1 isla(s) 91 inline
+125,0x3178,redirect,0x2FB9,20,"No, he isn't here.{0D}",,
+126,0x3193,redirect,0x2FCD,28,What's happened with Marc?{0D},,1 isla(s) 91 inline
+127,0x31AE,redirect,0x2FEC,56,Meryl's on her way to the lobby. \nStay in that corner!{0D},,1 isla(s) 91 inline
+128,0x31DF,redirect,0x3027,51,"Ed, we've lost Marc! He might've\nheaded your way!{0D}",,2 isla(s) 91 inline
+129,0x3214,redirect,0x3060,60,I don't see him here! Try looking\naround with the cameras!{0D},,2 isla(s) 91 inline
+130,0x324B,redirect,0x30A2,15,Where is he?!{0D},,1 isla(s) 91 inline
+131,0x3264,redirect,0x30B4,22,It's definitely him.{0D},,1 isla(s) 91 inline
+132,0x327F,redirect,0x30CD,30,You think Ed's there by now?{0D},,1 isla(s) 91 inline
+133,0x3296,redirect,0x30EE,17,"Come on, Ed....{0D}",,1 isla(s) 91 inline
+134,0x32AD,redirect,0x3102,41,There's a guy in a spacesuit with\nMarc.{0D},,1 isla(s) 91 inline
+135,0x32CE,redirect,0x312E,30,"Stand still, for god's sake!{0D}",,
+136,0x32E5,redirect,0x314C,41,I don't see anyone who looks like\nMarc.{0D},,3 isla(s) 91 inline
+137,0x3308,redirect,0x317E,59,There's nothing going on here. \nI'll keep my eyes peeled.{0D},,2 isla(s) 91 inline
+138,0x3335,redirect,0x31BF,53,I don't see anyone suspicious.  I'll\nkeep watching.{0D},,1 isla(s) 91 inline
+139,0x3360,redirect,0x31F7,49,I don't see anyone resembling\nMarc around here.{0D},,1 isla(s) 91 inline
+140,0x3395,redirect,0x322B,72,Nothing unusual here.  I'll keep\npatrolling this area a little longer.{0D},,2 isla(s) 91 inline
+141,0x33C4,redirect,0x3279,71,"There's nothing happening around\nhere, Jonathan.  It's just tourists.{0D}",,3 isla(s) 91 inline

@@ -1,0 +1,221 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0xFA0,redirect,0xBD3,112,What are you playing around for at\na time like this anyway?{80238057}I'm just gonna go if you're gonna\nact like that.,,5 isla(s) 91 inline
+1,0xFCB,redirect,0xC52,49,"Damn, I can see some APs over\nthere! I gotta go!",,3 isla(s) 91 inline
+2,0x1006,redirect,0xC8C,52,"Jonathan, I gotta go before the\nAPs come over here!",,1 isla(s) 91 inline
+3,0x1037,redirect,0xCC6,23,"Shit, the APs! See ya!",,
+4,0x1062,redirect,0xCDD,20,Where's my Beretta?,,1 isla(s) 91 inline
+5,0x1079,redirect,0xCF4,78,What do you mean? I got it back\nafter you were arrested.  I gave it\nto Karen.,,4 isla(s) 91 inline
+6,0x10AA,redirect,0xD4E,7,Karen?,,
+7,0x10B5,redirect,0xD55,21,I gotta go.  See ya!,,
+8,0x10C6,redirect,0xD6A,1,,,
+9,0x10DD,redirect,0xD6B,1,,,
+10,0x1100,redirect,0xD6C,1,,,
+11,0x1121,redirect,0xD6D,1,,,
+12,0x1146,redirect,0xD6E,1,,,
+13,0x1169,redirect,0xD6F,1,,,
+14,0x1188,redirect,0xD70,1,,,
+15,0x1191,redirect,0xD71,1,,,
+16,0x11B4,redirect,0xD72,1,,,
+17,0x11F3,redirect,0xD73,1,,,
+18,0x1200,redirect,0xD74,1,,,
+19,0x122B,redirect,0xD75,1,,,
+20,0x1270,redirect,0xD76,1,,,
+21,0x127D,redirect,0xD77,1,,,
+22,0x128A,redirect,0xD78,1,,,
+23,0x12B5,redirect,0xD79,1,,,
+24,0x12F2,redirect,0xD7A,1,,,
+25,0x1303,redirect,0xD7B,1,,,
+26,0x1330,redirect,0xD7C,1,,,
+27,0x1347,redirect,0xD7D,7,System,,
+28,0x1350,redirect,0xD84,5,Talk,,
+29,0x135B,redirect,0xD89,7,Hello?,,
+30,0x136A,redirect,0xD90,16,"Yeah, I'm here.",,
+31,0x137F,redirect,0xDA0,17,You still there?,,
+32,0x138A,redirect,0xDB1,12,What is it?,,
+33,0x1391,redirect,0xDBD,48,"We've don't have time to play\naround, Jonathan!",,2 isla(s) 91 inline
+34,0x13B6,redirect,0xDF3,19,"C'mon, cut it out.",,
+35,0x13D1,redirect,0xE06,10,Ask about,,
+36,0x13D6,redirect,0xE10,15,The Narc sales,,
+37,0x13E7,redirect,0xE1F,165,"It appears Hojo was feeding Narc\nto Ishida to sell at BCCH, just like\nwe thought.{80238057}Numerous large deposits were\nrecently made into a joint bank\naccount of theirs.",,5 isla(s) 91 inline
+38,0x147A,redirect,0xED3,114,They probably located buyers from\nlists Tokugawa had.{80238057}Tokugawa wanted rid of them\nafter he found out about it.,,2 isla(s) 91 inline
+39,0x14E9,redirect,0xF4B,59,I bet you Hojo tried to use that\nCD to blackmail Tokugawa.,,2 isla(s) 91 inline
+40,0x152A,redirect,0xF8C,14,Hojo's motive,,1 isla(s) 91 inline
+41,0x1535,redirect,0xF9D,44,Why'd Hojo start doing something\nlike that?,,2 isla(s) 91 inline
+42,0x1564,redirect,0xFCF,107,Most likely to get money for\nKaren's transplant.{80238057}There are also levels of priority on\nthe waiting list.,,2 isla(s) 91 inline
+43,0x15DB,redirect,0x1040,80,Karen's level was upgraded last\nmonth.{80238057}He must've passed some bribes\naround.,,2 isla(s) 91 inline
+44,0x1652,redirect,0x1096,86,I can't see someone like Hojo\ngetting involved in something like\nthat just for money.,,4 isla(s) 91 inline
+45,0x16A1,redirect,0x10F8,137,"Well, Karen's an only child.  She\ndoesn't have any siblings.{80238057}It's not easy finding a bone\nmarrow donor for someone in that\nsituation.",,5 isla(s) 91 inline
+46,0x16F8,redirect,0x1190,53,But if it was just for money... that\nis pretty thin.,,2 isla(s) 91 inline
+47,0x1737,redirect,0x11CB,16,Ishida's motive,,
+48,0x1742,redirect,0x11DB,26,What was Ishida's motive?,,1 isla(s) 91 inline
+49,0x1751,redirect,0x11F8,119,"His is clear-cut {D0}{06} money, and a\ngrudge against Tokugawa.{80238057}He wasn't very impressed about\nthe way he'd been treated.",,3 isla(s) 91 inline
+50,0x17C2,redirect,0x1278,148,Ishida had been caught\nembezzling money from the\ncompany a number of times.{80238057}That's apparently why he was\ntransferred to BCCH in the first\nplace.,,5 isla(s) 91 inline
+51,0x1831,redirect,0x131B,113,"That's my stab at Ishida's motive.{80238057}He didn't have a serious rap\nsheet, but the guy wasn't a boy\nscout either.",,8 isla(s) 91 inline
+52,0x188C,redirect,0x13A4,19,Narc's whereabouts,,1 isla(s) 91 inline
+53,0x189B,redirect,0x13BA,62,What happened to all the poppies\nand capsules at the factory?,,3 isla(s) 91 inline
+54,0x18CC,redirect,0x1401,54,We hacked the records of\nTokugawa's shipping company.,,
+55,0x1903,redirect,0x1437,93,"Not long after we left, a convoy of\ntwenty trucks was sent over to\nTokugawa Pharmaceuticals.",,1 isla(s) 91 inline
+56,0x1950,redirect,0x1497,46,They just moved the operation\nsomewhere else.,,
+57,0x1973,redirect,0x14C5,55,They'll have cleaned out every last\npiece of evidence.,,1 isla(s) 91 inline
+58,0x19A8,redirect,0x14FF,13,The capsules,,
+59,0x19B9,redirect,0x150C,66,The capsules were sold to users\ndirectly through BCCH's\npharmacy.,,2 isla(s) 91 inline
+60,0x1A10,redirect,0x1554,107,70% of the outpatients who\npurchased from the pharmacy\nover the last several months are\n known drug users.,,1 isla(s) 91 inline
+61,0x1AAB,redirect,0x15C2,80,"As you'd expect, they didn't leave\nrecords of the transactions at the\npharmacy.",,1 isla(s) 91 inline
+62,0x1AF0,redirect,0x1615,187,"Users would pay by wiring money\nto a bank account Hojo and Ishida\n\n had prepared under false\nnames.{80238057}No one at the hospital would\nsuspect anything, and they could\ndo it all themselves.",,2 isla(s) 91 inline
+63,0x1B93,redirect,0x16D6,128,"Unfortunately, we can't find any\ncapsules anywhere.{80238057}I doubt we'd find anything at the\nhouses of buyers at this point\neither.",,4 isla(s) 91 inline
+64,0x1C0E,redirect,0x1762,3,AP,,
+65,0x1C19,redirect,0x1765,38,How much of AP does Tokugawa\ncontrol?,,
+66,0x1C42,redirect,0x178B,188,"Gates and Tokugawa have been in\non it from the beginning.{80238057}They must control virtually\neveryone in AP, not to mention\nRedwood.{80238057}I got the results from that blood\nanalysis, by the way.",,2 isla(s) 91 inline
+67,0x1CCD,redirect,0x184D,4,BCP,,
+68,0x1CDA,redirect,0x1851,16,What about BCP?,,
+69,0x1CEB,redirect,0x1861,191,"To be honest, we don't know how\nfar they've infiltrated the place.{80238057}Don't expect anyone there to help\nus.{80238057}Everyone we talked to is scared\nshitless.  This is Tokugawa we're\ndealing with.",,4 isla(s) 91 inline
+70,0x1D84,redirect,0x192C,119,We can't count on anyone outside\nBCP for help either.{80238057}People don't fight Tokugawa here.\nHe's totally above the law.,,3 isla(s) 91 inline
+71,0x1DE9,redirect,0x19AC,19,The blood analysis,,1 isla(s) 91 inline
+72,0x1DF6,redirect,0x19C2,1,,,
+73,0x1E11,redirect,0x19C3,1,,,
+74,0x1E5A,redirect,0x19C4,1,,,
+75,0x1EEF,redirect,0x19C5,1,,,
+76,0x1F46,redirect,0x19C6,1,,,
+77,0x1F8D,redirect,0x19C7,1,,,
+78,0x200E,redirect,0x19C8,1,,,
+79,0x2061,redirect,0x19C9,1,,,
+80,0x2072,redirect,0x19CA,1,,,
+81,0x20D1,redirect,0x19CB,1,,,
+82,0x2140,redirect,0x19CC,224,"Victor never got around to\nchecking the dialyzer data.{80238057}But it was absolutely full of Narc. \nWhoever he is, he's a real fan of\nthe stuff.{80238057}The reason he kept going like that\ncomes from the analgesic effects\nof the drug.",,2 isla(s) 91 inline
+83,0x2201,redirect,0x1AB2,8,Redwood,,
+84,0x220E,redirect,0x1ABA,44,How was Redwood not injured\nafter all that?,,
+85,0x2249,redirect,0x1AE6,49,He was.  He was hospitalized\nunder a false name.,,1 isla(s) 91 inline
+86,0x229C,redirect,0x1B1A,72,The story about him having gone\nto pick up new EMPS chips was\nbullshit.,,
+87,0x22ED,redirect,0x1B62,67,He probably hasn't fully recovered\nin such a short amount of time.,,1 isla(s) 91 inline
+88,0x2320,redirect,0x1BA8,5,Dave,,
+89,0x232B,redirect,0x1BAD,32,Any idea what happened to Dave?,,
+90,0x234C,redirect,0x1BCD,155,"Meryl looked into it, like she was\nsaying.{80238057}She found Dave's blood all over\nRedwood's Goddard.{80238057}They had to have carried Dave's\nbody away in his EMPS.",,3 isla(s) 91 inline
+91,0x23DB,redirect,0x1C71,34,Where do you think they took\nhim?,,
+92,0x23FA,redirect,0x1C93,103,"No idea.  He's definitely not\naround BCP.{80238057}The real question is, why would\nthey wanna hide his body?",,3 isla(s) 91 inline
+93,0x2461,redirect,0x1D03,20,Your current safety,,
+94,0x2474,redirect,0x1D17,65,You think I'm safe here? Have\nthey caught on to what's going\non?,,
+95,0x24A9,redirect,0x1D58,189,"Probably.  Things went too well.{80238057}They might be planning to get rid\nof you some other way, one that\n\n doesn't draw any suspicion toward\nthem.{80238057}Oh, by the way, I gave your gun to\nKaren.",,4 isla(s) 91 inline
+96,0x2566,redirect,0x1E21,39,My Beretta? Didn't they\nconfiscate it?,,
+97,0x259F,redirect,0x1E48,49,I got it off the chief.  He said it\nwas alright.,,1 isla(s) 91 inline
+98,0x25D6,redirect,0x1E7C,24,Gates really said that?,,
+99,0x25F7,redirect,0x1E94,69,"Nah, I just went and grabbed it. \nHe doesn't know anything about it.",,
+100,0x2636,redirect,0x1ED9,48,I figured.  Those busy hands have\ngotten worse.,,1 isla(s) 91 inline
+101,0x266D,redirect,0x1F0C,28,Still not as busy as yours.,,
+102,0x2686,redirect,0x1F28,12,"Yeah, yeah.",,
+103,0x269F,redirect,0x1F34,40,I wonder if me and Karen are safe\nhere.,,1 isla(s) 91 inline
+104,0x26C8,redirect,0x1F5F,67,Well... both BBC and Karen could\npotentially be working with them.,,1 isla(s) 91 inline
+105,0x26FB,redirect,0x1FA5,19,That's ridiculous.,,
+106,0x2704,redirect,0x1FB8,19,That's ridiculous.,,
+107,0x271F,redirect,0x1FCB,129,"Yeah, I doubt that myself.{80238057}I wouldn't have given her your\ngun if I'd any reason to think\notherwise.{80238057}Still, you never know.",,1 isla(s) 91 inline
+108,0x275A,redirect,0x204F,40,What do you mean? Did\nsomething happen?,,2 isla(s) 91 inline
+109,0x2775,redirect,0x207D,11,"Oh, no....",,
+110,0x2784,redirect,0x2088,41,"You guys didn't... do anything, did\nyou?",,
+111,0x27A1,redirect,0x20B1,32,Don't worry.  Nothing happened.,,
+112,0x27AE,redirect,0x20D4,18,This being a trap,,
+113,0x27BB,redirect,0x20E6,62,"If this is leading to a trap, why are\nthey being so indirect?",,
+114,0x27F2,redirect,0x2124,122,"You're a Terrestrial, meaning your\ntrial would take place on Home.{80238057}You're not a Beyond, so you\ncouldn't be tried here.",,1 isla(s) 91 inline
+115,0x28AD,redirect,0x21A1,140,They use that lie detector that\nanalyzes a person's P300 brain\nwaves in trials on Home.{80238057}They're probably afraid you'd\nexpose everything.,,2 isla(s) 91 inline
+116,0x2938,redirect,0x2233,140,"They wanna eliminate you before\nyou make it back to Home.{80238057}If that means they have to be\nindirect then that's what they'll do,\nI suppose.",,2 isla(s) 91 inline
+117,0x2985,redirect,0x22C5,11,A strategy,,
+118,0x2990,redirect,0x22D0,1,,,
+119,0x29A5,redirect,0x22D1,1,,,
+120,0x29EC,redirect,0x22D2,1,,,
+121,0x2A27,redirect,0x22D3,1,,,
+122,0x2A52,redirect,0x22D4,1,,,
+123,0x2A5D,redirect,0x22D5,1,,,
+124,0x2AA0,redirect,0x22D6,1,,,
+125,0x2ABD,redirect,0x22D7,1,,,
+126,0x2AEC,redirect,0x22D8,1,,,
+127,0x2AF5,redirect,0x22D9,1,,,
+128,0x2B06,redirect,0x22DA,1,,,
+129,0x2B3B,redirect,0x22DB,12,Hojo's body,,
+130,0x2B46,redirect,0x22E7,1,,,
+131,0x2B59,redirect,0x22E8,1,,,
+132,0x2BC0,redirect,0x22E9,1,,,
+133,0x2BD5,redirect,0x22EA,1,,,
+134,0x2C0A,redirect,0x22EB,95,If we can find Hojo's body before\nthey get rid of it we might be able\nto prove your innocence.,,4 isla(s) 91 inline
+135,0x2C5B,redirect,0x2356,33,It seems Hojo's body is at BCCH.,,
+136,0x2C7E,redirect,0x2377,18,Victor's comments,,
+137,0x2C8B,redirect,0x2389,1,,,
+138,0x2C9C,redirect,0x238A,1,,,
+139,0x2D01,redirect,0x238B,1,,,
+140,0x2D10,redirect,0x238C,1,,,
+141,0x2D55,redirect,0x238D,1,,,
+142,0x2DA0,redirect,0x238E,1,,,
+143,0x2DB1,redirect,0x238F,1,,,
+144,0x2E1A,redirect,0x2390,1,,,
+145,0x2E93,redirect,0x2391,1,,,
+146,0x2EE4,redirect,0x2392,1,,,
+147,0x2F19,redirect,0x2393,1,,,
+148,0x2F48,redirect,0x2394,21,Victor's whereabouts,,
+149,0x2F59,redirect,0x23A9,1,,,
+150,0x2F78,redirect,0x23AA,1,,,
+151,0x2FED,redirect,0x23AB,1,,,
+152,0x3008,redirect,0x23AC,45,I'm worried about Victor.  I hope\nhe's okay.,,
+153,0x3033,redirect,0x23D9,5,Back,,1 isla(s) 91 inline
+154,0x303C,redirect,0x23E1,18,Hold on a second.,,
+155,0x3055,redirect,0x23F3,26,Lemme think for a minute.,,1 isla(s) 91 inline
+156,0x3074,redirect,0x2410,35,"We don't have much time,\nJonathan.",,
+157,0x309F,redirect,0x2433,48,We're running out of time.  Let's\ntry to hurry.,,1 isla(s) 91 inline
+158,0x30C8,redirect,0x2466,5,Look,,
+159,0x30CD,redirect,0x246B,87,This isn't a videophone.  I can't\nsee him.{80238057}Sometimes the old tech has its\nbenefits.,,2 isla(s) 91 inline
+160,0x30F2,redirect,0x24C8,33,Say it again? I didn't hear you.,,
+161,0x3101,redirect,0x24E9,28,Just... admiring the decor.,,
+162,0x3114,redirect,0x2505,61,"You're holding the receiver with\nyour left hand, aren't you?",,
+163,0x3145,redirect,0x2542,34,"You've got on a brown tie, right?",,
+164,0x316E,redirect,0x2564,35,I bet you're wearing a brown suit.,,1 isla(s) 91 inline
+165,0x3195,redirect,0x258A,40,"You've got on a white shirt, don't\nyou?",,1 isla(s) 91 inline
+166,0x31B2,redirect,0x25B5,71,Damn.  It'll be hard proving\nanything without any capsules or\npoppies.,,2 isla(s) 91 inline
+167,0x31EB,redirect,0x2602,60,These guys ain't stupid.  They've\ntaken care of everything.,,1 isla(s) 91 inline
+168,0x321A,redirect,0x2641,30,So what about his accomplice?,,
+169,0x3239,redirect,0x265F,55,"Despite their differences, they\nwere both after money.",,2 isla(s) 91 inline
+170,0x3274,redirect,0x269C,99,"It was the perfect opportunity for\nboth of them, though it doesn't\nseem like they were very close.",,4 isla(s) 91 inline
+171,0x32B1,redirect,0x270B,30,"Dunno, just got that feeling.",,1 isla(s) 91 inline
+172,0x32D8,redirect,0x272C,37,You leave a very lasting\nimpression.,,
+173,0x3301,redirect,0x2751,66,"I've never told you this before,\nbut I have... certain abilities.",,3 isla(s) 91 inline
+174,0x3332,redirect,0x279C,17,"Okay, I'll stop.",,2 isla(s) 91 inline
+175,0x3341,redirect,0x27B3,23,Yeah.  How'd you know?,,1 isla(s) 91 inline
+176,0x335E,redirect,0x27CD,20,"Yeah, you're right.",,
+177,0x3373,redirect,0x27E1,49,"Right again, you son of a bitch!\nCan you see me?",,1 isla(s) 91 inline
+178,0x339A,redirect,0x2815,37,"Alright, Jonathan, enough with\nthat.",,
+179,0x33C5,redirect,0x283A,55,We don't have time for this.  Let's\nstay focused here.,,
+180,0x33EE,redirect,0x2871,50,"C'mon, neither of us has time to\nwaste like this.",,
+181,0x341D,redirect,0x28A3,1,,,
+182,0x342A,redirect,0x28A4,1,,,
+183,0x343D,redirect,0x28A5,1,,,
+184,0x3456,redirect,0x28A6,1,,,
+185,0x346D,redirect,0x28A7,1,,,
+186,0x34B2,redirect,0x28A8,1,,,
+187,0x34D5,redirect,0x28A9,1,,,
+188,0x34EE,redirect,0x28AA,1,,,
+189,0x3553,redirect,0x28AB,1,,,
+190,0x357E,redirect,0x28AC,1,,,
+191,0x35A9,redirect,0x28B0,1,,,
+192,0x35D8,redirect,0x28B1,1,,,
+193,0x361B,redirect,0x28B2,1,,,
+194,0x362C,redirect,0x28B3,1,,,
+195,0x365F,redirect,0x28B4,1,,,
+196,0x3684,redirect,0x28B5,1,,,
+197,0x36D1,redirect,0x28B6,1,,,
+198,0x36E2,redirect,0x28B7,1,,,
+199,0x3711,redirect,0x28B8,1,,,
+200,0x3718,redirect,0x28B9,1,,,
+201,0x378B,redirect,0x28BA,1,,,
+202,0x37CE,redirect,0x28BB,1,,,
+203,0x37E5,redirect,0x28BC,1,,,
+204,0x383C,redirect,0x28BD,1,,,
+205,0x386D,redirect,0x28BE,1,,,
+206,0x3882,redirect,0x28BF,1,,,
+207,0x38C7,redirect,0x28C0,1,,,
+208,0x38D4,redirect,0x28C1,1,,,
+209,0x391D,redirect,0x28C2,1,,,
+210,0x3966,redirect,0x28C3,1,,,
+211,0x397D,redirect,0x28C4,1,,,
+212,0x39B2,redirect,0x28C5,1,,,
+213,0x3A15,redirect,0x28C6,1,,,
+214,0x3A68,redirect,0x28C7,1,,,
+215,0x3A95,redirect,0x28C8,1,,,
+216,0x3AD0,redirect,0x28C9,1,,,
+217,0x3B07,redirect,0x28CA,1,,,
+218,0x3B26,redirect,0x28CB,1,,,
+219,0x3B39,redirect,0x28CC,1,,,

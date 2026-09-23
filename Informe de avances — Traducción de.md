@@ -303,3 +303,192 @@ mkpsxiso -o "bin\EN1_test.bin" -c "bin\EN1_test.cue" "bin\en1.xml"
 4. **El emulador como instrumento:** alterar datos a propósito (poner a cero, aleatorizar, máscaras) y mirar la captura permitió descifrar el formato de la fuente sin ver el código.
 5. **Medir antes de opinar sobre el diseño:** el espaciado de los acentos se corrigió tras medir los márgenes de cada glifo, no a ojo.
 6. **Hacer imposibles los errores previsibles:** las herramientas rechazan los caracteres reservados en lugar de confiar en que nadie los escriba.
+
+## 14. Subtítulos de cinemáticas (`.MOV`) — resuelto
+
+### 14.1 Formato descubierto
+
+- **Header de chunk:** `00 38 <tipo:2 bytes variable> 01 00`. El campo de tipo varía según el chunk (`0001` para la mayoría, `0004` visto en al menos un caso) — un patrón fijo sin comodín se pierde chunks reales.
+- **El texto vive pegado en la cola de cada chunk**, justo antes del header del chunk siguiente — no en una posición fija ni con un puntero dedicado.
+- **Descubierto por qué:** comparando JP vs EN byte a byte (`pntool.py diffcheck`) alrededor de un subtítulo confirmado, aparecen cientos de diferencias irregulares en cascada, consistentes con que el equipo de DATCH tuvo que **recomprimir el frame de video MDEC completo** de esa escena para hacer lugar al subtítulo en inglés (el japonés no tiene texto en pantalla ahí, tiene audio nativo). El único bloque de diferencias *no* asociado a texto resultó ser una tabla de índice de ~24 registros al principio del archivo, de naturaleza todavía no confirmada pero irrelevante para la reinserción (no se toca).
+
+### 14.2 Extracción — `pntool.py movscan` / `movscan-all`
+
+Escanea el `.MOV` completo, chunk por chunk, buscando ASCII imprimible en la cola de cada uno. Filtros en capas, cada uno agregado a partir de un falso positivo real encontrado durante las pruebas:
+
+1. **Caracteres prohibidos:** un conjunto de símbolos ASCII que el guion nunca usa (los mismos reservados por la fuente para dibujar acentos) — cualquier racha que los contenga se descarta antes de cualquier otra heurística.
+2. **Ruido repetitivo:** cadenas cortas en mayúsculas que se repiten periódicamente cada N chunks (`SCIPPDTS`, `SCTEGOLD`, `SDNSSDTS`) — resultaron ser un marcador estructural del formato, no ruido de audio, pero tampoco es texto de diálogo.
+3. **Token único sospechoso:** una racha larga (10+ caracteres) sin ningún espacio interno y sin ninguna palabra inglesa común reconocible — casi siempre son bytes de audio ADPCM que cayeron en rango imprimible por pura casualidad estadística.
+4. **Palabra reconocible:** clasifica cada hallazgo por confianza (contiene una palabra inglesa común vs. no) para priorizar revisión manual.
+
+**Fusión de líneas partidas:** el motor usa dos marcadores de salto de línea distintos — un `0x0A` simple, y un esquema de `0x80` seguido del carácter visible `|` (que sobrevive como parte de la racha siguiente, no del separador). Sin fusionar, una frase de dos líneas pierde su segunda mitad si es más corta que el `--minlen`. La herramienta detecta ambos esquemas y los reconstruye en una sola entrada.
+
+### 14.3 Incidente de seguridad — margen de crecimiento
+
+Primera versión: `offset_fin` (el límite hasta donde se puede escribir una traducción) se calculaba asumiendo que **todo** el tramo hasta el próximo landmark (siguiente texto detectado, o el header del siguiente chunk) era relleno libre. Esto **corrompió el video de una escena real** — glitches en cuadrícula, clásicos de un bitstream MDEC desincronizado — porque una parte de ese tramo resultó ser datos reales de video, no padding.
+
+**Corrección aplicada:** `offset_fin` ahora se extiende únicamente mientras el archivo original tenga bytes `0x00` reales y consecutivos, verificados byte a byte, nunca por ausencia de otra explicación. Se aplicó la misma corrección a `textscan` (ver §15) por el mismo motivo.
+
+**Lección:** un patrón de padding "descubierto" en un solo ejemplo no se puede generalizar como regla sin verificarlo byte a byte en cada caso — coherente con la lección #2 de la sección 13 del informe original ("consumir el 100% de la entrada no prueba nada").
+
+### 14.4 Reinserción — `pntool.py textbuild` / `textset`
+
+- **`textbuild`:** lee un binario original + un CSV con columnas `offset/offset_fin/encoding/texto/traduccion`, reinserta cada traducción. Nunca crece más allá del espacio verificado — si una fila no entra, se rechaza esa fila puntual (queda en inglés) en vez de cortar el texto o arriesgar el resto del archivo. Verifica el resultado releyendo el archivo escrito antes de darlo por bueno.
+- Soporta `--charmap`, reutilizando `apply_charmap`/`from_tokens`/`check_reserved` directamente desde `sz_text.py` (nunca reimplementado aparte, para que los dos flujos de traducción compartan exactamente la misma lógica de acentos).
+- **`textset`:** editar una traducción puntual desde la terminal por offset, equivalente de `sz_text.py set` para este formato de CSV (que no tiene un `id` numérico).
+- **`restore`:** dado que estos archivos no están en un contenedor DPK, cada uno tiene su propio backup `.orig` suelto (ver §18).
+
+---
+
+## 15. Voces sobre imagen estática (`PN_VOX1.PAC`) — resuelto
+
+Este archivo resultó tener **dos estructuras distintas mezcladas**, descubiertas por partes:
+
+### 15.1 Tramos con formato de registro real
+
+Una franja del archivo (algunas escenas puntuales, cerca del principio) sigue un formato de registro genuino: header de 16 bytes (`total_len` / `campo_b` / `campo_c` / reservado, los cuatro `u32` little-endian) + texto + padding, hasta completar `total_len`. Los registros están pegados uno atrás del otro sin espacio perdido entre ellos.
+
+- **`pntool.py voxwalk`:** camina una cadena de registros desde un offset ancla ya confirmado, con resincronización opcional hacia atrás para encontrar el comienzo real de la cadena.
+- **`pntool.py voxscan`:** recorre el archivo **entero** buscando todas las cadenas válidas de una sola pasada, sin necesitar ningún ancla — acepta una cadena como real solo si encuentra un mínimo de registros consecutivos válidos (configurable), para evitar falsos positivos de puro azar.
+
+### 15.2 El resto del archivo — audio real, sin header fijo
+
+La inmensa mayoría del archivo (el audio ADPCM en sí) no sigue el formato de registro — el texto está pegado en algún punto de cada muestra de voz, sin ningún header detectable. Se resolvió reusando **`pntool.py textscan`** (el mismo escaneo lineal sin estructura descripto en §16.1, con los mismos filtros en capas de §14.2).
+
+### 15.3 Reinserción
+
+Mismo `textbuild`/`textset` genéricos de §14.4 — no hizo falta ninguna herramienta nueva, ya que `voxscan`/`textscan` producen el mismo formato de CSV que `movscan`.
+
+---
+
+## 16. Menús y textos del motor (`BIN.DPK`) — resuelto (parcial)
+
+### 16.1 `KERNEL.SC` — resuelto: no es texto traducible
+
+Es un **manifiesto de compilación**: rutas de desarrollo (`hostpath d:\nauts\cdrom.img\`) y la lista de archivos `.DPK` que van al disco (`fsfile GAME1.DPK`, etc.). ASCII plano, sin negar. El cambio de 6 bytes entre JP/EN que lo había priorizado en la sesión anterior es casi seguro solo una ruta de desarrollo de largo distinto entre equipos — no hay diálogo ni menú acá.
+
+### 16.2 `BIN.DPK` — contenedor FRID, 14 subarchivos
+
+Mismo formato FRID que `GAME1.DPK` (§4 del informe original), confirmado con `pntool.py dpk-list`. Contenido: `BLOOD.BIN`, `DISPLAY.BIN`, `ENGLISH.BIN`, `ITP.BIN`, `MASQ1.BIN`, `MASQ2.BIN`, `MENU.BIN`, `MV.BIN`, `OPEN.BIN`, `ROLL.BIN`, `SUBS1.BIN`–`SUBS4.BIN`.
+
+### 16.3 `MENU.BIN` / `ITP.BIN` — los dos candidatos reales, con contenido duplicado
+
+- **ASCII plano, sin negar** (a diferencia de `GAME*.SZ`) — confirmado con `negprobe.py`.
+- **~70% del contenido de `MENU.BIN` se repite byte a byte en `ITP.BIN`**, en al menos dos regiones separadas (una copia contigua confirmada de 1224 bytes byte a byte idéntica), a offsets distintos con un desplazamiento constante por región pero *no* uniforme entre regiones. Evidencia de que ambos archivos comparten una tabla de strings de sistema, compilada por separado en dos subsistemas distintos (hipótesis: chequeo de tarjeta de memoria al arrancar el disco, vs. el mismo chequeo accedido desde el menú de pausa in-game — sin confirmar en emulador todavía).
+- **El margen disponible (`offset_fin - offset`) no es necesariamente igual entre las dos copias del mismo texto en inglés** — confirmado empíricamente: 19 de 324 pares con margen distinto, algunos notablemente más chicos en `ITP.BIN` (hasta 17 bytes menos).
+- **`pntool.py synctrad`:** copia traducciones ya cargadas de un CSV fuente a un CSV destino cuando el texto en inglés coincide (normalizado), pero **siempre valida que la traducción entre en el margen específico de esa fila del destino** antes de copiar — nunca asume que el margen de la fuente aplica igual. Si no entra, la fila queda vacía (se conserva el inglés al hacer `build`) y se reporta el detalle (bytes necesarios vs. disponibles) para revisión manual.
+
+### 16.4 Metodología de clasificación: traducir vs. texto interno
+
+Desarrollada sobre las 280 entradas de `MENU.BIN` y las 161 únicas de `ITP.BIN`, reutilizable para cualquier archivo de sistema nuevo:
+
+| Patrón | Ejemplo | Decisión |
+|---|---|---|
+| `CLAVE:%d` / `%x` / `%lx` (nombre + especificador de formato C) | `CARDINF:%08lx`, `READERR CNT:%d` | **No traducir.** Telemetría interna, nunca visible. El especificador de formato en sí **nunca se toca** — riesgo real de crash. |
+| Palabra o frase suelta sin `%` | `New Game`, `Format complete.` | **Traducir.** Probablemente visible al jugador. |
+| Nombres de archivo fuente (`*.c`), flags de build (`-debug`), mensajes de assert (`sorry, ...`), identificadores de opcode (`EF:algo`) | `itpobj.c`, `-pilot`, `EF:windowon1` | **No traducir**, descartar sin dudar. |
+| Fragmentos cortos sin sentido | `'4!('`, `'B0%'` | **Ignorar** — ruido que sobrevivió el filtro de largo mínimo, no es texto real. |
+| Palabra suelta ambigua | `stop`, `pause`, `SAVING...` | Marcar para **confirmar en emulador** antes de decidir. |
+
+### 16.5 Hallazgo práctico: números en vez de palabras largas
+
+Para la opción "Cursor Speed" (`Slowest`/`Slow`/`Medium`/`Fast`/`Fastest`, slots de apenas 8-12 bytes — insuficiente para las palabras españolas equivalentes), se optó por reemplazar directamente por una escala numérica `1`-`5` en vez de abreviar. Resuelve el problema de espacio de raíz sin perder claridad, aprovechando que el título de la opción ya da contexto. Aplicable a cualquier otro caso de opciones ordenadas con slots ajustados.
+
+### 16.6 Contenedores hermanos, listados vía `KERNEL.SC`
+
+`KERNEL.SC` (§16.1) reveló la lista completa de `.DPK` del disco, incluyendo tres nunca explorados hasta esta sesión:
+
+- **`DATA.DPK`** (37 MB, 327 subarchivos `S00XX.XDT`): **sin explorar todavía.** Posible relación con el "XDT hack" de JunkerHQ mencionado en pendientes de sesiones anteriores (voces sincronizadas) — pendiente de investigación seria, potencialmente un hallazgo grande.
+- **`DEV.DPK`** (26 KB, 8 subarchivos): tablas de audio (`PCMBGM*.TBL`, `PCMVOX*.TBL`, `PCMSE*.TBL`, `NOPAC*.TBL`) — sin texto, no aplica.
+- **`PAK.DPK`** (8.8 MB, 85 subarchivos): mayormente assets gráficos y de minijuego. Candidatos sin explorar: `CREDITPS.PAK` / `CREDITPT.PAK` (créditos finales — nombre lo sugiere fuertemente). `ENGLISH.PAK` sí se investigó en profundidad — ver §16.8.
+- **`SHOTPAC.DPK`** (7.6 MB, 32 subarchivos) y, dentro de `BIN.DPK`: `SUBS1.BIN`–`SUBS4.BIN`, `BLOOD.BIN`, `DISPLAY.BIN`, `MASQ1.BIN`, `MASQ2.BIN` — todos assets y texto de depuración de minijuegos (persecución en auto, práctica de tiro, manejo de bombas). Ver §16.7.
+
+### 16.7 Minijuegos — baja prioridad
+
+`SUBS1-4.BIN`, `BLOOD.BIN`, `DISPLAY.BIN`, `MASQ1-2.BIN` y `SHOTPAC.DPK` comparten la misma familia de nombres de asset (`CARCHAR`, `CARANIM`, `BOMBCHAR`, `SHOTCH`, `MASCHAR`, `TOKUCHAR`) — **no son subtítulos** pese al nombre "SUBS" (corregido de una suposición incorrecta de una sesión anterior). Prácticamente todo el texto encontrado es depuración interna del motor gráfico/de animación (errores de memoria, carga de assets). Un puñado de exclamaciones cortas estilo arcade (`LIFE UP !!`, `BONUS !!`, `game over !!`, `game clear !!`) podrían ser visibles durante algún minijuego — sin confirmar. Dado el volumen mínimo de texto real frente al resto del proyecto, **queda deprioritizado** salvo confirmación positiva en emulador.
+
+### 16.8 `ENGLISH.PAK` — investigado en profundidad, sin resolver
+
+Pese al nombre, no se pudo identificar con ninguna técnica ya validada en el proyecto:
+
+- No es ASCII plano ni negado (el truco de `GAME*.SZ`)
+- No es texto ancho de 2 bytes por carácter (esquema agregado a `negprobe.py` específicamente para esta prueba — ver §17)
+- No tiene firma TIM estándar de PSX
+- Renderizado como bitmap 4bpp con paleta (mismo esquema que `NAMEID1.DAT`, §5 del informe original) da ruido visual en todos los anchos probados
+- Tiene una posible tabla de offsets al inicio del archivo que no llevó a contenido reconocible en ninguna de las posiciones candidatas
+
+Entropía moderada (4.3-4.6 bits/byte) — hay estructura real, no es basura aleatoria ni compresión de alta entropía, pero el esquema concreto no fue identificado. Es candidato fuerte a contener el mensaje de sistema `"Autosave File will be deleted... Are you sure you want to start a new game?"`, que tampoco se localizó en ningún otro archivo del disco revisado hasta el momento (`GAME*.SZ`, los 14 subarchivos de `BIN.DPK`). **Pendiente, prioridad media-baja** dado el costo de investigación ya invertido frente al resto de tareas disponibles.
+
+---
+
+## 17. Herramientas nuevas de esta sesión
+
+### `pntool.py` (ampliado significativamente sobre la base preexistente)
+
+| Subcomando | Función |
+|---|---|
+| `grep` | Buscar frases literales (ASCII/ASCII80) en un archivo o carpeta entera |
+| `hexdump` | Volcar bytes alrededor de un offset arbitrario, sin atarse a límites de chunk |
+| `around` | Ver chunks/sectores de tamaño fijo alrededor de un offset (mapear estructura) |
+| `findhex` | Buscar un patrón de bytes crudo con comodines (`??`), ver campos u16/u32 posteriores |
+| `chunkmap` | Mapear todos los chunks de un archivo por un patrón de header, detectar outliers de tamaño |
+| `movscan` / `movscan-all` | Extracción automática de subtítulos de `.MOV` (uno o toda una carpeta) — §14.2 |
+| `voxwalk` / `voxscan` | Caminar/escanear cadenas de registros tamaño-variable tipo `PN_VOX1.PAC` — §15.1 |
+| `textscan` | Escaneo lineal sin estructura de chunk/registro, para archivos sin header conocido — §15.2, §16 |
+| `textbuild` / `textset` | Reinserción/edición genérica para CSV de `movscan`/`textscan`, con `--charmap` — §14.4 |
+| `synctrad` | Copiar traducciones entre dos CSV cuando el texto coincide, validando margen del destino — §16.3 |
+| `diff` / `diffcheck` | Comparar dos binarios JP/EN; `diffcheck` cruza las regiones distintas contra un CSV de subtítulos ya conocidos |
+| `restore` | Restaurar todos los `.orig` sueltos de una carpeta a su lugar en el árbol, por nombre — §18 |
+| `margen` | Analizar cuánto margen real hay en cada fila de un CSV para que la traducción crezca |
+
+### `negprobe.py`
+
+Se agregaron dos esquemas de detección nuevos (texto ancho de 2 bytes por carácter, little- y big-endian) — descartados para todo lo investigado en esta sesión (`ENGLISH.PAK`, `MENU.BIN`, `ITP.BIN`), pero quedan disponibles para el próximo archivo sin identificar.
+
+### `sz_text.py`
+
+Corrección de simetría en `apply_charmap`: ahora escapa `\`, `{` **y `}`** como token hexadecimal cuando una ranura de acento cae en uno de esos tres caracteres (antes solo cubría `\` y `{`). Relevante si en el futuro se asignan las ranuras libres (`{`, `|`) a glifos de dígrafos comunes en español, como técnica de compresión de espacio en slots ajustados (ver §19, pendiente sin desarrollar todavía).
+
+---
+
+## 18. Convención de trabajo consolidada: `.orig` + `restore`
+
+Extendida a los archivos nuevos de esta sesión, sobre la misma lógica que ya existía para `GAME1.DPK.orig`/`FONT_EN.DPK`:
+
+- Cada binario que se traduce (`.MOV` individuales, `PN_VOX1.PAC`, `BIN.DPK`) tiene su propio backup `.orig` suelto en `bin\`.
+- `pntool.py restore <carpeta_origs> <árbol>` busca cada `.orig` por nombre en todo el árbol de extracción y lo restaura, sin necesitar que se le indique la ruta exacta — soluciona el caso de archivos que viven dentro de un contenedor DPK (no hay "MENU.BIN suelto" en el árbol, pero sí hay `BIN.DPK`; el `.orig` que corresponde es el del contenedor completo).
+- Una vez que un archivo se da por definitivo (la fuente con acentos ya lo está; en el futuro, `BIN.DPK` con el menú traducido), su `.orig` se saca de la carpeta que escanea `restore`, para que un `restore` posterior (por ejemplo al arreglar un `.MOV`) no lo revierta por accidente.
+
+---
+
+## 19. Pendientes actualizados
+
+### Alta prioridad
+- [ ] **Verificador de ancho de línea** (sigue arrastrándose de la sesión anterior — ahora más urgente: los slots de `MENU.BIN` son mucho más ajustados que los de `GAME*.SZ`, no hay margen para improvisar).
+- [ ] **Confirmar en emulador** los hallazgos de esta sesión: fusión de líneas en `.MOV`, corrección de `offset_fin`, traducciones cargadas en `MENU.BIN`/`ITP.BIN`, y si las dos copias duplicadas (§16.3) son ambas alcanzables en el juego real.
+- [ ] **Ubicar** `"Autosave File will be deleted... Are you sure you want to start a new game?"` — candidato más fuerte es `ENGLISH.PAK`, sin resolver.
+
+### Prioridad media
+- [ ] Descifrar el formato de `ENGLISH.PAK`.
+- [ ] Investigar `DATA.DPK` (327 archivos `.XDT`) — posible relación con el XDT hack / voces sincronizadas, potencial hallazgo grande sin explorar.
+- [ ] `CREDITPS.PAK` / `CREDITPT.PAK` (créditos finales, sin extraer todavía).
+- [ ] Confirmar en emulador si las exclamaciones de minijuego (`LIFE UP !!`, `BONUS !!`, etc.) son visibles antes de decidir si vale la pena traducirlas.
+
+### Baja prioridad / probablemente no vale la pena
+- [ ] Texto de minijuegos en `SUBS*.BIN` / `SHOTPAC.DPK` — casi todo depuración interna, volumen mínimo de texto real.
+
+### Ya resuelto en esta sesión (bajado de pendientes anteriores)
+- [x] Subtítulos de cinemáticas (`.MOV`) — mecanismo, extracción y reinserción completos.
+- [x] Voces sincronizadas (`PN_VOX1.PAC`) — mecanismo, extracción y reinserción completos.
+- [x] Menús y textos del motor (`BIN.DPK`) — ubicados, clasificados, con pipeline de reinserción y detección de duplicados entre archivos.
+
+### Sin cambios desde el informe anterior
+- [ ] Disco 2 (`GAME2.DPK`): repetir `dump-all`/`build-all`/`repack`.
+- [ ] Mayúsculas acentuadas: rediseñar acentos más bajos o ampliar el área de la baldosa.
+- [ ] Distribución final con `xdelta3`, prueba en consola real con ODE.
+
+---
+
+## 20. Estimación de cobertura
+
+Con el trabajo de esta sesión sumado a lo ya resuelto (diálogo completo vía `GAME*.SZ`, subtítulos de video, voces de sistema, menú principal y de opciones), la porción de texto **traducible con las herramientas ya construidas** ronda el 90% del contenido visible al jugador. Lo que queda afuera de ese número es, en su mayoría, contenido de bajo impacto (minijuegos, un puñado de mensajes de sistema aislados) más un archivo de formato todavía no identificado (`ENGLISH.PAK`) y el disco 2 completo (mismo mecanismo que el disco 1, solo falta repetir el pipeline ya validado).

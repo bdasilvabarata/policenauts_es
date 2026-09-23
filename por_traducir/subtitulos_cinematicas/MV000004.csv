@@ -1,0 +1,4 @@
+offset,offset_fin,largo_original,encoding,chunk,texto,ruido_probable,palabra_reconocible,traduccion
+0x1080C,0x10830,36,ascii,0,Lorraine....  I missed you too.,,si,
+0x22DFC,0x22E1C,32,ascii,6,Like you wouldn't believe.,,si,
+0x9C6FC,0x9C720,36,ascii,40,Lorraine! Get away from the car!,,si,

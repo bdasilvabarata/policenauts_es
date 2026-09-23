@@ -1,0 +1,784 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x2F44,redirect,0x2F47,26,That was Target Mode's...,,
+1,0x2F67,redirect,0x2F61,15,Circle Target.,,1 isla(s) 91 inline
+2,0x2F80,redirect,0x2F73,15,Circle Target.,,1 isla(s) 91 inline
+3,0x2F97,redirect,0x2F85,38,This is your standard type of\ntarget.,,1 isla(s) 91 inline
+4,0x2FB8,redirect,0x2FAE,12,Man Target.,,1 isla(s) 91 inline
+5,0x2FCD,redirect,0x2FBD,12,Man Target.,,
+6,0x2FE0,redirect,0x2FC9,22,Hey! The hell's this?,,2 isla(s) 91 inline
+7,0x2FFD,redirect,0x2FE5,27,"You drew this, didn't you?",,1 isla(s) 91 inline
+8,0x301C,redirect,0x3003,14,"Not bad, huh?",,
+9,0x3035,redirect,0x3011,32,Just who's this supposed to be?,,1 isla(s) 91 inline
+10,0x305C,redirect,0x3034,28,"Calm down, Ed! It's a joke!",,1 isla(s) 91 inline
+11,0x3081,redirect,0x3053,41,Don't tell me this is supposed to\nbe me!,,1 isla(s) 91 inline
+12,0x309E,redirect,0x307F,23,"You're scaring me, Ed.",,1 isla(s) 91 inline
+13,0x30B7,redirect,0x3099,46,"Well, your face always looks a little\ncreepy.",,2 isla(s) 91 inline
+14,0x30D6,redirect,0x30CD,7,What?!,,
+15,0x30E3,redirect,0x30D4,10,Whatever.,,1 isla(s) 91 inline
+16,0x3102,redirect,0x30E1,29,More of your usual bullshit.,,1 isla(s) 91 inline
+17,0x3125,redirect,0x3101,11,(Whew....),,1 isla(s) 91 inline
+18,0x313E,redirect,0x310F,32,Just try it again! Just try it!,,1 isla(s) 91 inline
+19,0x3161,redirect,0x3132,18,"Alright, alright.",,1 isla(s) 91 inline
+20,0x3176,redirect,0x3147,35,(I didn't think it was THAT good.),,1 isla(s) 91 inline
+21,0x318F,redirect,0x316D,31,"Anyway, here are your results.",,1 isla(s) 91 inline
+22,0x31AE,redirect,0x3192,19,What?! That again?,,
+23,0x31DB,redirect,0x31A5,26,"Hey, what are you doing?!",,1 isla(s) 91 inline
+24,0x31EC,redirect,0x31C2,36,Man....  You didn't have to rip it.,,1 isla(s) 91 inline
+25,0x3207,redirect,0x31E9,31,"There, that takes care of you.",,2 isla(s) 91 inline
+26,0x3236,redirect,0x320E,37,(There's more where that came\nfrom.),,
+27,0x3249,redirect,0x3233,34,"You drew another one, didn't\nyou?",,2 isla(s) 91 inline
+28,0x3262,redirect,0x325B,26,(I can keep drawing 'em.),,1 isla(s) 91 inline
+29,0x3279,redirect,0x3278,22,You drew another one?,,1 isla(s) 91 inline
+30,0x3294,redirect,0x3291,21,"Your work, Jonathan?",,1 isla(s) 91 inline
+31,0x32AF,redirect,0x32A9,58,"When the hell do you have time to\ndraw all these, anyway?",,2 isla(s) 91 inline
+32,0x32CE,redirect,0x32E9,54,"Whatever.  Anyway, let's take a\nlook at your results.",,2 isla(s) 91 inline
+33,0x32F1,redirect,0x3325,24,I didn't draw this one.,,1 isla(s) 91 inline
+34,0x3302,redirect,0x3340,49,"Oh, come on! If you didn't draw it\nthen who did?",,4 isla(s) 91 inline
+35,0x3331,redirect,0x337D,29,I honestly didn't draw this.,,1 isla(s) 91 inline
+36,0x3346,redirect,0x339D,29,Huh? Where'd that come from?,,
+37,0x3357,redirect,0x33BA,28,What are you talking about?,,
+38,0x3366,redirect,0x33D6,24,For the love of god....,,1 isla(s) 91 inline
+39,0x3375,redirect,0x33F1,13,What's this?,,1 isla(s) 91 inline
+40,0x3392,redirect,0x3401,90,I'm not sure myself.  It was on that\nwall there.{80238057}I thought I'd mix things up a little.,,2 isla(s) 91 inline
+41,0x33DD,redirect,0x3461,20,You mean that wall?,,1 isla(s) 91 inline
+42,0x33F4,redirect,0x3478,27,"Yeah, at the corner there.",,
+43,0x3411,redirect,0x3493,52,"That's where they put the wanted\nposters, Jonathan.",,2 isla(s) 91 inline
+44,0x3438,redirect,0x34CD,34,Oh.  Really? So why's he\nsmiling?,,1 isla(s) 91 inline
+45,0x3473,redirect,0x34F2,55,"Yeah, I dunno either.  I can see\nhow you'd confuse it.",,2 isla(s) 91 inline
+46,0x3498,redirect,0x352F,44,You take this one off that same\nwall again?,,1 isla(s) 91 inline
+47,0x34BF,redirect,0x355E,57,"Just trying to make things more\ninteresting, that's all.",,3 isla(s) 91 inline
+48,0x34D6,redirect,0x35A0,22,Wow! A perfect score!,,
+49,0x34F5,redirect,0x35B6,36,Nice work! You got a perfect\nscore!,,1 isla(s) 91 inline
+50,0x351C,redirect,0x35DD,30,This is your second in a row!,,1 isla(s) 91 inline
+51,0x3539,redirect,0x35FE,29,This is your third in a row!,,1 isla(s) 91 inline
+52,0x3570,redirect,0x361E,30,This is your fourth in a row!,,1 isla(s) 91 inline
+53,0x358D,redirect,0x363F,9,Amazing!,,1 isla(s) 91 inline
+54,0x359C,redirect,0x364B,29,This is your fifth in a row!,,1 isla(s) 91 inline
+55,0x35B9,redirect,0x366B,68,Unbelievable! Five perfects in a\nrow in such an unpredictable\ngame.,,1 isla(s) 91 inline
+56,0x35F2,redirect,0x36B2,29,This is your sixth in a row!,,
+57,0x360F,redirect,0x36CF,38,"You totally own this thing,\nJonathan!",,3 isla(s) 91 inline
+58,0x3628,redirect,0x36FE,31,This is your seventh in a row!,,1 isla(s) 91 inline
+59,0x3645,redirect,0x3720,34,That's another one you've gotten!,,1 isla(s) 91 inline
+60,0x3662,redirect,0x3745,71,You did a good job hitting the\ncenter.  It's harder without any\nlines.,,2 isla(s) 91 inline
+61,0x36A5,redirect,0x3792,28,You expected any different?,,1 isla(s) 91 inline
+62,0x36D0,redirect,0x37B1,36,I could shoot your face up all day.,,2 isla(s) 91 inline
+63,0x36E9,redirect,0x37DB,7,What?!,,
+64,0x36F8,redirect,0x37E2,25,"I mean... ah, forget it.",,1 isla(s) 91 inline
+65,0x3707,redirect,0x37FE,41,That was your first time in Target\nMode.,,1 isla(s) 91 inline
+66,0x3736,redirect,0x382A,49,It's not easy getting a perfect your\nfirst time!,,1 isla(s) 91 inline
+67,0x3765,redirect,0x385E,27,"You're a natural, I guess.",,1 isla(s) 91 inline
+68,0x377C,redirect,0x387C,42,Just what you'd expect from a\nPolicenaut.,,1 isla(s) 91 inline
+69,0x3797,redirect,0x38A9,52,Good job! That's a pretty high\nscore you got there!,,1 isla(s) 91 inline
+70,0x37BA,redirect,0x38E0,29,"Pretty nice score, Jonathan!",,1 isla(s) 91 inline
+71,0x37CD,redirect,0x3900,52,"The Circle Target is pretty easy to\nhit, after all.",,1 isla(s) 91 inline
+72,0x37F4,redirect,0x3937,60,"The center of the Circle Target is\nwell defined, after all.",,2 isla(s) 91 inline
+73,0x3825,redirect,0x3979,48,"What, you think I can't handle a\nmoving target?",,1 isla(s) 91 inline
+74,0x3854,redirect,0x39AC,49,"The Man Target is pretty easy to\nhit, after all.",,1 isla(s) 91 inline
+75,0x3877,redirect,0x39E0,57,"The center of the Man Target is\nwell defined, after all.",,2 isla(s) 91 inline
+76,0x38A4,redirect,0x3A1F,43,This is a great score for your first\ntime!,,1 isla(s) 91 inline
+77,0x38C1,redirect,0x3A4D,17,"Hey, nice score.",,1 isla(s) 91 inline
+78,0x38EA,redirect,0x3A61,28,Nice! This is a good score.,,1 isla(s) 91 inline
+79,0x3913,redirect,0x3A80,41,That was your first time in Target\nMode.,,1 isla(s) 91 inline
+80,0x393E,redirect,0x3AAC,53,That's about what you'd expect for\na first time out.,,1 isla(s) 91 inline
+81,0x395B,redirect,0x3AE4,68,What the hell was that? That was\nterrible! What were you aiming\nat?,,2 isla(s) 91 inline
+82,0x3996,redirect,0x3B2E,29,"That was pathetic, Jonathan.",,1 isla(s) 91 inline
+83,0x39C3,redirect,0x3B4E,50,How'd you ever become a\nPolicenaut with that aim?,,1 isla(s) 91 inline
+84,0x39F0,redirect,0x3B83,37,"I'm just a little rusty, that's all.",,1 isla(s) 91 inline
+85,0x3A11,redirect,0x3BAB,75,This is what happens when you go\nthrough life making excuses for\nyourself.,,1 isla(s) 91 inline
+86,0x3A2E,redirect,0x3BF9,74,I suppose you do tend to be more\ncritical when it's someone's first\ntime.,,2 isla(s) 91 inline
+87,0x3A57,redirect,0x3C49,45,"Your score's still a little too low,\nthough.",,
+88,0x3A74,redirect,0x3C76,51,You've got a long way to go with\nthis kinda score.,,1 isla(s) 91 inline
+89,0x3AA1,redirect,0x3CAC,68,I think you've gotten worse.  I'm\nsure you can do better than that.,,1 isla(s) 91 inline
+90,0x3ADE,redirect,0x3CF3,24,Practice makes perfect.,,1 isla(s) 91 inline
+91,0x3AEF,redirect,0x3D0E,31,Here's a hint for Target Mode.,,1 isla(s) 91 inline
+92,0x3B0E,redirect,0x3D30,52,It's important to know how the\ntarget's gonna move.,,1 isla(s) 91 inline
+93,0x3B2F,redirect,0x3D67,66,"When the round starts, the target\nalways moves to the left first.",,2 isla(s) 91 inline
+94,0x3B52,redirect,0x3DAF,78,It'll help if you hold your aim a\nlittle to the left before the round\nstarts.,,1 isla(s) 91 inline
+95,0x3B99,redirect,0x3E00,135,You'll get a higher score by\nkeeping your aim fixed in one\nplace and firing multiple shots\n instead of moving it around for\neach shot.,,3 isla(s) 91 inline
+96,0x3BEC,redirect,0x3E90,35,"Multiple shots, Jonathan.  Got it?",,1 isla(s) 91 inline
+97,0x3C01,redirect,0x3EB6,79,Here's what you should do when\nyou're playing Target Mode with\nthe controller.,,1 isla(s) 91 inline
+98,0x3C36,redirect,0x3F08,78,Align your laser sight with the\ncenter before the target moves\naway from you.,,3 isla(s) 91 inline
+99,0x3C9B,redirect,0x3F5F,73,In Target Mode you need to keep\nan eye on how much time you've\ngot left.,,3 isla(s) 91 inline
+100,0x3CCC,redirect,0x3FB1,54,Especially if you're setting up each\nshot separately.,,2 isla(s) 91 inline
+101,0x3D01,redirect,0x3FED,25,It runs out pretty fast.,,
+102,0x3D20,redirect,0x4006,57,You can't fire any remaining\nrounds once time's run out.,,1 isla(s) 91 inline
+103,0x3D5D,redirect,0x4042,61,"The more shots you've landed, the\nhigher your score will be.",,1 isla(s) 91 inline
+104,0x3D8A,redirect,0x4082,11,Naturally.,,
+105,0x3D95,redirect,0x408D,44,You should aim for the target's\ngreen area.,,
+106,0x3DBA,redirect,0x40B9,85,The green area's worth 10 points. \nThe other areas are worth\nbetween 1 and 5 points.,,2 isla(s) 91 inline
+107,0x3E01,redirect,0x4114,81,"With the Circle Target, the closer\nyou are to the center, the higher\nthe points.",,3 isla(s) 91 inline
+108,0x3E2E,redirect,0x416E,37,The white area's only worth 1\npoint.,,
+109,0x3E67,redirect,0x4193,122,"With the Man Target, the middle\nof the chest's worth 10 points.{80238057}The rest of the chest and the\nhead are worth 5 points.",,4 isla(s) 91 inline
+110,0x3E9E,redirect,0x4219,159,"The shoulders and the hips are\nworth 4 points, the right arm and\nboth the legs are worth 3 points,\n the left arm's 2 points, while\neverywhere else is 1 point.",,6 isla(s) 91 inline
+111,0x3EDF,redirect,0x42CA,47,I get it.  It's the same as the Circle\nTarget.,,1 isla(s) 91 inline
+112,0x3F28,redirect,0x42FC,31,Maybe the developers got lazy?,,1 isla(s) 91 inline
+113,0x3F47,redirect,0x431E,11,Screw you!,,1 isla(s) 91 inline
+114,0x3F4E,redirect,0x432C,15,Who said that?,,
+115,0x3F6D,redirect,0x433B,24,I didn't hear anything.,,
+116,0x3F7E,redirect,0x4353,43,"Hey, you wanna hear something\ninteresting?",,2 isla(s) 91 inline
+117,0x3F9B,redirect,0x4384,82,There was an event held once\nwhere the general public got to\ntry out Target Mode.,,3 isla(s) 91 inline
+118,0x3FD6,redirect,0x43DF,10,An event?,,
+119,0x3FE1,redirect,0x43E9,85,"Yeah.  If you got over 50 points,\nyou'd win an original telephone\ncard or something.",,4 isla(s) 91 inline
+120,0x402E,redirect,0x444A,37,I got over 50 points.  Do I get\none?,,1 isla(s) 91 inline
+121,0x406B,redirect,0x4472,42,"Well, you could only get it at the\nevent.",,3 isla(s) 91 inline
+122,0x40BE,redirect,0x44A5,9,Too bad.,,
+123,0x40CF,redirect,0x44AE,87,Target Mode wasn't in the PC\nversion.  I heard they added it for\nthe console versions.,,3 isla(s) 91 inline
+124,0x411A,redirect,0x450E,34,"What do you mean by ""PC\nversion""?",,1 isla(s) 91 inline
+125,0x413B,redirect,0x4533,37,"Well, I'm not up on all the details,",,2 isla(s) 91 inline
+126,0x415C,redirect,0x455E,77,but apparently they made the\nstory behind the Policenauts into a\nvideo game.,,3 isla(s) 91 inline
+127,0x4197,redirect,0x45B4,31,A video game? Sounds like fun.,,1 isla(s) 91 inline
+128,0x41C6,redirect,0x45D6,73,You'll need to buy one of the\nsystems it appears on in order to\nplay it.,,3 isla(s) 91 inline
+129,0x41E5,redirect,0x4628,47,"By the way... you see 'em,\nJonathan? The rats.",,2 isla(s) 91 inline
+130,0x4212,redirect,0x465D,28,There are rats around here?,,1 isla(s) 91 inline
+131,0x4225,redirect,0x467C,42,You didn't see them running\nacross there?,,1 isla(s) 91 inline
+132,0x4246,redirect,0x46A9,25,"Yeah, I saw two of them.",,1 isla(s) 91 inline
+133,0x4263,redirect,0x46C5,13,That's them.,,
+134,0x4270,redirect,0x46D2,39,They looked like the rat I saw in\nOLA.,,1 isla(s) 91 inline
+135,0x4295,redirect,0x46FC,30,"Yeah? Well, here's the story.",,1 isla(s) 91 inline
+136,0x42A8,redirect,0x471D,135,"Basically, we've had these two rats\nrunning around here the last\ncouple of months.{80238057}We've been trying everything to\nget rid of them.",,3 isla(s) 91 inline
+137,0x42D7,redirect,0x47AD,26,There are rats on Beyond?,,1 isla(s) 91 inline
+138,0x42FE,redirect,0x47CA,47,They probably came in with\nsomebody's luggage.,,2 isla(s) 91 inline
+139,0x4327,redirect,0x47FF,52,The last thing we need is rats all\nover the colony.,,2 isla(s) 91 inline
+140,0x4356,redirect,0x4839,26,The rats showed up again.,,
+141,0x436F,redirect,0x4853,53,Seems like they come out\nwhenever you get a perfect.,,1 isla(s) 91 inline
+142,0x439E,redirect,0x488B,25,"They're kinda cute, huh?",,1 isla(s) 91 inline
+143,0x43C1,redirect,0x48A7,14,You think so?,,
+144,0x43CA,redirect,0x48B8,26,They're cute little guys.,,
+145,0x43ED,redirect,0x48D2,12,I guess....,,1 isla(s) 91 inline
+146,0x43FC,redirect,0x48E1,47,"You know, I'm starting to like\nthem myself....",,1 isla(s) 91 inline
+147,0x4421,redirect,0x4913,30,"They are kinda cute, yeah....",,1 isla(s) 91 inline
+148,0x4440,redirect,0x4934,23,There they went again!,,1 isla(s) 91 inline
+149,0x4463,redirect,0x494E,24,What's gotten into you?,,
+150,0x447A,redirect,0x4966,33,The little mousies are adorable!,,1 isla(s) 91 inline
+151,0x448B,redirect,0x498A,33,What the hell's wrong with\nyou?!,,1 isla(s) 91 inline
+152,0x44A0,redirect,0x49AE,40,"By the way, you ever seen a rat\nbefore?",,1 isla(s) 91 inline
+153,0x44CB,redirect,0x49D9,29,What kinda question is that?,,1 isla(s) 91 inline
+154,0x44DC,redirect,0x49F9,49,Sure.  I saw one in OLA just\nbefore I flew here.,,1 isla(s) 91 inline
+155,0x4509,redirect,0x4A30,21,"I shot it, actually.",,
+156,0x4520,redirect,0x4A45,27,"I shot it twice, actually.",,
+157,0x453D,redirect,0x4A60,18,You sick bastard.,,1 isla(s) 91 inline
+158,0x4558,redirect,0x4A75,33,"I shot it three times, actually.",,
+159,0x4575,redirect,0x4A96,32,"I shot it four times, actually.",,
+160,0x4592,redirect,0x4AB6,32,"I shot it five times, actually.",,1 isla(s) 91 inline
+161,0x45AF,redirect,0x4AD9,38,"I shot it a bunch of times, actually.",,2 isla(s) 91 inline
+162,0x45CC,redirect,0x4B05,97,These rats showed up here not\nthat long ago.{80238057}We've been trying everything to\nget rid of them.,,2 isla(s) 91 inline
+163,0x45F9,redirect,0x4B6C,23,In the shooting range?,,
+164,0x460E,redirect,0x4B83,6,Yeah.,,
+165,0x4617,redirect,0x4B89,28,That was Training Mode's...,,
+166,0x463C,redirect,0x4BA5,20,Mini-Circle Target.,,1 isla(s) 91 inline
+167,0x4657,redirect,0x4BBC,18,Wow! Great score!,,
+168,0x466E,redirect,0x4BCE,22,That's a great score!,,
+169,0x4683,redirect,0x4BE4,43,That was your first time in\nTraining Mode.,,1 isla(s) 91 inline
+170,0x46B4,redirect,0x4C12,61,It's not that easy to get a score\nlike this your first time!,,2 isla(s) 91 inline
+171,0x46E1,redirect,0x4C55,22,This is a nice score!,,1 isla(s) 91 inline
+172,0x470C,redirect,0x4C6E,28,Nice! This is a good score.,,1 isla(s) 91 inline
+173,0x472D,redirect,0x4C8D,51,What the hell was that? That was\na terrible score!,,1 isla(s) 91 inline
+174,0x475E,redirect,0x4CC3,29,"That was pathetic, Jonathan.",,1 isla(s) 91 inline
+175,0x4789,redirect,0x4CE3,84,"It may be your first time, but you\nstill should've gotten a higher\nscore than that!",,2 isla(s) 91 inline
+176,0x47B0,redirect,0x4D3D,59,You should've done a lot better\nthan that your first time.,,2 isla(s) 91 inline
+177,0x47DB,redirect,0x4D7E,7,Sweet.,,
+178,0x47E4,redirect,0x4D85,29,What are you so happy about?,,1 isla(s) 91 inline
+179,0x480B,redirect,0x4DA5,27,Time to pay Meryl a visit.,,
+180,0x4830,redirect,0x4DC0,10,Sweet....,,1 isla(s) 91 inline
+181,0x485D,redirect,0x4DCD,60,"Jesus Christ, Dave just died,\nman! Have some consideration.",,1 isla(s) 91 inline
+182,0x489A,redirect,0x4E0C,28,"Yeah, you're right.  Sorry.",,1 isla(s) 91 inline
+183,0x48B5,redirect,0x4E2B,33,Here's a hint for Training Mode.,,1 isla(s) 91 inline
+184,0x48D6,redirect,0x4E4F,44,You should aim for the targets'\ngreen area.,,1 isla(s) 91 inline
+185,0x48FB,redirect,0x4E7E,57,"The closer you get to the center,\nthe higher the points.",,2 isla(s) 91 inline
+186,0x4924,redirect,0x4EBD,32,"The center is worth 10 points, ",,1 isla(s) 91 inline
+187,0x4947,redirect,0x4EE0,46,"then 5, 4, 3, 2 and 1 the further\nout you go.",,2 isla(s) 91 inline
+188,0x4972,redirect,0x4F14,74,It's possible to get multiple shots\noff at a target before it disappears.,,3 isla(s) 91 inline
+189,0x49A9,redirect,0x4F67,42,I heard you can hit it up to three\ntimes.,,1 isla(s) 91 inline
+190,0x49C4,redirect,0x4F94,38,Redwood was shooting them five\ntimes.,,1 isla(s) 91 inline
+191,0x49E7,redirect,0x4FBD,22,"Well, he's different.",,
+192,0x49FE,redirect,0x4FD3,63,"If you're aiming for a high score,\nit's worth giving it a try.",,3 isla(s) 91 inline
+193,0x4A2D,redirect,0x501B,88,In order to win your bet against\nMeryl you'll have to shoot the\ntargets multiple times.,,2 isla(s) 91 inline
+194,0x4A6A,redirect,0x5079,118,"There are fifty targets, with a hit\nto the center worth 10 points. \nSince you have to get over 550\n points to win....",,2 isla(s) 91 inline
+195,0x4AD1,redirect,0x50F5,22,I guess you're right.,,
+196,0x4ADC,redirect,0x510B,53,I still can't believe you guys made\na bet like that.,,4 isla(s) 91 inline
+197,0x4AFD,redirect,0x514C,60,You should know how important\nsomething like this is to me.,,1 isla(s) 91 inline
+198,0x4B28,redirect,0x518B,92,"When you're using the controller,\naiming with the lock-on feature\nmakes things much easier.",,3 isla(s) 91 inline
+199,0x4B59,redirect,0x51F0,87,You can press the L1 and R1\nButtons to lock onto the target\nclosest to that direction.,,2 isla(s) 91 inline
+200,0x4BA8,redirect,0x5250,98,"It's difficult using it with moving\ntargets, but it can come in handy\nagainst stationary targets.",,2 isla(s) 91 inline
+201,0x4BF7,redirect,0x52B8,82,"You'll need to use it in real combat\neventually.  That's just my opinion,\nanyway.",,3 isla(s) 91 inline
+202,0x4C1C,redirect,0x5313,47,You'd be better off getting a feel\nfor it now.,,1 isla(s) 91 inline
+203,0x4C39,redirect,0x5345,44,"In any case, you should aim for\nthe center.",,
+204,0x4C58,redirect,0x5371,57,"If you hit the green area,\nfragments will go flying off.",,1 isla(s) 91 inline
+205,0x4C85,redirect,0x53B0,29,Three hits equals 30 points.,,
+206,0x4CA8,redirect,0x53CD,45,I'll tell you something about\nTraining Mode.,,1 isla(s) 91 inline
+207,0x4CC7,redirect,0x53FD,73,Meryl comes here to shoot every\nnow and then.  That's her favorite\nmode.,,3 isla(s) 91 inline
+208,0x4CEE,redirect,0x544F,40,I wouldn't mind seeing what she's\nlike.,,1 isla(s) 91 inline
+209,0x4D11,redirect,0x547A,51,There are three types of targets\nand three levels.,,1 isla(s) 91 inline
+210,0x4D46,redirect,0x54B0,48,Looks like that was a little difficult\nfor you.,,1 isla(s) 91 inline
+211,0x4D71,redirect,0x54E3,35,Why don't you try an easier level?,,2 isla(s) 91 inline
+212,0x4D8E,redirect,0x550C,66,You could try an easier level if you\nthink it's too hard for you.,,3 isla(s) 91 inline
+213,0x4DC5,redirect,0x5557,43,Looks like that was a little easy for\nyou.,,1 isla(s) 91 inline
+214,0x4DF0,redirect,0x5585,34,Why don't you try a harder level?,,1 isla(s) 91 inline
+215,0x4E0D,redirect,0x55AA,65,You could try a harder level if you\nthink it's too easy for you.,,2 isla(s) 91 inline
+216,0x4E44,redirect,0x55F1,33,"Let's see, that was Combat Mode.",,1 isla(s) 91 inline
+217,0x4E65,redirect,0x5615,41,That was your first time in Combat\nMode.,,1 isla(s) 91 inline
+218,0x4E84,redirect,0x5641,53,"Let's see, your previous level in\nCombat Mode was...",,2 isla(s) 91 inline
+219,0x4EB7,redirect,0x567C,13,Combat Mode.,,
+220,0x4ECE,redirect,0x5689,33,"Let's see, hold on just a sec...",,2 isla(s) 91 inline
+221,0x4EF1,redirect,0x56B0,48,You've been going at it for a little\nwhile now.,,3 isla(s) 91 inline
+222,0x4F06,redirect,0x56E9,31,Jonathan! 0 points? 0 points?!,,1 isla(s) 91 inline
+223,0x4F23,redirect,0x570B,28,Are you even trying at all?,,1 isla(s) 91 inline
+224,0x4F34,redirect,0x572A,39,Did you go to the toilet or\nsomething?,,
+225,0x4F5B,redirect,0x5754,41,You did pretty well for your first\ntime.,,1 isla(s) 91 inline
+226,0x4F7E,redirect,0x5780,49,That's a pretty good result for\nyour first time.,,1 isla(s) 91 inline
+227,0x4F9F,redirect,0x57B4,55,Your first goal should be to try to\nget past Level 25.,,2 isla(s) 91 inline
+228,0x4FD6,redirect,0x57F1,26,You passed it no problem.,,
+229,0x4FF3,redirect,0x580B,26,You set a new high level!,,
+230,0x5016,redirect,0x5825,32,You set another new high level!,,2 isla(s) 91 inline
+231,0x5041,redirect,0x584B,50,You did it again! You set another\nnew high level!,,1 isla(s) 91 inline
+232,0x5070,redirect,0x5880,54,You've done it again! You set\nanother new high level!,,1 isla(s) 91 inline
+233,0x50A3,redirect,0x58B9,37,Look at you! ANOTHER new high\nlevel!,,2 isla(s) 91 inline
+234,0x50DA,redirect,0x58E4,96,"Man, I don't believe this! Again!\nYou set another new high\nlevel!{80238057}Everyone's gotta see this.",,4 isla(s) 91 inline
+235,0x5115,redirect,0x5950,41,"{D0}{06}wheez, wheez{D0}{06}{80238057}No one's interested.",,1 isla(s) 91 inline
+236,0x5128,redirect,0x597C,13,You alright?,,
+237,0x5137,redirect,0x5989,34,Y-yeah... just gimme a second....,,2 isla(s) 91 inline
+238,0x5146,redirect,0x59B1,44,Your level was lower this time\nthan before.,,1 isla(s) 91 inline
+239,0x5169,redirect,0x59E0,45,"Well, you did make it past Level\n100 before.",,2 isla(s) 91 inline
+240,0x5196,redirect,0x5A13,26,Guess it's not that easy.,,
+241,0x51B3,redirect,0x5A2D,44,"Well, you did make it past Level 80\nbefore.",,1 isla(s) 91 inline
+242,0x51DE,redirect,0x5A5C,63,"The way you're shooting now, I'm\nnot surprised it's gone down.",,1 isla(s) 91 inline
+243,0x520B,redirect,0x5A9E,51,I get the feeling this is around my\nlimit for now.,,2 isla(s) 91 inline
+244,0x5228,redirect,0x5AD7,33,You didn't set a new high level.,,1 isla(s) 91 inline
+245,0x524D,redirect,0x5AFB,45,Your level was higher this time\nthan before.,,2 isla(s) 91 inline
+246,0x5274,redirect,0x5B2E,33,You didn't set a new high level.,,
+247,0x529D,redirect,0x5B4F,43,Your level was lower than the\ntime before.,,1 isla(s) 91 inline
+248,0x52C4,redirect,0x5B7D,30,Your level's gone down again.,,1 isla(s) 91 inline
+249,0x52E3,redirect,0x5B9E,29,Your level keeps going down.,,1 isla(s) 91 inline
+250,0x5306,redirect,0x5BBE,62,"Your level just keeps going down.\nYou're in a rut, ain't you?",,1 isla(s) 91 inline
+251,0x533F,redirect,0x5BFF,70,Your level just keeps on going\ndown.  Maybe it was something\nyou ate?,,2 isla(s) 91 inline
+252,0x5384,redirect,0x5C4B,35,Your level's dropping like a rock.,,1 isla(s) 91 inline
+253,0x53AD,redirect,0x5C71,82,"You feeling alright, Jonathan?\nYou sure it wasn't someone else\nplaying that time?",,3 isla(s) 91 inline
+254,0x53E0,redirect,0x5CCC,52,It's amazing how much your\nperformance has changed.,,1 isla(s) 91 inline
+255,0x53FF,redirect,0x5D03,65,What are you gonna do when you\nhave to shoot out there for real?,,1 isla(s) 91 inline
+256,0x5428,redirect,0x5D4A,40,"You're not slacking off on me, are\nyou?",,1 isla(s) 91 inline
+257,0x5443,redirect,0x5D75,37,I thought you were better than\nthis.,,1 isla(s) 91 inline
+258,0x546C,redirect,0x5D9D,59,You've still got a long way to go\nwith shooting like that.,,3 isla(s) 91 inline
+259,0x5493,redirect,0x5DE1,47,"You gotta get past at least Level\n25, come on.",,1 isla(s) 91 inline
+260,0x54BE,redirect,0x5E13,26,You finding it difficult?,,1 isla(s) 91 inline
+261,0x54E5,redirect,0x5E30,43,You can't exactly call these good\nresults.,,1 isla(s) 91 inline
+262,0x5504,redirect,0x5E5E,24,"Man, with this level...",,
+263,0x5515,redirect,0x5E76,49,I'm embarrassed to say we were\nboth Policenauts.,,1 isla(s) 91 inline
+264,0x553E,redirect,0x5EAA,21,What about my score?,,1 isla(s) 91 inline
+265,0x5553,redirect,0x5EC2,59,You can't evaluate someone's\nability based on their score.,,1 isla(s) 91 inline
+266,0x5570,redirect,0x5F00,64,"Don't worry about that, just\nconcentrate on raising your level.",,2 isla(s) 91 inline
+267,0x559B,redirect,0x5F46,78,Your score should be your least\nof your worries with the way\nyou're shooting.,,2 isla(s) 91 inline
+268,0x55B2,redirect,0x5F9A,53,First you have to try and raise\nyour level a little.,,1 isla(s) 91 inline
+269,0x55DD,redirect,0x5FD2,47,Your level is what's important in\nCombat Mode.,,1 isla(s) 91 inline
+270,0x5604,redirect,0x6004,44,The score's just supplementary\ninformation.,,1 isla(s) 91 inline
+271,0x5623,redirect,0x6033,48,Try to concentrate on raising your\nlevel first.,,1 isla(s) 91 inline
+272,0x5646,redirect,0x6066,35,Your level wasn't this low before.,,
+273,0x5671,redirect,0x6089,34,"What's happened to you,\nJonathan?",,1 isla(s) 91 inline
+274,0x568C,redirect,0x60AE,20,My score's gone up.,,
+275,0x56A1,redirect,0x60C2,47,"Yeah, your score's the highest it's\never been.",,1 isla(s) 91 inline
+276,0x56BC,redirect,0x60F4,25,You've set a new record!,,
+277,0x56CF,redirect,0x610D,21,This is way too low!,,1 isla(s) 91 inline
+278,0x56DC,redirect,0x6125,47,You should be able to get at least\n500 points!,,
+279,0x56FD,redirect,0x6157,71,There doesn't seem to be anything\nparticularly different about you....,,1 isla(s) 91 inline
+280,0x571C,redirect,0x61A1,72,"That's pretty good, your score and\nlevel.  That's more or less\naverage.",,1 isla(s) 91 inline
+281,0x5751,redirect,0x61EC,33,You haven't set any new records.,,
+282,0x576C,redirect,0x620D,11,Anyway....,,1 isla(s) 91 inline
+283,0x5783,redirect,0x621B,57,You passed Level 124! That's the\ndevelopers' high score!,,1 isla(s) 91 inline
+284,0x57B6,redirect,0x6257,40,"You finally set a new record,\nJonathan!",,1 isla(s) 91 inline
+285,0x57E1,redirect,0x6282,78,Why don't you fill in your level and\nscore in the survey card and send\nit in?,,1 isla(s) 91 inline
+286,0x5826,redirect,0x62D3,18,That was amazing!,,1 isla(s) 91 inline
+287,0x583B,redirect,0x62E8,25,You passed Level 124....,,
+288,0x585A,redirect,0x6301,62,I heard the highest result among\nthe developers is Level 124.,,1 isla(s) 91 inline
+289,0x5889,redirect,0x6342,36,"You got higher than them,\nJonathan!",,1 isla(s) 91 inline
+290,0x58BC,redirect,0x6369,30,"You beat the developers, man!",,1 isla(s) 91 inline
+291,0x58DF,redirect,0x638A,29,"Let's see, your level is....",,
+292,0x58F4,redirect,0x63A7,74,You've reached Level 124! That's\nthe highest result among the\ndevelopers!,,1 isla(s) 91 inline
+293,0x5931,redirect,0x63F7,16,That's amazing!,,
+294,0x593E,redirect,0x6407,11,Great job!,,
+295,0x594B,redirect,0x6412,26,You reached Level 124....,,
+296,0x596C,redirect,0x642C,34,"You reached that level, Jonathan!",,1 isla(s) 91 inline
+297,0x5999,redirect,0x6451,12,However....,,
+298,0x59A6,redirect,0x645D,26,You reached Level 100....,,
+299,0x59C7,redirect,0x6477,32,"You've gotten better, Jonathan!",,1 isla(s) 91 inline
+300,0x59E4,redirect,0x649A,45,"There's always room for\nimprovement, though.",,
+301,0x5A03,redirect,0x64C7,71,"One of the developers reached\nLevel 124, with a score of 11503\npoints.",,2 isla(s) 91 inline
+302,0x5A52,redirect,0x6514,93,"No one knows how they did it.{80238057}You'd probably need a trick or two\nup your sleeve, I'd bet.",,3 isla(s) 91 inline
+303,0x5A95,redirect,0x657A,37,You'll reach that level soon\nenough.,,1 isla(s) 91 inline
+304,0x5AB6,redirect,0x65A2,13,Keep trying!,,
+305,0x5AC5,redirect,0x65AF,25,You reached Level 90....,,
+306,0x5AE4,redirect,0x65C8,45,"There's always room for\nimprovement, though.",,1 isla(s) 91 inline
+307,0x5B05,redirect,0x65F8,25,You reached Level 80....,,1 isla(s) 91 inline
+308,0x5B26,redirect,0x6614,57,You might need more than just\nskill to reach that level.,,1 isla(s) 91 inline
+309,0x5B59,redirect,0x6650,101,"You could argue that luck is a part\nof skill, but you'd really need to\nstack the odds in your favor.",,4 isla(s) 91 inline
+310,0x5B96,redirect,0x66C1,45,Or maybe there's some other way\nto do it....,,
+311,0x5BB9,redirect,0x66EE,37,"You've gotten pretty good,\nJonathan!",,1 isla(s) 91 inline
+312,0x5BDC,redirect,0x6716,80,I don't think you need to worry\nabout getting anymore Game Overs\nout there now.,,2 isla(s) 91 inline
+313,0x5C1B,redirect,0x676C,25,"Speed, judgement, aim...",,1 isla(s) 91 inline
+314,0x5C3E,redirect,0x6788,23,they're all essential.,,
+315,0x5C59,redirect,0x679F,33,Level 75 is the third milestone.,,1 isla(s) 91 inline
+316,0x5C72,redirect,0x67C3,35,It's not easy making it past that.,,1 isla(s) 91 inline
+317,0x5C91,redirect,0x67E9,36,"But, it's not like it's impossible.",,
+318,0x5CB8,redirect,0x680D,63,You need to make sure you've got\na good bit of life remaining.,,2 isla(s) 91 inline
+319,0x5CD9,redirect,0x6852,93,You also need to try to estimate\nthe pauses between targets in\norder to know when to reload.,,2 isla(s) 91 inline
+320,0x5D0E,redirect,0x68B5,37,"Finally, you need a bit of luck too.",,1 isla(s) 91 inline
+321,0x5D47,redirect,0x68DD,26,You got past Level 70....,,1 isla(s) 91 inline
+322,0x5D64,redirect,0x68FA,55,There aren't many people who've\nmade it past Level 70!,,1 isla(s) 91 inline
+323,0x5D8F,redirect,0x6934,14,But still....,,
+324,0x5DA2,redirect,0x6942,24,You passed Level 70....,,1 isla(s) 91 inline
+325,0x5DBD,redirect,0x695D,44,"That's some record you set there,\nJonathan!",,1 isla(s) 91 inline
+326,0x5DDC,redirect,0x698C,45,"There's always room for\nimprovement, though.",,1 isla(s) 91 inline
+327,0x5DFB,redirect,0x69BC,60,It's pretty hard getting past Level\n80 with the controller.,,1 isla(s) 91 inline
+328,0x5E28,redirect,0x69FB,35,"Not like it can't be done, though.",,2 isla(s) 91 inline
+329,0x5E4F,redirect,0x6A24,53,You can still get past Level 80 with\nthe controller.,,1 isla(s) 91 inline
+330,0x5E82,redirect,0x6A5C,66,"But when you get to Level 90,\nthen it becomes next to\nimpossible.",,2 isla(s) 91 inline
+331,0x5EAF,redirect,0x6AA4,36,Maybe you should try using a\nmouse.,,1 isla(s) 91 inline
+332,0x5ED6,redirect,0x6ACB,61,"After Level 60, the targets start to\nmove from side to side.",,1 isla(s) 91 inline
+333,0x5F13,redirect,0x6B0B,46,You just have to take them out\none at a time.,,1 isla(s) 91 inline
+334,0x5F38,redirect,0x6B3C,66,There are also targets that'll shoot\nat you while they're moving.,,2 isla(s) 91 inline
+335,0x5F61,redirect,0x6B84,68,You should try to take them out\nbefore they move toward the\nmiddle.,,1 isla(s) 91 inline
+336,0x5F92,redirect,0x6BCB,64,"After Level 64, the two walls in the\nmiddle will start to move.",,1 isla(s) 91 inline
+337,0x5FBB,redirect,0x6C0E,56,There are also targets that will\nhide behind the walls.,,2 isla(s) 91 inline
+338,0x5FF8,redirect,0x6C4C,38,The right-hand wall has a hole in\nit.,,
+339,0x6013,redirect,0x6C72,73,"It goes all the way through the\nwall, so you can hit targets\nthrough it.",,2 isla(s) 91 inline
+340,0x6058,redirect,0x6CC1,72,The targets' attacks get\nparticularly intense between\nLevels 50 and 56.,,2 isla(s) 91 inline
+341,0x6099,redirect,0x6D0F,81,You just have to memorize the\norder they appear and plan your\nshots accordingly.,,1 isla(s) 91 inline
+342,0x60DA,redirect,0x6D63,71,"If you make it through Level 56,\nyou should be able to reach Level\n60.",,3 isla(s) 91 inline
+343,0x6113,redirect,0x6DB3,58,"After Level 40, the targets start to\nget pretty annoying.",,2 isla(s) 91 inline
+344,0x6154,redirect,0x6DF3,49,Some targets will appear with\ntheir back to you.,,1 isla(s) 91 inline
+345,0x6181,redirect,0x6E27,123,"If you shoot them and they\nhappen to be a criminal then you\nluck out, but you can't tell when\n their back's turned to you.",,5 isla(s) 91 inline
+346,0x61D8,redirect,0x6EB1,106,They'll eventually turn around\nafter a few seconds.{80238057}Then you'll know who you're\nactually dealing with.,,4 isla(s) 91 inline
+347,0x6217,redirect,0x6F27,70,"After Level 44, some targets will\nturn around once after they\nappear.",,2 isla(s) 91 inline
+348,0x624A,redirect,0x6F73,75,You'll be able to catch a brief\nglimpse of the front of them when\nthey do.,,2 isla(s) 91 inline
+349,0x6273,redirect,0x6FC4,129,"You can then determine whether\nthey're a criminal or a civilian, and\ngo ahead and shoot them in the\n back if they're a criminal.",,3 isla(s) 91 inline
+350,0x62AE,redirect,0x704E,82,"After all, you won't always have\ntime to shoot them after they turn\naround again.",,3 isla(s) 91 inline
+351,0x62E3,redirect,0x70A9,77,They'll start to move at the same\nspeed they were moving at around\nLevel 34.,,2 isla(s) 91 inline
+352,0x6330,redirect,0x70FC,52,Just try to relax and take them out\nas they appear.,,2 isla(s) 91 inline
+353,0x6353,redirect,0x7136,51,Things will start to get harder\naround this level.,,2 isla(s) 91 inline
+354,0x637A,redirect,0x716F,46,Getting past Level 30 is the first\nmilestone.,,1 isla(s) 91 inline
+355,0x63B1,redirect,0x71A0,50,A lot of targets appear between\nLevels 28 and 30.,,1 isla(s) 91 inline
+356,0x63F4,redirect,0x71D5,131,"If you don't memorize the order\nthey appear and plan your shots\naccordingly, you'll find it pretty\n hard to get past those levels.",,5 isla(s) 91 inline
+357,0x6449,redirect,0x7267,75,"After Level 20, you'll start to see\nsome criminals disguised as\ncivilians.",,2 isla(s) 91 inline
+358,0x6486,redirect,0x72B8,96,"At first they look just like a\ncivilian, but after a few seconds\nthey'll draw their gun on you.",,3 isla(s) 91 inline
+359,0x64CB,redirect,0x7321,119,"You need to be quick to shoot\nthem before they shoot you.{80238057}If you don't, you'll lose life and it'll\ncount as a miss.",,1 isla(s) 91 inline
+360,0x64F6,redirect,0x739B,39,These levels are just practice\nstages.,,2 isla(s) 91 inline
+361,0x6517,redirect,0x73C8,64,The targets' movements will start\nto change after these levels.,,2 isla(s) 91 inline
+362,0x6546,redirect,0x740E,17,Be ready for it.,,
+363,0x6555,redirect,0x741F,89,"After Level 18, you'll start to see\ncivilian targets mixed in with the\ncriminal targets.",,3 isla(s) 91 inline
+364,0x6590,redirect,0x7481,75,If you shoot a civilian target you'll\nlose life and it'll count as a miss.,,2 isla(s) 91 inline
+365,0x65C9,redirect,0x74D2,43,I can't believe you got killed this\nearly!,,1 isla(s) 91 inline
+366,0x6602,redirect,0x7500,51,These levels are like... preschool\nfor this thing.,,2 isla(s) 91 inline
+367,0x6637,redirect,0x7539,38,You shouldn't be getting killed\nhere.,,1 isla(s) 91 inline
+368,0x6662,redirect,0x7562,41,"You're not doing it on purpose,\nare you?",,1 isla(s) 91 inline
+369,0x6679,redirect,0x758E,22,Two points? Pathetic.,,
+370,0x66A2,redirect,0x75A4,17,"Yeah, I know....",,
+371,0x66BB,redirect,0x75B5,60,The only other person who got 2\npoints in Combat Mode is...,,1 isla(s) 91 inline
+372,0x66F8,redirect,0x75F4,38,"Junko Ishigami, a female traffic\ncop.",,1 isla(s) 91 inline
+373,0x6739,redirect,0x761D,15,"That bad, huh?",,
+374,0x6754,redirect,0x762C,36,You're shooting too many civilians.,,1 isla(s) 91 inline
+375,0x6779,redirect,0x7653,94,"It can be easy to mistake a civilian\nfor a criminal sometimes, so be\nsure and look carefully.",,2 isla(s) 91 inline
+376,0x67B0,redirect,0x76B7,70,I don't think I've seen anyone hit\nso many of the cop targets before.,,2 isla(s) 91 inline
+377,0x67D7,redirect,0x7703,71,They're easy to spot since their\ntarget never changes into a\ncriminal.,,2 isla(s) 91 inline
+378,0x6820,redirect,0x7750,56,"Jonathan... this isn't some kinda\njoke of yours, is it?",,2 isla(s) 91 inline
+379,0x683B,redirect,0x778E,35,What is this?! Your hit rate's\n1%?,,1 isla(s) 91 inline
+380,0x6868,redirect,0x77B4,35,What is this?! Your hit rate's\n2%?,,
+381,0x6895,redirect,0x77D7,35,What is this?! Your hit rate's\n3%?,,1 isla(s) 91 inline
+382,0x68C2,redirect,0x77FD,35,What is this?! Your hit rate's\n4%?,,1 isla(s) 91 inline
+383,0x68EF,redirect,0x7823,35,What is this?! Your hit rate's\n5%?,,1 isla(s) 91 inline
+384,0x691C,redirect,0x7849,35,What is this?! Your hit rate's\n6%?,,1 isla(s) 91 inline
+385,0x6949,redirect,0x786F,35,What is this?! Your hit rate's\n7%?,,1 isla(s) 91 inline
+386,0x6976,redirect,0x7895,35,What is this?! Your hit rate's\n8%?,,1 isla(s) 91 inline
+387,0x69A3,redirect,0x78BB,35,What is this?! Your hit rate's\n9%?,,
+388,0x69D0,redirect,0x78DE,36,What is this?! Your hit rate's\n10%?,,1 isla(s) 91 inline
+389,0x69FF,redirect,0x7905,30,Your hit rate's a little low.,,1 isla(s) 91 inline
+390,0x6A1E,redirect,0x7926,61,Shooting randomly all over the\nplace won't get you anywhere.,,2 isla(s) 91 inline
+391,0x6A43,redirect,0x7969,79,Waste bullets at one of the higher\nlevels and you'll end up dead\npretty quick.,,3 isla(s) 91 inline
+392,0x6A6A,redirect,0x79C1,70,"If you wanna set some real\nrecords, you have to stop wasting\nbullets.",,1 isla(s) 91 inline
+393,0x6A99,redirect,0x7A0A,31,Here's a hint for Combat Mode.,,1 isla(s) 91 inline
+394,0x6AB8,redirect,0x7A2C,124,"Shooting the white area of a\ncriminal target will get you 1 point,\nwhile shooting the person itself\n will get you 5 points.",,3 isla(s) 91 inline
+395,0x6AFF,redirect,0x7AB1,42,Shooting a civilian will count as a\nmiss.,,1 isla(s) 91 inline
+396,0x6B22,redirect,0x7ADE,54,You need to be careful when a\ntarget starts to blink.,,1 isla(s) 91 inline
+397,0x6B47,redirect,0x7B17,66,"When it stops blinking, you'll be\nshot and it'll count as a miss.",,2 isla(s) 91 inline
+398,0x6B6C,redirect,0x7B5F,90,"If you shoot a target while it's\nblinking, you'll get ten times the\nnormal points for it.",,2 isla(s) 91 inline
+399,0x6BAF,redirect,0x7BBF,76,You could try taking advantage of\nthis when you wanna rack up a\nhigh score.,,1 isla(s) 91 inline
+400,0x6BE4,redirect,0x7C0E,81,But get to a high enough level and\nyou probably won't be able to\nmake use of it.,,3 isla(s) 91 inline
+401,0x6C21,redirect,0x7C68,37,It's just something to keep in\nmind.,,1 isla(s) 91 inline
+402,0x6C42,redirect,0x7C90,118,Shooting a target when its back is\nto you will get you 5 points if it's a\n\n criminal and 0 points if it's a\ncivilian.,,3 isla(s) 91 inline
+403,0x6C77,redirect,0x7D0F,88,You can't tell if a target is a\ncriminal or a civilian just from\nlooking at their back.,,2 isla(s) 91 inline
+404,0x6CA4,redirect,0x7D6D,61,"There's a short break every ten\ntargets, generally speaking.",,1 isla(s) 91 inline
+405,0x6CE1,redirect,0x7DAD,30,You get ten bullets per clip.,,1 isla(s) 91 inline
+406,0x6CFA,redirect,0x7DCE,56,"Meaning, that break's a perfect\ntime for you to reload.",,1 isla(s) 91 inline
+407,0x6D37,redirect,0x7E09,89,"For every new level you reach,\nyou get a bonus worth ten times\nthe number of that level.",,2 isla(s) 91 inline
+408,0x6D6A,redirect,0x7E68,47,"It isn't really that big a deal, to be\nhonest.",,2 isla(s) 91 inline
+409,0x6D85,redirect,0x7E9D,22,So what do you think?,,1 isla(s) 91 inline
+410,0x6D9E,redirect,0x7EB6,28,You popped your BCP cherry.,,1 isla(s) 91 inline
+411,0x6DBF,redirect,0x7ED5,25,"Okay, let's take a look.",,
+412,0x6DD8,redirect,0x7EEE,15,Training Mode.,,
+413,0x6DF9,redirect,0x7EFD,80,Redwood was able to get 35 points\nout of just one target by going for\nthe head.,,2 isla(s) 91 inline
+414,0x6E3E,redirect,0x7F53,37,"You were watching pretty close,\nhuh?",,2 isla(s) 91 inline
+415,0x6E59,redirect,0x7F7E,34,So that means each target gets...,,1 isla(s) 91 inline
+416,0x6E7C,redirect,0x7FA3,18,...seven bullets.,,
+417,0x6E83,redirect,0x7FB5,23,Is that even possible?,,1 isla(s) 91 inline
+418,0x6E9C,redirect,0x7FCF,55,You said the most you can hit a\ntarget is three times.,,1 isla(s) 91 inline
+419,0x6ECB,redirect,0x8009,9,Yeah....,,
+420,0x6ED6,redirect,0x8012,51,"That was Training Mode, but the\nsame rule applies.",,2 isla(s) 91 inline
+421,0x6F03,redirect,0x804B,24,What the hell is he on?,,
+422,0x6F10,redirect,0x8063,36,He hits each target seven times....,,1 isla(s) 91 inline
+423,0x6F39,redirect,0x808A,54,Don't let it get to you.  He isn't\nhuman.  Literally.,,1 isla(s) 91 inline
+424,0x6F5E,redirect,0x80C3,40,That was your first time at that\nlevel.,,1 isla(s) 91 inline
+425,0x6F7F,redirect,0x80EE,46,That was the first time you tried\nthat level.,,1 isla(s) 91 inline
+426,0x6FAE,redirect,0x811F,34,You didn't get any misses either!,,
+427,0x6FCB,redirect,0x8141,58,"On top of that, you didn't waste\nany bullets.  Great job!",,1 isla(s) 91 inline
+428,0x6FFA,redirect,0x817E,37,"What do you think, Ed? Not bad,\nhuh?",,1 isla(s) 91 inline
+429,0x7021,redirect,0x81A6,50,Of course.  I haven't had a single\nGame Over yet.,,2 isla(s) 91 inline
+430,0x7054,redirect,0x81DE,49,You just have to try not to waste\nso many shots.,,
+431,0x7075,redirect,0x820F,82,Your aim's solid.  Just remember\nthat when you practice and you\nshould do better.,,2 isla(s) 91 inline
+432,0x70A0,redirect,0x8267,24,"You had 1 miss, though.",,
+433,0x70BF,redirect,0x827F,26,"You had 2 misses, though.",,
+434,0x70DE,redirect,0x8299,26,"You had 3 misses, though.",,1 isla(s) 91 inline
+435,0x70FD,redirect,0x82B6,30,"You had a few misses, though.",,1 isla(s) 91 inline
+436,0x7118,redirect,0x82D7,65,"Your shooting's pretty good, you\njust have to try to relax more.",,1 isla(s) 91 inline
+437,0x7141,redirect,0x831B,47,You should also try not to miss so\nmany shots.,,1 isla(s) 91 inline
+438,0x7162,redirect,0x834D,84,"Your aim's solid.  If you just try to\nstay relaxed, you'll stop missing\nyour shots.",,1 isla(s) 91 inline
+439,0x7191,redirect,0x83A7,30,No misses at all.  Very nice.,,
+440,0x71B6,redirect,0x83C5,50,"It's possible to hit each target\ntwice, you know.",,2 isla(s) 91 inline
+441,0x71E2,redirect,0x83FD,79,Try to shoot the targets multiple\ntimes.  You can get a higher score\nthat way.,,1 isla(s) 91 inline
+442,0x720B,redirect,0x844F,24,"You had 1 miss, though.",,
+443,0x7226,redirect,0x8467,26,"You had 2 misses, though.",,1 isla(s) 91 inline
+444,0x7241,redirect,0x8484,26,"You had 3 misses, though.",,
+445,0x725C,redirect,0x849E,30,"You had a few misses, though.",,1 isla(s) 91 inline
+446,0x7273,redirect,0x84BF,72,"If you just work on your aim, you\nshould be able to get a higher\nscore.",,1 isla(s) 91 inline
+447,0x72A0,redirect,0x850A,61,"It wouldn't hurt you to stop\ngetting so many misses, really.",,1 isla(s) 91 inline
+448,0x72C7,redirect,0x854A,42,You have to work on lowering\nyour misses.,,1 isla(s) 91 inline
+449,0x72EA,redirect,0x8577,85,The most important thing is to hit\nthe targets.  Everything else\ncomes after that.  ,,1 isla(s) 91 inline
+450,0x7315,redirect,0x85CF,84,"You don't have any misses, but\nthe problem is your aim.  You\nneed to aim carefully.",,2 isla(s) 91 inline
+451,0x735C,redirect,0x8629,102,"It's good you don't have many\nmisses, but you should try aiming\n\n more for the center of the\ntargets.",,2 isla(s) 91 inline
+452,0x73A1,redirect,0x8695,55,You've got too many misses. \nThat's your main problem.,,1 isla(s) 91 inline
+453,0x73C0,redirect,0x86CF,41,"You're not doing it on purpose,\nare you?",,
+454,0x73E1,redirect,0x86F8,48,It's important to work on lowering\nyour misses.,,2 isla(s) 91 inline
+455,0x7400,redirect,0x872E,61,One good thing I can say is that\nyou didn't have any misses.,,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+456,0x7433,redirect,0x8780,46,"That's the only good thing I can\nsay, though.",,2 isla(s) 91 inline
+457,0x7452,redirect,0x87B4,38,It's good you don't have many\nmisses.,,2 isla(s) 91 inline
+458,0x7473,redirect,0x87E0,57,You just have to watch where\nyou're hitting the targets.,,1 isla(s) 91 inline
+459,0x74A6,redirect,0x881C,47,You need to work more on\nlowering your misses.,,1 isla(s) 91 inline
+460,0x74C7,redirect,0x884E,65,"You know how many times you've\ntrained in Combat Mode,\nJonathan?",,1 isla(s) 91 inline
+461,0x74FA,redirect,0x8892,25,No.  How many's it been?,,
+462,0x750D,redirect,0x88AB,4,10.,,1 isla(s) 91 inline
+463,0x7518,redirect,0x88B2,58,It's boring just shooting at normal\ntargets all the time.,,1 isla(s) 91 inline
+464,0x754F,redirect,0x88EF,72,You should've gotten better by\nnow.  Let's take a look at your\nresults.,,2 isla(s) 91 inline
+465,0x758A,redirect,0x893D,58,"This is your 20th time training in\nCombat Mode, Jonathan.",,1 isla(s) 91 inline
+466,0x75B9,redirect,0x897A,74,You should've gotten pretty good\nby now.  Let's check out your\nresults...,,2 isla(s) 91 inline
+467,0x7606,redirect,0x89CA,58,"This is your 40th time training in\nCombat Mode, Jonathan.",,1 isla(s) 91 inline
+468,0x7635,redirect,0x8A07,61,"You like this mode a lot, huh?\nLet's check out your results.",,2 isla(s) 91 inline
+469,0x766C,redirect,0x8A4A,27,Wow! You cleared Level 30!,,
+470,0x768F,redirect,0x8A65,44,"Good work, Jonathan! You got\npast Level 30.",,2 isla(s) 91 inline
+471,0x76C0,redirect,0x8A97,22,This is a nice score!,,1 isla(s) 91 inline
+472,0x76E3,redirect,0x8AB0,28,Nice! This is a good score.,,1 isla(s) 91 inline
+473,0x7704,redirect,0x8ACF,34,What the hell? That was terrible!,,1 isla(s) 91 inline
+474,0x7729,redirect,0x8AF4,29,"This was pathetic, Jonathan.",,1 isla(s) 91 inline
+475,0x7752,redirect,0x8B14,50,Maybe you should give Combat\nMode a rest for now?,,1 isla(s) 91 inline
+476,0x7781,redirect,0x8B49,60,You've still got a long way to go\nwith these kinda results.,,3 isla(s) 91 inline
+477,0x77AE,redirect,0x8B8E,59,You're looking a little rusty.  You\nneed to practice more.,,2 isla(s) 91 inline
+478,0x77EB,redirect,0x8BCF,37,You didn't hit any civilians either.,,1 isla(s) 91 inline
+479,0x780C,redirect,0x8BF7,104,Just what you'd expect from\nsomeone still in the field like\nyourself.{80238057}You've got good concentration.,,6 isla(s) 91 inline
+480,0x782F,redirect,0x8C71,49,You didn't waste any bullets\neither.  Great job!,,1 isla(s) 91 inline
+481,0x7858,redirect,0x8CA5,91,You've got good concentration. \nJust remember that when you\npractice and you'll do better.,,2 isla(s) 91 inline
+482,0x788D,redirect,0x8D06,38,You didn't hit many civilians either.,,1 isla(s) 91 inline
+483,0x78B0,redirect,0x8D2F,77,"If you just keep practicing, you\nshould be able to get to the\nhigher levels.",,4 isla(s) 91 inline
+484,0x78E9,redirect,0x8D88,88,You've got the right stuff.  Just\nremember that when you practice\nand you'll do better.,,3 isla(s) 91 inline
+485,0x7912,redirect,0x8DE9,59,You just have to work on\nlowering your shots to civilians.,,2 isla(s) 91 inline
+486,0x7939,redirect,0x8E2A,37,You didn't waste any bullets\neither.,,1 isla(s) 91 inline
+487,0x7952,redirect,0x8E52,47,You'll get better if you just keep\npracticing.,,2 isla(s) 91 inline
+488,0x796F,redirect,0x8E87,31,You landed all your shots too.,,
+489,0x7984,redirect,0x8EA6,76,You've got the right stuff.  You'll\nget better if you just keep\npracticing.,,3 isla(s) 91 inline
+490,0x79A9,redirect,0x8EFB,82,Practically the only thing you did\nright was not hit any of the civilian\ntargets.,,2 isla(s) 91 inline
+491,0x79DC,redirect,0x8F53,61,One good thing I can say is that\nyou didn't have any misses.,,2 isla(s) 91 inline
+492,0x7A0B,redirect,0x8F96,47,It's hard not getting any misses in\nthis mode.,,1 isla(s) 91 inline
+493,0x7A38,redirect,0x8FC8,67,You should concentrate on\nreducing your shots to civilian\ntargets.,,3 isla(s) 91 inline
+494,0x7A69,redirect,0x9014,107,"It can be hard to tell the\ndifference, but try to look\ncarefully, and then decide\n whether or not to fire.",,4 isla(s) 91 inline
+495,0x7AA2,redirect,0x908B,74,For some reason you get a lot of\nGame Overs when you're out in\nthe field.,,2 isla(s) 91 inline
+496,0x7ACD,redirect,0x90DB,23,"Why is that, Jonathan?",,
+497,0x7AEC,redirect,0x90F2,80,You get good results in here.  I\nguess you're just not cut out for\nreal combat.,,2 isla(s) 91 inline
+498,0x7B31,redirect,0x9148,59,You're a mystery wrapped in a\npuzzle encased in a pervert.,,1 isla(s) 91 inline
+499,0x7B4E,redirect,0x9186,113,You just have to try to replicate\nthese results out in the field.{80238057}Your performance here has been\noutstanding.,,4 isla(s) 91 inline
+500,0x7B9D,redirect,0x9203,34,I think somebody else is playing.,,1 isla(s) 91 inline
+501,0x7BB4,redirect,0x9228,40,This is why you get so many Game\nOvers.,,1 isla(s) 91 inline
+502,0x7BE9,redirect,0x9253,64,You'll just end up getting more\nGame Overs if you keep this up.,,1 isla(s) 91 inline
+503,0x7C1E,redirect,0x9296,53,I don't wanna have to go through\nanymore Game Overs.,,1 isla(s) 91 inline
+504,0x7C45,redirect,0x92CE,15,By the way....,,1 isla(s) 91 inline
+505,0x7C5C,redirect,0x92E0,60,You pumped quite a few rounds\ninto the walls in the middle.,,2 isla(s) 91 inline
+506,0x7C89,redirect,0x9322,31,Why you so interested in that?,,
+507,0x7CAC,redirect,0x9341,31,Why you so interested in that?,,1 isla(s) 91 inline
+508,0x7CD1,redirect,0x9363,59,I noticed you were shooting the\nwalls in the middle there.,,2 isla(s) 91 inline
+509,0x7CFE,redirect,0x93A4,36,Why you shooting the walls so\nmuch?,,1 isla(s) 91 inline
+510,0x7D23,redirect,0x93CB,68,Focus on the targets! Can't\nbelieve I gotta explain shit like\nthis.,,1 isla(s) 91 inline
+511,0x7D68,redirect,0x9412,38,Forget the walls and hit the\ntargets.,,1 isla(s) 91 inline
+512,0x7DA5,redirect,0x943B,35,You're only wasting practice time.,,1 isla(s) 91 inline
+513,0x7DBC,redirect,0x9464,51,It's a waste of bullets on top of\neverything else.,,
+514,0x7DD3,redirect,0x9497,52,"By the way, you see that thing\nflying around there?",,2 isla(s) 91 inline
+515,0x7E10,redirect,0x94D1,38,What thing? I didn't notice\nanything.,,1 isla(s) 91 inline
+516,0x7E3D,redirect,0x94FA,52,"By the way, you see that thing\nflying around again?",,1 isla(s) 91 inline
+517,0x7E78,redirect,0x9531,26,I never noticed anything.,,1 isla(s) 91 inline
+518,0x7E99,redirect,0x954E,44,"Come on, you'd have to be blind to\nmiss it!",,
+519,0x7EB2,redirect,0x957A,33,Looked like a... a UFO.  Spooky.,,1 isla(s) 91 inline
+520,0x7ECF,redirect,0x959E,80,You'll never get better by\ndepending on little green men for\nhelp all the time.,,1 isla(s) 91 inline
+521,0x7F0C,redirect,0x95F1,67,You'll never get better by\ndepending on little green men for\nhelp.,,2 isla(s) 91 inline
+522,0x7F45,redirect,0x963A,25,"What, changed your mind?",,1 isla(s) 91 inline
+523,0x7F5A,redirect,0x9656,19,The Circle Target.,,1 isla(s) 91 inline
+524,0x7F75,redirect,0x966C,24,Wow! You got a perfect!,,
+525,0x7F8E,redirect,0x9684,33,Pretty nice score you got there!,,1 isla(s) 91 inline
+526,0x7FBB,redirect,0x96A8,33,"Hey, that's a pretty nice score!",,1 isla(s) 91 inline
+527,0x7FE2,redirect,0x96CC,57,You've still got a long way to go\nwith that kinda score.,,2 isla(s) 91 inline
+528,0x8023,redirect,0x970B,16,The Man Target.,,
+529,0x803A,redirect,0x971B,43,Wow! Look at the score you got!\nGreat job!,,2 isla(s) 91 inline
+530,0x806B,redirect,0x974C,32,"That's a great score, Jonathan!",,
+531,0x8090,redirect,0x976C,80,"Hey, that's a good score you got\nthere! Just what I'd expect from a\nPolicenaut.",,2 isla(s) 91 inline
+532,0x80D1,redirect,0x97C2,69,What the hell was that? That was\nterrible! What were you aiming\nfor?,,2 isla(s) 91 inline
+533,0x8110,redirect,0x980D,48,That's the best you can do with\nthe Man Target?,,
+534,0x8147,redirect,0x983D,73,I think you've gotten rusty.  You\nshould be able to do better than\nthat.,,2 isla(s) 91 inline
+535,0x8184,redirect,0x988C,32,Wow! Look at the score you got!,,
+536,0x81AF,redirect,0x98AC,32,"That's a great score, Jonathan!",,1 isla(s) 91 inline
+537,0x81D8,redirect,0x98CF,34,That's a pretty good score there.,,
+538,0x8211,redirect,0x98F1,97,What the hell was that? That was\nterrible!{80238057}That's the best you can do with\nthe Circle Target?,,2 isla(s) 91 inline
+539,0x8256,redirect,0x9958,69,The Circle Target is the most basic\nkinda target you can train with.,,3 isla(s) 91 inline
+540,0x829B,redirect,0x99A6,32,Wow! Look at the score you got!,,
+541,0x82C2,redirect,0x99C6,69,Hey! That's a pretty good score. \nYou look like you've still got it.,,1 isla(s) 91 inline
+542,0x8303,redirect,0x9A0E,94,What the hell was that? That was\nterrible!{80238057}That's the best you can do with\nthe Man Target?,,1 isla(s) 91 inline
+543,0x8348,redirect,0x9A6F,57,You've still got a long way to go\nwith that kinda score.,,1 isla(s) 91 inline
+544,0x8385,redirect,0x9AAB,31,The Mini-Circle's a tough one.,,1 isla(s) 91 inline
+545,0x83A4,redirect,0x9ACD,43,Wow! Look at the score you got!\nGreat job!,,
+546,0x83D3,redirect,0x9AF8,32,"That's a great score, Jonathan!",,2 isla(s) 91 inline
+547,0x83F6,redirect,0x9B1E,61,Nice! That's a pretty good score\nfor the Mini-Circle Target.,,1 isla(s) 91 inline
+548,0x8439,redirect,0x9B5E,60,Hey! That's a pretty nice score\nfor the Mini-Circle Target.,,3 isla(s) 91 inline
+549,0x8470,redirect,0x9BA3,102,"What the hell was that? That was\nterrible!{80238057}I know the Mini-Circle Target's\nhard to hit, but still.",,3 isla(s) 91 inline
+550,0x84B7,redirect,0x9C12,94,"The Mini-Circle Target may be\nhard to hit, but it's still one of the\nbasics of Training Mode!",,3 isla(s) 91 inline
+551,0x84F8,redirect,0x9C79,92,"I can't believe your score's this\nlow, even if we are talking about\nthe Mini-Circle Target.",,2 isla(s) 91 inline
+552,0x8535,redirect,0x9CDB,41,Maybe you should try a different\ntarget.,,1 isla(s) 91 inline
+553,0x8562,redirect,0x9D07,57,You've still got a long way to go\nwith that kinda score.,,2 isla(s) 91 inline
+554,0x85A5,redirect,0x9D46,69,"You know how many times you've\npracticed in Training Mode,\nJonathan?",,2 isla(s) 91 inline
+555,0x85DA,redirect,0x9D91,77,10.  You should've gotten better\nby now.  Let's take a look at your\nresults.,,1 isla(s) 91 inline
+556,0x861F,redirect,0x9DE4,51,"This is your 20th time in Training\nMode, Jonathan.",,
+557,0x8650,redirect,0x9E17,51,"This is your 40th time in Training\nMode, Jonathan.",,1 isla(s) 91 inline
+558,0x8681,redirect,0x9E4D,67,"You know how many times you've\npracticed in Target Mode,\nJonathan?",,4 isla(s) 91 inline
+559,0x86B4,redirect,0x9E9C,77,15.  You should've gotten better\nby now.  Let's take a look at your\nresults.,,3 isla(s) 91 inline
+560,0x86F9,redirect,0x9EF2,49,"This is your 30th time in Target\nMode, Jonathan.",,1 isla(s) 91 inline
+561,0x8728,redirect,0x9F26,50,"This is your 100th time in Target\nMode, Jonathan.",,1 isla(s) 91 inline
+562,0x8759,inplace,0x8759,12,warning.pak,,sin codigo 91: revisar
+563,0x8765,redirect,0x9F5B,14,Have Ed do it,,
+564,0x8778,redirect,0x9F69,17,"Fine, you do it.",,
+565,0x879B,redirect,0x9F7A,30,Alright! You won't regret it!,,
+566,0x87B0,redirect,0x9F98,15,Do it yourself,,
+567,0x87BB,redirect,0x9FA7,43,I don't trust you for something\nlike this.,,
+568,0x87DA,redirect,0x9FD5,70,"You just drag the sensor out with\nthe pliers.  Nothing to it, really.",,2 isla(s) 91 inline
+569,0x8805,redirect,0xA021,30,"You sure you can do this, Ed?",,cadena 92: 2 fragmentos unidos
+570,0x8824,redirect,0xA054,63,This maze is a lot easier than some\nof the ones I saw on Home.,,3 isla(s) 91 inline
+571,0x8879,redirect,0xA09C,41,"True, I haven't done it for 30\nyears....",,1 isla(s) 91 inline
+572,0x88AC,redirect,0xA0C8,88,But I never met a device I couldn't\ndefuse.  I've got the experience\nand the technique.,,3 isla(s) 91 inline
+573,0x88CF,redirect,0xA129,64,There's a certain knack you gotta\nhave for this type of sensor.,,1 isla(s) 91 inline
+574,0x8908,redirect,0xA16C,55,You can't just force it.  That won't\nget you anywhere.,,1 isla(s) 91 inline
+575,0x892D,redirect,0xA1A6,44,I remember the stories you used\nto tell me.,,1 isla(s) 91 inline
+576,0x896C,redirect,0xA1D5,46,You don't gain all that experience\novernight.,,1 isla(s) 91 inline
+577,0x898F,redirect,0xA206,84,APs rely on a bunch of gadgets for\ntheir work.  They could never be\nas good as you.,,1 isla(s) 91 inline
+578,0x89BA,redirect,0xA25D,46,Hell no! Don't put me down with\nthose chumps!,,1 isla(s) 91 inline
+579,0x89F7,redirect,0xA291,41,"{D0}{06}wheez, wheez{D0}{06} Just gimme\na second....",,1 isla(s) 91 inline
+580,0x8A0E,redirect,0xA2BD,50,"Take it easy, man.  Remember\nyour blood pressure.",,2 isla(s) 91 inline
+581,0x8A35,redirect,0xA2F5,32,"Alright, you ready? Watch this!",,
+582,0x8A68,redirect,0xA315,16,It's all yours.,,2 isla(s) 91 inline
+583,0x8A79,redirect,0xA32B,44,"You did it, Jonathan! The sensor's\noffline.",,1 isla(s) 91 inline
+584,0x8AA8,redirect,0xA35A,28,"Yeah.  Boy, that was tough.",,1 isla(s) 91 inline
+585,0x8AB9,redirect,0xA379,28,"Hey, the maze is different.",,2 isla(s) 91 inline
+586,0x8AE2,redirect,0xA39B,23,"Yeah, you're right....",,1 isla(s) 91 inline
+587,0x8AFB,redirect,0xA3B5,59,I could've done it if I'd known it\nwas gonna be this easy.,,1 isla(s) 91 inline
+588,0x8B20,redirect,0xA3F3,33,My turn! Wait till you see this!,,
+589,0x8B51,redirect,0xA414,35,You're never gonna doubt me\nagain!,,1 isla(s) 91 inline
+590,0x8B68,redirect,0xA43A,43,...What exactly are you planning on\ndoing?,,1 isla(s) 91 inline
+591,0x8B85,redirect,0xA468,12,Just watch.,,
+592,0x8B94,redirect,0xA474,33,Well? What do you think of that?,,1 isla(s) 91 inline
+593,0x8BC5,redirect,0xA498,53,Look at how easy the maze is. \nAnyone could do that.,,2 isla(s) 91 inline
+594,0x8BEA,redirect,0xA4D3,55,The reason the maze is easy is\nbecause I MADE it easy.,,1 isla(s) 91 inline
+595,0x8C07,redirect,0xA50D,35,"Lemme show you how it's done,\nson.",,2 isla(s) 91 inline
+596,0x8C1C,redirect,0xA536,11,Go for it.,,
+597,0x8C2F,redirect,0xA541,18,Whew... I did it.,,1 isla(s) 91 inline
+598,0x8C4A,redirect,0xA556,23,"Jesus, that was close.",,1 isla(s) 91 inline
+599,0x8C5B,redirect,0xA570,26,You sure you can do this?,,
+600,0x8C6C,redirect,0xA58D,20,"Yeah, I'll be fine.",,
+601,0x8C81,redirect,0xA5A1,83,"Wait, wait, wait, what's with the\nmaze? Look at this.  Some kinda\nbug in the game?",,2 isla(s) 91 inline
+602,0x8CC8,redirect,0xA5FA,48,"No, the maze changes depending\non your ability.",,1 isla(s) 91 inline
+603,0x8CF9,redirect,0xA62D,32,You... you think I can do this?,,
+604,0x8D12,redirect,0xA64D,16,I know you can.,,1 isla(s) 91 inline
+605,0x8D31,redirect,0xA660,28,I don't know about this....,,
+606,0x8D48,redirect,0xA67C,52,"...Here, you do it, Ed! We can still\nchange, right?",,1 isla(s) 91 inline
+607,0x8D77,redirect,0xA6B3,10,{D0}{06}zzzzz{D0}{06},,1 isla(s) 91 inline
+608,0x8D82,redirect,0xA6C0,54,"Wake up, Ed!{80238057}I don't believe it.  Fucker's asleep.",,2 isla(s) 91 inline
+609,0x8D93,redirect,0xA6FC,44,God dammit! I gotta go through\nthis myself?,,2 isla(s) 91 inline; cadena 92: 3 fragmentos unidos
+610,0x8DBC,redirect,0xA75B,47,"Alright, I'm gonna do it....  I'm\ngonna do it!",,
+611,0x8DDD,redirect,0xA78A,11,You awake?,,
+612,0x8DF2,redirect,0xA795,67,"Yeah, I'm up. I needed that.{80238057}Heeey! I didn't think you'd do it.",,
+613,0x8E1F,redirect,0xA7D8,21,Just be careful now.,,
+614,0x8E34,redirect,0xA7ED,37,Whew.... Lady Luck finally likes\nme.,,
+615,0x8E5B,redirect,0xA812,30,"Yeah, the maze is easier now.",,
+616,0x8E80,redirect,0xA830,53,You said the maze changes\ndepending on your ability.,,
+617,0x8EB1,redirect,0xA865,19,Yeah? I said that?,,
+618,0x8EC8,redirect,0xA878,38,"Yeah.  So this means I suck, does\nit?",,
+619,0x8EED,redirect,0xA89E,107,"Well, look at how many times the\nthing's gone off.{80238057}We can't be here all day trying to\nget through this.",,
+620,0x8F2E,redirect,0xA909,20,You set it off too.,,
+621,0x8F4B,redirect,0xA91D,7,I did?,,
+622,0x8F5A,redirect,0xA924,9,Finally.,,
+623,0x8F7B,redirect,0xA92D,77,Look at how easy the maze is.  I'd\nbe surprised if anybody couldn't\ndo that.,,
+624,0x8F9A,redirect,0xA97A,63,"C'mon, Jonathan, let's defuse it\nwhile the maze is still easy.",,
+625,0x8FCB,redirect,0xA9B9,39,"Don't worry, I won't set it off\nagain.",,
+626,0x8FEC,redirect,0xA9E0,15,Here's hoping.,,
+627,0x9003,redirect,0xA9EF,80,First comes the cords leading to\nthe optical sensor on the left. \nEasy does it.,,
+628,0x9036,redirect,0xAA3F,17,First one's cut.,,
+629,0x904B,redirect,0xAA50,26,...We seem to be alright.,,
+630,0x9062,redirect,0xAA6A,23,There goes the second.,,
+631,0x9075,redirect,0xAA81,68,That's the optical sensor offline. \nWe can turn the lights back on.,,
+632,0x90A8,redirect,0xAAC5,65,Next we have to remove the plate\ncovering the detonation device.,,
+633,0x90D5,redirect,0xAB06,74,"Before we do that, we need to\ntake out the vibration sensor on\ntop of it.",,
+634,0x911A,redirect,0xAB50,41,So this is this famous vibration\nsensor.,,
+635,0x913D,redirect,0xAB79,89,"Yeah, that square in the middle.{80238057}It's magnetized.  That's why it's\nshaking like that.",,
+636,0x917A,redirect,0xABD2,40,Reminds me of that lady in my\nbuilding.,,
+637,0x918F,redirect,0xABFA,89,You have to be careful here.{80238057}If the sensor touches any of the\nwalls it'll set it off.,,
+638,0x91D4,redirect,0xAC53,18,ANY of the walls?,,
+639,0x91F5,redirect,0xAC65,6,Yeah.,,
+640,0x91FE,redirect,0xAC6B,44,What kinda sadistic fuck came up\nwith this?,,
+641,0x920D,redirect,0xAC97,63,Grab the sensor with the pliers\nand drag it outside the plate.,,
+642,0x9248,redirect,0xACD6,44,"Just follow the path.  Nice and\nslow, okay?",,
+643,0x9261,redirect,0xAD02,117,Once you've grabbed it don't let go\ntill it's outside.{80238057}If you let go the magnet will suck\nit to the nearest wall.,,
+644,0x92BC,redirect,0xAD77,41,"Okay, hands of steel, hands of\nsteel....",,
+645,0x92D3,redirect,0xADA0,25,Try holding your breath.,,
+646,0x92E8,redirect,0xADB9,76,I can't hold my breath that long.  I\nwas never good at swimming\nunderwater.,,
+647,0x931B,redirect,0xAE05,71,"Yeah, well, you'll be holding your\nbreath for good if this thing wins.",,
+648,0x9342,redirect,0xAE4C,56,"Okay, okay.  The pliers work the\nsame as before, right?",,
+649,0x9375,redirect,0xAE84,26,Yeah.  Just take it easy.,,
+650,0x938C,redirect,0xAE9E,32,Alright! That's it out the way.,,
+651,0x93B5,redirect,0xAEBE,68,"Now, you see these four colored\nscrews in the corners of the\nplate?",,
+652,0x93FE,redirect,0xAF02,42,Where do we start? There a\nspecial order?,,
+653,0x9423,redirect,0xAF2C,72,Yeah.  Remove them in the wrong\norder and the bomb goes off. \nProbably.,,
+654,0x9452,redirect,0xAF74,22,So which comes first?,,
+655,0x9461,redirect,0xAF8A,59,"Be sure to keep the plate steady\nat all times, by the way.",,
+656,0x94AE,redirect,0xAFC5,27,Hellooo? What's the order?,,
+657,0x94BB,redirect,0xAFE0,53,First yellow... then blue... then\nred... then green.,,
+658,0x94EC,redirect,0xB015,39,"So yellow, blue, red, green? You\nsure?",,
+659,0x9511,redirect,0xB03C,57,"Yeah, I'm sure.  Watch out for the\nlight at the top too.",,
+660,0x954A,redirect,0xB075,52,"You mean this light that's blinking\nred, blue, red?",,
+661,0x9583,redirect,0xB0A9,76,Yeah.  If you take a screw out\nwhen the light's red the bomb will\ndetonate.,,
+662,0x95B4,redirect,0xB0F5,61,What?! I have to do this while\nkeeping my eye on this thing?,,
+663,0x95F5,redirect,0xB132,55,You turn the screwdriver with\nConfirm.  You up for it?,,
+664,0x9626,redirect,0xB169,37,Not like anyone ELSE is gonna do\nit.,,
+665,0x9645,redirect,0xB18E,20,"Alright, get going.",,
+666,0x965C,redirect,0xB1A2,34,"Okay, good.  The blue one's next.",,
+667,0x9697,redirect,0xB1C4,16,Then comes red.,,
+668,0x96B0,redirect,0xB1D4,22,Now for the last one.,,
+669,0x96D3,redirect,0xB1EA,27,That's all the screws out.,,
+670,0x96FE,redirect,0xB205,74,"This is it, Jonathan! This is the\ndetonation device, just like I\nthought.",,
+671,0x972B,redirect,0xB24F,36,"That's the heart of this baby,\nhuh?",,
+672,0x9742,redirect,0xB273,82,"You see that rectangular device in\nthe upper-right, under this\ntransparent plate?",,
+673,0x9783,redirect,0xB2C5,6,Yeah.,,
+674,0x9790,redirect,0xB2CB,82,That's the bomb's detonation\ndevice.  We have to cut all the\ncords leading to it.,,
+675,0x97DF,redirect,0xB31D,54,The area around the device is\nprotected by the plate.,,
+676,0x9808,redirect,0xB353,91,We can't cut the cords from the\ndevice itself.  It's too risky trying\nto remove the plate.,,
+677,0x9853,redirect,0xB3AE,40,So we have to cut them from the\nbottom?,,
+678,0x9874,redirect,0xB3D6,68,Yeah.  But there are a few dummy\ncords mixed in with the real ones.,,
+679,0x98BF,redirect,0xB41A,61,If you cut the wrong cord it's all\nover.  It's another trap.,,
+680,0x98FA,redirect,0xB457,45,"I'll have to follow them with my\neyes, then.",,
+681,0x9913,redirect,0xB484,97,First we cut the three cords\nleading from the detonation device\nto the timer in the bottom-left.,,
+682,0x995E,redirect,0xB4E5,42,"Don't touch any of the other\ncords, okay?",,
+683,0x9981,redirect,0xB50F,44,That includes any of the four on\nthe right.,,
+684,0x999E,redirect,0xB53B,91,"So, there are five cords coming\nout the timer.{80238057}Two of them are dummies, three\nare real.",,
+685,0x99E1,redirect,0xB596,101,"Follow the cords from the\ndetonation device to the timer,\n\n then cut the right ones with the\npliers.",,
+686,0x9A3C,redirect,0xB5FB,52,"Don't cut either of the dummies,\nalright? Let's go.",,
+687,0x9A73,redirect,0xB62F,77,"Yeah, we cut the other cord\nleading from the detonation device\nto the timer.",,
+688,0x9AAE,redirect,0xB67C,86,"It splits halfway.  Simple.{80238057}One's a dummy, right? It's a\nstraight line.  No sweat.",,
+689,0x9B01,redirect,0xB6D2,17,Not necessarily.,,
+690,0x9B14,redirect,0xB6E3,12,Why's that?,,
+691,0x9B1F,redirect,0xB6EF,85,This is a trap that takes advantage\nof an optical illusion. \nPoggendorff's illusion.,,
+692,0x9B66,redirect,0xB744,12,Boggen-who?,,
+693,0x9B79,redirect,0xB750,13,Poggendorff.,,
+694,0x9B96,redirect,0xB75D,116,"When a diagonal line is intersected\nby two parallel lines, the two\n\n halves of the diagonal line appear\ndisjointed.",,
+695,0x9BE7,redirect,0xB7D1,39,In this case you gotta work\nbackwards.,,
+696,0x9C02,redirect,0xB7F8,17,So what do I do?,,
+697,0x9C0D,redirect,0xB809,57,"Don't let your eyes fool you,\nalright? Go with your gut.",,
+698,0x9C28,redirect,0xB842,22,"You did it, Jonathan!",,
+699,0x9C43,redirect,0xB858,16,What happened?!,,
+700,0x9C52,redirect,0xB868,37,Dammit! The backup device\nkicked in!,,
+701,0x9CA3,redirect,0xB88D,15,What do we do?,,
+702,0x9CB4,redirect,0xB89C,35,It's one of the two colored cords.,,
+703,0x9CF3,redirect,0xB8BF,38,Cut the right one and we're\nfinished.,,
+704,0x9D12,redirect,0xB8E5,21,So which one is it?!,,
+705,0x9D27,redirect,0xB8FA,84,Don't look at me.{80238057}There's no science to this.  Only\nthe person who set it knows.,,
+706,0x9D66,redirect,0xB94E,49,That's supposed to stop anyone\nfrom defusing it.,,
+707,0x9D7B,redirect,0xB97F,51,"Well, say Redwood really did set\nthis.  Any ideas?",,
+708,0x9DAC,redirect,0xB9B2,53,Remember when he was talking\nabout that bomb before.,,
+709,0x9DE1,redirect,0xB9E7,81,"Yeah.  That could've been a trick,\nthough.  This is Redwood we're\ntalking about.",,
+710,0x9E26,redirect,0xBA38,28,I don't know.  Hard to say.,,
+711,0x9E61,redirect,0xBA54,17,"So, blue or red?",,
+712,0x9E6C,redirect,0xBA65,16,"Your call, man.",,
+713,0x9E8B,redirect,0xBA75,16,Has it stopped?,,
+714,0x9E96,redirect,0xBA85,18,...Looks like it.,,
+715,0x9EA7,redirect,0xBA97,47,Next we have to take out the\nvibration sensor.,,
+716,0x9ED2,redirect,0xBAC6,49,You look like you've got\nsomething on your mind.,,
+717,0x9EED,redirect,0xBAF7,59,"Lemme do this part, Jonathan. \nThis is getting ridiculous.",,
+718,0x9F1E,redirect,0xBB32,54,"No, I'll do it this time.  Just gimme\nanother chance.",,
+719,0x9F55,redirect,0xBB68,141,"I got an ""A+"" in removing\nvibration sensors at the\nacademy.{80238057}Thing's so difficult there are some\npeople who specialize in doing just\nthat.",,
+720,0x9FD2,redirect,0xBBF5,48,Even a lot of vets find it hard.  Let\nme do it.,,
+721,0x9FFD,redirect,0xBC25,26,"Alright, you do it, then.",,
+722,0xA014,redirect,0xBC3F,38,"You did it, Ed! The sensor's\noffline.",,
+723,0xA03D,inplace,0xA03D,3,bm,,sin codigo 91: revisar
+724,0xA040,inplace,0xA040,12,lt_x148.pak,,sin codigo 91: revisar
+725,0xA04C,redirect,0xBC65,9,Whew....,,
+726,0xA059,redirect,0xBC6E,10,You okay?,,
+727,0xA064,redirect,0xBC78,26,"Yeah.  Still here, right?",,
+728,0xA081,redirect,0xBC92,43,This is just the beginning.  Stay\nfocused.,,
+729,0xA0A6,redirect,0xBCBD,43,Great.  So what comes after the\nbeginning?,,
+730,0xA0CB,redirect,0xBCE8,47,Next we have to take out the\nvibration sensor.,,
+731,0xA0F2,redirect,0xBD17,54,"No, I'll do it this time.  Just gimme\nanother chance.",,
+732,0xA123,redirect,0xBD4D,60,"I got an ""A+"" in removing\nvibration sensors at the academy.",,
+733,0xA15A,redirect,0xBD89,73,Thing's so difficult there are some\npeople who specialize in doing\nthat.,,
+734,0xA1A1,redirect,0xBDD2,30,Next is the vibration sensor.,,
+735,0xA1B6,redirect,0xBDF0,51,"Let me try again, Jonathan.  I\npromise I'll do it.",,
+736,0xA1F3,redirect,0xBE23,78,"Man, this sorta thing can't be good\nfor your health.  How'd you ever\ndo this?",,
+737,0xA232,redirect,0xBE71,61,I was young then.  Had nothing to\nlose.  I didn't feel fear.,,
+738,0xA271,redirect,0xBEAE,21,Hard to imagine now.,,
+739,0xA28E,redirect,0xBEC3,69,"But then, when my partner was\nkilled in that blast... the fear came.",,
+740,0xA2B9,redirect,0xBF08,7,Ed....,,
+741,0xA2C4,redirect,0xBF0F,39,That's why I transferred to\nnarcotics.,,
+742,0xA2E7,redirect,0xBF36,59,"Really.  Well, try not to let the\nsame thing happen to us.",,
+743,0xA318,redirect,0xBF71,9,Yeah....,,
+744,0xA325,redirect,0xBF7A,23,So what do we do next?,,
+745,0xA338,redirect,0xBF91,21,"That different, huh?",,
+746,0xA35B,redirect,0xBFA6,28,I didn't mean it like that.,,
+747,0xA37C,redirect,0xBFC2,14,It's alright.,,
+748,0xA391,redirect,0xBFD0,11,"Sorry, Ed.",,
+749,0xA3A2,redirect,0xBFDB,111,"Life always seems to throw\nanother chance at you.{80238057}As long as you keep that in mind,\nyou won't be so afraid.",,
+750,0xA3DF,redirect,0xC04A,61,"The greater the risk, the greater\nthe reward if you succeed.",,
+751,0xA42E,redirect,0xC087,45,"Youth is the great enabler, don't\nyou think?",,
+752,0xA461,redirect,0xC0B4,20,"Yeah, you're right.",,
+753,0xA476,redirect,0xC0C8,44,Next we remove the plate the\nsensor was in.,,
+754,0xA4A7,redirect,0xC0F4,11,I figured.,,
+755,0xA4B4,redirect,0xC0FF,62,You were right.  I'm impressed. \nYou still got what it takes.,,
+756,0xA4F3,redirect,0xC13D,27,I can't believe it either.,,
+757,0xA518,redirect,0xC158,20,Can't believe what?,,
+758,0xA525,redirect,0xC16C,21,I was just guessing.,,
+759,0xA54A,redirect,0xC181,11,You what?!,,
+760,0xA561,redirect,0xC18C,54,Calm down.  The important thing is\nwe got through it.,,
+761,0xA58A,redirect,0xC1C2,29,"We're still here, aren't we?",,
+762,0xA5A5,redirect,0xC1DF,77,"I don't know what to say, to be\nhonest.  Is this how you guys\nactually work?",,
+763,0xA5EE,redirect,0xC22C,56,Would you rather we'd just done\neenie-meenie-minie-moe?,,
+764,0xA619,redirect,0xC264,50,"Alright, alright.  Better you than\nme, I suppose.",,
+765,0xA650,redirect,0xC296,34,"Anyway, this thing's still going.",,
+766,0xA67D,redirect,0xC2B8,69,"Right, we still got a bit to do. \nAlright, let's take off the plate.",,
+767,0xA6B4,redirect,0xC2FD,35,"Okay, we seem to be in good\nshape.",,
+768,0xA6C9,redirect,0xC320,34,Well... the timer hasn't stopped.,,
+769,0xA6E0,redirect,0xC342,35,"Yeah, there's still one cord left.",,
+770,0xA6FD,redirect,0xC365,31,So we cut the one that's left?,,
+771,0xA710,inplace,0xA710,4,ttt,,sin codigo 91: revisar
+772,0xA714,inplace,0xA714,9,masshotx,,sin codigo 91: revisar
+773,0xA71D,inplace,0xA71D,2,1,,sin codigo 91: revisar
+774,0xA71F,inplace,0xA71F,2,2,,sin codigo 91: revisar
+775,0xA721,inplace,0xA721,2,3,,sin codigo 91: revisar
+776,0xA723,inplace,0xA723,2,4,,sin codigo 91: revisar
+777,0xA725,inplace,0xA725,2,5,,sin codigo 91: revisar
+778,0xA727,redirect,0xC384,11,Get in pod,,
+779,0xA734,redirect,0xC38F,17,Don't get in pod,,
+780,0xA73F,inplace,0xA73F,8,tkshotx,,sin codigo 91: revisar
+781,0xA747,inplace,0xA747,2,1,,sin codigo 91: revisar
+782,0xA749,inplace,0xA749,2,2,,sin codigo 91: revisar

@@ -1,0 +1,276 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x1C8E,redirect,0x1528,65,"I'm sorry, but you cannot touch\nher.  Please just let her rest!{0D}",,1 isla(s) 91 inline
+1,0x1CBD,redirect,0x156C,6,Look{0D},,1 isla(s) 91 inline
+2,0x1CC2,redirect,0x1575,55,Karen....  Her skin doesn't look\ngood.  It's so pale.{0D},,3 isla(s) 91 inline
+3,0x1CE9,redirect,0x15B5,29,Her anemia is quite severe.{0D},,1 isla(s) 91 inline
+4,0x1D0E,redirect,0x15D5,74,"As I mentioned, it's due to her\ninability to properly produce new\nblood.{0D}",,1 isla(s) 91 inline
+5,0x1D2B,redirect,0x1622,22,She has bruises too.{0D},,
+6,0x1D42,redirect,0x1638,54,Those are caused by her platelet\ncount being so low.{0D},,2 isla(s) 91 inline
+7,0x1D6B,redirect,0x1674,42,She must be in a lot of pain. \nKaren....{0D},,2 isla(s) 91 inline
+8,0x1D8E,redirect,0x16A4,48,Karen....  Show me those\nbeautiful eyes again.{0D},,1 isla(s) 91 inline
+9,0x1DBF,redirect,0x16D7,27,"Open your eyes, Karen....{0D}",,
+10,0x1DDC,redirect,0x16F2,29,Show me your eyes again....{0D},,1 isla(s) 91 inline
+11,0x1E05,redirect,0x1712,47,"She's under anesthesia right now,\nMr. Ingram.{0D}",,1 isla(s) 91 inline
+12,0x1E3C,redirect,0x1744,44,"Mr. Ingram, please get a hold of\nyourself!{0D}",,
+13,0x1E6F,redirect,0x1770,89,"If she were to be taken out of this\ncapsule she could die.  You\nunderstand that, right?{0D}",,3 isla(s) 91 inline
+14,0x1EA4,redirect,0x17D2,55,If you want to help her then\nplease control yourself!{0D},,1 isla(s) 91 inline
+15,0x1ECF,redirect,0x180C,119,The interior of this capsule is\ncompletely sterile.{80238057}Her body has no defense against\nbacteria or viruses right now.{0D},,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+16,0x1F20,redirect,0x1899,61,"To put it simply, this capsule\nprotects her from infection.{0D}",,1 isla(s) 91 inline
+17,0x1F51,redirect,0x18D9,67,"If we start radiation therapy, she\nwill be isolated even further.{0D}",,
+18,0x1F94,redirect,0x191C,69,"As I mentioned, she has a low\nwhite blood cell count at the\nmoment.{0D}",,3 isla(s) 91 inline
+19,0x1FCD,redirect,0x196A,93,"Therefore, what we are doing\nwith her is different from normal\ninfection control protocols.{0D}",,2 isla(s) 91 inline
+20,0x2004,redirect,0x19CD,6,Open{0D},,
+21,0x2009,redirect,0x19D3,50,What are you doing?! Are you\ntrying to kill her!{0D},,2 isla(s) 91 inline
+22,0x203C,redirect,0x1A0B,37,Stop! If you do that she could\ndie!{0D},,
+23,0x206F,redirect,0x1A30,48,This equipment displays various\ndata on Karen.{0D},,2 isla(s) 91 inline
+24,0x209E,redirect,0x1A66,79,I get information on her vital signs\nfrom this.  She's in critical\ncondition.{0D},,2 isla(s) 91 inline
+25,0x20D7,redirect,0x1ABB,46,"As I mentioned, she's in critical\ncondition.{0D}",,1 isla(s) 91 inline
+26,0x2106,redirect,0x1AEC,52,We need to start a transplant as\nsoon as possible.{0D},,1 isla(s) 91 inline
+27,0x2125,redirect,0x1B23,27,A bone marrow transplant?{0D},,1 isla(s) 91 inline
+28,0x2138,redirect,0x1B41,29,"Yes, that's what she needs.{0D}",,
+29,0x2157,redirect,0x1B5E,105,"If we go ahead with a bone\nmarrow transplant and start\nradiation therapy, she'll lose all of\n her hair.{0D}",,3 isla(s) 91 inline
+30,0x21A4,redirect,0x1BD0,53,"I'm sure that won't be easy for\nher, being a woman.{0D}",,1 isla(s) 91 inline
+31,0x21C9,redirect,0x1C08,69,Feel free to ask me any questions\nyou may have about her condition.{0D},,1 isla(s) 91 inline
+32,0x2202,redirect,0x1C50,79,"If you want to talk about her\ncondition, I'll give you some\nstraight answers.{0D}",,5 isla(s) 91 inline
+33,0x2225,redirect,0x1CAE,6,Talk{0D},,
+34,0x2230,redirect,0x1CB4,25,Do you mind if we talk?{0D},,2 isla(s) 91 inline
+35,0x2243,redirect,0x1CD3,28,Can we talk a little more?{0D},,1 isla(s) 91 inline
+36,0x225C,redirect,0x1CF2,30,What would you like to know?{0D},,1 isla(s) 91 inline
+37,0x2267,redirect,0x1D13,7,Sure.{0D},,
+38,0x2274,redirect,0x1D1A,66,"Just please don't try anything\nfoolish like that again, alright?{0D}",,2 isla(s) 91 inline
+39,0x229D,redirect,0x1D62,11,Ask about{0D},,1 isla(s) 91 inline
+40,0x22A2,redirect,0x1D70,17,Karen's illness{0D},,
+41,0x22AF,redirect,0x1D81,209,"Karen has aplastic anemia.{80238057}Basically, there's an abnormality in\nher bone marrow's hematopoietic\nstem cells, the cells that create\n new blood cells, and they aren't\nable to produce blood correctly\nanymore.{0D}",,5 isla(s) 91 inline
+42,0x2326,redirect,0x1E61,52,"In her case, the cause is exposure\nto cosmic rays.{0D}",,1 isla(s) 91 inline
+43,0x235D,redirect,0x1E98,19,Karen's condition{0D},,1 isla(s) 91 inline
+44,0x236A,redirect,0x1EAE,191,"We almost thought she wouldn't\nmake it for a while there.{80238057}She's suffering from appendicitis,\nas well as several other infections,\nbecause her immune system is\n virtually non-functioning.{0D}",,3 isla(s) 91 inline
+45,0x23CD,redirect,0x1F76,44,That's why she's isolated in this\ncapsule.{0D},,1 isla(s) 91 inline
+46,0x23FE,redirect,0x1FA5,57,"Her hemorrhaging hasn't stopped,\nand she's very anemic.{0D}",,1 isla(s) 91 inline
+47,0x242F,redirect,0x1FE1,33,That's why her face is so pale.{0D},,
+48,0x2458,redirect,0x2002,155,"We finished working on her\nappendicitis with a blood platelet\ntransfusion and high doses of\n antibiotics, but... she won't\nsurvive like this much longer.{0D}",,5 isla(s) 91 inline
+49,0x24B5,redirect,0x20AC,82,She's in critical condition.  We\nneed to start a transplant as soon\nas possible.{0D},,1 isla(s) 91 inline
+50,0x24E6,redirect,0x2101,19,Treatment methods{0D},,1 isla(s) 91 inline
+51,0x24EF,redirect,0x2117,77,Karen was saying a transplant is\nthe only way to treat her.  Is that\nright?{0D},,3 isla(s) 91 inline
+52,0x2524,redirect,0x216D,38,What ways are there of treating\nher?{0D},,
+53,0x2531,redirect,0x2193,119,"In her case, the only remaining\noption is a bone marrow\ntransplant.{80238057}And if we don't do it soon, it'll be\ntoo late.{0D}",,3 isla(s) 91 inline
+54,0x258C,redirect,0x2213,166,"We give the patient radiation\ntherapy before the actual\ntransplant.{80238057}If the patient isn't sufficiently\nstrong enough for that, the\nprognosis generally isn't good.{0D}",,9 isla(s) 91 inline
+55,0x25EB,redirect,0x22D4,76,The only thing medical science can\ndo for her is a bone marrow\ntransplant.{0D},,
+56,0x261E,redirect,0x2320,25,Bone marrow transplants{0D},,1 isla(s) 91 inline
+57,0x262B,redirect,0x233C,69,"Karen was telling me about it.  It's\na complex procedure, isn't it?{0D}",,2 isla(s) 91 inline
+58,0x2668,redirect,0x2387,45,What do you do in a bone marrow\ntransplant?{0D},,
+59,0x2683,redirect,0x23B4,160,You could think of it as similar to a\nblood transfusion.{80238057}We take bone marrow stem cells\nfrom a donor and transplant them\ninto the patient's carotid artery.{0D},,4 isla(s) 91 inline
+60,0x26D0,redirect,0x2460,80,"The operation takes about an\nhour.  That's the easy part,\nrelatively speaking.{0D}",,
+61,0x2713,redirect,0x24B0,102,"Before the transplant, we kill off\nall the recipient's bone marrow\nstem cells and white blood cells.{0D}",,3 isla(s) 91 inline
+62,0x275C,redirect,0x251F,176,"We give them large doses of\nchemotherapeutic drugs and\nexpose their entire body to 7.5\n Gray of radiation.{80238057}It's not as dangerous as it sounds. \nGenerally speaking, anyway.{0D}",,3 isla(s) 91 inline
+63,0x27C3,redirect,0x25D8,58,The problem is finding a donor\nwith a matching HLA type.{0D},,1 isla(s) 91 inline
+64,0x2800,redirect,0x2615,76,"Bone marrow transplants first\nbegan in the 1970s, almost 70\nyears ago now.{0D}",,2 isla(s) 91 inline
+65,0x285B,redirect,0x2667,140,The transplant itself is fairly\nstraightforward {D0}{06} the possibility\nof the immune system rejecting\n the new cells afterward is the\nproblem.{0D},,3 isla(s) 91 inline
+66,0x289E,redirect,0x26FC,49,We need a donor whose HLA type\nmatches Karen's.{0D},,1 isla(s) 91 inline
+67,0x28D7,redirect,0x2730,40,Dr. Goldwin was telling me about\nthat.{0D},,
+68,0x28FA,redirect,0x2758,10,HLA type{0D},,1 isla(s) 91 inline
+69,0x2907,redirect,0x2765,55,I keep hearing about HLA type. \nWhat exactly is that?{0D},,
+70,0x293C,redirect,0x279C,21,What's an HLA type?{0D},,
+71,0x2957,redirect,0x27B1,210,"As transplant science advanced, it\nwas discovered that the primary\ncause of rejections had to do with\n the lymphocytes, a type of white\nblood cell.{80238057}Specifically, one's human\nleukocyte antigen, or HLA type.{0D}",,3 isla(s) 91 inline
+72,0x2A06,redirect,0x288C,95,"In other words, if the HLA types\nmatch, the chances of the\ntransplant being successful go up.{0D}",,2 isla(s) 91 inline
+73,0x2A49,redirect,0x28F1,64,"So if the types don't match, you\ncan't perform the transplant?{0D}",,2 isla(s) 91 inline
+74,0x2A72,redirect,0x2937,22,"Yes, that's correct.{0D}",,1 isla(s) 91 inline
+75,0x2A8B,redirect,0x2950,23,HLA match probability{0D},,1 isla(s) 91 inline
+76,0x2AA0,redirect,0x296A,47,What are the chances of finding an\nHLA match?{0D},,
+77,0x2ABF,redirect,0x2999,184,"HLA types are genetically\ninherited, so the odds of finding a\nmatch between non-blood\n relatives are extremely low.{80238057}The rate of interracial and\ninterethnic matches is almost zero.{0D}",,2 isla(s) 91 inline
+78,0x2B38,redirect,0x2A57,201,"Children inherit their HLA type as\na combination of their parents'\nHLA types.{80238057}The highest rate of success is\nbetween siblings, where there is a\none-in-four chance they'll share\n the same HLA type.{0D}",,4 isla(s) 91 inline
+79,0x2BAD,redirect,0x2B2C,110,"And just to be on the safe side,\nthere also needs to be a match\n\n between minor histocompatibility\nantigens.{0D}",,1 isla(s) 91 inline
+80,0x2C04,redirect,0x2B9D,83,"If both of these match, the\nsuccess rate of bone marrow\ntransplants is about 70%.{0D}",,1 isla(s) 91 inline
+81,0x2C45,redirect,0x2BF3,11,HLA donor{0D},,
+82,0x2C56,redirect,0x2BFE,2,{0D},,
+83,0x2C93,redirect,0x2C00,2,{0D},,
+84,0x2D0C,redirect,0x2C02,2,{0D},,
+85,0x2D55,redirect,0x2C07,2,{0D},,
+86,0x2D68,redirect,0x2C09,2,{0D},,
+87,0x2D75,redirect,0x2C0B,2,{0D},,
+88,0x2D7E,redirect,0x2C0D,2,{0D},,
+89,0x2E0D,redirect,0x2C0F,2,{0D},,
+90,0x2E42,redirect,0x2C11,2,{0D},,
+91,0x2E5F,redirect,0x2C13,2,{0D},,
+92,0x2E70,redirect,0x2C15,6,....{0D},,
+93,0x2E77,redirect,0x2C1B,2,{0D},,
+94,0x2EBE,redirect,0x2C1D,2,{0D},,
+95,0x2ECD,redirect,0x2C1F,2,{0D},,
+96,0x2EF8,redirect,0x2C21,2,{0D},,
+97,0x2F05,redirect,0x2C23,2,{0D},,
+98,0x2F24,redirect,0x2C25,2,{0D},,
+99,0x2F3F,redirect,0x2C27,2,{0D},,
+100,0x2F56,redirect,0x2C29,2,{0D},,
+101,0x2F5D,redirect,0x2C2B,2,{0D},,
+102,0x2FCE,redirect,0x2C2D,2,{0D},,
+103,0x2FF5,redirect,0x2C2F,15,Other methods{0D},,
+104,0x2FFE,redirect,0x2C3E,24,Is there no other way?{0D},,2 isla(s) 91 inline
+105,0x301B,redirect,0x2C5C,85,"Unfortunately, no.  The only thing\nthat can save Karen is a bone\nmarrow transplant.{0D}",,1 isla(s) 91 inline
+106,0x3056,redirect,0x2CB4,143,"Normally it is possible to use a\nphysiologically active substance\nsuch as interleukin-3 to increase\n a patient's stem cell count\ntemporarily,{0D}",,1 isla(s) 91 inline
+107,0x30B5,redirect,0x2D46,52,but this wouldn't have any effect\nin Karen's case.{0D},,4 isla(s) 91 inline
+108,0x30DC,redirect,0x2D86,132,That method is used in peripheral\nblood stem cell transplantation.{80238057}It was developed in order to\nlessen the burden on the donor.{0D},,
+109,0x315F,redirect,0x2E0A,37,So a transplant is the only option?{0D},,1 isla(s) 91 inline
+110,0x3174,redirect,0x2E32,52,Yes.  Only a bone marrow\ntransplant will save her.{0D},,2 isla(s) 91 inline
+111,0x31AD,redirect,0x2E6C,63,And the only person who matches\nher HLA type is Gates Becker.{0D},,2 isla(s) 91 inline
+112,0x31EC,redirect,0x2EB1,114,"If you do in fact know him, please\ntry to convince him.{80238057}We can't force anyone to\nparticipate in a transplant.{0D}",,5 isla(s) 91 inline
+113,0x323F,redirect,0x2F32,9,Implore{0D},,
+114,0x3244,redirect,0x2F3B,30,"Please, doctor.  Save Karen.{0D}",,3 isla(s) 91 inline
+115,0x3273,redirect,0x2F62,29,Please.  Please save Karen.{0D},,
+116,0x32A2,redirect,0x2F7F,79,"If we're able to get Mr. Becker's\nbone marrow, we should be able\nto save her.{0D}",,
+117,0x32E5,redirect,0x2FD1,127,"We've contacted Mr. Becker, but\nhe doesn't seem to want to help.{80238057}The decision to participate in a\ntransplant is voluntary.{0D}",,4 isla(s) 91 inline
+118,0x3334,redirect,0x305C,86,We will of course do everything\nwe can for her.  Just please allow\nus to do our job.{0D},,
+119,0x3363,redirect,0x30B2,72,The best thing you can do for her\nis to give her some peace and\nquiet.{0D},,2 isla(s) 91 inline
+120,0x338E,redirect,0x3100,37,We will do everything in our\npower.{0D},,
+121,0x33A7,redirect,0x3125,59,"However, you should still prepare\nyourself for the worst.{0D}",,1 isla(s) 91 inline
+122,0x33DA,redirect,0x3163,6,Back{0D},,
+123,0x33E3,redirect,0x3169,27,"Well, his ID looks legit.{0D}",,1 isla(s) 91 inline
+124,0x33FE,redirect,0x3187,37,I guess it's all up to this doctor.{0D},,
+125,0x3429,redirect,0x31AC,87,I understand your concerns.  That\nuncertainty of not knowing what\ncourse she'll take.{0D},,2 isla(s) 91 inline
+126,0x3470,redirect,0x3209,80,I'm recording data on Karen's\ncondition.  She's been this way\nsince yesterday.{0D},,2 isla(s) 91 inline
+127,0x34BB,redirect,0x325F,80,"It's all numbers and medical terms,\nso I don't know if they'd make\nmuch sense.{0D}",,2 isla(s) 91 inline
+128,0x34EA,redirect,0x32B5,99,This must be the real Dr.\nCollins.{80238057}He doesn't seem like a hitman sent\nby Tokugawa or anything.{0D},,1 isla(s) 91 inline
+129,0x352B,redirect,0x331B,51,"He seems like a real doctor,\njudging from his ID.{0D}",,1 isla(s) 91 inline
+130,0x354C,redirect,0x3351,37,I can assure you I'm a doctor\nhere.{0D},,1 isla(s) 91 inline
+131,0x356F,redirect,0x3379,59,I doubt you'd understand what all\nthis information means.{0D},,2 isla(s) 91 inline
+132,0x35A4,redirect,0x33BA,47,I'm blood type A.  Will that help in\nany way?{0D},,2 isla(s) 91 inline
+133,0x35C7,redirect,0x33EF,47,I'm blood type B.  Will that help in\nany way?{0D},,1 isla(s) 91 inline
+134,0x35EA,redirect,0x3421,48,I'm blood type AB.  Will that help\nin any way?{0D},,1 isla(s) 91 inline
+135,0x360F,redirect,0x3454,47,I'm blood type O.  Will that help in\nany way?{0D},,1 isla(s) 91 inline
+136,0x3632,redirect,0x3486,64,"No, blood type has nothing to do\nwith bone marrow transplants.{0D}",,1 isla(s) 91 inline
+137,0x365B,redirect,0x34C9,11,I see....{0D},,
+138,0x366E,redirect,0x34D4,56,"By the way, your birthday is\n{81}{9B}{81}{9B}{81}{9B}{81}{9B}/{81}{9B}/{81}{9B}, isn't\nit?{0D}",,1 isla(s) 91 inline
+139,0x36AF,redirect,0x350F,22,How'd you know that?{0D},,
+140,0x36C2,redirect,0x3525,39,I took a little look at your records.{0D},,2 isla(s) 91 inline
+141,0x36E3,redirect,0x3552,11,What for?{0D},,
+142,0x36F0,redirect,0x355D,58,Just something I was curious\nabout.  It's not important.{0D},,1 isla(s) 91 inline
+143,0x3727,redirect,0x359A,2,{0D},,
+144,0x3732,redirect,0x359C,2,{0D},,
+145,0x376F,redirect,0x359E,2,{0D},,
+146,0x37A6,redirect,0x35A0,2,{0D},,
+147,0x37D1,redirect,0x35A2,2,{0D},,
+148,0x37E0,redirect,0x35A7,2,{0D},,
+149,0x37F3,redirect,0x35A9,2,{0D},,
+150,0x3824,redirect,0x35AB,2,{0D},,
+151,0x3845,redirect,0x35AD,2,{0D},,
+152,0x3868,redirect,0x35AF,2,{0D},,
+153,0x38A9,redirect,0x35B1,2,{0D},,
+154,0x38C2,redirect,0x35B3,2,{0D},,
+155,0x3909,redirect,0x35B5,2,{0D},,
+156,0x393C,redirect,0x35B7,2,{0D},,
+157,0x3969,redirect,0x35B9,2,{0D},,
+158,0x3992,redirect,0x35BB,2,{0D},,
+159,0x39A3,redirect,0x35BD,2,{0D},,
+160,0x39E6,redirect,0x35BF,2,{0D},,
+161,0x3A07,redirect,0x35C1,2,{0D},,
+162,0x3A60,redirect,0x35C3,2,{0D},,
+163,0x3AB1,redirect,0x35C5,2,{0D},,
+164,0x3AC2,redirect,0x35CA,2,{0D},,
+165,0x3AF5,redirect,0x35CC,2,{0D},,
+166,0x3B48,redirect,0x35CE,2,{0D},,
+167,0x3B75,redirect,0x35D0,2,{0D},,
+168,0x3B9E,redirect,0x35D2,2,{0D},,
+169,0x3BCB,redirect,0x35D4,2,{0D},,
+170,0x3C04,redirect,0x35D6,2,{0D},,
+171,0x3C2F,redirect,0x35D8,2,{0D},,
+172,0x3C78,redirect,0x35DA,2,{0D},,
+173,0x3CB3,redirect,0x35DC,2,{0D},,
+174,0x3CE8,redirect,0x35DE,8,System{0D},,
+175,0x3CF1,redirect,0x35E6,82,"Come to think of it, it was lavender\nperfume.  Who do we know who\nwears perfume?{0D}",,3 isla(s) 91 inline
+176,0x3D3C,redirect,0x3641,78,Dave liked lavender too.  But...\nthat doesn't have anything to do\nwith this.{0D},,2 isla(s) 91 inline
+177,0x3D7D,redirect,0x3695,86,"Now that you mention it, there\nwas a woman in this hospital who\nwas wearing perfume.{0D}",,4 isla(s) 91 inline
+178,0x3DB6,redirect,0x36F7,64,There's a woman right here in\nthis hospital who wears perfume!{0D},,2 isla(s) 91 inline
+179,0x3DE3,redirect,0x373D,50,"Hey! You know, that smell\nmight've been perfume.{0D}",,
+180,0x3E26,redirect,0x3772,54,Who do we know who wears\nperfume....{80238057}I've got it!{0D},,1 isla(s) 91 inline
+181,0x3E6D,redirect,0x37AB,64,"You know, I think there was a\nsmell coming from the spacesuit.{0D}",,2 isla(s) 91 inline
+182,0x3EB4,redirect,0x37F1,68,The spacesuit smelled of\nsomething! That's what this\nflower means.{0D},,2 isla(s) 91 inline
+183,0x3F09,redirect,0x383B,25,"So who is it, Jonathan?{0D}",,1 isla(s) 91 inline
+184,0x3F24,redirect,0x3857,38,Take your time and think it\nthrough.{0D},,1 isla(s) 91 inline
+185,0x3F47,redirect,0x3880,46,"Who's the person in the spacesuit,\nJonathan?{0D}",,1 isla(s) 91 inline
+186,0x3F68,redirect,0x38B1,22,I knew it all along.{0D},,1 isla(s) 91 inline
+187,0x3F89,redirect,0x38CA,31,I wasn't fooled for a second.{0D},,
+188,0x3FA4,redirect,0x38E9,82,You gotta get up the day before\nyesterday to pull a fast one on\nJonathan Ingram.{0D},,2 isla(s) 91 inline
+189,0x3FD1,redirect,0x3941,52,I was just playing dumb till the\nmoment was right.{0D},,1 isla(s) 91 inline
+190,0x3FE2,redirect,0x3978,72,You'd have to be the world's\nbiggest moron not to figure this\none out.{0D},,2 isla(s) 91 inline
+191,0x3FF3,redirect,0x39C6,52,Our accomplice obviously forgot\nI'm a private eye.{0D},,1 isla(s) 91 inline
+192,0x4000,redirect,0x39FD,56,"Wait, it was a woman we were\ntalking about, wasn't it?{0D}",,1 isla(s) 91 inline
+193,0x402B,redirect,0x3A38,63,"Sorry, it was a woman who was\nwearing the perfume, wasn't it?{0D}",,1 isla(s) 91 inline
+194,0x4058,redirect,0x3A7A,39,"Come on, Jonathan, this isn't a\njoke.{0D}",,
+195,0x4085,redirect,0x3AA1,28,It has to be someone else.{0D},,1 isla(s) 91 inline
+196,0x40A6,redirect,0x3AC0,32,"Quit messing around, Jonathan!{0D}",,1 isla(s) 91 inline
+197,0x40C3,redirect,0x3AE3,36,I guess that's... just ridiculous.{0D},,1 isla(s) 91 inline
+198,0x40E8,redirect,0x3B0A,50,The chief was shot! What are you\ntalking about?!{0D},,
+199,0x4115,redirect,0x3B3C,63,"No, Marc was WITH the astronaut,\nnot the one inside the suit.{0D}",,2 isla(s) 91 inline
+200,0x4158,redirect,0x3B81,12,What?! Me?{0D},,
+201,0x416D,redirect,0x3B8D,49,"Jonathan, how could it have been\nAnna? Come on.{0D}",,1 isla(s) 91 inline
+202,0x41A4,redirect,0x3BC1,81,"Karen was in the TV van with you\nat the time, right? It couldn't\nhave been her.{0D}",,2 isla(s) 91 inline
+203,0x41E1,redirect,0x3C18,25,She was killed on Home!{0D},,1 isla(s) 91 inline
+204,0x422A,redirect,0x3C34,55,Hojo's been dead a long time. \nWhat's wrong with you?{0D},,
+205,0x4257,redirect,0x3C6B,75,"How could it have been Dave?!{80238057}Dave's... Dave's already gone,\nJonathan.{0D}",,2 isla(s) 91 inline
+206,0x42B2,redirect,0x3CBC,31,"He did like lavender, though.{0D}",,
+207,0x42D5,redirect,0x3CDB,82,"I know there's that lavender\nbouquet I put on Dave's desk, but\nthat's different.{0D}",,2 isla(s) 91 inline
+208,0x4306,redirect,0x3D33,48,I don't see how it could've been\nChief Becker.{0D},,1 isla(s) 91 inline
+209,0x4339,redirect,0x3D66,56,There's no connection between\nhim and lavender either.{0D},,1 isla(s) 91 inline
+210,0x4368,redirect,0x3DA1,77,"The way the chief sounded so\nsurprised at the time, it probably\nwasn't him.{0D}",,2 isla(s) 91 inline
+211,0x43B3,redirect,0x3DF4,70,Plus I don't see how we could\nconnect Saito to a lavender\nfragrance.{0D},,1 isla(s) 91 inline
+212,0x43EA,redirect,0x3E3D,39,"Salvatore died on the Moon,\nremember?{0D}",,
+213,0x4415,redirect,0x3E64,61,I don't think Tokugawa would get\nhis hands dirty like that.{0D},,1 isla(s) 91 inline
+214,0x4460,redirect,0x3EA4,64,There's no connection between\nhim and a lavender smell either.{0D},,1 isla(s) 91 inline
+215,0x4499,redirect,0x3EE7,52,"Redwood's the biker, not the guy\nin the spacesuit.{0D}",,1 isla(s) 91 inline
+216,0x44DE,redirect,0x3F1E,60,"You saw Victor's body in the\nmorgue yourself, didn't you?!{0D}",,2 isla(s) 91 inline
+217,0x450B,redirect,0x3F60,54,It couldn't have been Ishida.  He\nwas killed at AMM.{0D},,2 isla(s) 91 inline
+218,0x4544,redirect,0x3F9C,2,{0D},,
+219,0x457B,redirect,0x3F9E,2,{0D},,
+220,0x459C,redirect,0x3FA0,2,{0D},,
+221,0x45D5,redirect,0x3FA2,2,{0D},,
+222,0x4602,redirect,0x3FA7,2,{0D},,
+223,0x4625,redirect,0x3FA9,2,{0D},,
+224,0x4646,redirect,0x3FAB,2,{0D},,
+225,0x4685,redirect,0x3FAD,34,What are you talking about?!\nMe?{0D},,
+226,0x46AA,redirect,0x3FCF,69,"Well, you did put some lavender\non Dave's desk in Vice, didn't\nyou?{0D}",,4 isla(s) 91 inline
+227,0x46CB,redirect,0x4020,67,Flowers don't leave a fragrance\nthat strong on someone like that!{0D},,2 isla(s) 91 inline
+228,0x46EA,redirect,0x4069,59,"I forgot, you were there with Ed\nwhen it happened anyway.{0D}",,2 isla(s) 91 inline
+229,0x4717,inplace,0x4717,11,lt_x58.pak,,sin codigo 91: revisar
+230,0x4722,redirect,0x40AA,2,{0D},,
+231,0x4739,redirect,0x40AC,2,{0D},,
+232,0x4752,redirect,0x40AE,2,{0D},,
+233,0x4765,redirect,0x40B0,2,{0D},,
+234,0x478C,redirect,0x40B2,2,{0D},,
+235,0x4791,inplace,0x4791,11,lt_x58.pak,,sin codigo 91: revisar
+236,0x479C,redirect,0x40B4,2,{0D},,
+237,0x47A7,redirect,0x40B6,2,{0D},,
+238,0x47C0,redirect,0x40B8,2,{0D},,
+239,0x4813,redirect,0x40BA,2,{0D},,
+240,0x482A,redirect,0x40BC,2,{0D},,
+241,0x484F,redirect,0x40BE,2,{0D},,
+242,0x4896,redirect,0x40C0,2,{0D},,
+243,0x48D3,redirect,0x40C2,2,{0D},,1 isla(s) 91 inline
+244,0x48FA,redirect,0x40C7,2,{0D},,
+245,0x4909,redirect,0x40C9,2,{0D},,
+246,0x4938,redirect,0x40CB,2,{0D},,
+247,0x499D,redirect,0x40CD,2,{0D},,
+248,0x49BE,redirect,0x40CF,2,{0D},,
+249,0x49EB,redirect,0x40D1,2,{0D},,
+250,0x4A10,redirect,0x40D3,2,{0D},,
+251,0x4A2F,redirect,0x40D5,2,{0D},,
+252,0x4A68,redirect,0x40D7,2,{0D},,
+253,0x4AD5,redirect,0x40D9,2,{0D},,
+254,0x4AEA,redirect,0x40DB,2,{0D},,
+255,0x4B1D,redirect,0x40DD,2,{0D},,
+256,0x4B2C,redirect,0x40DF,2,{0D},,
+257,0x4B57,redirect,0x40E1,2,{0D},,
+258,0x4B9E,redirect,0x40E3,2,{0D},,
+259,0x4BC3,redirect,0x40E5,2,{0D},,
+260,0x4BF8,redirect,0x40E7,2,{0D},,1 isla(s) 91 inline
+261,0x4C31,redirect,0x40EC,2,{0D},,
+262,0x4C5E,redirect,0x40EE,2,{0D},,
+263,0x4C8F,redirect,0x40F0,2,{0D},,
+264,0x4CB6,redirect,0x40F2,2,{0D},,
+265,0x4CDF,redirect,0x40F4,2,{0D},,
+266,0x4CF6,redirect,0x40F6,2,{0D},,
+267,0x4D15,redirect,0x40F8,2,{0D},,
+268,0x4D36,redirect,0x40FA,2,{0D},,
+269,0x4D59,redirect,0x40FC,2,{0D},,
+270,0x4D70,redirect,0x40FE,2,{0D},,
+271,0x4D7B,redirect,0x4100,2,{0D},,
+272,0x4D84,redirect,0x4102,2,{0D},,
+273,0x4DAF,redirect,0x4104,2,{0D},,
+274,0x4DC4,redirect,0x4106,2,{0D},,

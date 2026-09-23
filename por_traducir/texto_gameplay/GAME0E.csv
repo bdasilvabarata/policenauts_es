@@ -1,0 +1,126 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0xBF9,redirect,0xB80,13,Go upstairs{0D},,1 isla(s) 91 inline
+1,0xC04,redirect,0xB90,6,Look{0D},,
+2,0xC09,redirect,0xB96,77,There's communications cables\nand other wires running all over\nthe ceiling.{0D},,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+3,0xC4E,redirect,0xBF8,51,"Not surprising, given the network\nthey have here.{0D}",,3 isla(s) 91 inline
+4,0xC85,redirect,0xC34,71,There's a few microgravity air\nconditioners and sprinklers\ninstalled.{0D},,1 isla(s) 91 inline
+5,0xCC0,redirect,0xC7E,81,They say this place has been built\nto withstand any disaster.  That\ninclude me?{0D},,2 isla(s) 91 inline
+6,0xCFB,redirect,0xCD5,52,They've probably cut them off so I\ncan't use them.{0D},,1 isla(s) 91 inline
+7,0xD28,redirect,0xD0C,54,Normally you'd see every inch of\nthe floor on these.{0D},,1 isla(s) 91 inline
+8,0xD61,redirect,0xD45,70,The monitors aren't working.  No\npoint wasting anymore time on\nthem.{0D},,2 isla(s) 91 inline
+9,0xD8C,redirect,0xD91,82,These are the security monitors\nfor the garage.{80238057}They're not showing anything.{0D},,2 isla(s) 91 inline
+10,0xDC1,redirect,0xDE9,36,There are monitors over there\ntoo.{0D},,1 isla(s) 91 inline
+11,0xDE0,redirect,0xE10,43,It doesn't look like he's hiding in\nhere.{0D},,1 isla(s) 91 inline
+12,0xE0B,redirect,0xE3E,23,He's not inside here.{0D},,1 isla(s) 91 inline
+13,0xE22,redirect,0xE58,41,His blood trail clearly leads\nupstairs.{0D},,1 isla(s) 91 inline
+14,0xE4D,redirect,0xE84,36,It's a small car.  No one's in it.{0D},,1 isla(s) 91 inline
+15,0xE74,redirect,0xEAB,49,It's a van.  Doesn't look like\nanyone's inside.{0D},,2 isla(s) 91 inline
+16,0xE9F,redirect,0xEE2,54,"This is the 20th floor, just like the\nelevator said.{0D}",,1 isla(s) 91 inline
+17,0xEC4,redirect,0xF1B,25,This is the 20th floor.{0D},,1 isla(s) 91 inline
+18,0xEDB,redirect,0xF37,28,Twenty more to the Garden.{0D},,
+19,0xEF6,redirect,0xF53,68,The Garden's on the 40th floor.  I\nhaven't got time to waste here.{0D},,1 isla(s) 91 inline
+20,0xF2B,redirect,0xF9A,63,The cars are secured to the\nground with magnets in the floor.{0D},,2 isla(s) 91 inline
+21,0xF7C,redirect,0xFDF,38,I don't see his blood anywhere\nelse.{0D},,1 isla(s) 91 inline
+22,0xFA1,redirect,0x1008,49,His blood trail definitely leads up\nthe stairs.{0D},,1 isla(s) 91 inline
+23,0xFC8,redirect,0x103C,55,This place can obviously withstand\na small explosion.{0D},,1 isla(s) 91 inline
+24,0xFFB,redirect,0x1076,58,This is a magnetic floor.  It's kinda\nhard to run on it.{0D},,1 isla(s) 91 inline
+25,0x1028,redirect,0x10B3,73,The floor contains magnets that\nkeep the cars grounded in\nmicrogravity.{0D},,1 isla(s) 91 inline
+26,0x1069,redirect,0x10FF,40,That's why they stay parked so\nneatly.{0D},,1 isla(s) 91 inline
+27,0x1094,redirect,0x112A,63,This place must be able to tolerate\na large amount of weight.{0D},,2 isla(s) 91 inline
+28,0x10DB,redirect,0x116F,67,"That's the light above the\nemergency exit.  It says ""EXIT""\non it.{0D}",,2 isla(s) 91 inline
+29,0x1106,redirect,0x11B8,38,This must be an emergency\nstairwell.{0D},,
+30,0x112D,redirect,0x11DE,45,It's Redwood's blood.  He's\nbleeding again.{0D},,1 isla(s) 91 inline
+31,0x1154,redirect,0x120E,32,His blood leads up the stairs.{0D},,
+32,0x1171,redirect,0x122E,42,He's trying to play\ncat-and-mouse again.{0D},,1 isla(s) 91 inline
+33,0x118E,redirect,0x125B,74,It's Redwood's EMPS.  He's not\ninside it.{80238057}He really has abandoned it.{0D},,2 isla(s) 91 inline
+34,0x11F5,redirect,0x12AB,64,I wouldn't think an EMPS should\nbecome inoperable this easily.{0D},,2 isla(s) 91 inline
+35,0x1236,redirect,0x12F1,98,I guess he's determined to take\nthis all the way.{80238057}Or maybe he just wants to fight\nman to man.{0D},,2 isla(s) 91 inline
+36,0x1269,redirect,0x1359,24,It's a support pillar.{0D},,1 isla(s) 91 inline
+37,0x1282,redirect,0x1374,75,"Judging from his blood trail, he\ncouldn't be hiding anywhere\naround here.{0D}",,3 isla(s) 91 inline
+38,0x12B3,redirect,0x13C8,38,He might be behind this pillar\nhere.{0D},,
+39,0x12E0,redirect,0x13EE,37,I can't tell where he is from here.{0D},,1 isla(s) 91 inline
+40,0x1309,redirect,0x1416,25,There's blood here too.{0D},,2 isla(s) 91 inline
+41,0x1330,redirect,0x1435,68,These are the emergency stairs. \nLooks like he's escaped up there.{0D},,2 isla(s) 91 inline
+42,0x1361,redirect,0x147F,33,They extend upward in a spiral.{0D},,3 isla(s) 91 inline
+43,0x1382,redirect,0x14A9,41,"Judging from the sign up there,\nanyway.{0D}",,2 isla(s) 91 inline
+44,0x13A1,redirect,0x14D8,48,"This is where I'm supposed to\nfollow you, huh?{0D}",,2 isla(s) 91 inline
+45,0x13C0,redirect,0x150E,111,"You're not getting away this time,\nRedwood!{80238057}As long as it takes, you hear me!\nAs long as it fucking takes!{0D}",,3 isla(s) 91 inline
+46,0x13F1,redirect,0x1586,46,"We're settling this now, you son of\na bitch.{0D}",,1 isla(s) 91 inline
+47,0x1418,redirect,0x15B7,31,I should hurry up the stairs.{0D},,2 isla(s) 91 inline
+48,0x1431,redirect,0x15DC,18,Where's he gone?{0D},,
+49,0x1444,redirect,0x15EE,37,A spiral staircase? Is he up\nabove?{0D},,1 isla(s) 91 inline
+50,0x1461,redirect,0x1616,50,Redwood! He escaped to one of\nthe higher floors.{0D},,1 isla(s) 91 inline
+51,0x1492,redirect,0x164B,6,Move{0D},,
+52,0x1497,redirect,0x1651,13,Go upstairs{0D},,1 isla(s) 91 inline
+53,0x14A2,redirect,0x1661,8,System{0D},,
+54,0x14AB,redirect,0x1669,6,Look{0D},,1 isla(s) 91 inline
+55,0x14B0,redirect,0x1672,61,It's a spiral staircase.  They've got\na lot of stairs here.{0D},,2 isla(s) 91 inline
+56,0x14EF,redirect,0x16B8,28,I don't see him from here.{0D},,
+57,0x150A,redirect,0x16D4,46,Dammit! I can't see anything from\ndown here!{0D},,2 isla(s) 91 inline
+58,0x1529,redirect,0x1708,22,He escaped up there!{0D},,1 isla(s) 91 inline
+59,0x154E,redirect,0x1721,24,He's not here anymore!{0D},,1 isla(s) 91 inline
+60,0x1579,redirect,0x173C,21,He's gone upstairs!{0D},,
+61,0x159E,redirect,0x1751,27,I need to hurry upstairs!{0D},,1 isla(s) 91 inline
+62,0x15BD,redirect,0x176F,39,"Okay, I'll head up to the 30th floor.{0D}",,1 isla(s) 91 inline
+63,0x15D8,redirect,0x1799,64,If I went running up there now\nhe'd have a perfect shot at me.{0D},,1 isla(s) 91 inline
+64,0x15F9,redirect,0x17DC,53,It wouldn't be a good idea to go up\nthere just yet.{0D},,2 isla(s) 91 inline
+65,0x161C,redirect,0x1817,79,He's waiting for me so he can pick\nme off.  I can't just go rushing up\nthere.{0D},,2 isla(s) 91 inline
+66,0x1657,redirect,0x186C,2,{0D},,
+67,0x166E,redirect,0x186E,2,{0D},,1 isla(s) 91 inline
+68,0x1687,redirect,0x1873,2,{0D},,
+69,0x16A4,redirect,0x1875,17,Go up to Garden{0D},,
+70,0x16B5,redirect,0x1886,2,{0D},,
+71,0x16DE,redirect,0x1888,2,{0D},,
+72,0x16F9,redirect,0x188A,2,{0D},,
+73,0x1718,redirect,0x188C,2,{0D},,
+74,0x172D,redirect,0x188E,2,{0D},,
+75,0x1752,redirect,0x1890,2,{0D},,
+76,0x1793,redirect,0x1892,2,{0D},,
+77,0x17BC,redirect,0x1894,2,{0D},,
+78,0x17EF,redirect,0x1896,2,{0D},,
+79,0x1806,redirect,0x189B,2,{0D},,
+80,0x182D,redirect,0x189D,2,{0D},,
+81,0x183A,redirect,0x189F,2,{0D},,
+82,0x186F,redirect,0x18A1,2,{0D},,
+83,0x1898,redirect,0x18A3,2,{0D},,
+84,0x18A7,redirect,0x18A5,8,System{0D},,1 isla(s) 91 inline
+85,0x18B0,redirect,0x18B3,6,Move{0D},,1 isla(s) 91 inline
+86,0x18B5,redirect,0x18BC,13,Go upstairs{0D},,2 isla(s) 91 inline
+87,0x18C0,redirect,0x18CF,6,Look{0D},,
+88,0x18C5,redirect,0x18D5,47,The ceiling looks the same as the\n20th floor.{0D},,1 isla(s) 91 inline
+89,0x18F2,redirect,0x1907,52,They've probably cut them off so I\ncan't use them.{0D},,1 isla(s) 91 inline
+90,0x191F,redirect,0x193E,54,Normally you'd see every inch of\nthe floor on these.{0D},,1 isla(s) 91 inline
+91,0x1958,redirect,0x1977,49,There's no point.  The monitors\naren't running.{0D},,1 isla(s) 91 inline
+92,0x1983,redirect,0x19AB,54,These are the same kinda\nmonitors as the 20th floor.{0D},,2 isla(s) 91 inline
+93,0x19AE,redirect,0x19E7,37,The power to these isn't on\neither.{0D},,1 isla(s) 91 inline
+94,0x19D3,redirect,0x1A0F,57,This is the 30th floor.  Only ten\nmore till the Garden.{0D},,2 isla(s) 91 inline
+95,0x1A00,redirect,0x1A4E,48,The Garden's on the 40th floor. \nAlmost there.{0D},,3 isla(s) 91 inline
+96,0x1A23,redirect,0x1A87,46,There's that pillar all the way in\nthe back.{0D},,2 isla(s) 91 inline
+97,0x1A34,redirect,0x1ABB,31,"It's pretty far away, though.{0D}",,1 isla(s) 91 inline
+98,0x1A4F,redirect,0x1ADD,46,What about that pillar second from\nthe back?{0D},,1 isla(s) 91 inline
+99,0x1A64,redirect,0x1B0E,37,How about the pillar in the\nmiddle?{0D},,1 isla(s) 91 inline
+100,0x1A73,redirect,0x1B36,47,There's that pillar under the\nmonitors there.{0D},,2 isla(s) 91 inline
+101,0x1A8A,redirect,0x1B6B,31,Damn! I can't tell from here!{0D},,1 isla(s) 91 inline
+102,0x1AB1,redirect,0x1B8D,28,I can't see him from here.{0D},,1 isla(s) 91 inline
+103,0x1ACE,redirect,0x1BAC,27,He could be behind there.{0D},,
+104,0x1AE7,redirect,0x1BCA,108,It's just like the linear rail\nstation.{80238057}The only place he could be hiding\nis behind one of the pillars.{0D},,1 isla(s) 91 inline
+105,0x1B2C,redirect,0x1C39,19,Maybe he's there?{0D},,1 isla(s) 91 inline
+106,0x1B45,redirect,0x1C4F,27,He might be behind there.{0D},,
+107,0x1B62,redirect,0x1C6A,58,Maybe he's hiding behind there?\nIt's the only other one.{0D},,1 isla(s) 91 inline
+108,0x1B7D,redirect,0x1CA7,59,I don't see his blood anywhere. \nHas he stopped bleeding?{0D},,2 isla(s) 91 inline
+109,0x1BA2,redirect,0x1CE8,38,I don't see his blood on the\nground.{0D},,1 isla(s) 91 inline
+110,0x1BC7,redirect,0x1D11,39,There isn't a single car parked\nhere.{0D},,1 isla(s) 91 inline
+111,0x1BF2,redirect,0x1D3B,136,Meaning the only place for him to\nhide is behind one of the pillars.{80238057}But it also means he can see me\nperfectly from wherever he is.{0D},,4 isla(s) 91 inline
+112,0x1C41,redirect,0x1DCF,50,This area's too open.  Bad place\nfor a gunfight.{0D},,1 isla(s) 91 inline
+113,0x1C72,redirect,0x1E04,53,The only blood I can see is that\ntrail on the left.{0D},,1 isla(s) 91 inline
+114,0x1CB1,redirect,0x1E3C,48,This is Redwood's.  He must be\nhere somewhere.{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+115,0x1CDE,redirect,0x1E72,30,His blood leads to the back.{0D},,
+116,0x1D01,redirect,0x1E90,67,"That's the light above the\nemergency exit.  It says ""EXIT""\non it.{0D}",,
+117,0x1D2C,redirect,0x1ED3,53,This is the same sign as the one I\nsaw on the 20th.{0D},,
+118,0x1D57,redirect,0x1F08,56,He's not back there anymore. \nHe's gone up the stairs.{0D},,
+119,0x1D82,redirect,0x1F40,32,He's not behind there anymore.{0D},,
+120,0x1D9D,redirect,0x1F60,33,He's not on this floor anymore.{0D},,
+121,0x1DBE,redirect,0x1F81,60,He isn't behind any of the pillars. \nHe ran up the stairs.{0D},,
+122,0x1DE9,redirect,0x1FBD,47,"More stairs, huh? Looks like he\nwent up here.{0D}",,
+123,0x1E10,redirect,0x1FEC,56,These lead further up.  They'll\ntake me to the Garden.{0D},,
+124,0x1E43,redirect,0x2024,2,{0D},,

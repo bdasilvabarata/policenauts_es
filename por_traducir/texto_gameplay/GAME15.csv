@@ -1,0 +1,550 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x31C4,redirect,0x2850,43,We've returned to the Information\nCenter.{0D},,1 isla(s) 91 inline
+1,0x31DB,redirect,0x287E,2,{0D},,
+2,0x3216,redirect,0x2880,8,System{0D},,
+3,0x321F,redirect,0x2888,6,Move{0D},,
+4,0x3224,redirect,0x288E,15,No. 7 Factory{0D},,
+5,0x322F,redirect,0x289D,13,Mass driver{0D},,
+6,0x323E,redirect,0x28AA,6,Look{0D},,
+7,0x3243,redirect,0x28B0,77,There's Salvatore.  We can't let\nhim catch us.  Let's stay toward\nthe back.{0D},,1 isla(s) 91 inline
+8,0x3280,redirect,0x2900,82,Don't keep looking at him.  Our\nvisor sensors are linked.  He'll get\nsuspicious.{0D},,1 isla(s) 91 inline
+9,0x32D7,redirect,0x2955,52,"I'm telling you, you'd better stop\nlooking at him.{0D}",,1 isla(s) 91 inline
+10,0x32FC,redirect,0x298C,35,He's gonna get really suspicious.{0D},,1 isla(s) 91 inline
+11,0x3311,redirect,0x29B2,33,Yes? You have another\nquestion?{0D},,1 isla(s) 91 inline
+12,0x3330,redirect,0x29D6,40,"You have a question? Please, go\nahead.{0D}",,1 isla(s) 91 inline
+13,0x3359,redirect,0x2A01,6,Talk{0D},,
+14,0x3364,redirect,0x2A07,37,You mind if I ask another\nquestion?{0D},,1 isla(s) 91 inline
+15,0x337D,redirect,0x2A2F,34,Excuse me! Can I ask a\nquestion?{0D},,1 isla(s) 91 inline
+16,0x339A,redirect,0x2A54,18,You again? Sure.{0D},,1 isla(s) 91 inline
+17,0x33B5,redirect,0x2A69,27,You're very enthusiastic.{0D},,
+18,0x33C8,redirect,0x2A84,76,"You're very knowledgeable\nindeed.  I'm sorry, may I ask\nwhere you're from?{0D}",,2 isla(s) 91 inline
+19,0x3407,redirect,0x2AD6,49,"Oh, uh... just a curious kinda guy,\nthat's all.{0D}",,1 isla(s) 91 inline
+20,0x342A,redirect,0x2B0A,30,"You have a question, do you?{0D}",,
+21,0x343F,redirect,0x2B28,41,"Yes, my enthusiastic friend over\nthere.{0D}",,
+22,0x345C,redirect,0x2B51,22,"Yes, you back there.{0D}",,
+23,0x346D,redirect,0x2B67,40,Feel free to ask me anythin' you\nlike.{0D},,1 isla(s) 91 inline
+24,0x3490,redirect,0x2B92,11,Ask about{0D},,
+25,0x3499,redirect,0x2B9D,54,I'm gonna have to wrap up the\nquestions in a minute.{0D},,1 isla(s) 91 inline
+26,0x34BE,redirect,0x2BD6,49,I really will have to stop the Q&A\nmomentarily.{0D},,1 isla(s) 91 inline
+27,0x34D9,redirect,0x2C0A,45,Nice to see someone finally has a\nquestion.{0D},,
+28,0x34FC,redirect,0x2C3A,34,"Go ahead, ask anythin' you want.{0D}",,1 isla(s) 91 inline
+29,0x351B,redirect,0x2C5F,62,I'll try and answer any questions to\nthe best of my ability.{0D},,1 isla(s) 91 inline
+30,0x3548,redirect,0x2CA0,136,Just know that there are certain\nareas I can't touch upon for\nconfidentiality reasons.{80238057}Thank you in advance for your\nunderstandin'.{0D},,3 isla(s) 91 inline
+31,0x3583,redirect,0x2D31,11,The plant{0D},,1 isla(s) 91 inline
+32,0x3590,redirect,0x2D3F,10,Location{0D},,
+33,0x3595,redirect,0x2D49,86,"The Tokugawa Moon Plant is\nlocated on the near side of the\nMoon in the Plato Crater,{0D}",,1 isla(s) 91 inline
+34,0x35C6,redirect,0x2DA2,135,"which is itself situated on the\nnorthern shore of Mare Imbrium,\nthe Moon's second largest mare.{80238057}Mare Imbrium means ""Sea of\nRains"".{0D}",,1 isla(s) 91 inline
+35,0x362B,redirect,0x2E2C,141,"The Plato Crater is approximately\n100 kilometers in diameter, with\nits smooth floor widely known as\n one of the darkest places on the\nMoon.{0D}",,2 isla(s) 91 inline
+36,0x368C,redirect,0x2EBF,2,{0D},,
+37,0x36B9,redirect,0x2EC1,96,"It's a considerable distance to the\nnearest base, so you could say\nwe're pretty isolated here.{0D}",,2 isla(s) 91 inline
+38,0x370A,redirect,0x2F27,73,The only way to get here is by\nLSM from a Lunar-orbitin' space\nstation.{0D},,1 isla(s) 91 inline
+39,0x3749,redirect,0x2F73,8,Energy{0D},,
+40,0x3754,redirect,0x2F7B,74,The plant is powered by solar\nenergy as well as helium-3\nnuclear fusion.{0D},,2 isla(s) 91 inline
+41,0x3799,redirect,0x2FCB,75,We gather solar energy through\nthe parabolic mirrors you were\nlookin' at.{0D},,2 isla(s) 91 inline
+42,0x37F2,redirect,0x301C,106,"Helium-3 is almost nonexistent on\nEarth, but is found in relatively\n\n large quantities here on the\nMoon.{0D}",,1 isla(s) 91 inline
+43,0x3855,redirect,0x3089,87,We're able to obtain 1 ton of\nhelium-3 from every 100 million\ntons of Lunar regolith.{0D},,1 isla(s) 91 inline
+44,0x38A8,redirect,0x30E3,140,"Helium-3 nuclear fusion, unlike\nconventional nuclear fission, is a\nvirtually clean process that doesn't\n give off any secondary radiation.{0D}",,1 isla(s) 91 inline
+45,0x391F,redirect,0x3175,12,Operations{0D},,
+46,0x3928,redirect,0x3181,92,"There are numerous minerals\nfound in abundance on the Moon,\nsuch as ilmenite, for example.{0D}",,3 isla(s) 91 inline
+47,0x3963,redirect,0x31E6,112,"We mine and process these, and\nwhat we don't use here is\nexported to Earth and space\n colonies such as Beyond.{0D}",,6 isla(s) 91 inline
+48,0x39DC,redirect,0x3268,86,Nearly all the materials used to\nconstruct the plant have come\nfrom Lunar resources.{0D},,1 isla(s) 91 inline
+49,0x3A13,redirect,0x32C1,82,"After processin', the minerals are\nexported via the mass driver you\nasked about.{0D}",,3 isla(s) 91 inline
+50,0x3A58,redirect,0x331C,185,"The Moon, with its low gravity,\nultra-low temperature and\nhigh-vacuum, sterile\n environment, allows us to\nmanufacture Made on the Moon\ndrugs and other products with\n very high purity.{0D}",,7 isla(s) 91 inline
+51,0x3AF1,redirect,0x33EA,239,"We've also been charged with\noverseein' various life-science\nexperiments.{80238057}Since no organisms naturally exist\nhere, there's no risk of\ncontamination, and its vacuum\n environment also eliminates the\npossibility of a biohazard occurrin'.{0D}",,9 isla(s) 91 inline
+52,0x3B7E,redirect,0x34F4,146,We carry out such\nnon-production-related\noperations under the watchful eye\n of the United Nations Committee\non the Peaceful Uses of Outer\nSpace.{0D},,5 isla(s) 91 inline
+53,0x3C01,redirect,0x3598,7,Staff{0D},,
+54,0x3C0A,redirect,0x359F,89,"The employees we have workin'\nhere include computer engineers,\ngeologists, astronomers,{0D}",,1 isla(s) 91 inline
+55,0x3C43,redirect,0x35FB,82,"physicists, biologists, chemists,\nspace medical scientists, doctors,\narchitects,{0D}",,1 isla(s) 91 inline
+56,0x3C7E,redirect,0x3650,83,and security officers such as\nmyself.  We're all employees of the\nTokugawa Group.{0D},,1 isla(s) 91 inline
+57,0x3CBB,redirect,0x36A6,182,"We have a li'l under sixty\nemployees total.{80238057}We're inspected by the UN twice a\nyear, but apart from that, it's just\nus here.{80238057}There are no intervenin'\ngovernment organizations.{0D}",,4 isla(s) 91 inline
+58,0x3D42,redirect,0x3768,11,Factories{0D},,
+59,0x3D4D,redirect,0x3773,164,"We have a total of seven factories\nin the Moon Plant, numbered from\n1 through 7.{80238057}Each factory manufactures a\nvariety of Moon-related products\n'round the clock.{0D}",,2 isla(s) 91 inline
+60,0x3DCC,redirect,0x381D,132,"The insides of the factories all\ncontain sensitive business\ninformation, so I'm afraid I'm\n unable to show you inside any of\nthem.{0D}",,1 isla(s) 91 inline
+61,0x3E17,redirect,0x38A4,140,"For instance, I'm sure you are\naware that the very effective\nhelium-3 purification process in\n use here is a patent of the\nTokugawa Group.{0D}",,3 isla(s) 91 inline
+62,0x3E66,redirect,0x3939,15,No. 7 Factory{0D},,
+63,0x3E6F,redirect,0x3948,2,{0D},,
+64,0x3EB2,redirect,0x394A,2,{0D},,
+65,0x3EBD,redirect,0x394C,2,{0D},,
+66,0x3EF6,redirect,0x394E,2,{0D},,
+67,0x3F1B,redirect,0x3950,2,{0D},,
+68,0x3F32,redirect,0x3952,2,{0D},,
+69,0x3FB5,redirect,0x3954,2,{0D},,
+70,0x400C,redirect,0x3956,84,"It's no longer bein' used for\nproduction.  Even so, I'm unable to\nshow you inside.{0D}",,1 isla(s) 91 inline
+71,0x4043,redirect,0x39AD,52,You'll have to settle for lookin' at it\nfrom here.{0D},,1 isla(s) 91 inline
+72,0x405E,redirect,0x39E4,79,An overly curious mind such as\nyours can be a dangerous thing in\nouter space.{0D},,1 isla(s) 91 inline
+73,0x4093,redirect,0x3A36,10,The Moon{0D},,
+74,0x409E,redirect,0x3A40,6,Data{0D},,
+75,0x40A9,redirect,0x3A46,66,"The Moon's radius is 1,738\nkilometers, or one-fourth of\nEarth's.{0D}",,1 isla(s) 91 inline
+76,0x40E4,redirect,0x3A8B,209,"Its average distance from Earth is\n385,000 kilometers, and it proceeds\naround its orbit at a speed of just\n over 1 kilometer per second.{80238057}Its gravity is one-sixth of Earth's,\nand its mass one eighty-first.{0D}",,1 isla(s) 91 inline
+77,0x416F,redirect,0x3B5F,114,"A day on the Moon is equal to 27\ndays and 7 hours on Earth, takin'\n\n nearly 1 month to complete a full\nrotation.{0D}",,1 isla(s) 91 inline
+78,0x41B0,redirect,0x3BD4,153,"It's currently daytime here.{80238057}The temperature can rise as high\nas 123 degrees Celsius in sunlight,\nand fall as low as minus 233\n degrees in darkness.{0D}",,3 isla(s) 91 inline
+79,0x4221,redirect,0x3C76,14,Surroundings{0D},,1 isla(s) 91 inline
+80,0x422E,redirect,0x3C87,162,"To the far southeast you will find\nMare Tranquillitatis, or ""Sea of\nTranquility,"" where Astronauts\n Armstrong and Aldrin landed near\nthe equator with Apollo 11.{0D}",,1 isla(s) 91 inline
+81,0x42B5,redirect,0x3D2C,96,"The footprints they left behind\nhave been preserved, and are\nnow a famous tourist destination.{0D}",,2 isla(s) 91 inline
+82,0x42FE,redirect,0x3D92,97,"To the west of here, you can see\nthe beautiful Sinus Iridum, which\ntranslates to ""Rainbow Bay"".{0D}",,1 isla(s) 91 inline
+83,0x434F,redirect,0x3DF6,192,"Located just to the south is\nArchimedes Crater.{80238057}A city that will house some 10,000\npeople is currently under\nconstruction there.{80238057}It's scheduled to be completed in\nabout 10 years' time.{0D}",,5 isla(s) 91 inline
+84,0x43CE,redirect,0x3EC5,13,Development{0D},,
+85,0x43DB,redirect,0x3ED2,200,"It's been 70 years since the first\nApollo landin', and over 30 years\nsince man returned to the Moon\n and completed the first manned\nMoon base, located in Oceanus\n\n Procellarum, or ""Ocean of\nStorms"".{0D}",,3 isla(s) 91 inline
+86,0x4440,redirect,0x3FA3,108,"Goin' by the five-stage plan for\nLunar development proposed by\n\n German space engineer Dr. Krafft\nEhricke,{0D}",,2 isla(s) 91 inline
+87,0x44A5,redirect,0x4015,146,"we have finally arrived at the\nfourth stage, as we attempt to\nexpand manufacturin' capabilities\n and improve the livin' environment\non the Moon.{0D}",,5 isla(s) 91 inline
+88,0x44FC,redirect,0x40B6,96,If a Lunar city can be successfully\ncompleted we'll be witnessin' the\nbirth of a new paradigm.{0D},,1 isla(s) 91 inline
+89,0x4541,redirect,0x4119,149,"However, development on the far\nside of the Moon is a different\nstory.{80238057}At present, it's only used for such\npurposes as housin' radio\ntelescopes.{0D}",,2 isla(s) 91 inline
+90,0x45A0,redirect,0x41B4,8,Origin{0D},,
+91,0x45A9,redirect,0x41BC,65,There are several theories in\nregard to the origin of the Moon.{0D},,
+92,0x45DA,redirect,0x41FD,190,"The giant impact theory states that\nthe Moon is the result of a\n\n collision between celestial\nbodies.{80238057}Then there's the fission theory,\nwhich says that the Moon was\nonce a part of Earth.{0D}",,3 isla(s) 91 inline
+93,0x465D,redirect,0x42C4,211,"There's also the coformation\ntheory, which states that the\nMoon was formed out of the same\n gas as Earth.{80238057}Another theory, the capture\ntheory, says that the Moon was\n\n captured by Earth's gravitational\npull.{0D}",,2 isla(s) 91 inline
+94,0x46D4,redirect,0x439D,47,"As of now, no theory has been\nproven correct.{0D}",,
+95,0x470D,redirect,0x43CC,156,"If development on the Moon\nadvances to the point where we\ncan conclusively determine its\n internal composition, a definitive\nanswer should finally emerge.{0D}",,3 isla(s) 91 inline
+96,0x475E,redirect,0x4471,16,The spacesuits{0D},,
+97,0x476D,redirect,0x4481,154,"The spacesuits you're all wearin'\nare semi-hard extravehicular\nmobility units, or EMUs, made\n from materials such as aluminum\nalloy and stainless metal.{0D}",,2 isla(s) 91 inline
+98,0x47E8,redirect,0x4521,148,"That composition allows the suit's\ninternal pressure to be set at 0.7\nbar, thus reducin' the\n depressurization time on\nspaceships and space bases.{0D}",,3 isla(s) 91 inline
+99,0x4861,redirect,0x45BE,223,"You may find them somewhat\ndifficult to move in, but various\nparts like the arms, legs and boots\n are made out of materials such as\npolyester and urethane resin,\nwhich I think helps keep any real\n discomfort to a minimum.{0D}",,2 isla(s) 91 inline
+100,0x48EA,redirect,0x46A3,123,"Also, the soles of your boots and\nthe carpetin' inside the plant are\nboth layered with Velcro, makin' it\n easier to walk.{0D}",,2 isla(s) 91 inline
+101,0x4943,redirect,0x4724,154,"I can assure you, they're\ncompletely safe.{80238057}Like the outside walls of space\ncolonies and this plant, they're\n\n covered with a layer of optical\nfibers.{0D}",,2 isla(s) 91 inline
+102,0x49AE,redirect,0x47C4,91,"Should any dents or cracks form\nin the suit, those fibers will bend,\nactivatin' an alarm.{0D}",,1 isla(s) 91 inline
+103,0x4A03,redirect,0x4822,82,We can prevent any accidents\nresultin' from wear in the metal\nbefore they occur.{0D},,1 isla(s) 91 inline
+104,0x4A34,redirect,0x4877,189,"Your EMUs are also equipped with\na urine collection device as well as\na supply of drinkin' water, though\n the two ain't connected, ha ha!{80238057}Instructions can be found on your\nvisor's HUD.{0D}",,1 isla(s) 91 inline
+105,0x4AD1,redirect,0x4937,18,Important points{0D},,1 isla(s) 91 inline
+106,0x4ADA,redirect,0x494C,177,"In the interest of safety, please do\nnot go near any of the restricted\nareas.{80238057}The No. 7 Factory is particularly\ndangerous due to the\n\n contaminated materials stored\ninside.{0D}",,1 isla(s) 91 inline
+107,0x4B51,redirect,0x4A00,111,"When I explained about the glass\nhere a moment ago, I said there's\n\n no need to worry about cosmic\nradiation.{0D}",,2 isla(s) 91 inline
+108,0x4BA4,redirect,0x4A75,217,"We can indeed avoid direct\nsunlight here because the plant is\nlocated at the bottom of a crater.{80238057}However, should you find yourself\nelsewhere durin' the solar\nmaximum, please be sure to avoid\n any direct sunlight.{0D}",,3 isla(s) 91 inline
+109,0x4C27,redirect,0x4B57,58,There is a real danger of\nhigh-level radiation exposure.{0D},,
+110,0x4C44,redirect,0x4B91,160,"As the plant contains sensitive\nbusiness information, the use of\ncameras, video recorders or\n virtual recorders is not permitted\nanywhere inside the facility.{0D}",,2 isla(s) 91 inline
+111,0x4CB3,redirect,0x4C37,112,"On the Moon, 1 day lasts about 1\nmonth.  This tends to upset\nhumans' circadian rhythm, or our\n rhythm of life.{0D}",,1 isla(s) 91 inline
+112,0x4D08,redirect,0x4CAA,79,"This can lead to fatigue, as well as\nbring about various changes in the\nbody.{0D}",,1 isla(s) 91 inline
+113,0x4D4B,redirect,0x4CFC,111,You should try to maintain a\nregular daily schedule and stick to\nsuggested sleepin' hours while on\n the Moon.{0D},,2 isla(s) 91 inline
+114,0x4DAC,redirect,0x4D71,6,Back{0D},,
+115,0x4DB5,redirect,0x4D77,39,I hope I've satisfied your curiosity.{0D},,
+116,0x4DCC,redirect,0x4D9E,51,"Unfortunately, that's about all the\ntime we have.{0D}",,3 isla(s) 91 inline
+117,0x4DEB,redirect,0x4DDA,51,"Unfortunately, that's about all the\ntime we have.{0D}",,2 isla(s) 91 inline
+118,0x4E0E,redirect,0x4E13,51,"Unfortunately, that's about all the\ntime we have.{0D}",,1 isla(s) 91 inline
+119,0x4E2D,redirect,0x4E49,51,"Unfortunately, that's about all the\ntime we have.{0D}",,2 isla(s) 91 inline
+120,0x4E4E,redirect,0x4E82,33,We'll need to be moving on now.{0D},,1 isla(s) 91 inline
+121,0x4E6B,redirect,0x4EA6,19,Will that be all?{0D},,1 isla(s) 91 inline
+122,0x4E86,redirect,0x4EBC,40,"Heh, these guys don't let up, do\nthey?{0D}",,1 isla(s) 91 inline
+123,0x4EAB,redirect,0x4EE7,96,"As you already seem to be so very\nwell-informed, why don't we let\nsomeone else have the floor?{0D}",,3 isla(s) 91 inline
+124,0x4ED4,redirect,0x4F50,32,Nobody else has any questions?{0D},,
+125,0x4EF1,redirect,0x4F70,30,"No need to feel shy, people.{0D}",,1 isla(s) 91 inline
+126,0x4F16,redirect,0x4F91,24,"Oh, changed your mind?{0D}",,1 isla(s) 91 inline
+127,0x4F3B,redirect,0x4FAC,115,These are Tokugawa\nshareholders.{80238057}Must have a lot of free time if they\ncan afford to come to a place like\nthis.{0D},,3 isla(s) 91 inline
+128,0x4F78,redirect,0x5028,49,I can't believe they're listening to\nthis crap.{0D},,2 isla(s) 91 inline
+129,0x4FA5,redirect,0x505F,49,Looks like we're the only ones\nasking anything.{0D},,2 isla(s) 91 inline
+130,0x4FC6,redirect,0x5096,34,We can't see any of their faces.{0D},,2 isla(s) 91 inline
+131,0x4FF1,redirect,0x50BE,83,"I don't imagine there'll be any cute\ngirls.  Just a bunch of old dicks,\nno doubt.{0D}",,3 isla(s) 91 inline
+132,0x5022,redirect,0x511A,32,No one's asking any questions.{0D},,
+133,0x5035,redirect,0x513A,35,They're probably all daydreaming.{0D},,1 isla(s) 91 inline
+134,0x504C,redirect,0x5160,33,Should we try asking something?{0D},,1 isla(s) 91 inline
+135,0x5069,redirect,0x5184,2,{0D},,
+136,0x5088,redirect,0x5186,2,{0D},,
+137,0x509B,redirect,0x5188,2,{0D},,
+138,0x50A8,redirect,0x518A,2,{0D},,
+139,0x50BF,redirect,0x518C,2,{0D},,
+140,0x50CE,redirect,0x518E,2,{0D},,
+141,0x510F,redirect,0x5190,2,{0D},,
+142,0x5156,redirect,0x5192,2,{0D},,
+143,0x516D,redirect,0x5194,2,{0D},,
+144,0x51B4,redirect,0x5196,2,{0D},,
+145,0x51DB,redirect,0x5198,2,{0D},,
+146,0x5222,redirect,0x519A,76,They've got a Velcro carpet to\nmake it easier to walk in this low\ngravity.{0D},,2 isla(s) 91 inline
+147,0x5267,redirect,0x51EC,76,The floor's raised a little by the\nwindows.  Probably to help you\nsee out.{0D},,1 isla(s) 91 inline
+148,0x52A2,redirect,0x523B,76,There's no dirt on the floor\nwhatsoever.  The place is clean as\na whistle.{0D},,1 isla(s) 91 inline
+149,0x52CF,redirect,0x528A,34,Look! This is made out of paper!{0D},,1 isla(s) 91 inline
+150,0x52E8,redirect,0x52AF,111,"Yeah, the Moon has one-sixth\nthe gravity of Home, so materials\ndon't need to be as strong.{80238057}Paper suffices.{0D}",,3 isla(s) 91 inline
+151,0x5321,redirect,0x5327,21,It's a paper table.{0D},,2 isla(s) 91 inline
+152,0x532E,redirect,0x5342,7,Break{0D},,
+153,0x5333,redirect,0x5349,108,This glass can't be broken with\nyour bare hands.{80238057}It isn't like what you see in those\nold sci-fi movies.{0D},,1 isla(s) 91 inline
+154,0x538C,redirect,0x53B8,65,At the very least you would need\nsome sort of tool to break it.{0D},,1 isla(s) 91 inline
+155,0x53CD,redirect,0x53FC,72,We don't need to break the glass\nto go outside.  We can use the\nhatch.{0D},,2 isla(s) 91 inline
+156,0x5402,redirect,0x544A,69,What are you trying to do?!\nWhat's the point in breaking the\nglass?{0D},,
+157,0x543D,redirect,0x548F,140,Our windows are reinforced with\nthree layers of 2 inch-thick lead\nglass to help protect against the\n high levels of cosmic radiation\nhere.{0D},,2 isla(s) 91 inline
+158,0x5496,redirect,0x5521,84,"Man, every detail of the real thing\nwent into that model at the\nTokugawa Building.{0D}",,2 isla(s) 91 inline
+159,0x54D7,redirect,0x557B,157,"Even with this level of protection,\nshutters are automatically lowered\ndurin' periods of intense solar\n flare activity to provide additional\nreinforcement.{0D}",,3 isla(s) 91 inline
+160,0x552E,redirect,0x5621,44,Why don't we go check out the\nmass driver?{0D},,
+161,0x556D,redirect,0x5650,53,We should be able to see the mass\ndriver from here.{0D},,
+162,0x5594,redirect,0x5685,42,We can see a lot of the plant from\nhere.{0D},,
+163,0x55AF,redirect,0x56AF,68,"That's the mass driver, a giant\ncatapult driven by a linear motor.{0D}",,1 isla(s) 91 inline
+164,0x55F4,redirect,0x56F6,96,"To put it simply, it launches\npayloads towards L2 at speeds of\nover 2.4 kilometers per second.{0D}",,2 isla(s) 91 inline
+165,0x564D,redirect,0x575C,157,"That object that looks like a track\nis an acceleration rail that\nlaunches linear motor cars, also\n called buckets.{80238057}The rail is almost 7 kilometers\nlong.{0D}",,2 isla(s) 91 inline
+166,0x56C6,redirect,0x57FF,122,"It doesn't use any liquid hydrogen\nor liquid oxygen for fuel, so it's\nmore economical than\n rocket-based transportation.{0D}",,3 isla(s) 91 inline
+167,0x5723,redirect,0x5882,51,The materials are caught by a\nmass catcher at L2.{0D},,2 isla(s) 91 inline
+168,0x5758,redirect,0x58BB,75,We use the mass driver for the\ntransportation of minerals\nexcavated here.{0D},,1 isla(s) 91 inline
+169,0x57A1,redirect,0x5909,2,{0D},,
+170,0x57DA,redirect,0x590B,27,That's our only way home.{0D},,
+171,0x5803,redirect,0x5926,77,That's the mass driver.  They'll\nuse it to ship Lunar resources\ninto space.{0D},,1 isla(s) 91 inline
+172,0x5838,redirect,0x5976,19,Go to mass driver{0D},,
+173,0x584D,redirect,0x5989,87,That tank is used for storin'\nsubstances such as liquid\nhydrogen and liquid nitrogen.{0D},,1 isla(s) 91 inline
+174,0x5898,redirect,0x59E3,30,That looks like a fuel tank.{0D},,
+175,0x58B3,redirect,0x5A01,28,That's the staff quarters.{0D},,1 isla(s) 91 inline
+176,0x58D8,redirect,0x5A20,190,"The buildin's here are constructed\nout of concrete made from Lunar\nregolith.{80238057}Concrete's an excellent material\n{D0}{06} it offers protection from\n\n cosmic rays, it insulates, and it's\ndurable.{0D}",,5 isla(s) 91 inline
+177,0x5955,redirect,0x5AED,90,Concrete made from Lunar\nregolith is over twice as strong as\nany concrete made on Earth.{0D},,2 isla(s) 91 inline
+178,0x59B6,redirect,0x5B4D,179,"We employ a helium\nair-conditionin' system.{80238057}The panels you see fitted to the\nplant's ceilin's are filled with\nrefrigerated helium, coolin' the\n facility with their radiation.{0D}",,4 isla(s) 91 inline
+179,0x5A11,redirect,0x5C0C,36,I wonder what that building's for.{0D},,
+180,0x5A22,redirect,0x5C30,73,"It didn't seem that important,\njudging from the way he talked\nabout it.{0D}",,1 isla(s) 91 inline
+181,0x5A59,redirect,0x5C7C,62,"Yeah, you can usually tell if he's\ntrying to hide something.{0D}",,1 isla(s) 91 inline
+182,0x5A98,redirect,0x5CBD,34,He said it's the staff quarters.{0D},,
+183,0x5AA9,redirect,0x5CDF,47,That's the No. 7 Factory I was\ntalkin' about.{0D},,1 isla(s) 91 inline
+184,0x5AD0,redirect,0x5D11,85,"As I've said before, it's a\ndangerous area, so please be sure\nyou don't go near it.{0D}",,1 isla(s) 91 inline
+185,0x5B17,redirect,0x5D69,68,We're presently not usin' that\nfactory for manufacturin'\npurposes.{0D},,2 isla(s) 91 inline
+186,0x5B3A,redirect,0x5DB3,102,It's bein' used solely as a\nmakeshift warehouse at the\nmoment.{80238057}There's nothin' of interest there.{0D},,1 isla(s) 91 inline
+187,0x5B6B,redirect,0x5E1C,65,There's the No. 7 Factory. \nThere's a lot of commotion\noutside.{0D},,1 isla(s) 91 inline
+188,0x5BA0,redirect,0x5E60,27,That's the No. 7 Factory.{0D},,
+189,0x5BBF,redirect,0x5E7B,21,Go to No. 7 Factory{0D},,
+190,0x5BCE,redirect,0x5E90,119,Those are solar parabolic mirrors\nfor generatin' electricity.{80238057}They provide a good chunk of the\nenergy we use here.{0D},,3 isla(s) 91 inline
+191,0x5C31,redirect,0x5F10,167,"The Moon takes about 27 days to\norbit the Earth, so they operate\nfor the 14 or so days of sunlight\n here, changin' their angles\naccordin' to the position of the\nSun.{0D}",,2 isla(s) 91 inline
+192,0x5C88,redirect,0x5FBD,138,"There's no loss of energy due to\natmospheric absorption, so they\ncan collect about 1.5 times more\n energy than similar mirrors on\nEarth.{0D}",,2 isla(s) 91 inline
+193,0x5CFD,redirect,0x604D,77,We also use solar energy in makin'\nthe concrete used for\nconstruction here.{0D},,3 isla(s) 91 inline
+194,0x5D3E,redirect,0x60A3,110,You'll remember I touched upon\nour use of solar energy when I\nexplained about the energy the\n plant runs on.{0D},,2 isla(s) 91 inline
+195,0x5D8B,redirect,0x6117,30,That's a solar mirror array.{0D},,1 isla(s) 91 inline
+196,0x5DA0,redirect,0x6138,2,{0D},,
+197,0x5DEF,redirect,0x613A,2,{0D},,
+198,0x5E46,redirect,0x613C,2,{0D},,
+199,0x5E9B,redirect,0x613E,2,{0D},,
+200,0x5ED0,redirect,0x6140,2,{0D},,
+201,0x5EFD,redirect,0x6145,2,{0D},,
+202,0x5F16,redirect,0x6147,123,The synchronization of the Moon's\nsidereal rotation and revolution\nperiods means that Earth is always\n visible from here.{0D},,3 isla(s) 91 inline
+203,0x5F95,redirect,0x61CB,104,"Bein' able to see Earth, or\n""Home"" as it's often called, is a\ncomfort for those who work on\n the Moon.{0D}",,1 isla(s) 91 inline
+204,0x5FC8,redirect,0x6236,72,It's about 3.7 times bigger than\nthe size the Moon appears from\nEarth.{0D},,2 isla(s) 91 inline
+205,0x6007,redirect,0x6284,102,"If you were lookin' at it from\nnearer one of the polar regions, it\nwould appear stationary all year.{0D}",,1 isla(s) 91 inline
+206,0x6054,redirect,0x62ED,35,Wonder if I'll ever make it back.{0D},,1 isla(s) 91 inline
+207,0x6077,redirect,0x6313,43,"There's Home.  Something else,\nain't she?{0D}",,1 isla(s) 91 inline
+208,0x6098,redirect,0x6341,79,"No matter how many times I see it\nout here, it never gets any less\nbeautiful.{0D}",,1 isla(s) 91 inline
+209,0x60D7,redirect,0x6393,48,"You're very interested in the\nMoon, ain't you?{0D}",,1 isla(s) 91 inline
+210,0x60FC,redirect,0x63C6,36,We have to get to the mass\ndriver!{0D},,1 isla(s) 91 inline
+211,0x611B,redirect,0x63ED,53,"C'mon, we need to move! They'll\nbe here any minute!{0D}",,1 isla(s) 91 inline
+212,0x6142,redirect,0x6425,78,Let's look for the mass driver!\nWe should be able to see it from\nthe window.{0D},,1 isla(s) 91 inline
+213,0x6179,redirect,0x6476,2,{0D},,
+214,0x6194,redirect,0x6478,2,{0D},,
+215,0x61B3,redirect,0x647A,2,{0D},,
+216,0x61F8,redirect,0x647C,2,{0D},,
+217,0x6241,redirect,0x647E,68,Please be sure to take a look at\nthe facilities behind me as well.{0D},,
+218,0x627A,redirect,0x64C2,78,I'm happy to take any questions on\nareas besides the plant's facilities\ntoo.{0D},,2 isla(s) 91 inline
+219,0x62CB,redirect,0x6516,39,If we go back there they'll catch\nus!{0D},,2 isla(s) 91 inline
+220,0x62F8,redirect,0x6543,47,Let's use the mass driver to get\nout of here!{0D},,2 isla(s) 91 inline
+221,0x6315,redirect,0x6578,2,{0D},,
+222,0x6368,redirect,0x657A,2,{0D},,
+223,0x63AF,redirect,0x657C,2,{0D},,
+224,0x63E0,redirect,0x657E,37,"Who knows, could be APs around\ntoo.{0D}",,
+225,0x6407,redirect,0x65A3,71,APs are probably around too. \nThese have been modified for\nLunar use.{0D},,4 isla(s) 91 inline
+226,0x6444,redirect,0x65F6,120,"Boy, oh, boy... a corporation using\nEMPS for security on the\nMoon?{80238057}For just some old warehouse?\nGimme a break, Sal.{0D}",,6 isla(s) 91 inline
+227,0x64C5,redirect,0x6680,34,We're outside the No. 7 Factory.{0D},,
+228,0x64DA,redirect,0x66A2,2,{0D},,
+229,0x652B,redirect,0x66A4,2,{0D},,
+230,0x653C,redirect,0x66A6,48,"We gotta hurry, before\nreinforcements turn up!{0D}",,2 isla(s) 91 inline
+231,0x6553,redirect,0x66DC,50,Let's use the mass driver to get\nus out of here!{0D},,3 isla(s) 91 inline
+232,0x6570,redirect,0x6717,32,We have to get back to Beyond!{0D},,1 isla(s) 91 inline
+233,0x65A7,redirect,0x673A,6,Move{0D},,
+234,0x65AC,redirect,0x6740,20,Information Center{0D},,
+235,0x65B7,redirect,0x6754,47,"The hatch is open.  Quick, let's\nhead inside.{0D}",,1 isla(s) 91 inline
+236,0x65DA,redirect,0x6786,30,"Let's head inside, Jonathan.{0D}",,
+237,0x65F7,redirect,0x67A4,11,Go inside{0D},,1 isla(s) 91 inline
+238,0x6600,redirect,0x67B2,2,{0D},,
+239,0x6615,redirect,0x67B4,33,We have to open the door first.{0D},,
+240,0x6634,redirect,0x67D5,23,First comes the door.{0D},,1 isla(s) 91 inline
+241,0x664F,redirect,0x67EF,8,System{0D},,
+242,0x6658,redirect,0x67F7,69,We got everything on the VREs. \nLet's hurry up and get out of\nhere!{0D},,2 isla(s) 91 inline
+243,0x66B9,redirect,0x6842,32,We need to get away from here!{0D},,
+244,0x66CE,redirect,0x6862,29,We're done with this place.{0D},,1 isla(s) 91 inline
+245,0x66E7,redirect,0x6882,6,Look{0D},,
+246,0x66EC,redirect,0x6888,23,Thing's totally dead.{0D},,1 isla(s) 91 inline
+247,0x6709,redirect,0x68A2,26,It's not going anywhere.{0D},,
+248,0x6720,redirect,0x68BC,59,These are Moon EMPS {D0}{06} EMPS\nmodified for use on the Moon.{0D},,2 isla(s) 91 inline
+249,0x675F,redirect,0x68FD,61,This is the Oberth.  Its frame is\nsimilar to the Goddard's.{0D},,2 isla(s) 91 inline
+250,0x67A8,redirect,0x6940,63,You must be able to pilot it\nwithout removing your spacesuit.{0D},,1 isla(s) 91 inline
+251,0x67D7,redirect,0x6982,80,They're used for mining\noperations here.  They're armed\npretty light for EMPS.{0D},,2 isla(s) 91 inline
+252,0x6812,redirect,0x69D8,85,Their armor doesn't look very\nthick.  Probably since they're only\nused on the Moon.{0D},,2 isla(s) 91 inline
+253,0x6833,redirect,0x6A33,60,That's its arm.  It's a good thing\nthese weren't Goddards.{0D},,2 isla(s) 91 inline
+254,0x6868,redirect,0x6A75,38,It's completely stopped\nfunctioning.{0D},,1 isla(s) 91 inline
+255,0x689D,redirect,0x6A9E,81,"Judging by the arm, I'd say they\ndefinitely use it for mining most of\nthe time.{0D}",,1 isla(s) 91 inline
+256,0x68D6,redirect,0x6AF2,74,That's one helluvan arm.  Bet you\nit could tear through a lot of\nthings.{0D},,2 isla(s) 91 inline
+257,0x68F7,redirect,0x6B42,42,Must be difficult using a gun with\nthat.{0D},,1 isla(s) 91 inline
+258,0x691A,redirect,0x6B6F,44,It's almost like a miniature power\nshovel.{0D},,
+259,0x6939,redirect,0x6B9B,93,This looks like the same kind of\narm.  It doesn't have any complex\njoints like the Goddard.{0D},,4 isla(s) 91 inline
+260,0x6978,redirect,0x6C04,42,I can't believe Tokugawa's got APs\nhere.{0D},,1 isla(s) 91 inline
+261,0x69A9,redirect,0x6C31,27,He's dead.  Poor bastard.{0D},,1 isla(s) 91 inline
+262,0x69C6,redirect,0x6C4F,53,Let's hurry up and do this before\nsomeone shows up.{0D},,1 isla(s) 91 inline
+263,0x69ED,redirect,0x6C87,49,It's just one big pile of junk\nwithout a pilot.{0D},,1 isla(s) 91 inline
+264,0x6A12,redirect,0x6CBB,31,White blood.  Most likely AP.{0D},,2 isla(s) 91 inline
+265,0x6A37,redirect,0x6CE0,70,Ordinary Tokugawa employees\ndon't use this kind of artificial\nblood.{0D},,1 isla(s) 91 inline
+266,0x6A68,redirect,0x6D29,38,Same for this guy.  They're both\nAP.{0D},,1 isla(s) 91 inline
+267,0x6A8D,redirect,0x6D52,81,There'll be more than just one or\ntwo of 'em.  I'll bet an entire\nsquad's here.{0D},,3 isla(s) 91 inline
+268,0x6AC2,redirect,0x6DAC,31,"It's empty.  For now, anyway.{0D}",,
+269,0x6B05,redirect,0x6DCB,55,This one's empty too.  Maybe the\nguards are on break?{0D},,2 isla(s) 91 inline
+270,0x6B2C,redirect,0x6E08,88,Not like Tokugawa to let all the\nguards in an area leave their posts\nat the same time.{0D},,2 isla(s) 91 inline
+271,0x6B63,redirect,0x6E66,84,"This is the Moon, Jonathan.  They\ndon't need to worry about things\nlike that here.{0D}",,4 isla(s) 91 inline
+272,0x6BA2,redirect,0x6EC6,6,Open{0D},,
+273,0x6BA9,redirect,0x6ECC,35,It's no good.  Thing won't budge.{0D},,
+274,0x6BD4,redirect,0x6EF2,62,We can't force something like this\nopen with our bare hands.{0D},,1 isla(s) 91 inline
+275,0x6BF7,redirect,0x6F33,34,Let's try using the lock system.{0D},,1 isla(s) 91 inline
+276,0x6C1C,redirect,0x6F58,39,There has to be a lock system\nnearby.{0D},,2 isla(s) 91 inline
+277,0x6C43,redirect,0x6F85,35,"C'mon, Jonathan, we're done\nhere!{0D}",,
+278,0x6C6C,redirect,0x6FA8,59,We got all the evidence we need\non the VREs.  Let's move!{0D},,2 isla(s) 91 inline
+279,0x6CB3,redirect,0x6FE9,39,That's the door to the No. 7\nFactory.{0D},,
+280,0x6CC4,redirect,0x7010,39,It's the door to that... that\nmorgue.{0D},,1 isla(s) 91 inline
+281,0x6CDB,redirect,0x703A,42,I don't ever wanna see that place\nagain.{0D},,1 isla(s) 91 inline
+282,0x6D06,redirect,0x7067,61,It's the entrance to the No. 7\nFactory.  The door's closed.{0D},,2 isla(s) 91 inline
+283,0x6D2F,redirect,0x70AA,47,I'd bet we can open it with that\nlock system.{0D},,1 isla(s) 91 inline
+284,0x6D58,redirect,0x70DC,42,There should be a lock system\nsomewhere.{0D},,2 isla(s) 91 inline
+285,0x6D89,redirect,0x710C,37,They've made the door out of\nmetal.{0D},,1 isla(s) 91 inline
+286,0x6D9C,redirect,0x7134,34,Lucky seven ain't so lucky here.{0D},,2 isla(s) 91 inline
+287,0x6DDF,redirect,0x715F,79,"Well, it's got a ""7"" on it.  I guess\nthis would have to be the No. 7\nFactory.{0D}",,1 isla(s) 91 inline
+288,0x6DFC,redirect,0x71B1,31,This is definitely the place.{0D},,
+289,0x6E13,redirect,0x71D0,42,"It says ""CONTAMINATED AREA\n{D0}{06} NO ENTRY"".{0D}",,1 isla(s) 91 inline
+290,0x6E42,redirect,0x71FD,51,These guys are so full of shit it's\nunbelievable.{0D},,1 isla(s) 91 inline
+291,0x6E6F,redirect,0x7233,49,"Something doesn't pass the smell\ntest, does it?{0D}",,2 isla(s) 91 inline
+292,0x6E90,redirect,0x726A,38,Let's go see what's really going\non.{0D},,1 isla(s) 91 inline
+293,0x6EA7,redirect,0x7293,26,It's the Tokugawa crest.{0D},,
+294,0x6EBC,redirect,0x72AD,42,May as well be an upside-down\npentagram.{0D},,2 isla(s) 91 inline
+295,0x6EEF,redirect,0x72DD,27,They've even got it here.{0D},,
+296,0x6F0E,redirect,0x72F8,35,They make sure you can't miss it.{0D},,
+297,0x6F4D,redirect,0x731B,26,The door's already open.{0D},,1 isla(s) 91 inline
+298,0x6F5E,redirect,0x7338,28,"The door's open, Jonathan.{0D}",,
+299,0x6F7D,redirect,0x7354,44,"Hey, here it is {D0}{06} the door's lock\nsystem.{0D}",,
+300,0x6FB8,redirect,0x7380,33,This is the door's lock system.{0D},,1 isla(s) 91 inline
+301,0x6FE3,redirect,0x73A4,55,It's the same as the one at\nTokugawa Pharmaceuticals.{0D},,1 isla(s) 91 inline
+302,0x7016,redirect,0x73DE,63,This is the same system they had\nat Tokugawa Pharmaceuticals.{0D},,1 isla(s) 91 inline
+303,0x7051,redirect,0x7420,42,We could try opening the door\nwith this.{0D},,1 isla(s) 91 inline
+304,0x7082,redirect,0x744D,11,Open door{0D},,1 isla(s) 91 inline
+305,0x708B,redirect,0x745B,2,{0D},,
+306,0x70B2,redirect,0x745D,2,{0D},,
+307,0x70DF,redirect,0x745F,2,{0D},,
+308,0x70FE,redirect,0x7461,84,There are footprints all over the\nground.  People must be come\nthrough here a lot.{0D},,3 isla(s) 91 inline
+309,0x712D,redirect,0x74BE,20,No surprise there.{0D},,
+310,0x7146,redirect,0x74D2,9,Hmm....{0D},,
+311,0x7151,redirect,0x74DB,13,What is it?{0D},,
+312,0x715C,redirect,0x74E8,69,"No, I just remembered how there\nwas regolith in the morgue at\nBCCH.{0D}",,1 isla(s) 91 inline
+313,0x7197,redirect,0x7530,123,I don't think we need to worry\nabout leaving footprints behind.{80238057}We're wearing the same type of\nboots as everyone else.{0D},,4 isla(s) 91 inline
+314,0x71EE,redirect,0x75B7,74,What do you think these footprints\nhere are from? These really big\nones.{0D},,3 isla(s) 91 inline
+315,0x7205,redirect,0x760A,21,"The Oberths, maybe?{0D}",,1 isla(s) 91 inline
+316,0x7238,redirect,0x7622,42,"But look, there are two different\nkinds.{0D}",,1 isla(s) 91 inline
+317,0x7253,redirect,0x764F,74,"Yeah, you're right.  Well, some of\nthem are definitely from the\nOberths.{0D}",,
+318,0x7288,redirect,0x7699,50,You think they've got another type\nof EMPS here?{0D},,2 isla(s) 91 inline
+319,0x72BF,redirect,0x76D1,33,Who knows.  Keep your guard\nup.{0D},,1 isla(s) 91 inline
+320,0x72D8,redirect,0x76F5,92,This looks like it's made out of\nconcrete.  The concrete here is\nmade from Lunar regolith.{0D},,1 isla(s) 91 inline
+321,0x732D,redirect,0x7754,118,"Concrete's good at protecting\nagainst cosmic rays.{80238057}What's more, the concrete here's\nvirtually as strong as metal.{0D}",,
+322,0x7396,redirect,0x77CA,70,Salvatore said it's twice as strong\nas the concrete you get on Home.{0D},,1 isla(s) 91 inline
+323,0x73D3,redirect,0x7813,34,What do you think's inside here?{0D},,1 isla(s) 91 inline
+324,0x73F8,redirect,0x7838,58,Let's hurry and finish this before\nthe guards come back.{0D},,
+325,0x7429,redirect,0x7872,62,They'll spot us if we stand around\nhere.  Let's head inside.{0D},,1 isla(s) 91 inline
+326,0x744E,redirect,0x78B3,49,"C'mon, Jonathan, we can't waste\ntime like this!{0D}",,
+327,0x7479,redirect,0x78E4,61,There's no time.  Let's get back to\nthe Information Center!{0D},,1 isla(s) 91 inline
+328,0x749E,redirect,0x7924,21,"Let's go, Jonathan!{0D}",,1 isla(s) 91 inline
+329,0x74B9,redirect,0x793C,46,We don't wanna get surrounded\nby EMPS again!{0D},,
+330,0x7502,redirect,0x796A,2,{0D},,
+331,0x7539,redirect,0x796C,2,{0D},,
+332,0x7554,redirect,0x796E,2,{0D},,
+333,0x7573,redirect,0x7970,2,{0D},,
+334,0x758E,redirect,0x7972,2,{0D},,
+335,0x75C5,redirect,0x7974,2,{0D},,
+336,0x75E6,redirect,0x7976,2,{0D},,
+337,0x75FB,redirect,0x7978,2,{0D},,
+338,0x760E,redirect,0x797A,2,{0D},,
+339,0x7633,redirect,0x797C,2,{0D},,
+340,0x76BA,redirect,0x797E,2,{0D},,
+341,0x76C5,redirect,0x7980,2,{0D},,1 isla(s) 91 inline
+342,0x76E2,redirect,0x7985,2,{0D},,
+343,0x7727,redirect,0x7987,2,{0D},,
+344,0x77D2,redirect,0x7989,2,{0D},,
+345,0x782B,redirect,0x798B,2,{0D},,
+346,0x78A6,redirect,0x798D,2,{0D},,
+347,0x78E9,redirect,0x798F,2,{0D},,
+348,0x7936,redirect,0x7991,2,{0D},,
+349,0x7981,redirect,0x7993,2,{0D},,
+350,0x79A8,redirect,0x7995,2,{0D},,
+351,0x7A05,redirect,0x7997,2,{0D},,
+352,0x7A1E,redirect,0x7999,2,{0D},,
+353,0x7A31,inplace,0x7A31,12,sm_x155.pak,,sin codigo 91: revisar
+354,0x7A3D,redirect,0x799B,2,{0D},,
+355,0x7A4C,redirect,0x799D,2,{0D},,
+356,0x7A87,redirect,0x799F,2,{0D},,
+357,0x7AA6,redirect,0x79A1,35,Looks like the biomorts got even.{0D},,1 isla(s) 91 inline
+358,0x7AD5,redirect,0x79C7,66,The recoil was stronger than I\nthought it'd be.  That was close.{0D},,1 isla(s) 91 inline
+359,0x7B20,redirect,0x7A0C,52,You'll need to hold me down if I\nuse my gun again.{0D},,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+360,0x7B3D,redirect,0x7A58,90,"We can't hang around all day,\nJonathan.  EMPS are gonna show\nup.  Let's get out of here!{0D}",,2 isla(s) 91 inline
+361,0x7B8C,redirect,0x7AB8,25,What about Hojo's body?{0D},,
+362,0x7BBB,redirect,0x7AD1,100,The life-support machines have\nmalfunctioned.  All the bodies\n\n here are gonna start to\ndecompose.{0D},,2 isla(s) 91 inline
+363,0x7C12,redirect,0x7B3B,2,{0D},,
+364,0x7C3B,redirect,0x7B40,2,{0D},,
+365,0x7C50,redirect,0x7B42,2,{0D},,
+366,0x7C8F,redirect,0x7B44,2,{0D},,
+367,0x7CBC,redirect,0x7B46,2,{0D},,
+368,0x7CDF,redirect,0x7B48,2,{0D},,
+369,0x7D22,redirect,0x7B4A,2,{0D},,
+370,0x7D3F,redirect,0x7B4C,6,Move{0D},,
+371,0x7D44,redirect,0x7B52,7,Leave{0D},,
+372,0x7D4D,redirect,0x7B59,103,"What are you talking about?{80238057}This is what we came all the way\nhere for! You're not scared, are\nyou?{0D}",,2 isla(s) 91 inline
+373,0x7D88,redirect,0x7BC6,76,We can't just go back to Beyond\nempty-handed.  Let's keep\nchecking around.{0D},,
+374,0x7DB9,redirect,0x7C15,33,We should look for Hojo's body.{0D},,
+375,0x7DCE,redirect,0x7C36,51,We should see what other bodies\nthey've got here.{0D},,2 isla(s) 91 inline
+376,0x7DF9,redirect,0x7C6F,40,We should try to gather more\nevidence.{0D},,1 isla(s) 91 inline
+377,0x7E1C,redirect,0x7C9A,6,....{0D},,
+378,0x7E23,redirect,0x7CA0,38,We should go check out the back\ntoo.{0D},,1 isla(s) 91 inline
+379,0x7E48,redirect,0x7CC9,45,What do you suppose those\nmonitors are for?{0D},,1 isla(s) 91 inline
+380,0x7E75,redirect,0x7CF9,20,Let's take a look.{0D},,
+381,0x7E8A,redirect,0x7D0D,8,System{0D},,
+382,0x7E93,redirect,0x7D15,6,Look{0D},,
+383,0x7E98,redirect,0x7D1B,39,The stairs lead up to a second\nfloor.{0D},,3 isla(s) 91 inline
+384,0x7EAD,redirect,0x7D4B,37,They've got more pods up there\ntoo.{0D},,1 isla(s) 91 inline
+385,0x7ED8,redirect,0x7D73,29,There's even more up there.{0D},,1 isla(s) 91 inline
+386,0x7EF5,redirect,0x7D93,45,How many bodies you think\nthey've got here?{0D},,1 isla(s) 91 inline
+387,0x7F20,redirect,0x7DC3,13,Go upstairs{0D},,1 isla(s) 91 inline
+388,0x7F25,redirect,0x7DD3,42,"C'mon, that's not the way out,\nJonathan!{0D}",,1 isla(s) 91 inline
+389,0x7F4A,redirect,0x7E00,35,Let's check out the second floor.{0D},,2 isla(s) 91 inline
+390,0x7F67,redirect,0x7E29,90,Wait! This is a big place.  We go\nwandering around like that and we\nmight trip an alarm.{0D},,2 isla(s) 91 inline
+391,0x7FB8,redirect,0x7E89,85,We can record everything on the\nsecond floor from here.  Don't go\nwandering around!{0D},,5 isla(s) 91 inline
+392,0x8025,redirect,0x7EED,90,Every single thing about this place\nwas built the way it is for\npreserving the biomorts.{0D},,4 isla(s) 91 inline
+393,0x807C,redirect,0x7F53,217,"That looks like an air conditioner. \nYou don't get much thermal\nconvection in lower gravity areas,\n so you need to forcibly circulate\nthe air to maintain an even\ntemperature and gas composition\n throughout the room.{0D}",,3 isla(s) 91 inline
+394,0x80ED,redirect,0x8035,40,Nice of them to go to all the\ntrouble.{0D},,
+395,0x8102,redirect,0x805D,66,It's a machine for controlling the\nair convection in this place.{0D},,1 isla(s) 91 inline
+396,0x8127,redirect,0x80A2,2,{0D},,
+397,0x814C,redirect,0x80A4,68,They're jacking into practically\nevery organ network in the world.{0D},,
+398,0x81AB,redirect,0x80E8,47,They're selling organs to the\nhighest bidder.{0D},,2 isla(s) 91 inline
+399,0x81D2,redirect,0x811D,49,The monitors are keeping track of\nthe auctions.{0D},,2 isla(s) 91 inline
+400,0x81ED,redirect,0x8154,69,Look at the monitors.  They're\nconducting real-time organ\nauctions.{0D},,
+401,0x8220,redirect,0x8199,71,These tubes look like they're\nconnected to the life-support\nmachines.{0D},,2 isla(s) 91 inline
+402,0x824B,redirect,0x81E6,7,Yeah.{0D},,
+403,0x8254,redirect,0x81F0,27,What are these tubes for?{0D},,
+404,0x8265,redirect,0x820B,81,"They provide the biomorts with\nnutrients, as well as carry away\nwaste products.{0D}",,3 isla(s) 91 inline
+405,0x82AE,redirect,0x8268,62,I suppose you could call them the\nbiomorts' umbilical cords.{0D},,
+406,0x82DB,redirect,0x82A6,34,Are these life-support\nmachines?{0D},,1 isla(s) 91 inline
+407,0x82FE,redirect,0x82CB,51,These machines keep the bodies\nalive as biomorts.{0D},,2 isla(s) 91 inline
+408,0x833B,redirect,0x8304,170,"Artificial respirators, hearts,\nlungs, kidneys....{80238057}Each body is connected to a\nlife-support system matching its\nspecific needs, and it's all\n controlled by computer.{0D}",,1 isla(s) 91 inline
+409,0x83B6,redirect,0x83B1,60,The tubes are part of the\nlife-support system in use here.{0D},,2 isla(s) 91 inline
+410,0x83E9,redirect,0x83F3,60,If we cut these off... these people\nwould finally be free.{0D},,1 isla(s) 91 inline
+411,0x841E,redirect,0x8432,43,How come you know so much\nabout all this?{0D},,1 isla(s) 91 inline
+412,0x843D,redirect,0x8460,85,It's not a hobby or anything. \nWhen Catherine got sick I\nacquired it all naturally.{0D},,2 isla(s) 91 inline
+413,0x849A,redirect,0x84BB,33,"That's right, I forgot.  Sorry.{0D}",,
+414,0x84AF,redirect,0x84DC,52,These are the machines keeping\nthe biomorts alive.{0D},,3 isla(s) 91 inline
+415,0x84EE,redirect,0x8519,12,Disconnect{0D},,
+416,0x84F3,redirect,0x8525,40,I suppose we don't have time for\nthat.{0D},,1 isla(s) 91 inline
+417,0x8512,redirect,0x8550,34,These people don't deserve this.{0D},,1 isla(s) 91 inline
+418,0x8531,redirect,0x8575,56,Wait! The machines are probably\nconnected to an alarm.{0D},,1 isla(s) 91 inline
+419,0x8568,redirect,0x85B0,79,Jonathan! There's nothing we can\ndo for them now.  We came here\nfor evidence.{0D},,4 isla(s) 91 inline
+420,0x858F,redirect,0x860B,40,"Let's go, we need to find Hojo's\nbody.{0D}",,1 isla(s) 91 inline
+421,0x85B8,redirect,0x8636,2,{0D},,
+422,0x85CD,redirect,0x8638,2,{0D},,
+423,0x85D8,redirect,0x863A,2,{0D},,
+424,0x85FF,redirect,0x863C,2,{0D},,
+425,0x8616,redirect,0x863E,33,This must be a stillborn fetus.{0D},,1 isla(s) 91 inline
+426,0x8647,redirect,0x8662,32,They've got newborns here too.{0D},,2 isla(s) 91 inline
+427,0x8674,redirect,0x8688,2,{0D},,
+428,0x8681,redirect,0x868A,2,{0D},,
+429,0x86A6,redirect,0x868C,2,{0D},,
+430,0x86D3,redirect,0x868E,2,{0D},,
+431,0x876E,redirect,0x8690,2,{0D},,
+432,0x87D9,redirect,0x8692,2,{0D},,
+433,0x8830,redirect,0x8694,2,{0D},,
+434,0x883F,redirect,0x8696,2,{0D},,
+435,0x88C6,redirect,0x8698,2,{0D},,
+436,0x8905,redirect,0x869A,2,{0D},,
+437,0x8976,redirect,0x869C,2,{0D},,
+438,0x8997,redirect,0x869E,99,We got Hojo on the virtual\nrecorders.  We can hand them\n\n over to BBC when we get back to\nBeyond.{0D},,2 isla(s) 91 inline
+439,0x8A0A,redirect,0x8707,73,We have to make sure Karen\ndoesn't see this.  It'd be terrible\nfor her.{0D},,
+440,0x8A2F,redirect,0x8750,59,What about Hojo's body? It'd\ntotally prove they're lying.{0D},,1 isla(s) 91 inline
+441,0x8A5C,redirect,0x878E,90,"Yeah, it would, but how would we\never take it back with us? We'll\njust have to leave it.{0D}",,1 isla(s) 91 inline
+442,0x8A8B,redirect,0x87EB,77,We'll figure something out with\nthe VREs when we get back.  If\nwe get back.{0D},,1 isla(s) 91 inline
+443,0x8AE0,redirect,0x883B,2,{0D},,
+444,0x8AEF,redirect,0x883D,2,{0D},,
+445,0x8B02,redirect,0x8842,2,{0D},,
+446,0x8B0F,redirect,0x8844,2,{0D},,
+447,0x8B6E,redirect,0x8846,2,{0D},,
+448,0x8BA1,redirect,0x8848,2,{0D},,
+449,0x8BCC,redirect,0x884A,2,{0D},,
+450,0x8C47,redirect,0x884C,32,Dave....  We're gonna get 'em.{0D},,
+451,0x8C64,redirect,0x886C,36,I can't bear seeing him like this.{0D},,
+452,0x8C85,redirect,0x8890,52,"It looks like they're asleep in a\nway, doesn't it?{0D}",,
+453,0x8CA8,redirect,0x88C4,62,This is inhuman.  Look at what\nthey've done to these people.{0D},,1 isla(s) 91 inline
+454,0x8CD7,redirect,0x8908,69,Let's check out the other bodies. \nYou think Hojo's is really here?{0D},,
+455,0x8D0E,redirect,0x894D,36,Where do you think Hojo's body\nis?{0D},,
+456,0x8D2F,redirect,0x8971,41,Are we just gonna leave them like\nthis?{0D},,2 isla(s) 91 inline
+457,0x8D4E,redirect,0x89A0,111,We got them on the virtual\nrecorders.  There's nothing else\nwe can do.{80238057}The guards will be here any\nminute.{0D},,1 isla(s) 91 inline
+458,0x8DA3,redirect,0x8A12,46,"C'mon, Jonathan, we have to get\nout of here!{0D}",,1 isla(s) 91 inline
+459,0x8DD0,redirect,0x8A43,19,Rest in peace....{0D},,
+460,0x8DE3,redirect,0x8A56,50,She's not wearing a thing.  She's\ntotally naked!{0D},,1 isla(s) 91 inline
+461,0x8E06,redirect,0x8A8E,41,Wow.  As naked as the day she\nwas born.{0D},,
+462,0x8E29,redirect,0x8AB7,35,"Don't feel shy, Ed.  Take a look.{0D}",,
+463,0x8E60,redirect,0x8ADA,26,So this is a biomort....{0D},,2 isla(s) 91 inline
+464,0x8E97,redirect,0x8AFA,78,What the hell are you thinking?!\nI don't believe you! These people\nare dead!{0D},,2 isla(s) 91 inline
+465,0x8ED8,redirect,0x8B4E,63,We've got no time for that! We\ncame here to find Hojo's body.{0D},,1 isla(s) 91 inline
+466,0x8F11,redirect,0x8B90,119,"I always knew you were\nmessed-up, but this... this is\ninsane.{80238057}There is something seriously\nfucking wrong with you.{0D}",,2 isla(s) 91 inline
+467,0x8F3C,redirect,0x8C0D,59,I can't believe something like this\nactually arouses you.{0D},,1 isla(s) 91 inline
+468,0x8F5F,redirect,0x8C4B,2,{0D},,
+469,0x8FC4,redirect,0x8C4D,2,{0D},,
+470,0x9013,redirect,0x8C4F,2,{0D},,
+471,0x9036,redirect,0x8C51,64,The life-support machines are\nimbedded into the storage tanks.{0D},,2 isla(s) 91 inline
+472,0x906F,redirect,0x8C97,86,These people were all young. \nThey must be using the biomorts\nfor preserving organs.{0D},,2 isla(s) 91 inline
+473,0x90CE,redirect,0x8CF3,81,So what would they use Victor's\nbody for? He's past the age limit\nfor donation.{0D},,2 isla(s) 91 inline
+474,0x912F,redirect,0x8D4A,10,No idea.{0D},,1 isla(s) 91 inline
+475,0x913A,redirect,0x8D57,40,They look like they're alive in\nthere.{0D},,
+476,0x915D,redirect,0x8D7F,69,"Well, that's technically true.  Their\ncells aren't dead, after all.{0D}",,1 isla(s) 91 inline
+477,0x9186,redirect,0x8DC7,47,"Look at them, desecrating the\ndead like this.{0D}",,2 isla(s) 91 inline
+478,0x919F,redirect,0x8DFC,20,Those bastards....{0D},,1 isla(s) 91 inline
+479,0x91B8,redirect,0x8E13,42,They've even got babies in these\nthings.{0D},,1 isla(s) 91 inline
+480,0x91DB,redirect,0x8E40,52,Should we take a look at the ones\nin the back too?{0D},,1 isla(s) 91 inline
+481,0x9216,redirect,0x8E77,51,I get the feeling it ain't gonna be\nany prettier.{0D},,1 isla(s) 91 inline
+482,0x922D,redirect,0x8EAD,19,Now to find Hojo.{0D},,
+483,0x9240,redirect,0x8EC0,15,Is this Hojo?{0D},,
+484,0x925B,redirect,0x8ECF,16,This him here?{0D},,1 isla(s) 91 inline
+485,0x9280,redirect,0x8EE2,12,He's dead.{0D},,
+486,0x9297,redirect,0x8EEE,63,The irony is he'll probably be the\nnext one they put in here.{0D},,1 isla(s) 91 inline
+487,0x92C4,redirect,0x8F30,36,That garbage ain't worth the time.{0D},,1 isla(s) 91 inline
+488,0x92E3,redirect,0x8F57,113,We've got everything on the\nvirtual recorders.{80238057}Now we just have to get off here\nand get them back to Beyond.{0D},,2 isla(s) 91 inline
+489,0x937A,redirect,0x8FCE,78,We'll be in trouble if we hang\naround too long.  We have to get\nout of here.{0D},,1 isla(s) 91 inline
+490,0x93A9,redirect,0x901F,88,There's no point staying any\nlonger.  We already know what's\ngoing on here.  Let's go!{0D},,2 isla(s) 91 inline
+491,0x93E6,redirect,0x907D,53,They're gonna be sending people\nout here! Let's go!{0D},,
+492,0x9409,redirect,0x90B2,44,We're not gonna make it if we\ndon't hurry!{0D},,1 isla(s) 91 inline
+493,0x942C,redirect,0x90E1,18,"C'mon, Jonathan!{0D}",,
+494,0x944F,redirect,0x90F3,2,{0D},,
+495,0x9480,redirect,0x90F5,2,{0D},,
+496,0x94F1,redirect,0x90F7,2,{0D},,
+497,0x9504,redirect,0x90F9,2,{0D},,
+498,0x956D,redirect,0x90FB,2,{0D},,
+499,0x9580,redirect,0x90FD,2,{0D},,
+500,0x95AF,redirect,0x90FF,2,{0D},,
+501,0x961E,redirect,0x9101,2,{0D},,
+502,0x963B,redirect,0x9103,2,{0D},,
+503,0x9662,redirect,0x9105,2,{0D},,
+504,0x96A1,redirect,0x9107,2,{0D},,
+505,0x96E0,redirect,0x9109,2,{0D},,
+506,0x973B,redirect,0x910B,2,{0D},,
+507,0x97AE,redirect,0x910D,2,{0D},,
+508,0x97D7,redirect,0x910F,2,{0D},,
+509,0x9864,redirect,0x9111,2,{0D},,
+510,0x988B,redirect,0x9113,2,{0D},,
+511,0x98D4,redirect,0x9115,2,{0D},,
+512,0x98EB,redirect,0x9117,2,{0D},,
+513,0x9902,redirect,0x9119,12,Get in pod{0D},,
+514,0x990F,redirect,0x9125,8,System{0D},,
+515,0x9918,redirect,0x912D,6,Look{0D},,1 isla(s) 91 inline
+516,0x991D,redirect,0x9136,59,"That's the guideway, the mass\ndriver's acceleration rail.{0D}",,2 isla(s) 91 inline
+517,0x9968,redirect,0x9177,60,"It ain't business class, but that's\nour only way off here.{0D}",,3 isla(s) 91 inline
+518,0x999B,redirect,0x91BC,66,Buckets carrying minerals are\nbeing launched along the\nguideway.{0D},,1 isla(s) 91 inline
+519,0x99D8,redirect,0x9201,65,Don't get too close! You'll get run\nover by one of the buckets.{0D},,3 isla(s) 91 inline
+520,0x9A09,redirect,0x924B,114,"They put pods in the buckets.{80238057}Once the bucket reaches the end\nof the guideway, the pod's\nreleased into space.{0D}",,4 isla(s) 91 inline
+521,0x9A30,redirect,0x92C9,80,We're at the edge of a cliff.  It's\nabout as deep as the Grand\nCanyon on Home.{0D},,1 isla(s) 91 inline
+522,0x9A81,redirect,0x931C,37,You wouldn't wanna fall down\nthere.{0D},,
+523,0x9AA4,redirect,0x9341,49,Even if the gravity's only\none-sixth of Home's.{0D},,
+524,0x9AC5,redirect,0x9372,84,That's the mass driver's control\ntower.  We can get in one of the\npods from there.{0D},,2 isla(s) 91 inline
+525,0x9B08,redirect,0x93CC,56,That's most likely where the mass\ndriver's controlled.{0D},,1 isla(s) 91 inline
+526,0x9B4F,redirect,0x9407,32,These pods don't look too big.{0D},,1 isla(s) 91 inline
+527,0x9B6C,redirect,0x942A,35,Yeah.  Don't expect a comfy ride.{0D},,2 isla(s) 91 inline
+528,0x9B8B,redirect,0x9453,55,"I can't do this, Ed.  There has to\nbe some other way.{0D}",,1 isla(s) 91 inline
+529,0x9BB0,redirect,0x948D,40,You go on without me.  I'll stay\nhere.{0D},,
+530,0x9BD7,redirect,0x94B5,42,"I can't do it, Ed... I just can't do it.{0D}",,
+531,0x9BF8,redirect,0x94DF,39,I can't ride in these things\nanymore.{0D},,2 isla(s) 91 inline
+532,0x9C1F,redirect,0x950C,86,"Jonathan, there is NO other way\nout of here! You're just gonna\nhave to deal with it!{0D}",,
+533,0x9C56,redirect,0x9562,41,You'll be fine.  You were a\nPolicenaut.{0D},,2 isla(s) 91 inline
+534,0x9C95,redirect,0x9591,48,Trust me! That is our ONLY way\nback to Beyond!{0D},,1 isla(s) 91 inline
+535,0x9CE6,redirect,0x95C4,73,That's the handrail for the stairs. \nBetter hold on as you're going up.{0D},,
+536,0x9D1B,redirect,0x960D,67,"Don't try anything stupid here,\nalright? I know what you're like.{0D}",,2 isla(s) 91 inline
+537,0x9D46,redirect,0x9656,30,"Don't worry, I saw the drop.{0D}",,1 isla(s) 91 inline
+538,0x9D6D,redirect,0x9677,32,What's controlling everything?{0D},,
+539,0x9D9C,redirect,0x9697,55,Probably that building there.  Let's\ngo check it out.{0D},,1 isla(s) 91 inline
+540,0x9DCD,redirect,0x96D1,40,We need to head for the control\ntower.{0D},,1 isla(s) 91 inline
+541,0x9DEE,redirect,0x96FC,42,Look at all the black.  Total\nemptiness.{0D},,
+542,0x9E13,redirect,0x9726,90,It's a long way between stars and\nplanets.  Most of space is as\nexciting as a rest stop.{0D},,1 isla(s) 91 inline
+543,0x9E2C,redirect,0x9783,57,Let's face it.  This is the true\nnature of outer space.{0D},,1 isla(s) 91 inline
+544,0x9E45,redirect,0x97BF,87,It doesn't take long out here for\npeople to lose it.  Salvatore was\nright about that.{0D},,1 isla(s) 91 inline
+545,0x9E76,redirect,0x9819,87,"Looking out from here, it feels\nlike everything revolves around\nthe Moon, doesn't it?{0D}",,1 isla(s) 91 inline
+546,0x9EBD,redirect,0x9873,50,Yeah.  We've always been\nself-centered that way.{0D},,1 isla(s) 91 inline
+547,0x9EDC,redirect,0x98A8,71,All the darkness makes you realize\nhow much we take Home for\ngranted.{0D},,2 isla(s) 91 inline
+548,0x9F19,redirect,0x98F5,46,Space....  Pitch black.  Not a nice\nfeeling.{0D},,4 isla(s) 91 inline

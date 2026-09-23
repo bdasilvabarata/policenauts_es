@@ -1,0 +1,336 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x3174,redirect,0x3267,11,Subtitles{0D},,1 isla(s) 91 inline
+1,0x3179,redirect,0x3275,4,On{0D},,1 isla(s) 91 inline
+2,0x317E,redirect,0x327C,5,Off{0D},,
+3,0x3183,redirect,0x3281,6,Ruby{0D},,1 isla(s) 91 inline
+4,0x3188,redirect,0x328A,10,Captions{0D},,1 isla(s) 91 inline
+5,0x3191,redirect,0x3297,4,On{0D},,
+6,0x319C,redirect,0x329B,5,Off{0D},,1 isla(s) 91 inline
+7,0x31A3,redirect,0x32A3,14,Cursor Speed{0D},,1 isla(s) 91 inline
+8,0x31B0,redirect,0x32B4,9,Slowest{0D},,1 isla(s) 91 inline
+9,0x31B5,redirect,0x32C0,6,Slow{0D},,1 isla(s) 91 inline
+10,0x31BE,redirect,0x32C9,8,Medium{0D},,1 isla(s) 91 inline
+11,0x31C3,redirect,0x32D4,6,Fast{0D},,1 isla(s) 91 inline
+12,0x31CC,redirect,0x32DD,9,Fastest{0D},,1 isla(s) 91 inline
+13,0x31D1,redirect,0x32E9,12,Text Lines{0D},,2 isla(s) 91 inline
+14,0x31DA,redirect,0x32FB,3,2{0D},,
+15,0x31DF,redirect,0x32FE,3,3{0D},,
+16,0x31E4,redirect,0x3301,10,Controls{0D},,2 isla(s) 91 inline
+17,0x31EF,redirect,0x3311,9,Default{0D},,
+18,0x31FC,redirect,0x331A,10,Southpaw{0D},,1 isla(s) 91 inline
+19,0x3209,redirect,0x3327,12,One-handed{0D},,2 isla(s) 91 inline
+20,0x3214,redirect,0x3339,4,CD{0D},,
+21,0x3219,redirect,0x3340,7,1{96}{87}{96}{DA}{0D},,
+22,0x3220,redirect,0x3347,7,2{96}{87}{96}{DA}{0D},,
+23,0x3227,redirect,0x334E,12,{83}G{83}{93}{83}g{83}{8A}{D0}{06}{0D},,1 isla(s) 91 inline
+24,0x3232,redirect,0x3360,8,{83}t{83}{89}{83}O{0D},,1 isla(s) 91 inline
+25,0x3239,redirect,0x336B,6,{92}n{8B}{85}{0D},,1 isla(s) 91 inline
+26,0x323E,redirect,0x3374,22,{83}C{83}{93}{83}O{83}{89}{83}{80}{92}T{92}{E3}{8E}{96}{96}{B1}{8F}{8A}{0D},,3 isla(s) 91 inline
+27,0x3253,redirect,0x3393,12,{82}{CD}{82}{B6}{82}{DF}{82}{A9}{82}{E7}{0D},,1 isla(s) 91 inline
+28,0x325E,redirect,0x33A5,12,{92}T{92}{E3}{8E}{96}{96}{B1}{8F}{8A}{0D},,1 isla(s) 91 inline
+29,0x3269,redirect,0x33B4,14,{83}{8D}{83}{8C}{83}C{83}{93}{97}{88}{8F}{8A}{0D},,2 isla(s) 91 inline
+30,0x3276,redirect,0x33C8,16,{83}{8D}{83}{8C}{83}C{83}{93}{97}{88}{8F}{8A}{8C}{E3}{0D},,1 isla(s) 91 inline
+31,0x3285,redirect,0x33DE,14,{83}{8D}{83}{8C}{83}C{83}{93}{8B}A{82}{E9}{0D},,1 isla(s) 91 inline
+32,0x3292,redirect,0x33EF,9,OLA{98}H{92}n{0D},,3 isla(s) 91 inline
+33,0x329D,redirect,0x3401,8,OLA{CA}{82}{E8}{0D},,2 isla(s) 91 inline
+34,0x32AA,redirect,0x340F,12,OLA{98}H{92}n{97}{A0} {0D},,2 isla(s) 91 inline
+35,0x32B7,redirect,0x3424,14,{83}v{83}{8C}{D0}{06}{83}{93}{8B}@{93}{E0}{0D},,3 isla(s) 91 inline
+36,0x32C4,redirect,0x343B,12,{83}v{83}{8D}{83}{8D}{D0}{06}{83}O{0D},,1 isla(s) 91 inline
+37,0x32CF,redirect,0x344D,10,{83}r{83}{88}{83}{93}{83}h{0D},,
+38,0x32D8,redirect,0x345A,8,{89}F{92}{88}{8D}`{0D},,
+39,0x32DF,redirect,0x3462,14,{83}r{83}{88}{83}{93}{83}h{93}{9E}{92}{85}{0D},,2 isla(s) 91 inline
+40,0x32EC,redirect,0x3476,12,{97}{B7}{97}{A7}{82}{BF}{83}f{83}{82}{0D},,1 isla(s) 91 inline
+41,0x32F7,redirect,0x3488,9,BCP{96}{7B}{95}{94}{0D},,2 isla(s) 91 inline
+42,0x3302,redirect,0x3497,4,BCP,,1 isla(s) 91 inline
+43,0x330B,redirect,0x349E,16,ACT1{83}W{83}{87}{83}i{83}T{83}{93}{0D},,1 isla(s) 91 inline
+44,0x331E,redirect,0x34B4,10,ACT1{83}G{83}h{0D},,1 isla(s) 91 inline
+45,0x332B,redirect,0x34C1,6,ACT2{0D},,
+46,0x3334,redirect,0x34CA,6,ACT3{0D},,1 isla(s) 91 inline
+47,0x333D,redirect,0x34D3,16,ACT3{83}Q{83}C{83}c{8B}{A6}{97}{CD}{0D},,2 isla(s) 91 inline
+48,0x3350,redirect,0x34E9,11,BCP{83}{8D}{83}r{D0}{06}{0D},,2 isla(s) 91 inline
+49,0x335D,redirect,0x34FA,8,{95}{97}{8B}I{89}{DB}{0D},,1 isla(s) 91 inline
+50,0x3364,redirect,0x3505,10,AP{83}{8B}{D0}{06}{83}{80}{0D},,1 isla(s) 91 inline
+51,0x336F,redirect,0x3512,6,ACT1{0D},,2 isla(s) 91 inline
+52,0x3378,redirect,0x351E,8,{8A}{D3}{8E}{AF}{89}{DB}{0D},,1 isla(s) 91 inline
+53,0x337F,redirect,0x3529,14,{8A}{D3}{8E}{AF}{89}{DB}{82}{D6}{92}{BC}{8D}s{0D},,1 isla(s) 91 inline
+54,0x338C,redirect,0x353A,12,{8E}{CB}{8C}{82}{83}{8B}{D0}{06}{83}{80}{0D},,1 isla(s) 91 inline
+55,0x3397,redirect,0x3549,12,{83}f{83}C{83}u{83}f{83}{82}{0D},,3 isla(s) 91 inline
+56,0x33A2,redirect,0x355E,14,{83}g{83}N{83}K{83}{8F}{90}{BB}{96}{F2}{0D},,2 isla(s) 91 inline
+57,0x33AF,redirect,0x3572,5,{90}{BB}{96}{F2},,2 isla(s) 91 inline
+58,0x33B6,redirect,0x357D,10,ACT3{90}{F6}{93}{FC}{0D},,1 isla(s) 91 inline
+59,0x33C3,redirect,0x358A,10,ACT3{93}{CB}{93}{FC}{0D},,2 isla(s) 91 inline
+60,0x33D0,redirect,0x359A,12,{8E}{F3}{95}t{83}{8D}{83}r{D0}{06}{0D},,2 isla(s) 91 inline
+61,0x33DB,redirect,0x35AC,11,DDS{8A}J{94}{AD}{8E}{BA}{0D},,1 isla(s) 91 inline
+62,0x33E8,redirect,0x35BD,10,{8D}{95}{8A}H{8E}q{94}{A8}{0D},,
+63,0x33F1,redirect,0x35CA,6,{90}{F6}{93}{FC}{0D},,
+64,0x33F6,redirect,0x35D0,6,{93}{CB}{93}{FC}{0D},,
+65,0x33FB,redirect,0x35D6,10,NARC{8D}H{8F}{EA}{0D},,1 isla(s) 91 inline
+66,0x3408,redirect,0x35E3,6,BCCH{0D},,
+67,0x3411,redirect,0x35E9,5,{95}a{89}@,,2 isla(s) 91 inline
+68,0x3418,redirect,0x35F4,6,ACT4{0D},,1 isla(s) 91 inline
+69,0x3421,redirect,0x35FD,10,{97}{9D}{8E}{96}{92}{B7}{8E}{BA}{0D},,1 isla(s) 91 inline
+70,0x342A,redirect,0x360A,6,{96}{F2}{8B}{C7}{0D},,1 isla(s) 91 inline
+71,0x342F,redirect,0x3613,8,{83}{82}{83}{8B}{83}O{0D},,
+72,0x3436,redirect,0x361B,12,{88}{C3}{88}{C5}{83}J{83}{8C}{83}{93}{0D},,1 isla(s) 91 inline
+73,0x3441,redirect,0x362A,10,{83}G{83}h{93}o{8F}{EA}{0D},,1 isla(s) 91 inline
+74,0x344A,redirect,0x3637,14,{83}J{83}{8C}{83}{93}{82}{CC}{95}a{8E}{BA}{0D},,1 isla(s) 91 inline
+75,0x3457,redirect,0x3648,14,{83}R{83}{8A}{83}{93}{83}Y{94}{8E}{8E}m{0D},,1 isla(s) 91 inline
+76,0x3464,redirect,0x3659,12,{83}}{D0}{06}{83}N{82}{CC}{8A}G{0D},,2 isla(s) 91 inline
+77,0x346F,redirect,0x366B,16,{83}W{83}{87}{83}i{83}T{83}{93}{8C}{88}{88}{D3}{0D},,2 isla(s) 91 inline
+78,0x347E,redirect,0x3681,8,{96}k{8F}{F0}{89}{C6}{0D},,2 isla(s) 91 inline
+79,0x3485,redirect,0x368F,7,{96}k{8F}{F0}{89}{C6},,3 isla(s) 91 inline
+80,0x348E,redirect,0x36A2,6,{8B}{8F}{8A}{D4}{0D},,1 isla(s) 91 inline
+81,0x3493,redirect,0x36AB,16,{83}W{83}{87}{83}i{83}T{83}{93}{8A}o{90}{C1}{0D},,2 isla(s) 91 inline
+82,0x34A2,redirect,0x36C1,16,{83}G{83}h{82}{A9}{82}{E7}{82}{CC}{93}d{98}b{0D},,2 isla(s) 91 inline
+83,0x34B1,redirect,0x36DA,3,{8F}{0D},,1 isla(s) 91 inline
+84,0x34B6,redirect,0x36E0,18,{83}g{83}N{83}K{83}{8F}{96}{7B}{8E}{D0}{83}r{83}{8B}{0D},,2 isla(s) 91 inline
+85,0x34C7,redirect,0x36F8,5,{83}r{83}{8B},,1 isla(s) 91 inline
+86,0x34CE,redirect,0x3703,6,ACT7{0D},,
+87,0x34D7,redirect,0x3709,8,{83}{8D}{83}r{D0}{06}{0D},,
+88,0x34DE,redirect,0x3714,14,{83}G{83}{8C}{83}x{D0}{06}{83}^{D0}{06}{0D},,
+89,0x34EB,redirect,0x3725,10,{83}K{D0}{06}{83}f{83}{93}{0D},,
+90,0x34F4,redirect,0x372F,12,{83}p{D0}{06}{83}e{83}B{D0}{06}{0D},,1 isla(s) 91 inline
+91,0x34FF,redirect,0x373E,12,{83}g{83}N{83}K{83}{8F}{92}B{0D},,2 isla(s) 91 inline
+92,0x350A,redirect,0x3750,10,{8C}{96}{89}{DC}{83}f{83}{82}{0D},,1 isla(s) 91 inline
+93,0x3513,redirect,0x375D,5,{8C}{88}{93}{AC},,1 isla(s) 91 inline
+94,0x351A,redirect,0x3765,8,{8C}{88}{93}{AC}{8C}{E3}{0D},,1 isla(s) 91 inline
+95,0x3521,redirect,0x3770,10,{97}{86}{90}{F9}{8A}K{92}i{0D},,2 isla(s) 91 inline
+96,0x352A,redirect,0x3780,12,20F{82}{A9}{82}{E7}30F{0D},,1 isla(s) 91 inline
+97,0x353B,redirect,0x378F,12,30F{82}{A9}{82}{E7}40F{0D},,2 isla(s) 91 inline
+98,0x354C,redirect,0x37A1,5,20F{0D},,1 isla(s) 91 inline
+99,0x3553,redirect,0x37A9,5,30F{0D},,
+100,0x355A,redirect,0x37AE,8,{83}G{83}h{89}{C6}{0D},,1 isla(s) 91 inline
+101,0x3561,redirect,0x37BC,8,{89}{C6}{82}{CC}{FD}{FE}{0D},,1 isla(s) 91 inline
+102,0x3568,redirect,0x37C7,10,ACT2{90}H{8E}{96}{0D},,
+103,0x3575,redirect,0x37D1,10,ACT2{83}A{83}i{0D},,1 isla(s) 91 inline
+104,0x3582,redirect,0x37E1,10,ACT6{8B}A{8A}{D2}{0D},,
+105,0x358F,redirect,0x37EB,3,{90}H,,1 isla(s) 91 inline
+106,0x3594,redirect,0x37F1,10,{83}^{83}{8C}{83}R{83}~{0D},,2 isla(s) 91 inline
+107,0x359D,redirect,0x3801,5,AMM{0D},,1 isla(s) 91 inline
+108,0x35A4,redirect,0x3809,7,{94}{8E}{95}{A8}{8A}{D9},,3 isla(s) 91 inline
+109,0x35AD,redirect,0x3819,10,ACT2{8A}J{8A}{D9}{0D},,1 isla(s) 91 inline
+110,0x35BA,redirect,0x3826,10,ACT2{90}{F6}{93}{FC}{0D},,
+111,0x35C7,redirect,0x3830,21,\nJ{D0}{06}{83}`{83}F{83}C{83}Xf{83}{82}{82}{C8}{82}{B5}{0D},,3 isla(s) 91 inline
+112,0x35DE,redirect,0x384E,14,{83}J{D0}{06}{83}`{83}F{83}C{83}X{0D},,1 isla(s) 91 inline
+113,0x35EB,redirect,0x385F,12,{8E}X{8C}{E8}{83}{8D}{83}r{D0}{06}{0D},,
+114,0x35F6,redirect,0x386B,12,{83}}{83}X{83}L{D0}{06}{83}g{0D},,2 isla(s) 91 inline
+115,0x3601,redirect,0x387D,14,{8C}{8E}{96}{CA}{83}R{D0}{06}{83}i{D0}{06}{0D},,1 isla(s) 91 inline
+116,0x360E,redirect,0x388E,18,{83}r{83}{88}{83}{93}{83}h{83}R{D0}{06}{83}i{D0}{06}{0D},,1 isla(s) 91 inline
+117,0x361F,redirect,0x38A3,14,{92}T{8D}{B8}{83}R{D0}{06}{83}i{D0}{06}{0D},,1 isla(s) 91 inline
+118,0x362C,redirect,0x38B4,16,{83}^{83}{8C}{83}R{83}~{89}{AE}{93}o{8F}{EA}{0D},,2 isla(s) 91 inline
+119,0x363B,redirect,0x38CA,13,{83}^{83}{8C}{83}R{83}~{89}{AE}{8E}{80},,2 isla(s) 91 inline
+120,0x364A,redirect,0x38DD,16,TV{83}g{83}{8C}{D0}{06}{83}{89}{D0}{06}{93}{E0}{0D},,2 isla(s) 91 inline
+121,0x365B,redirect,0x38F3,8,{83}{82}{83}j{83}^{0D},,
+122,0x3662,redirect,0x38FB,14,{83}{8A}{83}j{83}A{83}{8C}{D0}{06}{83}{8B}{0D},,2 isla(s) 91 inline
+123,0x366F,redirect,0x390F,9,{92}{86}{95}u{93}{AA}{89}w,,1 isla(s) 91 inline
+124,0x367A,redirect,0x391B,10,{83}z{D0}{06}{83}{80}{93}{E0}{0D},,2 isla(s) 91 inline
+125,0x3683,redirect,0x392B,8,{8E}{D4}{97}{BC}{93}{E0}{0D},,1 isla(s) 91 inline
+126,0x368A,redirect,0x3936,8,{83}N{83}{8A}{83}X{0D},,1 isla(s) 91 inline
+127,0x3691,redirect,0x3941,5,{8A}{93}{89}{AE},,2 isla(s) 91 inline
+128,0x3698,redirect,0x394C,8,{8A}{93}{89}{AE}{93}{E0}{0D},,1 isla(s) 91 inline
+129,0x369F,redirect,0x3957,8,{8A}{93}{AD}I{82}{D1}{0D},,1 isla(s) 91 inline
+130,0x36A6,redirect,0x3962,7,{8A}{93}{D1}{8C}{E3}{0D},,2 isla(s) 91 inline
+131,0x36AF,redirect,0x396F,7,{94}{9A}{92}e{89}{F0},,3 isla(s) 91 inline
+132,0x36B8,redirect,0x397F,12,{94}{9A}{92}e{89}{F0}{B2}{CC}{8C}{E3}{0D},,1 isla(s) 91 inline
+133,0x36C3,redirect,0x398E,10,{8C}{8E}{96}{CA}{8A}{EE}{92}n{0D},,
+134,0x36CC,redirect,0x3998,12,{92}{86}{89}{9B}{88}{C4}{93}{E0}{8F}{8A}{0D},,
+135,0x36D7,redirect,0x39A4,13,{88}{C4}{93}{E0}{8F}{8A}2{89}{F1}{96}{DA}{0D},,2 isla(s) 91 inline
+136,0x36E4,redirect,0x39BA,5,{8D}H{8F}{EA},,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+137,0x36EF,redirect,0x39D7,15,{83}V{83}{85}{D0}{06}{83}e{83}B{83}{93}{83}O,,1 isla(s) 91 inline
+138,0x3700,redirect,0x39E9,14,{8D}H{8F}{EA}{93}{E0}{83}{82}{83}{8B}{83}O{0D},,2 isla(s) 91 inline
+139,0x3711,redirect,0x39FD,18,{83}T{83}{8B}{83}o{83}g{D0}{06}{83}{8C}{93}o{8F}{EA}{0D},,1 isla(s) 91 inline
+140,0x3722,redirect,0x3A12,15,{83}}{83}X{83}h{83}{89}{83}C{83}o{D0}{06},,1 isla(s) 91 inline
+141,0x3733,redirect,0x3A24,14,{8F}{D8}{8B}{92}{95}i{83}t{83}{89}{83}O{0D},,1 isla(s) 91 inline
+142,0x3740,redirect,0x3A35,9,ACT{82}{B2}{82}{C6}{0D},,1 isla(s) 91 inline
+143,0x374B,redirect,0x3A41,14,{83}A{83}C{83}e{83}{80}{82}{B2}{82}{C6}{0D},,1 isla(s) 91 inline
+144,0x3758,redirect,0x3A52,20,{88}{CB}{97}{8A}{90}l{82}{A9}{82}{E7}{97}a{82}{A9}{82}{E9}{95}{A8}{0D},,1 isla(s) 91 inline
+145,0x376B,redirect,0x3A6C,8,{97}{A7}{82}{C4}{82}{E9}{0D},,
+146,0x3772,redirect,0x3A74,6,{8F}{C1}{82}{B7}{0D},,
+147,0x3777,redirect,0x3A7A,16,{96}k{8F}{F0}{82}{CC}{8E}c{82}{B5}{82}{BD}{95}{A8}{0D},,
+148,0x3786,redirect,0x3A8A,10,ID{83}J{D0}{06}{83}h{0D},,
+149,0x3791,redirect,0x3A97,10,{83}f{D0}{06}{83}^CD{0D},,
+150,0x379C,redirect,0x3AA1,10,{90}l{8D}H{8C}{8C}{89}t{0D},,1 isla(s) 91 inline
+151,0x37A5,redirect,0x3AAE,12,{90}l{95}{A8}{83}t{83}{89}{83}O{0D},,
+152,0x37B0,redirect,0x3ABA,6,ACT5{0D},,
+153,0x37B9,redirect,0x3AC0,6,ACT6{0D},,
+154,0x37C2,redirect,0x3AC6,18,{83}p{D0}{06}{83}e{83}B{D0}{06}{83}t{83}{89}{83}O{0D},,
+155,0x37D3,redirect,0x3ADB,12,{83}G{83}b{83}`{8A}{D6}{8C}W{0D},,1 isla(s) 91 inline
+156,0x37DE,redirect,0x3AEA,22,\nX{83}y{D0}{06}{83}X{83}v{83}{8C}{D0}{06}{83}{93}{8B}@{93}{E0}{0D},,1 isla(s) 91 inline
+157,0x37F3,redirect,0x3B03,6,{8E}{F3}{95}t{0D},,1 isla(s) 91 inline
+158,0x37F8,redirect,0x3B0C,14,{83}g{83}N{83}K{83}{8F}{83}r{83}{8B}{0D},,1 isla(s) 91 inline
+159,0x3805,redirect,0x3B1D,10,{83}Q{83}{8A}{83}s{D0}{06}{0D},,
+160,0x380E,redirect,0x3B2A,8,{83}{81}{83}{8A}{83}{8B}{0D},,
+161,0x3815,redirect,0x3B32,14,{82}{E0}{82}{BD}{82}{E0}{82}{BD}{8A}{D6}{8C}W{0D},,1 isla(s) 91 inline
+162,0x3822,redirect,0x3B43,16,{83}Q{D0}{06}{83}{80}{83}I{D0}{06}{83}o{D0}{06}{0D},,
+163,0x3831,redirect,0x3B53,24,{83}Q{D0}{06}{83}{80}{83}I{D0}{06}{83}o{D0}{06}{89}{F1}{90}{94}{82}{CC}{82}{DD}{0D},,1 isla(s) 91 inline
+164,0x3848,redirect,0x3B6E,14,ACT2{8E}{80}{96}S{89}{F1}{90}{94}{0D},,
+165,0x3859,redirect,0x3B7C,20,{83}{8C}{83}b{83}h{83}E{83}b{83}h{82}{C9}{8E}E{8A}Q{0D},,1 isla(s) 91 inline
+166,0x386C,redirect,0x3B93,14,{82}{A0}{82}{E7}{82}{B7}{82}{B6}{8A}{D6}{8C}W{0D},,1 isla(s) 91 inline
+167,0x3879,redirect,0x3BA4,18,{83}v{83}{8D}{83}{8D}{D0}{06}{83}O{8F}I{82}{ED}{82}{E8}{0D},,
+168,0x388A,redirect,0x3BB6,12,ACT1{8F}I{82}{ED}{82}{E8}{0D},,1 isla(s) 91 inline
+169,0x3899,redirect,0x3BC5,12,ACT2{8F}I{82}{ED}{82}{E8}{0D},,
+170,0x38A8,redirect,0x3BD1,12,ACT3{8F}I{82}{ED}{82}{E8}{0D},,
+171,0x38B7,redirect,0x3BDD,12,ACT4{8F}I{82}{ED}{82}{E8}{0D},,
+172,0x38C6,redirect,0x3BE9,12,ACT5{8F}I{82}{ED}{82}{E8}{0D},,
+173,0x38D5,redirect,0x3BF5,12,ACT6{8F}I{82}{ED}{82}{E8}{0D},,1 isla(s) 91 inline
+174,0x38E4,redirect,0x3C04,5,{82}{BB}{82}{CC},,2 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+175,0x38EB,redirect,0x3C29,15,{B8}{82}{C9}{8F}o{82}{A9}{82}{AF}{82}{E6}{82}{A4}{0D},,1 isla(s) 91 inline
+176,0x38FC,redirect,0x3C3B,14,{83}G{83}h{82}{C9}{82}{E2}{82}{C9}{82}{E2}{0D},,1 isla(s) 91 inline
+177,0x3909,redirect,0x3C4C,20,{83}W{83}{87}{83}i{83}T{83}{93}{82}{A8}{82}{E2}{82}{B7}{82}{DD}{0D},,cadena 92: 2 fragmentos unidos
+178,0x391C,redirect,0x3C71,10,{8A}{D3}{8E}{AF}{8C}{8B}{89}{CA}{0D},,1 isla(s) 91 inline
+179,0x3925,redirect,0x3C7E,13,Change Card{0D},,
+180,0x3930,redirect,0x3C8B,6,Save{0D},,1 isla(s) 91 inline
+181,0x3937,redirect,0x3C94,10,DISK{8C}{F0}{8A}{B7}{0D},,1 isla(s) 91 inline
+182,0x3944,redirect,0x3CA1,7,DISK1{0D},,
+183,0x394F,redirect,0x3CA8,7,DISK2{0D},,
+184,0x395A,redirect,0x3CAF,18,{83}{8C}{83}Z{83}v{83}^{83}f{83}o{83}b{83}O{0D},,1 isla(s) 91 inline
+185,0x396B,redirect,0x3CC4,4,ON{0D},,
+186,0x3970,redirect,0x3CC8,5,OFF{0D},,
+187,0x3977,redirect,0x3CCD,6,Quit{0D},,1 isla(s) 91 inline
+188,0x3986,redirect,0x3CD6,22,Do you want to save?{0D},,1 isla(s) 91 inline
+189,0x39AB,redirect,0x3CEF,6,Save{0D},,
+190,0x39B0,redirect,0x3CF5,12,Don't Save{0D},,
+191,0x39B7,redirect,0x3D01,8,Cancel{0D},,
+192,0x39C2,inplace,0x39C2,12,warning.pak,,sin codigo 91: revisar
+193,0x39CE,redirect,0x3D09,16,Select a file.{0D},,1 isla(s) 91 inline
+194,0x39F9,redirect,0x3D1C,13,File 1 ----{0D},,
+195,0x3A0A,redirect,0x3D29,35,An error occurred during loading.{0D},,
+196,0x3A2B,redirect,0x3D4C,13,File 2 ----{0D},,1 isla(s) 91 inline
+197,0x3A3C,redirect,0x3D5C,13,File 3 ----{0D},,1 isla(s) 91 inline
+198,0x3A4D,redirect,0x3D6C,13,File 4 ----{0D},,1 isla(s) 91 inline
+199,0x3A5E,redirect,0x3D7C,8,Cancel{0D},,
+200,0x3A69,redirect,0x3D84,16,Select a file.{0D},,
+201,0x3A94,redirect,0x3D94,13,File 1 ----{0D},,1 isla(s) 91 inline
+202,0x3AA5,redirect,0x3DA4,22,Data already exists.{0D},,
+203,0x3AD8,redirect,0x3DBD,12,Don't Save{0D},,
+204,0x3AE5,redirect,0x3DC9,15,Save aborted.{0D},,
+205,0x3AFA,redirect,0x3DD8,11,Overwrite{0D},,1 isla(s) 91 inline
+206,0x3B05,redirect,0x3DE6,13,File 2 ----{0D},,
+207,0x3B16,redirect,0x3DF3,13,File 3 ----{0D},,
+208,0x3B27,redirect,0x3E00,13,File 4 ----{0D},,
+209,0x3B38,redirect,0x3E0D,16,Now saving....{0D},,1 isla(s) 91 inline
+210,0x3B67,redirect,0x3E20,34,An error occurred during saving.{0D},,1 isla(s) 91 inline
+211,0x3B88,redirect,0x3E45,13,File saved.{0D},,
+212,0x3B99,redirect,0x3E52,22,Do you want to save?{0D},,1 isla(s) 91 inline
+213,0x3BBE,redirect,0x3E6B,22,Do you want to save?{0D},,
+214,0x3BFB,redirect,0x3E81,6,Save{0D},,
+215,0x3C06,inplace,0x3C06,11,sample.pak,,sin codigo 91: revisar
+216,0x3C11,inplace,0x3C11,9,yure.pak,,sin codigo 91: revisar
+217,0x3C1A,redirect,0x3E87,5,BCP{0D},,1 isla(s) 91 inline
+218,0x3C25,redirect,0x3E8F,32,You wanna go back to HQ? Sure.{0D},,
+219,0x3C48,redirect,0x3EAF,13,Back it is.{0D},,
+220,0x3C5D,inplace,0x3C5D,11,x99cel.pak,,sin codigo 91: revisar
+221,0x3C68,redirect,0x3EBC,26,Tokugawa Pharmaceuticals{0D},,1 isla(s) 91 inline
+222,0x3C75,redirect,0x3ED9,33,Tokugawa Pharmaceuticals it is.{0D},,
+223,0x3C8E,redirect,0x3EFA,14,Hojo's House{0D},,
+224,0x3C95,redirect,0x3F08,2,{0D},,
+225,0x3CC0,redirect,0x3F0A,2,{0D},,
+226,0x3CD1,redirect,0x3F0C,2,{0D},,
+227,0x3CE8,redirect,0x3F0E,2,{0D},,
+228,0x3D17,redirect,0x3F10,2,{0D},,
+229,0x3D52,redirect,0x3F12,2,{0D},,
+230,0x3D5D,redirect,0x3F14,2,{0D},,
+231,0x3D6E,redirect,0x3F16,2,{0D},,
+232,0x3D9D,redirect,0x3F18,27,Heading for Hojo's house.{0D},,
+233,0x3DBA,redirect,0x3F36,30,I'll let you do the talking.{0D},,1 isla(s) 91 inline
+234,0x3DDB,redirect,0x3F57,78,I wouldn't worry so much. \nKaren's an adult.  She\nunderstands the situation.{0D},,2 isla(s) 91 inline
+235,0x3E0E,redirect,0x3FAB,50,"Time to... go meet Lorraine's\ndaughter, I guess.{0D}",,2 isla(s) 91 inline
+236,0x3E37,redirect,0x3FE3,2,{0D},,
+237,0x3E5C,redirect,0x3FE5,2,{0D},,
+238,0x3E8B,redirect,0x3FE7,2,{0D},,
+239,0x3ED2,redirect,0x3FE9,2,{0D},,
+240,0x3F33,redirect,0x3FEB,2,{0D},,
+241,0x3F4C,redirect,0x3FED,49,We can ask someone at his work\nfor his address.{0D},,1 isla(s) 91 inline
+242,0x3F7B,redirect,0x4021,6,BCCH{0D},,
+243,0x3F84,redirect,0x4027,2,{0D},,
+244,0x3FBB,redirect,0x4029,2,{0D},,
+245,0x3FDE,redirect,0x402B,2,{0D},,
+246,0x4013,redirect,0x402D,2,{0D},,
+247,0x405E,redirect,0x402F,2,{0D},,
+248,0x4071,redirect,0x4031,2,{0D},,
+249,0x407C,redirect,0x4033,2,{0D},,
+250,0x40B5,redirect,0x4035,2,{0D},,
+251,0x40C6,redirect,0x4037,31,"Alright, we'll head for BCCH.{0D}",,
+252,0x40E7,redirect,0x4056,23,Hope Chris is around.{0D},,1 isla(s) 91 inline
+253,0x40FE,redirect,0x4070,53,"Yeah, I bet you do.  Just\nremember why we're going.{0D}",,2 isla(s) 91 inline
+254,0x4123,redirect,0x40AB,46,There's gotta be some clues there\nsomewhere.{0D},,2 isla(s) 91 inline
+255,0x414E,redirect,0x40DF,19,Tokugawa Building{0D},,1 isla(s) 91 inline
+256,0x415B,redirect,0x40F5,2,{0D},,
+257,0x41BC,redirect,0x40F7,2,{0D},,
+258,0x4201,redirect,0x40F9,2,{0D},,
+259,0x422A,redirect,0x40FB,2,{0D},,
+260,0x4283,redirect,0x40FD,2,{0D},,1 isla(s) 91 inline
+261,0x42C2,redirect,0x4102,2,{0D},,
+262,0x4303,redirect,0x4104,2,{0D},,
+263,0x4330,redirect,0x4106,2,{0D},,
+264,0x4371,redirect,0x4108,2,{0D},,
+265,0x439E,redirect,0x410A,2,{0D},,
+266,0x43C3,redirect,0x410C,25,Back to the Prop we go.{0D},,1 isla(s) 91 inline
+267,0x43EA,redirect,0x4128,47,I wonder if our little lady friend's\non duty.{0D},,1 isla(s) 91 inline
+268,0x440F,redirect,0x415A,77,Try to be more careful this time. \nWe don't wanna hamper the\ninvestigation.{0D},,1 isla(s) 91 inline
+269,0x443C,redirect,0x41AA,26,Think Tokugawa's around?{0D},,1 isla(s) 91 inline
+270,0x444F,redirect,0x41C7,31,Who knows.  Could be a bluff.{0D},,
+271,0x447C,redirect,0x41E6,6,....{0D},,
+272,0x4483,redirect,0x41EC,2,{0D},,
+273,0x44A4,redirect,0x41EE,2,{0D},,
+274,0x44B3,redirect,0x41F0,2,{0D},,
+275,0x44C0,redirect,0x41F2,2,{0D},,
+276,0x44ED,redirect,0x41F4,2,{0D},,
+277,0x44FC,redirect,0x41F6,2,{0D},,
+278,0x4521,redirect,0x41F8,2,{0D},,
+279,0x4528,redirect,0x41FA,2,{0D},,
+280,0x457D,redirect,0x41FC,2,{0D},,
+281,0x458C,redirect,0x41FE,2,{0D},,
+282,0x459F,redirect,0x4200,2,{0D},,1 isla(s) 91 inline
+283,0x45DE,redirect,0x4205,2,{0D},,
+284,0x4609,redirect,0x4207,2,{0D},,
+285,0x4666,redirect,0x4209,2,{0D},,
+286,0x46C5,redirect,0x420B,2,{0D},,
+287,0x46D8,redirect,0x420D,2,{0D},,
+288,0x4709,redirect,0x420F,2,{0D},,
+289,0x476E,redirect,0x4211,2,{0D},,
+290,0x479B,redirect,0x4213,2,{0D},,
+291,0x47C2,redirect,0x4215,29,"Sure, we can go back to HQ.{0D}",,1 isla(s) 91 inline
+292,0x47DF,redirect,0x4235,21,Hojo's house it is.{0D},,
+293,0x47F4,redirect,0x424A,21,Let's go see Karen.{0D},,
+294,0x4813,redirect,0x425F,31,You think that's where it is?{0D},,
+295,0x4834,redirect,0x427E,12,Ed's House{0D},,1 isla(s) 91 inline
+296,0x483B,redirect,0x428D,60,"The informant's waiting, Jonathan. \nWe need to get to AMM!{0D}",,1 isla(s) 91 inline
+297,0x4872,redirect,0x42CC,64,We don't have time to hang\naround my house.  Let's get to\nAMM!{0D},,1 isla(s) 91 inline
+298,0x48A3,redirect,0x430F,25,I guess we can do that.{0D},,
+299,0x48B6,redirect,0x4328,38,You wanna drop in at my house?\nFine.{0D},,1 isla(s) 91 inline
+300,0x48DB,redirect,0x4351,2,{0D},,
+301,0x4900,redirect,0x4353,2,{0D},,
+302,0x491B,redirect,0x4355,48,There's definitely something about\nthat place.{0D},,1 isla(s) 91 inline
+303,0x493A,redirect,0x4388,57,Let's get over to BCCH and try the\npharmacy's computer.{0D},,2 isla(s) 91 inline
+304,0x4963,redirect,0x43C7,38,A hospital at this time of night....{0D},,1 isla(s) 91 inline
+305,0x4980,redirect,0x43F0,43,We don't have a choice.  This can't\nwait.{0D},,1 isla(s) 91 inline
+306,0x499B,redirect,0x441E,13,BCCH it is.{0D},,
+307,0x49B4,redirect,0x442B,5,AMM{0D},,
+308,0x49BB,redirect,0x4430,57,The informant's waiting for us. \nLet's get over to AMM!{0D},,2 isla(s) 91 inline
+309,0x49F0,redirect,0x446F,45,Now we find out who the hell this\njoker is.{0D},,2 isla(s) 91 inline
+310,0x4A0D,redirect,0x44A2,21,That's a good idea.{0D},,2 isla(s) 91 inline
+311,0x4A30,redirect,0x44BD,34,Let's see what's going on at HQ.{0D},,1 isla(s) 91 inline
+312,0x4A4D,redirect,0x44E2,2,{0D},,
+313,0x4A6C,redirect,0x44E4,2,{0D},,
+314,0x4AA3,redirect,0x44E6,2,{0D},,
+315,0x4AEA,redirect,0x44E8,2,{0D},,
+316,0x4B0B,redirect,0x44EA,2,{0D},,
+317,0x4B8C,redirect,0x44EC,2,{0D},,1 isla(s) 91 inline
+318,0x4BE9,redirect,0x44F1,2,{0D},,
+319,0x4C66,redirect,0x44F3,42,Do you want to use the autosave\nfeature?{0D},,1 isla(s) 91 inline
+320,0x4C95,redirect,0x4520,5,Yes{0D},,1 isla(s) 91 inline
+321,0x4CAC,redirect,0x452B,17,Now loading....{0D},,
+322,0x4CBB,redirect,0x453C,35,An error occurred during loading.{0D},,
+323,0x4CDC,redirect,0x455F,14,File loaded.{0D},,
+324,0x4CED,redirect,0x456D,24,\nI{D0}{06}{83}v{83}j{83}{93}{83}O{89}{E6}{96}{CA}{82}{C9}{96}{DF}{82}{E9}{0D},,1 isla(s) 91 inline
+325,0x4D04,inplace,0x4D04,10,telop.pak,,sin codigo 91: revisar
+326,0x4D0E,inplace,0x4D0E,12,sm_x107.pak,,sin codigo 91: revisar
+327,0x4D1A,inplace,0x4D1A,9,yure.pak,,sin codigo 91: revisar
+328,0x4D23,inplace,0x4D23,9,star.pak,,sin codigo 91: revisar
+329,0x4D2C,inplace,0x4D2C,8,tel.pak,,sin codigo 91: revisar
+330,0x4D34,inplace,0x4D34,10,flash.pak,,sin codigo 91: revisar
+331,0x4D3E,inplace,0x4D3E,11,elback.pak,,sin codigo 91: revisar
+332,0x4D49,inplace,0x4D49,5,elv1,,sin codigo 91: revisar
+333,0x4D4E,inplace,0x4D4E,13,elback_f.pak,,sin codigo 91: revisar
+334,0x4D5B,inplace,0x4D5B,12,3sukumi.pak,,sin codigo 91: revisar

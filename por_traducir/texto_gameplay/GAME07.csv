@@ -1,0 +1,1183 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x4242,redirect,0x41E7,40,We're outside Tokugawa\nPharmaceuticals.,,
+1,0x4261,redirect,0x420F,54,It doesn't look like we'll find any\nother leads here.,,2 isla(s) 91 inline
+2,0x4298,redirect,0x424B,57,I don't think we're gonna get\nanything else out of here.,,1 isla(s) 91 inline
+3,0x42C9,redirect,0x4287,29,You wanna go check out BCCH?,,1 isla(s) 91 inline
+4,0x42EC,redirect,0x42A7,42,"We'll find more at BCCH, don't you\nthink?",,1 isla(s) 91 inline
+5,0x431B,redirect,0x42D4,37,Why don't we check out Hojo's\nhouse?,,1 isla(s) 91 inline
+6,0x433C,redirect,0x42FC,64,"Why don't we go check\nsomewhere else? Like Hojo's\nhouse, maybe?",,2 isla(s) 91 inline
+7,0x4361,redirect,0x4342,1,,,
+8,0x4398,redirect,0x4343,1,,,
+9,0x43C9,redirect,0x4344,1,,,
+10,0x43FE,redirect,0x4345,1,,,
+11,0x440F,redirect,0x4346,1,,,
+12,0x4452,redirect,0x4347,1,,,
+13,0x44A1,redirect,0x4348,1,,,
+14,0x44CE,redirect,0x4349,1,,,
+15,0x4517,redirect,0x434A,1,,,
+16,0x4554,redirect,0x434B,1,,,
+17,0x455F,redirect,0x434C,1,,,
+18,0x4578,redirect,0x434D,1,,,
+19,0x458F,redirect,0x434E,35,We're at Tokugawa\nPharmaceuticals.,,1 isla(s) 91 inline
+20,0x45A2,redirect,0x4374,1,,,
+21,0x4619,redirect,0x4375,1,,,
+22,0x4646,redirect,0x4376,1,,,
+23,0x4671,redirect,0x4377,15,We're outside.,,
+24,0x4690,redirect,0x4386,58,We're at Tokugawa\nPharmaceuticals.  What do you\nwanna do?,,1 isla(s) 91 inline
+25,0x46B7,redirect,0x43C3,43,We've arrived at Tokugawa\nPharmaceuticals.,,1 isla(s) 91 inline
+26,0x46D0,redirect,0x43F1,35,We're at Tokugawa\nPharmaceuticals.,,2 isla(s) 91 inline
+27,0x46ED,redirect,0x441A,42,"This is where they're making\nNarc, Gates.",,
+28,0x472A,redirect,0x4444,20,"Lead the way, guys.",,1 isla(s) 91 inline
+29,0x474B,redirect,0x445B,5,Move,,
+30,0x4750,redirect,0x4460,10,Go inside,,
+31,0x4759,redirect,0x446A,6,Drive,,
+32,0x4762,redirect,0x4470,7,System,,
+33,0x476B,redirect,0x4477,38,I thought we were gonna sneak\ninside?,,
+34,0x4792,redirect,0x449D,53,"What's wrong, Jonathan? We\ncan't just turn back now.",,2 isla(s) 91 inline
+35,0x47B5,redirect,0x44D8,27,Aren't we gonna go inside?,,
+36,0x47DE,redirect,0x44F3,5,Look,,
+37,0x47E3,redirect,0x44F8,67,Funny looking building.  It's like\nsome kinda palace or something.,,1 isla(s) 91 inline
+38,0x480C,redirect,0x453E,63,I've seen this design before in\nancient Japanese architecture.,,3 isla(s) 91 inline
+39,0x4835,redirect,0x4586,53,This is Tokugawa Pharmaceuticals'\nR&D building here.,,2 isla(s) 91 inline
+40,0x4854,redirect,0x45C1,32,The Narc factory's inside here.,,
+41,0x489D,redirect,0x45E1,36,"Well, I'd certainly like to see it.",,
+42,0x48B0,redirect,0x4605,41,The only entrance is at the front\nthere.,,1 isla(s) 91 inline
+43,0x48CB,redirect,0x4631,36,"Alright, we'll secure the entrance.",,1 isla(s) 91 inline
+44,0x48E6,redirect,0x4658,30,This place is eerie at night.,,1 isla(s) 91 inline
+45,0x4905,redirect,0x4679,47,"Yeah, it's totally different from the\ndaytime.",,1 isla(s) 91 inline
+46,0x492A,redirect,0x46AB,45,It doesn't seem like anybody's still\naround.,,2 isla(s) 91 inline
+47,0x4959,redirect,0x46DE,41,Seems totally deserted.  Perfect\nfor us.,,1 isla(s) 91 inline
+48,0x498A,redirect,0x470A,39,This appears to be the front\nentrance.,,1 isla(s) 91 inline
+49,0x49A9,redirect,0x4734,26,"Hey, it's open! Let's go.",,2 isla(s) 91 inline
+50,0x49DA,redirect,0x4754,38,This is the entrance to the\nbuilding.,,3 isla(s) 91 inline
+51,0x49F9,redirect,0x4783,67,"This is the door to the facility. \nShit, it's got a magnetic lock.",,2 isla(s) 91 inline
+52,0x4A2C,redirect,0x47CC,44,"Don't worry, we've got Hojo's ID,\nremember?",,2 isla(s) 91 inline
+53,0x4A57,redirect,0x47FE,41,We can go inside anytime with\nHojo's ID.,,1 isla(s) 91 inline
+54,0x4A86,redirect,0x482A,67,"Yeah, the door's locked, not\nsurprisingly.  Let's use the ID\ncard.",,2 isla(s) 91 inline
+55,0x4AB3,redirect,0x4873,58,Let's hope they haven't removed\nhis card from the system.,,1 isla(s) 91 inline
+56,0x4AE8,redirect,0x48B3,39,We can open the door with the ID\ncard.,,1 isla(s) 91 inline
+57,0x4B11,redirect,0x48DD,38,This is the entrance to the\nbuilding.,,2 isla(s) 91 inline
+58,0x4B3A,redirect,0x4909,39,The Narc factory's right through\nhere.,,1 isla(s) 91 inline
+59,0x4B6B,redirect,0x4933,117,"That's the Tokugawa aoi, the\nhollyhocks.{80238057}It's the Tokugawa Group's logo,\nborrowed from the Tokugawa\nfamily crest.",,3 isla(s) 91 inline
+60,0x4BB4,redirect,0x49B1,61,Look at how big they've got it up\nthere.  You can't miss it.,,1 isla(s) 91 inline
+61,0x4BF9,redirect,0x49F1,94,Seems a little weak for a corporate\nlogo.  Could've done with more\ntime at the drawing board.,,2 isla(s) 91 inline
+62,0x4C3A,redirect,0x4A55,27,There's the Tokugawa logo.,,1 isla(s) 91 inline
+63,0x4C55,redirect,0x4A73,41,I never thought I'd see a day like\nthis.,,1 isla(s) 91 inline
+64,0x4C8C,redirect,0x4A9F,34,I can't stand that fucking thing.,,1 isla(s) 91 inline
+65,0x4CBB,redirect,0x4AC4,87,Even that logo's hard to see in this\nlight.  Why didn't they just make it\na neon sign?,,2 isla(s) 91 inline
+66,0x4D16,redirect,0x4B21,112,"Neon signs aren't permitted on\nBeyond.{80238057}They'd become an air safety\nhazard, as well as cause light\npollution.",,2 isla(s) 91 inline
+67,0x4D7D,redirect,0x4B97,24,It's the Tokugawa logo.,,
+68,0x4DAC,redirect,0x4BAF,64,The Tokugawa Pharmaceuticals\nResearch and Development\nFacility.,,1 isla(s) 91 inline
+69,0x4DDB,redirect,0x4BF2,65,More like the Tokugawa\nPharmaceuticals Narc Production\nFacility.,,1 isla(s) 91 inline
+70,0x4E0E,redirect,0x4C36,61,This is definitely it.  This is where\nthey manufacture Narc.,,2 isla(s) 91 inline
+71,0x4E53,redirect,0x4C79,105,"This is the building's nameplate.{80238057}It says ""Tokugawa\nPharmaceuticals Research &\nDevelopment Facility"".",,2 isla(s) 91 inline
+72,0x4E96,redirect,0x4CE8,30,It's written in Japanese too.,,
+73,0x4EB9,redirect,0x4D06,38,It's the nameplate for this facility.,,1 isla(s) 91 inline
+74,0x4EE2,redirect,0x4D2F,80,There's no lighting anywhere. \nNormally you at least see some\nambient lighting.,,1 isla(s) 91 inline
+75,0x4F2B,redirect,0x4D82,77,They wanna keep it as low-key as\npossible.  That's not like Tokugawa\nat all.,,1 isla(s) 91 inline
+76,0x4F6A,redirect,0x4DD2,54,They definitely don't skimp on\namenities around here.,,1 isla(s) 91 inline
+77,0x4FA5,redirect,0x4E0B,105,"Well, this is a space colony.  It isn't\nlike Home.{80238057}You have to stimulate the\neconomy any way you can.",,2 isla(s) 91 inline
+78,0x4FF6,redirect,0x4E7A,15,It's a garden.,,
+79,0x4FFF,redirect,0x4E89,30,Looks like a Japanese garden.,,1 isla(s) 91 inline
+80,0x501A,redirect,0x4EAA,135,Tokugawa's obviously bringing as\nmuch of Japan here as he can.  It\ndoesn't seem to matter that this is\n an international space colony.,,3 isla(s) 91 inline
+81,0x5043,redirect,0x4F3A,38,This garden couldn't have been\ncheap.,,
+82,0x505C,redirect,0x4F60,56,This is exactly the kinda garden\nTokugawa would put up.,,1 isla(s) 91 inline
+83,0x5077,redirect,0x4F9B,35,"No black poppies out here,\nthough.",,1 isla(s) 91 inline
+84,0x5096,redirect,0x4FC1,49,Watch your step.  There might be\nsensors around.,,
+85,0x50CD,redirect,0x4FF2,20,You mean bug traps?,,2 isla(s) 91 inline
+86,0x50E6,redirect,0x500C,37,There are hardly any bugs on\nBeyond.,,1 isla(s) 91 inline
+87,0x510D,redirect,0x5034,22,I meant bugs like us.,,1 isla(s) 91 inline
+88,0x5124,redirect,0x504D,44,This darkness even makes the\ngarden creepy.,,2 isla(s) 91 inline
+89,0x5149,redirect,0x507F,32,"Look, they've got fish in here!",,1 isla(s) 91 inline
+90,0x5168,redirect,0x50A2,81,They're koi.  It's not uncommon\nfor Japanese to spend money on\nthings like this.,,2 isla(s) 91 inline
+91,0x519D,redirect,0x50F9,28,It's a pond with koi in it.,,1 isla(s) 91 inline
+92,0x51B4,redirect,0x5118,60,That's just a pond.  There's\nnothing in it except the fish.,,2 isla(s) 91 inline
+93,0x51D3,redirect,0x515A,91,There aren't any lights in the\npond.  I guess they conserve\nelectricity wherever they can.,,3 isla(s) 91 inline
+94,0x5204,redirect,0x51BE,34,There's nothing unusual about it.,,1 isla(s) 91 inline
+95,0x5225,redirect,0x51E3,1,,,
+96,0x524E,redirect,0x51E4,1,,,
+97,0x5277,redirect,0x51E5,1,,,
+98,0x5282,redirect,0x51E6,1,,,
+99,0x52A3,redirect,0x51E7,1,,,
+100,0x52B6,redirect,0x51E8,1,,,
+101,0x52C7,redirect,0x51E9,1,,,
+102,0x52EE,redirect,0x51EA,1,,,
+103,0x52FF,redirect,0x51EB,1,,,
+104,0x5324,redirect,0x51EC,1,,,
+105,0x5345,redirect,0x51ED,1,,,
+106,0x5354,redirect,0x51EE,1,,,
+107,0x5365,redirect,0x51EF,104,That's a flagpole.{80238057}They raise the Tokugawa flag and\nthe Japanese national flag on\nJapanese holidays.,,3 isla(s) 91 inline
+108,0x53B0,redirect,0x5260,60,I have to laugh whenever I see a\ncompany with its own flag.,,2 isla(s) 91 inline
+109,0x53D3,redirect,0x52A2,93,Too bad they don't have the flags\nout.{80238057}I wouldn't mind leaving a couple\npresents in them.,,5 isla(s) 91 inline
+110,0x53F8,redirect,0x530E,21,The flags aren't up.,,
+111,0x540D,redirect,0x5323,32,The flags aren't out right now.,,2 isla(s) 91 inline
+112,0x5422,redirect,0x5349,75,These are some nice tiles.  Must\ntake a lot of work keeping them so\nclean.,,2 isla(s) 91 inline
+113,0x5451,redirect,0x539A,110,They're probably that type made\nwith fibrous activated charcoal. \n\n You can smell it if you get close\nenough.,,4 isla(s) 91 inline
+114,0x5498,redirect,0x5414,185,They'll be coated with this\nchemical that keeps birds and\nother animals away.{80238057}It's actually patented by Tokugawa\nPharmaceuticals.{80238057}They use it on all building\nmaterials on Beyond.,,3 isla(s) 91 inline
+115,0x5517,redirect,0x54D6,40,Too bad for them it doesn't work\non us.,,
+116,0x553C,redirect,0x54FE,44,They look as if they've just been\npolished.,,1 isla(s) 91 inline
+117,0x555B,redirect,0x552D,60,Tokugawa won't be too happy\nabout us scuffing up his tiles.,,2 isla(s) 91 inline
+118,0x5598,redirect,0x556F,56,Who gives a shit? After all the\npeople he's stepped on?,,1 isla(s) 91 inline
+119,0x55D9,redirect,0x55AA,123,It doesn't look like the EMPS will\nhave a problem moving on the\nground here.{80238057}The EMPS Units can proceed in\nground mode.,,1 isla(s) 91 inline
+120,0x5650,redirect,0x5628,47,There might be pressure sensors\nin the ground.,,1 isla(s) 91 inline
+121,0x567F,redirect,0x565A,28,"S'alright, I don't see any.",,
+122,0x56BE,redirect,0x5676,50,Watch your step.  It'll be slippery\nwith the dew.,,1 isla(s) 91 inline
+123,0x56F1,redirect,0x56AB,6,Smell,,
+124,0x56F6,redirect,0x56B1,55,"{D0}{06}sniff sniff{D0}{06} I smell the\ncharcoal, but no chemical.",,1 isla(s) 91 inline
+125,0x571D,redirect,0x56EB,44,Apparently humans can't register\nthe smell.,,2 isla(s) 91 inline
+126,0x573A,redirect,0x5720,51,I do smell something else. \nCorporate malfeasance.,,1 isla(s) 91 inline
+127,0x575F,redirect,0x5756,41,There's light coming from the\nlamp post.,,2 isla(s) 91 inline
+128,0x5780,redirect,0x5785,76,Try to stay away from the lamp\nposts.  We wouldn't want\nsomebody to see us.,,1 isla(s) 91 inline
+129,0x57B9,redirect,0x57D4,59,It's a lamp post.  Careful it isn't\nconnected to an alarm.,,2 isla(s) 91 inline
+130,0x57F2,redirect,0x5815,25,That's only a lamp post.,,1 isla(s) 91 inline
+131,0x5809,redirect,0x5831,27,It looks like a lamp post.,,
+132,0x581A,redirect,0x584C,149,That type of lamp has a built-in\nlight sensor with automatic\ncutoff.{80238057}All energy on Beyond is conserved\nwherever possible.  Nothing goes\nto waste.,,2 isla(s) 91 inline
+133,0x58A5,redirect,0x58E7,95,It's a lamp post with a built-in\nlight sensor.  It'll come on\nautomatically when it gets dark.,,1 isla(s) 91 inline
+134,0x58D8,redirect,0x5949,69,Look at all the trees they've got\nhere.  It's almost a small forest.,,3 isla(s) 91 inline
+135,0x5915,redirect,0x5997,89,"Jonathan, these trees are privately\nowned.  They all belong to\nTokugawa Pharmaceuticals.",,2 isla(s) 91 inline
+136,0x5950,redirect,0x59F6,19,No control plates?,,
+137,0x5971,redirect,0x5A09,17,How do you know?,,1 isla(s) 91 inline
+138,0x5982,redirect,0x5A1D,87,"All plants on Beyond have control\nplates on them, since they're\nmonitored by computer.",,1 isla(s) 91 inline
+139,0x59CF,redirect,0x5A77,28,I bet these cost a fortune.,,1 isla(s) 91 inline
+140,0x59E8,redirect,0x5A96,89,Very like Tokugawa to cover a\nresearch facility with plants.{80238057}That doesn't come cheap.,,1 isla(s) 91 inline
+141,0x5A19,redirect,0x5AF2,27,Watch out for any sensors.,,1 isla(s) 91 inline
+142,0x5A4E,redirect,0x5B10,80,"We know the general makeup of\nthe building, Jonathan.  Let's just\nget in there.",,1 isla(s) 91 inline
+143,0x5A83,redirect,0x5B66,31,Let's hurry up and get inside.,,1 isla(s) 91 inline
+144,0x5ABC,redirect,0x5B88,43,"Hurry up and show us everything,\nJonathan.",,2 isla(s) 91 inline
+145,0x5AF9,redirect,0x5BB9,25,"Let's head inside, then.",,
+146,0x5B1E,redirect,0x5BD2,1,,,
+147,0x5B63,redirect,0x5BD3,1,,,
+148,0x5B80,redirect,0x5BD4,1,,,
+149,0x5B95,redirect,0x5BD5,1,,,
+150,0x5BB0,redirect,0x5BD6,1,,,
+151,0x5BEB,redirect,0x5BD7,78,"Go check the door.  I don't think\nit'd be open at this time of night,\nthough.",,2 isla(s) 91 inline
+152,0x5C22,redirect,0x5C2B,17,"Let's go, Gates!",,1 isla(s) 91 inline
+153,0x5C39,redirect,0x5C3F,1,,,
+154,0x5C58,redirect,0x5C40,1,,,
+155,0x5C87,redirect,0x5C41,1,,,
+156,0x5CC6,redirect,0x5C42,1,,,
+157,0x5CF1,redirect,0x5C43,24,Well? Is the door open?,,1 isla(s) 91 inline
+158,0x5D18,redirect,0x5C5E,29,"Go check the door, Jonathan.",,
+159,0x5D35,redirect,0x5C7B,1,,,
+160,0x5D84,redirect,0x5C7C,1,,,
+161,0x5DA5,redirect,0x5C7D,26,Did you forget something?,,1 isla(s) 91 inline
+162,0x5DC0,redirect,0x5C9A,16,What is it now?,,
+163,0x5DD9,redirect,0x5CAA,12,Back again?,,
+164,0x5DF8,redirect,0x5CB6,51,"You guys again? You take your\njobs seriously, huh?",,1 isla(s) 91 inline
+165,0x5E21,redirect,0x5CEC,34,I've already told you everything.,,1 isla(s) 91 inline
+166,0x5E40,redirect,0x5D11,43,We're at reception.  The guard\nisn't here.,,2 isla(s) 91 inline
+167,0x5E67,redirect,0x5D42,38,We're at reception.  No one's\naround.,,
+168,0x5E88,redirect,0x5D68,1,,,
+169,0x5EB7,redirect,0x5D69,1,,,
+170,0x5ECA,redirect,0x5D6A,1,,,
+171,0x5F01,redirect,0x5D6B,1,,,
+172,0x5F42,redirect,0x5D6C,1,,,
+173,0x5F69,redirect,0x5D6D,1,,,
+174,0x5FAA,redirect,0x5D6E,1,,,
+175,0x5FB5,redirect,0x5D6F,1,,,
+176,0x5FE8,redirect,0x5D70,1,,,
+177,0x6003,redirect,0x5D71,1,,,
+178,0x6014,redirect,0x5D72,1,,,
+179,0x603D,redirect,0x5D73,1,,,
+180,0x608E,redirect,0x5D74,1,,,
+181,0x60AF,redirect,0x5D75,1,,,
+182,0x60BA,redirect,0x5D76,1,,,
+183,0x60C5,redirect,0x5D77,1,,,
+184,0x60CE,redirect,0x5D78,1,,,
+185,0x60E3,redirect,0x5D79,1,,,
+186,0x6102,redirect,0x5D7A,1,,,
+187,0x6129,redirect,0x5D7B,1,,,
+188,0x6164,redirect,0x5D7C,1,,,
+189,0x6199,redirect,0x5D7D,1,,,
+190,0x61F4,redirect,0x5D7E,1,,,
+191,0x6223,redirect,0x5D7F,1,,,
+192,0x6266,redirect,0x5D80,1,,,
+193,0x62E3,redirect,0x5D81,1,,,
+194,0x6340,redirect,0x5D82,1,,,
+195,0x6367,redirect,0x5D83,1,,,
+196,0x6380,redirect,0x5D87,1,,,
+197,0x63B3,redirect,0x5D88,1,,,
+198,0x63DC,redirect,0x5D89,1,,,
+199,0x63EB,redirect,0x5D8A,1,,,
+200,0x6400,inplace,0x6400,9,yure.pak,,sin codigo 91: revisar
+201,0x6409,redirect,0x5D8B,1,,,
+202,0x6428,redirect,0x5D8C,1,,,
+203,0x646D,redirect,0x5D8D,5,Sir?,,
+204,0x6480,redirect,0x5D92,5,Sir?,,
+205,0x6491,redirect,0x5D97,47,He's even more intimidating when\nhe stands up.,,2 isla(s) 91 inline
+206,0x64AE,inplace,0x64AE,10,telop.pak,,sin codigo 91: revisar
+207,0x64B8,redirect,0x5DCC,1,,,
+208,0x64E5,redirect,0x5DCD,1,,,
+209,0x651C,redirect,0x5DCE,1,,,
+210,0x6549,redirect,0x5DCF,1,,,
+211,0x657E,redirect,0x5DD0,1,,,
+212,0x6593,redirect,0x5DD1,12,What is it?,,1 isla(s) 91 inline
+213,0x65A6,redirect,0x5DE0,26,What do you want to know?,,1 isla(s) 91 inline
+214,0x65B3,redirect,0x5DFD,52,I've told you everything I'm at\nliberty to discuss.,,1 isla(s) 91 inline
+215,0x65DC,redirect,0x5E34,10,Ask about,,
+216,0x65E1,redirect,0x5E3E,5,Hojo,,1 isla(s) 91 inline
+217,0x65EA,redirect,0x5E46,1,,,
+218,0x661F,redirect,0x5E47,1,,,
+219,0x6668,redirect,0x5E48,1,,,
+220,0x668D,redirect,0x5E49,1,,,
+221,0x66C4,redirect,0x5E4A,1,,,
+222,0x66D1,redirect,0x5E4B,1,,,
+223,0x6722,redirect,0x5E4C,1,,,
+224,0x6753,redirect,0x5E4D,1,,,
+225,0x67A4,redirect,0x5E4E,1,,,
+226,0x67BD,redirect,0x5E4F,1,,,
+227,0x680E,redirect,0x5E50,1,,,
+228,0x6847,redirect,0x5E51,1,,,
+229,0x688A,redirect,0x5E52,15,Hojo's address,,
+230,0x6893,redirect,0x5E61,22,Where does Hojo live?,,1 isla(s) 91 inline
+231,0x68A6,redirect,0x5E7A,87,The most exclusive area of\nTokugawa Hills.  You can't miss it. \nHuge place at the end.,,3 isla(s) 91 inline
+232,0x68E9,redirect,0x5EDA,21,"Tokugawa Hills, huh?",,
+233,0x6902,redirect,0x5EEF,70,That's a high-priced residential\narea.  A lot of Japanese live there.,,1 isla(s) 91 inline
+234,0x692F,redirect,0x5F38,128,"All Tokugawa-related information\nis protected by law, right?{80238057}I'd think anyone desperate enough\ncould get hold of an address.",,4 isla(s) 91 inline
+235,0x6974,redirect,0x5FC4,105,"Well, it's not like I didn't have a\nclue where he might live.  It's just\nbetter to get their permission.",,3 isla(s) 91 inline
+236,0x69B7,redirect,0x6036,21,Hojo's disappearance,,1 isla(s) 91 inline
+237,0x69C6,redirect,0x604E,41,You have any idea what happened\nto Hojo?,,
+238,0x69DF,redirect,0x6077,152,"Well, he was a real workaholic. \nMaybe all the stress finally got to\nhim?{80238057}He was holed up in here almost\nnonstop in the weeks before he\ndisappeared.",,7 isla(s) 91 inline
+239,0x6A38,redirect,0x6124,60,He could've gone back Home.  A\nlot of Terrestrials do that.,,1 isla(s) 91 inline
+240,0x6AD3,redirect,0x6163,154,You mean Return Syndrome?{80238057}That's when someone who can't\ncope with living on Beyond\nanymore leaves their family and\n job behind and disappears to\nHome.,,3 isla(s) 91 inline
+241,0x6B56,redirect,0x6206,112,"It happens a lot in our company,\nsince we have so many Japanese\nemployees.{80238057}Japanese people can be like that.",,2 isla(s) 91 inline
+242,0x6B93,redirect,0x627C,147,I'm sure there would've been\nword if he'd been involved in an\naccident or something.{80238057}Maybe he really did just want to\nget away from this place?,,1 isla(s) 91 inline
+243,0x6BD4,redirect,0x6312,52,Ishida was also saying it could be\nReturn Syndrome.,,1 isla(s) 91 inline
+244,0x6C01,redirect,0x6349,115,"You know, I think there was\nsomething written on his\nwhiteboard from before.{80238057}You might get something out of it.",,3 isla(s) 91 inline
+245,0x6C54,redirect,0x63C5,11,Hojo's job,,
+246,0x6C5F,redirect,0x63D0,30,What does Hojo's job involve?,,2 isla(s) 91 inline
+247,0x6C76,redirect,0x63F4,76,"He's head of DDS development\nhere, and also the sales rep for\nDDS products.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+248,0x6CE7,redirect,0x6452,103,The latter involves distributing\ninformation to hospitals and\ndoctors about new drugs\n developed here.,,3 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+249,0x6D40,redirect,0x64D2,27,Anyone else work with him?,,1 isla(s) 91 inline
+250,0x6D51,redirect,0x64F0,152,"Mr. Hojo ran just about the entire\nthing himself.  Research,\ndevelopment and marketing.{80238057}I heard he had several assistants\nbefore, but they all left.",,3 isla(s) 91 inline
+251,0x6DC0,redirect,0x6591,23,He did it all himself?,,2 isla(s) 91 inline
+252,0x6DDB,redirect,0x65AE,95,"Yeah, at least nowadays.  Only a\nvery select number of extremely\nintelligent people work here.",,4 isla(s) 91 inline
+253,0x6E00,redirect,0x6619,14,But still....,,1 isla(s) 91 inline
+254,0x6E13,redirect,0x662A,130,"It's like this....  Our company is\nvery paranoid.{80238057}Mr. Hojo's work in particular is\nhighly classified, even within the\ncompany.",,2 isla(s) 91 inline
+255,0x6E6A,redirect,0x66B2,26,Who's taken over for him?,,1 isla(s) 91 inline
+256,0x6E79,redirect,0x66CF,98,All DDS work was suspended\nafter Mr. Hojo's disappearance.{80238057}Who knows when it'll start back\nup.,,2 isla(s) 91 inline
+257,0x6ED6,redirect,0x6737,16,Hojo's behavior,,
+258,0x6EE7,redirect,0x6747,69,How did Hojo seem before he\ndisappeared? Anything unusual\nabout him?,,1 isla(s) 91 inline
+259,0x6F12,redirect,0x678F,83,"He'd just finished work on a new\nproduct.  Everything went well, as\nfar as I know.",,2 isla(s) 91 inline
+260,0x6F73,redirect,0x67E8,38,Did he appear worried about\nanything?,,
+261,0x6F92,redirect,0x6811,87,"If he was worried about anything,\nI'd say it would be his daughter\nmore than his work.",,1 isla(s) 91 inline
+262,0x6FC9,redirect,0x686B,14,His daughter?,,
+263,0x6FCE,redirect,0x6879,9,The 15th,,
+264,0x6FDB,redirect,0x6882,68,"So according to the whiteboard,\nHojo, on the 15th of last month....",,3 isla(s) 91 inline
+265,0x700A,redirect,0x68CF,21,"Went to BCCH, right?",,
+266,0x7029,redirect,0x68E4,30,Went to... what was it again?,,2 isla(s) 91 inline
+267,0x7040,redirect,0x6908,6,BCCH.,,
+268,0x704F,redirect,0x690E,42,"Yeah, that's it.  He went to BCCH,\nright?",,1 isla(s) 91 inline
+269,0x707C,redirect,0x693B,84,He left just after lunch and never\ncame back.  That's the last time I\never saw him.,,1 isla(s) 91 inline
+270,0x70CD,redirect,0x6992,39,So we know Hojo went to BCCH\nthat day.,,1 isla(s) 91 inline
+271,0x70EC,redirect,0x69BC,42,Hopefully we can pick up the trail\nthere.,,2 isla(s) 91 inline
+272,0x7131,redirect,0x69EC,16,Hojo's daughter,,
+273,0x713A,redirect,0x69FC,112,"He said she was very ill, that she\nneeded a bone marrow transplant\n{D0}{06} something like that.{80238057}Her name's Karen.",,1 isla(s) 91 inline
+274,0x7177,redirect,0x6A6F,55,He said drugs couldn't cure her. \nCruel irony for him.,,
+275,0x71B6,redirect,0x6AA6,77,Mr. Hojo loves his daughter very\nmuch.  He never stopped thinking\nabout her.,,1 isla(s) 91 inline
+276,0x71ED,redirect,0x6AF6,62,He would always talk about how\ngreat she was.  And beautiful.,,
+277,0x7212,redirect,0x6B34,38,Shame she has such a serious\nillness.,,1 isla(s) 91 inline
+278,0x7229,redirect,0x6B5D,37,We talked to her about it\nourselves.,,
+279,0x724A,redirect,0x6B82,77,She said Hojo borrowed money\nfrom the company to help pay for\nher treatment.,,1 isla(s) 91 inline
+280,0x727B,redirect,0x6BD2,45,He did? That's the first I've heard\nof that.,,2 isla(s) 91 inline
+281,0x72A0,redirect,0x6C05,65,"Well, a VIP like Mr. Hojo probably\ncould do something like that.",,
+282,0x7307,redirect,0x6C46,64,She does seem pretty sick.  She\nsays she's got aplastic anemia.,,3 isla(s) 91 inline
+283,0x733C,redirect,0x6C8F,10,Karen....,,
+284,0x7351,redirect,0x6C99,6,"""DDS""",,
+285,0x735C,redirect,0x6C9F,33,"What's this ""DDS"" you\nmentioned?",,
+286,0x7369,redirect,0x6CC0,38,"It stands for ""drug delivery\nsystem"".",,
+287,0x73B4,redirect,0x6CE6,52,DDS development looks at new\nways to deliver drugs.,,1 isla(s) 91 inline
+288,0x73DF,redirect,0x6D1D,104,"Before, all drugs had to go\nthrough the process of\nabsorption, distribution,\n metabolism and excretion.",,2 isla(s) 91 inline
+289,0x7436,redirect,0x6D8B,73,That meant only a small amount of\nthe drug ever reached the target\narea.,,1 isla(s) 91 inline
+290,0x7483,redirect,0x6DD7,20,You with me so far?,,1 isla(s) 91 inline
+291,0x749A,redirect,0x6DEE,5,....,,
+292,0x74A1,redirect,0x6DF3,121,"So, the goal of any DDS product is\nto ensure the necessary amount\nof a drug is present in the target\n area at all times.",,3 isla(s) 91 inline
+293,0x7504,redirect,0x6E75,18,You get all that?,,1 isla(s) 91 inline
+294,0x751D,redirect,0x6E8A,18,Not... really....,,
+295,0x752C,redirect,0x6E9C,139,"They did this in the past through\nribosomes or microspheres, in the\ncase of cancer drugs, for instance,\n with their numerous side effects.",,3 isla(s) 91 inline
+296,0x75A3,redirect,0x6F30,35,This guy's a walking encyclopedia.,,
+297,0x75D0,redirect,0x6F53,156,"In other words, a DDS treatment\nis like a targeting system that\nsends a drug exactly where you\n want it to go.{80238057}It's also called ""the missile\ntreatment"".",,5 isla(s) 91 inline
+298,0x7653,redirect,0x6FFE,69,So it delivers a drug straight to\nthe diseased area? Is it\naccurate?,,3 isla(s) 91 inline
+299,0x7676,redirect,0x704C,91,"Of course.  What's more, you can\nalso control how much is released\nand when it's released.",,2 isla(s) 91 inline
+300,0x76AD,redirect,0x70AD,140,The artificial bones made out of\nbioactive cement used in people\nwith osteoporosis and certain\n rheumatic disorders are also a\ntype of DDS.,,4 isla(s) 91 inline
+301,0x7714,redirect,0x7145,22,"Jeez, what isn't DDS?",,
+302,0x7735,redirect,0x715B,28,"It covers a wide area, yes.",,
+303,0x7758,redirect,0x717A,52,Injections and oral medications can\nbe DDS as well.,,
+304,0x778B,redirect,0x71AE,86,Though I should mention that we\ndon't conduct research on\nprodrugs or antedrugs here.,,2 isla(s) 91 inline
+305,0x77E6,redirect,0x720A,78,"DDS also focuses on prolonging\nthe effects of drugs, not just their\ndelivery.",,3 isla(s) 91 inline
+306,0x783B,redirect,0x7261,91,"For patients undergoing\nlong-term treatment, we can\n\n avoid having to give frequent\ndoses.",,2 isla(s) 91 inline
+307,0x7896,redirect,0x72C2,110,"Instead of taking a drug several\ntimes a day, you could take it once\n\n a month, or once every several\nmonths.",,1 isla(s) 91 inline
+308,0x78CB,redirect,0x7333,35,You might not understand the\nrest.,,2 isla(s) 91 inline
+309,0x78F4,redirect,0x735F,43,That plate with the holograms was\nhelpful.,,1 isla(s) 91 inline
+310,0x791D,redirect,0x738D,42,This type of research is very\ncommon now.,,1 isla(s) 91 inline
+311,0x794C,redirect,0x73BA,4,K-9,,
+312,0x7957,redirect,0x73BE,58,We heard that Hojo's new product\nis a capsule called K-9.,,1 isla(s) 91 inline
+313,0x798E,redirect,0x73FB,75,And that it lets you control where\nits contents go even in\nweightlessness.,,1 isla(s) 91 inline
+314,0x79AD,redirect,0x7449,22,How do you know that?,,
+315,0x79C0,redirect,0x745F,38,A Tokugawa employee told us\nabout it.,,1 isla(s) 91 inline
+316,0x79DF,redirect,0x7488,41,"I see.  Well, that's all I know,\nthough.",,2 isla(s) 91 inline
+317,0x7A0A,redirect,0x74B7,75,I'm just a grunt now.  They don't\ngive me details about what goes\non here.,,
+318,0x7A59,redirect,0x7502,45,All I really hear are the\ndevelopment codes.,,3 isla(s) 91 inline
+319,0x7A9E,redirect,0x7538,16,The new product,,
+320,0x7AA9,redirect,0x7548,45,What's this new product Hojo was\nworking on?,,
+321,0x7ABC,redirect,0x7575,109,"All I can tell you is it's the newest\nproduct in our DDS line.  Sorry,\nofficers, but the rest is classified.",,2 isla(s) 91 inline
+322,0x7B19,redirect,0x75E8,73,"There's a lot of competition in this\nindustry, and I have a job to keep.",,
+323,0x7B58,redirect,0x7631,73,"Please, if I told you anything, my\njob would be the least of my\nworries.",,2 isla(s) 91 inline
+324,0x7B85,redirect,0x7680,108,Can't you give us something?\nEven the littlest detail could\nhelp.{80238057}We won't tell anyone you talked to\nus.,,1 isla(s) 91 inline
+325,0x7BAC,redirect,0x76EF,45,Well... all I'll say is its codename is\nK-9.,,1 isla(s) 91 inline
+326,0x7BF7,redirect,0x771F,8,K-9...?,,
+327,0x7C08,redirect,0x7727,13,The facility,,
+328,0x7C1B,redirect,0x7734,29,What is it you guys do here?,,1 isla(s) 91 inline
+329,0x7C36,redirect,0x7754,199,This is Tokugawa Pharmaceuticals'\nresearch and development facility\non Beyond.{80238057}Our main focus here is our DDS\nwork.{80238057}The other area of interest is the\nfactory where we manufacture\ndrug samples.,,3 isla(s) 91 inline
+330,0x7CE9,redirect,0x7824,58,I've mentioned everything I can. \nThe rest is top-secret.,,1 isla(s) 91 inline
+331,0x7D3C,redirect,0x7861,70,"We haven't broken any laws here. \nThis is a fine, upstanding company.",,1 isla(s) 91 inline
+332,0x7D89,redirect,0x78AA,25,Tokugawa Pharmaceuticals,,
+333,0x7D9E,redirect,0x78C3,171,"Tokugawa Pharmaceuticals\npioneered Made in Space drug\ndevelopment.{80238057}We're now the world leader in\npharmaceutical technology, with a\ntrack record that speaks for itself.",,5 isla(s) 91 inline
+334,0x7E13,redirect,0x797D,127,We're one of the true Colony Age\nbusinesses.{80238057}I suppose our Japanese\nmanagement style is one of the\nreasons for our success.,,4 isla(s) 91 inline
+335,0x7E5A,redirect,0x7A08,150,We're also involved with the\nproduction of designer foods and\nfunctional foods.{80238057}The company holds large shares\nof markets besides\npharmaceuticals.,,3 isla(s) 91 inline
+336,0x7ED3,redirect,0x7AA7,4,Him,,1 isla(s) 91 inline
+337,0x7EE4,redirect,0x7AAE,73,Are you an actual Tokugawa\nemployee? Or are you with a\nsecurity company?,,1 isla(s) 91 inline
+338,0x7F17,redirect,0x7AFA,128,"I was originally an assistant here,\nbut with my physique they\ndecided to put me on security.{80238057}I'm still an official employee.",,2 isla(s) 91 inline
+339,0x7F8C,redirect,0x7B80,69,That's how I hold a certain level of\nknowledge about our operations.,,2 isla(s) 91 inline
+340,0x7FBF,redirect,0x7BCB,72,"Therefore, I do hold a certain\nlevel of knowledge about our\noperations.",,2 isla(s) 91 inline
+341,0x7FE8,redirect,0x7C19,48,"You couldn't call me an expert\nanymore, though.",,2 isla(s) 91 inline
+342,0x8011,redirect,0x7C4F,44,You have any... resentment\ntoward Tokugawa?,,
+343,0x8028,redirect,0x7C7B,77,"Resentment? No, I'm very happy\nhere.  I'm more suited for this\ntype of work.",,
+344,0x805F,redirect,0x7CC8,38,He really does seem to feel that\nway.,,1 isla(s) 91 inline
+345,0x8074,redirect,0x7CF1,22,He's not like Ishida.,,
+346,0x8085,redirect,0x7D07,25,Were you born on Beyond?,,
+347,0x80B2,redirect,0x7D20,96,"Yes, I'm a Beyond, born and raised\nhere on the colony.{80238057}My parents are Japanese\nTerrestrials.",,1 isla(s) 91 inline
+348,0x8163,redirect,0x7D83,75,You look like you're in pretty good\nshape.  You do any sports or\nanything?,,2 isla(s) 91 inline
+349,0x8184,redirect,0x7DD4,54,I've practiced judo and karate for\na number of years.,,
+350,0x81A3,redirect,0x7E0A,37,That must be how you got those\nears.,,1 isla(s) 91 inline
+351,0x81CA,redirect,0x7E32,42,Why do you want to know so\nmuch about me?,,1 isla(s) 91 inline
+352,0x81FB,redirect,0x7E5F,5,BCCH,,
+353,0x8208,redirect,0x7E64,135,"""BCCH"" stands for ""Beyond\nCoast Central Hospital"".{80238057}It's the biggest hospital on\nBeyond, making it the biggest\nsingle market for us.",,2 isla(s) 91 inline
+354,0x82DD,redirect,0x7EF1,35,"Yeah, I'm familiar with it myself.",,
+355,0x82F8,redirect,0x7F14,124,Several of our employees work\nfrom there.  We have a very close\nrelationship.{80238057}We get most of our product data\nfrom them.,,2 isla(s) 91 inline
+356,0x8385,redirect,0x7F96,106,The importance of our relationship\nwith BCCH can't be understated.{80238057}Least of all Mr. Hojo's work there.,,2 isla(s) 91 inline
+357,0x83E0,redirect,0x8006,51,BCCH is easily the biggest hospital\non the colony.,,2 isla(s) 91 inline
+358,0x840B,redirect,0x803F,24,"Yeah, we've been there.",,
+359,0x842A,redirect,0x8057,60,"Nice place, huh? They've got the\nbest facilities on Beyond.",,3 isla(s) 91 inline
+360,0x844D,redirect,0x809C,7,Ishida,,
+361,0x845A,redirect,0x80A3,73,Do you know a man by the name\nof Jun Ishida? He's one of your\nemployees.,,1 isla(s) 91 inline
+362,0x8491,redirect,0x80EF,12,Ishida? No.,,
+363,0x84AA,redirect,0x80FB,72,He's the pharmacist at BCCH.  It\nseems he worked with Hojo quite\na bit.,,
+364,0x84FF,redirect,0x8143,34,I don't know anyone by that name.,,1 isla(s) 91 inline
+365,0x8520,redirect,0x8168,9,Tokugawa,,
+366,0x8535,redirect,0x8171,50,What's your relationship with\nPresident Tokugawa?,,2 isla(s) 91 inline
+367,0x8558,redirect,0x81A9,83,You think I'd be working security\nat a place like this if I were friends\nwith him?,,2 isla(s) 91 inline
+368,0x858B,redirect,0x8202,41,I suppose he must have some\nfaith in me.,,1 isla(s) 91 inline
+369,0x85B2,redirect,0x822E,57,I see him maybe once or twice a\nyear at company parties.,,
+370,0x85DB,redirect,0x8267,39,I've never spoken with him\npersonally.,,
+371,0x85F8,redirect,0x828E,44,Why don't you talk to him yourself\ninstead?,,
+372,0x8629,redirect,0x82BA,44,"He works from the Tokugawa\nBuilding, right?",,1 isla(s) 91 inline
+373,0x863E,redirect,0x82E9,44,"Yeah, that's the Group's\nheadquarters here.",,1 isla(s) 91 inline
+374,0x8677,redirect,0x8318,34,We weren't able to meet with him.,,
+375,0x86A0,redirect,0x833A,88,"Well, he is a busy guy.  But he's\ngot to be there at least some of\nthe time, I'd think.",,1 isla(s) 91 inline
+376,0x86E5,redirect,0x8395,32,Why don't we make a stop there?,,
+377,0x870E,redirect,0x83B5,58,"Yeah, I'd prefer not getting\nthrown out again, thank you.",,1 isla(s) 91 inline
+378,0x872D,redirect,0x83F2,37,Things should've calmed down by\nnow.,,1 isla(s) 91 inline
+379,0x874C,redirect,0x841A,5,Show,,
+380,0x8757,redirect,0x841F,11,Hojo photo,,
+381,0x8766,redirect,0x842D,58,"Yes, that's Mr. Hojo.  The woman\nnext to him is his wife.",,2 isla(s) 91 inline
+382,0x8797,redirect,0x846D,89,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,2 isla(s) 91 inline
+383,0x87C0,redirect,0x84CC,28,That's definitely Mr. Hojo.,,
+384,0x87D7,redirect,0x84E8,34,Mr. Hojo has the same photo\nhere.,,1 isla(s) 91 inline
+385,0x8814,redirect,0x850D,28,See it? On top of the desk.,,1 isla(s) 91 inline
+386,0x8837,redirect,0x852C,40,He has the same photo in his\nwork area.,,1 isla(s) 91 inline
+387,0x885E,redirect,0x8557,48,"I hope you can find him, for his\nfamily's sake.",,1 isla(s) 91 inline
+388,0x8881,redirect,0x858A,16,What about him?,,1 isla(s) 91 inline
+389,0x8892,redirect,0x859D,38,"You have business with him,\nofficers?",,1 isla(s) 91 inline
+390,0x88AD,redirect,0x85C6,15,Lorraine photo,,
+391,0x88BA,redirect,0x85D5,64,"This is you, isn't it? What does\nthis have to do with Mr. Hojo?",,2 isla(s) 91 inline
+392,0x88E9,redirect,0x861B,41,"Can we stick to business here,\nofficers?",,2 isla(s) 91 inline
+393,0x8918,redirect,0x864A,53,She actually does resemble Mr.\nHojo's wife a little.,,1 isla(s) 91 inline
+394,0x894F,redirect,0x8682,18,Policenauts photo,,
+395,0x8962,redirect,0x8694,84,"I know that picture.  Our\npresident was one of the\nPolicenauts, so we see it a lot.",,2 isla(s) 91 inline
+396,0x89A5,redirect,0x86EE,32,Why are you showing this to me?,,
+397,0x89C4,redirect,0x8711,8,ID card,,
+398,0x89CF,redirect,0x8719,42,"We better not show that to him,\nJonathan.",,1 isla(s) 91 inline
+399,0x89F4,redirect,0x8746,20,"Yeah, you're right.",,2 isla(s) 91 inline
+400,0x8A07,redirect,0x8760,18,What did you say?,,1 isla(s) 91 inline
+401,0x8A14,redirect,0x8775,38,"Oh, just... looking for the car\nkeys.",,1 isla(s) 91 inline
+402,0x8A21,redirect,0x879E,83,"We can't let him see this.  Karen\nasked us not to let them find out\ntoo, remember?",,2 isla(s) 91 inline
+403,0x8A52,redirect,0x87F7,5,Back,,
+404,0x8A5B,redirect,0x87FC,68,"Yeah, more or less.  I was in the\nscience club back in high school.",,2 isla(s) 91 inline
+405,0x8A96,redirect,0x8846,80,You were in the science club?\nYou hated studying.  There\nmust've been a reason.,,3 isla(s) 91 inline
+406,0x8AD3,redirect,0x889F,158,"There was this girl in it.  She was\nborn on July 7th, the day of the\nStar Festival.{80238057}She talked about taking over the\nworld {D0}{06} bit of a mad scientist\ntype.",,4 isla(s) 91 inline
+407,0x8B36,redirect,0x8949,63,"You were after her, huh? So\nwere you able to... take over\nher?",,2 isla(s) 91 inline
+408,0x8B81,redirect,0x898E,146,"Why do you have to be so blunt\nabout it?{80238057}Yeah, I got to do all sorts of\nexperiments on her.{80238057}To be honest, I think she was the\none using me.",,7 isla(s) 91 inline
+409,0x8C0C,redirect,0x8A35,30,"Hey, you two listening to me?",,1 isla(s) 91 inline
+410,0x8C37,redirect,0x8A56,5,Move,,
+411,0x8C3C,redirect,0x8A5E,6,Leave,,
+412,0x8C45,redirect,0x8A64,1,,,
+413,0x8C84,redirect,0x8A65,1,,,
+414,0x8CDF,redirect,0x8A66,1,,,
+415,0x8CFC,redirect,0x8A67,31,Thanks for your time.  See ya.,,
+416,0x8D1D,redirect,0x8A86,9,DDS Room,,
+417,0x8D2A,redirect,0x8A8F,10,Back Room,,1 isla(s) 91 inline
+418,0x8D33,redirect,0x8A9C,7,System,,
+419,0x8D3C,redirect,0x8AA3,58,Are you worried about\nTokugawa? You have no reason\nto be.,,1 isla(s) 91 inline
+420,0x8D6D,redirect,0x8AE0,83,You don't need to worry about\nhim.  I'm right here with you. \nLet's keep on going.,,
+421,0x8DAE,redirect,0x8B33,58,What are you talking about? What\nabout the investigation?,,1 isla(s) 91 inline
+422,0x8DCD,redirect,0x8B70,57,We can't just turn back now.  Not\nafter coming this far.,,1 isla(s) 91 inline
+423,0x8DF4,redirect,0x8BAC,8,Factory,,
+424,0x8DF9,redirect,0x8BB4,5,Look,,
+425,0x8DFE,redirect,0x8BB9,23,It's a security booth.,,
+426,0x8E1D,redirect,0x8BD0,40,The security guard's sitting behind\nit.,,
+427,0x8E54,redirect,0x8BF8,34,Terrific.  Where's the cute girl?,,1 isla(s) 91 inline
+428,0x8E91,redirect,0x8C1D,82,It's the security booth.  You can\nprobably open that door at the\nback from there.,,3 isla(s) 91 inline
+429,0x8EC6,redirect,0x8C78,43,It's the security booth.  The\npower's off.,,1 isla(s) 91 inline
+430,0x8EF7,redirect,0x8CA6,41,We probably wouldn't be able to\nwork it.,,
+431,0x8F26,redirect,0x8CCF,102,"This booth must give you access\nto the building's security system.{80238057}Doubt we could work it, though.",,6 isla(s) 91 inline
+432,0x8F6B,redirect,0x8D47,23,A surveillance camera?,,
+433,0x8F9A,redirect,0x8D5E,83,Lately they've been able to put\nsecurity camera monitoring under\ncomputer control.,,2 isla(s) 91 inline
+434,0x8FD7,redirect,0x8DB7,68,It's a security camera.  Looks like\nthey've got them in every area.,,4 isla(s) 91 inline
+435,0x9008,redirect,0x8E07,100,"We've got over fifty cameras\nhere.{80238057}They're all monitored by\ncomputer, so nothing gets past\nthem.",,2 isla(s) 91 inline
+436,0x9063,redirect,0x8E71,40,"Don't go wandering around, you\nhear me?",,1 isla(s) 91 inline
+437,0x908E,redirect,0x8E9C,60,"Look, their headquarters probably\nalready knows we're here.",,1 isla(s) 91 inline
+438,0x90D3,redirect,0x8EDB,53,So? I'd like to see them talk their\nway out of this.,,1 isla(s) 91 inline
+439,0x9104,redirect,0x8F13,91,Surveillance cameras....  What a\njoke.  I bet they don't catch what's\ngoing on back there.,,2 isla(s) 91 inline
+440,0x913D,redirect,0x8F74,32,I think that camera just moved!,,
+441,0x916C,redirect,0x8F94,33,Sure it wasn't your imagination?,,1 isla(s) 91 inline
+442,0x917D,redirect,0x8FB8,54,It definitely felt like the camera\nmoved.  Maybe not.,,1 isla(s) 91 inline
+443,0x91BC,redirect,0x8FF1,84,"Keep toward the walls, Jonathan. \nWe can't let them catch us on any\nof the cameras.",,1 isla(s) 91 inline
+444,0x9201,redirect,0x9048,71,Don't step in front of the camera!\nThey'd have proof we broke in\nhere.,,2 isla(s) 91 inline
+445,0x9246,redirect,0x9095,36,Pictures of me never turn out\nwell.,,
+446,0x926F,redirect,0x90B9,57,"You really are one psycho son of a\nbitch, you know that?",,1 isla(s) 91 inline
+447,0x9292,redirect,0x90F5,38,"Seriously, watch out for the\ncameras.",,1 isla(s) 91 inline
+448,0x92B3,redirect,0x911E,103,That's a second-floor walkway.{80238057}It's probably used for giving tours\nor for the guards to move about.,,3 isla(s) 91 inline
+449,0x92EE,redirect,0x918E,55,The place feels like a military base\nwith this layout.,,1 isla(s) 91 inline
+450,0x9321,redirect,0x91C8,71,It's a walkway.  You could see\nfurther inside the facility from\nthere.,,1 isla(s) 91 inline
+451,0x934E,redirect,0x9212,28,What's on the second floor?,,
+452,0x9365,redirect,0x922E,54,There's nothing up there.  The\nfactory's to the back.,,1 isla(s) 91 inline
+453,0x9394,redirect,0x9267,48,Let's go ahead and put a guard up\nthere anyway.,,2 isla(s) 91 inline
+454,0x93C1,redirect,0x929D,29,I don't see anyone up there.,,1 isla(s) 91 inline
+455,0x93E6,redirect,0x92BD,71,The guards would be able to see\naround the entire facility from\nthere.,,1 isla(s) 91 inline
+456,0x941B,redirect,0x9307,40,The only thing up there is the\nwalkway.,,1 isla(s) 91 inline
+457,0x9446,redirect,0x9332,33,This is just like the other one.,,1 isla(s) 91 inline
+458,0x945D,redirect,0x9356,43,Sunlight's coming in through the\nskylight.,,1 isla(s) 91 inline
+459,0x9486,redirect,0x9384,53,It's bright in here.  It's like we're\nstill outside.,,1 isla(s) 91 inline
+460,0x94C5,redirect,0x93BC,52,It gets hot sitting here all day with\nthis ceiling.,,2 isla(s) 91 inline
+461,0x9500,redirect,0x93F6,55,"There's nothing up there.  It's\nstraight ahead, Gates.",,1 isla(s) 91 inline
+462,0x9555,redirect,0x9430,53,Light from outside is coming in\nthrough the ceiling.,,2 isla(s) 91 inline
+463,0x9576,redirect,0x946B,43,It's easier to see in here than I\nthought.,,1 isla(s) 91 inline
+464,0x959B,redirect,0x9499,57,It's funny looking up at the ceiling\nand seeing the sky.,,1 isla(s) 91 inline
+465,0x95BC,redirect,0x94D5,42,That looks like the facility's floor\nmap.,,
+466,0x95DD,redirect,0x94FF,77,We can see it with the guard out\nthe way.{80238057}...Still can't make much of it.,,1 isla(s) 91 inline
+467,0x9610,redirect,0x954F,43,We can't see it with the guard in\nthe way.,,2 isla(s) 91 inline
+468,0x9633,redirect,0x9580,86,"As a rule, we don't discuss details\nof our floorplan with anyone\noutside the company.",,2 isla(s) 91 inline
+469,0x9678,redirect,0x95DC,89,"Look, there are two large areas\nback there.{80238057}That's it, that's where they're\ndoing it.",,3 isla(s) 91 inline
+470,0x96D9,redirect,0x963E,25,"It seems plausible, yes.",,
+471,0x96EC,redirect,0x9657,44,"It's behind that door there, it's\ngotta be.",,1 isla(s) 91 inline
+472,0x970D,redirect,0x9686,24,That must be the place.,,
+473,0x9720,redirect,0x969E,73,Look at this map.  It shows a\ncouple of large areas straight back\nthere.,,1 isla(s) 91 inline
+474,0x9779,redirect,0x96EA,37,Everything points to that back\ndoor.,,2 isla(s) 91 inline
+475,0x9794,redirect,0x9715,36,Are there no other ways back\nthere?,,1 isla(s) 91 inline
+476,0x97AD,redirect,0x973C,22,Doesn't seem like it.,,
+477,0x97D8,redirect,0x9752,40,Meaning we have to get it open\nsomehow.,,1 isla(s) 91 inline
+478,0x97FD,redirect,0x977D,111,"According to this map, there are\ntwo large areas besides this hall,\n\n Hojo's lab and the other research\nrooms.",,3 isla(s) 91 inline
+479,0x9852,redirect,0x97F5,21,It's Hojo's DDS lab.,,1 isla(s) 91 inline
+480,0x988F,redirect,0x980D,59,"It looks like a research lab.  It says\n""DDS"" on the glass.",,
+481,0x98CE,redirect,0x9848,21,"It says ""DDS"" on it.",,1 isla(s) 91 inline
+482,0x98FB,redirect,0x9860,26,That must be the DDS lab.,,
+483,0x9916,redirect,0x987A,19,It's the DDS Room.,,
+484,0x993B,redirect,0x988D,56,That's the DDS Room.  That's\nwhere DDS R&D takes place.,,1 isla(s) 91 inline
+485,0x9968,redirect,0x98C8,43,It's more or less Mr. Hojo's\npersonal lab.,,1 isla(s) 91 inline
+486,0x998F,redirect,0x98F6,24,What's that room there?,,1 isla(s) 91 inline
+487,0x999C,redirect,0x9911,66,That's the DDS Room where Hojo\nworked.  There's nothing in\nthere.,,2 isla(s) 91 inline
+488,0x99E1,redirect,0x9959,44,That's the DDS Room.  The Narc\nisn't there.,,1 isla(s) 91 inline
+489,0x9A32,redirect,0x9988,47,It's the DDS Room.  I don't see\nanyone inside.,,2 isla(s) 91 inline
+490,0x9A57,redirect,0x99BD,56,I don't suppose we're gonna find\nanything else in here.,,1 isla(s) 91 inline
+491,0x9A86,redirect,0x99F8,21,That's the DDS Room.,,
+492,0x9AA1,redirect,0x9A0D,35,This is the room Hojo worked\nfrom.,,
+493,0x9ACC,redirect,0x9A30,27,I don't see anyone inside.,,1 isla(s) 91 inline
+494,0x9AF5,redirect,0x9A4E,10,Go inside,,1 isla(s) 91 inline
+495,0x9AFE,redirect,0x9A5B,43,This must be the lock system for\nthe room.,,
+496,0x9B23,redirect,0x9A89,44,An ID card reader.  Security must\nbe tight.,,1 isla(s) 91 inline
+497,0x9B3E,redirect,0x9AB8,36,It's the lock system for this room.,,1 isla(s) 91 inline
+498,0x9B61,redirect,0x9ADF,33,You need a Tokugawa ID for that.,,2 isla(s) 91 inline
+499,0x9B88,redirect,0x9B06,63,That's the lock system that\ncontrols the door to the DDS\nRoom.,,2 isla(s) 91 inline
+500,0x9BB5,redirect,0x9B4B,113,It's the lock system for the DDS\nRoom's door.{80238057}It opens when it's read an ID card\nwith the required clearance.,,3 isla(s) 91 inline
+501,0x9C0C,redirect,0x9BC5,37,We can get in here with Hojo's\ncard.,,
+502,0x9C39,redirect,0x9BEA,81,It's a minimum-level security\nsystem.  All you need is an ID card\nto get inside.,,2 isla(s) 91 inline
+503,0x9C74,redirect,0x9C41,41,"There's nothing else in there,\nJonathan.",,
+504,0x9C9B,redirect,0x9C6A,70,This door looks pretty thick.  You\nwouldn't be able to force it open.,,2 isla(s) 91 inline
+505,0x9CD2,redirect,0x9CB6,95,It's the type of door you get with a\nwalk-in safe.{80238057}Whatever's back there must be\nimportant.,,2 isla(s) 91 inline
+506,0x9D0B,redirect,0x9D1B,33,This door leads to another area.,,1 isla(s) 91 inline
+507,0x9D24,redirect,0x9D3F,82,"Sorry, but you can't go back\nthere.  Not without President\nTokugawa's permission.",,1 isla(s) 91 inline
+508,0x9D63,redirect,0x9D94,139,Our factory for producing new\nproduct samples is back there.{80238057}It contains top-secret information.\nYou couldn't see it without a\nwarrant.,,4 isla(s) 91 inline
+509,0x9DA4,redirect,0x9E2B,72,That's the door leading to a back\narea.  They've built it pretty\ntough.,,1 isla(s) 91 inline
+510,0x9DD1,redirect,0x9E76,56,The tighter the security the more\nyou wanna see inside.,,1 isla(s) 91 inline
+511,0x9DF0,redirect,0x9EB1,48,It's the door to the back part of\nthe facility.,,1 isla(s) 91 inline
+512,0x9E21,redirect,0x9EE4,57,"There's just something about this\ndoor, don't you think?",,2 isla(s) 91 inline
+513,0x9E44,redirect,0x9F23,14,"Yeah, I know.",,
+514,0x9E7F,redirect,0x9F31,66,How we gonna get it open? You'd\nneed an EMPS to get through this.,,1 isla(s) 91 inline
+515,0x9EC8,redirect,0x9F76,80,I guess we'll have to try\nsomething with the lock system\nand hope for the best.,,1 isla(s) 91 inline
+516,0x9EF7,redirect,0x9FC9,39,We need to get this door open\nsomehow.,,1 isla(s) 91 inline
+517,0x9F16,redirect,0x9FF3,70,There's definitely something back\nhere they don't want people\nseeing.,,1 isla(s) 91 inline
+518,0x9F6B,redirect,0xA03C,61,The only way we could ever get\nthis open is the lock system.,,1 isla(s) 91 inline
+519,0x9FAE,redirect,0xA07C,64,"According to the map, this is the\nbiggest area of the facility.",,1 isla(s) 91 inline
+520,0x9FDF,redirect,0xA0BF,31,"Yeah, it's gotta be back here.",,1 isla(s) 91 inline
+521,0xA012,redirect,0xA0E1,55,"This is it, Gates.  The Narc factory\nis back this way.",,1 isla(s) 91 inline
+522,0xA059,redirect,0xA11B,49,"It's through here, is it? It looks\nwell secured.",,1 isla(s) 91 inline
+523,0xA08A,redirect,0xA14F,53,We'd have no problem breaking\nthrough with the EMPS.,,1 isla(s) 91 inline
+524,0xA0CF,redirect,0xA187,27,It's definitely back here.,,1 isla(s) 91 inline
+525,0xA0F0,redirect,0xA1A5,52,"This is it, chief.  The Narc factory\nis just ahead.",,1 isla(s) 91 inline
+526,0xA13B,redirect,0xA1DC,91,Look! A magnetic lock.{80238057}The security level for this area\nmust be higher than the others.,,2 isla(s) 91 inline
+527,0xA17A,redirect,0xA23D,38,Only the REAL eggheads get back\nhere.,,1 isla(s) 91 inline
+528,0xA19D,redirect,0xA266,55,It's the magnetic lock system that\ncontrols this door.,,
+529,0xA1C6,redirect,0xA29D,56,I can't let you in there.  Doesn't\nmatter what you say.,,1 isla(s) 91 inline
+530,0xA1F3,redirect,0xA2D8,43,That's the lock system for this\nback door.,,1 isla(s) 91 inline
+531,0xA22A,redirect,0xA306,56,Better not touch it.  It might have\nsome kind of alarm.,,2 isla(s) 91 inline
+532,0xA259,redirect,0xA344,73,This is the magnetic lock system\nfor this door.  This is advanced\nstuff.,,1 isla(s) 91 inline
+533,0xA2B4,redirect,0xA390,44,Way more advanced than the DDS\nRoom's lock.,,1 isla(s) 91 inline
+534,0xA2DD,redirect,0xA3BF,68,I don't see any other way we\ncould get this door open besides\nthis.,,2 isla(s) 91 inline
+535,0xA30C,redirect,0xA409,39,This is the lock system for this\ndoor.,,
+536,0xA339,redirect,0xA430,17,Can you open it?,,1 isla(s) 91 inline
+537,0xA356,redirect,0xA444,72,"No, I'd think you could only open\nit from the security booth right\nnow.",,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+538,0xA39F,redirect,0xA49E,112,We probably couldn't open the\ndoor through the lock system\nright now.{80238057}The guard's system will have\npriority.,,1 isla(s) 91 inline
+539,0xA3FC,redirect,0xA514,10,Open door,,
+540,0xA405,redirect,0xA51E,38,"Alright, let's give Hojo's ID a shot.",,1 isla(s) 91 inline
+541,0xA436,redirect,0xA547,15,In she goes...,,
+542,0xA44D,inplace,0xA44D,9,yure.pak,,sin codigo 91: revisar
+543,0xA456,redirect,0xA556,1,,,
+544,0xA479,redirect,0xA55A,1,,,
+545,0xA4C0,redirect,0xA55B,1,,,
+546,0xA511,redirect,0xA55C,1,,,
+547,0xA534,redirect,0xA55D,38,Hey!  What do you think you're\ndoing!,,1 isla(s) 91 inline
+548,0xA557,redirect,0xA586,23,What do you guys want?,,
+549,0xA576,redirect,0xA59D,27,"Look, this isn't a museum.",,1 isla(s) 91 inline
+550,0xA5AD,redirect,0xA5BB,70,"You guys don't work for\nTokugawa, do you? So what are\nyou doing here?",,1 isla(s) 91 inline
+551,0xA5DC,redirect,0xA604,51,Want me to call the cops? How\nwould you like that?,,2 isla(s) 91 inline
+552,0xA60B,redirect,0xA63D,70,You guys are starting to annoy\nme.  What do you want?! Say\nsomething!,,1 isla(s) 91 inline
+553,0xA630,redirect,0xA686,89,He probably thinks we're here to\nsteal something.  Why don't we tell\nhim why we're here.,,3 isla(s) 91 inline
+554,0xA67F,redirect,0xA6E8,41,"Let's tell him why we're here,\nJonathan.",,2 isla(s) 91 inline
+555,0xA6A2,redirect,0xA717,5,Talk,,
+556,0xA6AD,redirect,0xA71C,69,"He's got a bit of a receding\nhairline, but it's a sharp-looking\ncut.",,2 isla(s) 91 inline
+557,0xA6DE,redirect,0xA767,35,It's made to fit Tokugawa's image.,,1 isla(s) 91 inline
+558,0xA6F7,redirect,0xA78D,18,What do you mean?,,1 isla(s) 91 inline
+559,0xA708,redirect,0xA7A2,69,Company regulations stipulate the\nhairstyles employees have to\nkeep.,,1 isla(s) 91 inline
+560,0xA739,redirect,0xA7EA,33,I like my hair like this anyway.,,1 isla(s) 91 inline
+561,0xA750,redirect,0xA80E,74,He's got piercing eyes and a\nsquare jaw.  He's an intimidating\ncharacter.,,2 isla(s) 91 inline
+562,0xA77B,redirect,0xA85E,61,Definitely not the kinda face you'd\nwant running a business.,,
+563,0xA79A,redirect,0xA89B,33,"Look, he's got cauliflower ears.",,1 isla(s) 91 inline
+564,0xA7C1,redirect,0xA8BF,65,He must be into some serious\ntraining for them to get like that.,,1 isla(s) 91 inline
+565,0xA7F4,redirect,0xA903,66,Maybe he's done judo? I heard\nthat can happen from all the falls.,,1 isla(s) 91 inline
+566,0xA823,redirect,0xA948,56,Why is it security guard uniforms\nalways look the same?,,2 isla(s) 91 inline
+567,0xA842,redirect,0xA989,104,The colors of our uniforms\nchange depending on your\nclearance.{80238057}They get darker the higher up\nyou go.,,2 isla(s) 91 inline
+568,0xA8A1,redirect,0xA9F7,88,This color is the standard\nclearance level.  The only area I\ncan enter is the DDS Room.,,2 isla(s) 91 inline
+569,0xA8F4,redirect,0xAA55,22,That is one ugly tie.,,
+570,0xA913,redirect,0xAA6B,74,Does Tokugawa set a dress code\nhere too? Remember what Ishida\nwas saying.,,1 isla(s) 91 inline
+571,0xA94C,redirect,0xAABB,16,Not exactly....,,
+572,0xA957,redirect,0xAACB,79,They give us the ties we have to\nwear.  We don't even get to\nchoose the color.,,2 isla(s) 91 inline
+573,0xA986,redirect,0xAB20,37,That's just like a Japanese\ncompany.,,
+574,0xA99D,redirect,0xAB45,149,It's to prevent anyone from\nbringing in spy equipment.{80238057}Security guards like I have to strip\ndown to our underwear when we\nget here every morning.,,6 isla(s) 91 inline
+575,0xA9E4,redirect,0xABEC,59,I can't believe they give them the\nties they have to wear.,,3 isla(s) 91 inline
+576,0xAA13,redirect,0xAC30,22,Is that your ID card?,,
+577,0xAA3E,redirect,0xAC46,79,Every room in the building\nrequires an ID.  You can't go\nanywhere without one.,,2 isla(s) 91 inline
+578,0xAA75,redirect,0xAC9B,65,This card is used throughout the\nGroup.  Every employee has one.,,3 isla(s) 91 inline
+579,0xAAB8,redirect,0xACE5,41,"Ishida had one too, come to think\nof it.",,1 isla(s) 91 inline
+580,0xAADD,redirect,0xAD11,48,Even his uniform's got the\nTokugawa logo on it.,,2 isla(s) 91 inline
+581,0xAB04,redirect,0xAD47,58,You see this everywhere you go\nhere.  Everybody knows it.,,1 isla(s) 91 inline
+582,0xAB4B,redirect,0xAD84,66,It's the Tokugawa logo.  It's based\non the Tokugawa family crest.,,2 isla(s) 91 inline
+583,0xAB80,redirect,0xADCC,9,Question,,
+584,0xAB8B,redirect,0xADD5,38,"Listen, you {D0}{06} now we want the\ntruth.",,1 isla(s) 91 inline
+585,0xABAC,redirect,0xADFE,37,What do you guys think you're\ndoing?,,
+586,0xABC1,redirect,0xAE23,42,"Don't go trying to hide anything,\ngot it?",,2 isla(s) 91 inline
+587,0xABDC,redirect,0xAE53,47,You'd better cooperate with our\ninvestigation.,,1 isla(s) 91 inline
+588,0xABF3,redirect,0xAE88,10,Ask about,,
+589,0xABF8,redirect,0xAE92,5,Narc,,
+590,0xAC05,redirect,0xAE97,133,"You've got Narc stashed away\nback there, don't you?{80238057}Yeah, we know all about what's\ngoing on.  Don't bother trying to\nbullshit us.",,3 isla(s) 91 inline
+591,0xAC4C,redirect,0xAF25,21,Are you guys crazy?!,,2 isla(s) 91 inline
+592,0xAC79,redirect,0xAF40,48,"Come on, spill it! We saw\neverything ourselves.",,1 isla(s) 91 inline
+593,0xACA8,redirect,0xAF73,20,This is outrageous!,,1 isla(s) 91 inline
+594,0xACBF,redirect,0xAF8A,38,You'll regret that attitude of\nyours.,,
+595,0xACD8,redirect,0xAFB0,34,Take us to the Narc factory!\nNow!,,1 isla(s) 91 inline
+596,0xAD0B,redirect,0xAFD5,12,The factory,,
+597,0xAD18,redirect,0xAFE1,63,What's that factory in the back\nfor? What are you doing there?,,2 isla(s) 91 inline
+598,0xAD43,redirect,0xB026,43,It's a factory for producing drug\nsamples.,,1 isla(s) 91 inline
+599,0xAD66,redirect,0xB054,29,You mean for producing Narc.,,
+600,0xAD8D,redirect,0xB071,79,What are you talking about? You\ncan't just throw around\naccusations like that.,,1 isla(s) 91 inline
+601,0xADC8,redirect,0xB0C3,58,Tell us the truth.  What are you\nreally doing back there?,,1 isla(s) 91 inline
+602,0xADF1,redirect,0xB100,64,I don't have to answer your\nquestions.  We'll sue you for this.,,
+603,0xAE2C,redirect,0xB140,50,"You're better off cooperating, for\nyour own sake.",,1 isla(s) 91 inline
+604,0xAE4B,redirect,0xB175,9,Tokugawa,,1 isla(s) 91 inline
+605,0xAE58,redirect,0xB181,23,You afraid of Sadaoki?,,
+606,0xAE85,redirect,0xB198,34,I promise you we can protect you.,,1 isla(s) 91 inline
+607,0xAEA8,redirect,0xB1BD,51,Protect me? What can you guys\ndo?! You're nothing.,,1 isla(s) 91 inline
+608,0xAED9,redirect,0xB1F3,61,What do you have to gain by\ncovering for Tokugawa like this?,,2 isla(s) 91 inline
+609,0xAF04,redirect,0xB236,45,I... I don't know what you're\ntalking about.,,
+610,0xAF2F,redirect,0xB263,5,Back,,
+611,0xAF38,redirect,0xB268,45,This guy is one of the security\nguards here.,,1 isla(s) 91 inline
+612,0xAF57,redirect,0xB298,30,"Another Oriental chap, I see.",,
+613,0xAF74,redirect,0xB2B6,63,He's an accomplice in all this.  He's\none of Tokugawa's goons.,,2 isla(s) 91 inline
+614,0xAFB5,redirect,0xB2FB,76,"He must be a security guard here.\nHe's a little short, but he's well\nbuilt.",,3 isla(s) 91 inline
+615,0xAFFA,redirect,0xB350,58,"Man, judo AND karate... he's\nscary when he gets mad, huh?",,2 isla(s) 91 inline
+616,0xB021,redirect,0xB390,61,He looks like the kinda guy who's\ndone a martial art before.,,2 isla(s) 91 inline
+617,0xB040,redirect,0xB3D3,52,He's Asian.  They say Tokugawa\nhires mostly Asians.,,1 isla(s) 91 inline
+618,0xB085,redirect,0xB40A,100,Asians tend to stick together\nwherever they go.{80238057}Just look at all the Chinatowns you\nget on Home.,,2 isla(s) 91 inline
+619,0xB0E6,redirect,0xB474,120,Japanese don't need to make an\neffort to group together on\nBeyond.{80238057}They practically run the entire\nplace themselves.,,2 isla(s) 91 inline
+620,0xB159,redirect,0xB4F2,48,He's your typical jock {D0}{06} real\nstraightforward.,,1 isla(s) 91 inline
+621,0xB178,redirect,0xB525,43,I see why they reassigned him to\nsecurity.,,1 isla(s) 91 inline
+622,0xB1B1,redirect,0xB553,1,,,
+623,0xB1C2,redirect,0xB554,1,,,
+624,0xB207,redirect,0xB555,1,,,
+625,0xB226,redirect,0xB556,1,,,
+626,0xB26D,redirect,0xB557,1,,,
+627,0xB2C6,redirect,0xB558,1,,,
+628,0xB2F3,redirect,0xB559,1,,,
+629,0xB316,redirect,0xB55A,1,,,
+630,0xB335,redirect,0xB55B,1,,,
+631,0xB348,redirect,0xB55C,1,,,
+632,0xB363,redirect,0xB55D,1,,,
+633,0xB372,redirect,0xB55E,32,I've got nothing to say to you.,,1 isla(s) 91 inline
+634,0xB393,redirect,0xB581,28,I'm not afraid of you guys.,,1 isla(s) 91 inline
+635,0xB3BC,redirect,0xB5A0,70,Our president won't stand for\nthis! Do you realize what you're\ndoing?,,1 isla(s) 91 inline
+636,0xB3ED,redirect,0xB5E9,88,You're going to wish you hadn't\ndone this.  Have you forgotten\nwho you're dealing with?,,2 isla(s) 91 inline
+637,0xB424,redirect,0xB647,39,Why don't we try talking to the\nguard.,,1 isla(s) 91 inline
+638,0xB447,redirect,0xB671,74,That display on the wall shows\nseveral DDS products released in\nthe past.,,1 isla(s) 91 inline
+639,0xB47C,redirect,0xB6BE,81,Mr. Hojo did all his work here by\nhimself.  He never talked much to\nanyone else.,,2 isla(s) 91 inline
+640,0xB4C7,redirect,0xB715,69,"You guys didn't come all the way\nhere to ask me about that, did\nyou?",,1 isla(s) 91 inline
+641,0xB4F8,redirect,0xB75D,51,What does that have to do with\nyour investigation?,,1 isla(s) 91 inline
+642,0xB541,redirect,0xB793,53,I'm sure you have more relevant\nquestions than that.,,1 isla(s) 91 inline
+643,0xB564,redirect,0xB7CB,53,"Let's check things out here a little\nmore, Jonathan.",,
+644,0xB593,redirect,0xB800,69,Why don't we keep looking around\nhere? We might've missed\nsomething.,,2 isla(s) 91 inline
+645,0xB5CA,redirect,0xB84B,62,Let's get Hojo's address.  We'll\nneed to go there eventually.,,1 isla(s) 91 inline
+646,0xB5F9,redirect,0xB88C,36,Let's see what he knows about\nBCCH.,,
+647,0xB638,redirect,0xB8B0,59,We don't we ask him about what\nHojo was doing on the 15th?,,1 isla(s) 91 inline
+648,0xB66B,redirect,0xB8EE,64,It might be worth asking him more\nabout Hojo's recent behavior.,,3 isla(s) 91 inline
+649,0xB6B2,redirect,0xB937,50,Why don't we try checking out the\nDDS Room again?,,1 isla(s) 91 inline
+650,0xB6D9,redirect,0xB96C,53,Why don't we ask him about what\nHojo was working on?,,3 isla(s) 91 inline
+651,0xB708,redirect,0xB9AA,63,What are you saying? We still\nhaven't learned anything useful.,,1 isla(s) 91 inline
+652,0xB749,redirect,0xB9EF,75,"Wait, Jonathan.  As long as we're\nhere, we should at least look for\nclues.",,
+653,0xB780,redirect,0xBA3A,96,The only real lead we have right\nnow is that Hojo works here.{80238057}We can't go away empty-handed.,,4 isla(s) 91 inline
+654,0xB7C5,redirect,0xBAA6,87,We still haven't picked up any solid\nclues.  Let's check this place out a\nlittle more.,,2 isla(s) 91 inline
+655,0xB804,redirect,0xBB03,45,Hold on.  We might be overlooking\nsomething.,,1 isla(s) 91 inline
+656,0xB833,redirect,0xBB33,98,The only real lead we have right\nnow is that Hojo works here.{80238057}It's too early to turn back yet.,,2 isla(s) 91 inline
+657,0xB876,redirect,0xBB9B,1,,,
+658,0xB8CB,redirect,0xBB9C,1,,,
+659,0xB8F0,redirect,0xBB9D,1,,,
+660,0xB907,redirect,0xBB9E,1,,,
+661,0xB916,redirect,0xBB9F,1,,,
+662,0xB94F,redirect,0xBBA0,1,,,
+663,0xB96E,redirect,0xBBA1,1,,,
+664,0xB983,redirect,0xBBA2,1,,,
+665,0xB992,redirect,0xBBA3,1,,,
+666,0xB9AD,redirect,0xBBA4,1,,,
+667,0xB9EC,redirect,0xBBA5,1,,,
+668,0xBA3D,redirect,0xBBA6,1,,,
+669,0xBA52,redirect,0xBBA7,1,,,
+670,0xBA6D,redirect,0xBBA8,1,,,
+671,0xBA92,redirect,0xBBA9,41,Can you take us into the DDS\nRoom again?,,1 isla(s) 91 inline
+672,0xBABD,redirect,0xBBD5,20,Do I have a choice?,,1 isla(s) 91 inline
+673,0xBAFC,redirect,0xBBEC,50,"Sorry, but can we see the DDS\nRoom one more time?",,
+674,0xBB25,redirect,0xBC1E,17,Will this be it?,,1 isla(s) 91 inline
+675,0xBB60,redirect,0xBC32,38,Can you show us that room over\nthere?,,
+676,0xBB8D,redirect,0xBC58,49,I can't just take you in there\nwithout a reason.,,1 isla(s) 91 inline
+677,0xBBBE,redirect,0xBC8C,37,"Wait, you can't just barge in\nthere!",,1 isla(s) 91 inline
+678,0xBBE5,redirect,0xBCB4,37,What do you want to go in there\nfor?,,2 isla(s) 91 inline
+679,0xBC20,redirect,0xBCDF,99,It'd be my ass if something\nhappened.{80238057}I have to at least be ready to\nexplain what was going on.,,3 isla(s) 91 inline
+680,0xBC67,redirect,0xBD4B,29,Try Hojo's card on the door.,,
+681,0xBC9C,redirect,0xBD68,20,"Alright, here goes.",,1 isla(s) 91 inline
+682,0xBCB5,redirect,0xBD7F,31,It opened.  Let's head inside.,,
+683,0xBCD4,redirect,0xBD9E,69,"Alright, I'll use the ID card.  Let's\nhope he's still in the system.",,1 isla(s) 91 inline
+684,0xBD0F,redirect,0xBDE6,62,"I don't know if there's anything\nleft for us in here, though.",,1 isla(s) 91 inline
+685,0xBD32,redirect,0xBE27,25,"Open the door, will you?",,1 isla(s) 91 inline
+686,0xBD45,redirect,0xBE43,31,It opened.  Let's head inside.,,
+687,0xBD6A,redirect,0xBE62,37,"That's not where the Narc is,\nGates.",,
+688,0xBDBF,redirect,0xBE87,53,That's Hojo's lab.  The Narc\nfactory is at the back.,,1 isla(s) 91 inline
+689,0xBE00,redirect,0xBEBF,56,"You can't go in there, even if you\nare with the police.",,2 isla(s) 91 inline
+690,0xBE37,redirect,0xBEFD,90,Back there is the factory where\nwe make samples of new\nproducts.  I can't let you inside.,,1 isla(s) 91 inline
+691,0xBE88,redirect,0xBF5A,59,It's a different story from the DDS\nRoom.  Don't even ask.,,1 isla(s) 91 inline
+692,0xBEC1,redirect,0xBF98,37,Think this'll open with Hojo's\ncard?,,1 isla(s) 91 inline
+693,0xBEEA,redirect,0xBFC0,69,I doubt it.  The security's several\nlevels higher than the DDS Room.,,1 isla(s) 91 inline
+694,0xBF33,redirect,0xC008,36,It ain't gonna open with Hojo's ID.,,
+695,0xBF72,redirect,0xC02C,52,Wait!  The alarm could go off if\nwe try to open it.,,2 isla(s) 91 inline
+696,0xBFA3,redirect,0xC066,66,The only way for us to open this\ndoor is through its lock system.,,2 isla(s) 91 inline
+697,0xBFF4,redirect,0xC0AE,48,It won't open if the lock hasn't\nbeen released.,,2 isla(s) 91 inline
+698,0xC02F,redirect,0xC0E4,54,We'd like to take a look at your\nfactory in the back.,,
+699,0xC04C,redirect,0xC11A,96,You can't do that.  You'd need\nPresident Tokugawa's permission\nbefore I could let you in there.,,3 isla(s) 91 inline
+700,0xC08B,redirect,0xC183,29,Open that door this instant!,,1 isla(s) 91 inline
+701,0xC0A0,redirect,0xC1A3,33,"I can't.  Not by myself, anyway.",,
+702,0xC0BB,redirect,0xC1C4,21,Open that door! Now!,,1 isla(s) 91 inline
+703,0xC0D4,redirect,0xC1DC,93,That lock system is different from\nthe others.  I can't make the\ndecision to open it myself.,,3 isla(s) 91 inline
+704,0xC127,redirect,0xC242,92,"If you don't open that door, I'll\nhave you arrested for obstructing\na police investigation!",,2 isla(s) 91 inline
+705,0xC14E,redirect,0xC2A4,65,You'll have to ask President\nTokugawa.  I can't do it on my\nown.,,2 isla(s) 91 inline
+706,0xC177,redirect,0xC2EB,30,I said open that bloody door!,,1 isla(s) 91 inline
+707,0xC18C,redirect,0xC30C,1,,,
+708,0xC1CB,redirect,0xC30D,1,,,
+709,0xC1E6,redirect,0xC30E,24,"The DDS Room, officers.",,
+710,0xC20F,redirect,0xC326,31,Well? What do you want to see?,,
+711,0xC22C,redirect,0xC345,1,,,
+712,0xC24B,redirect,0xC346,1,,,
+713,0xC27C,redirect,0xC347,1,,,
+714,0xC2A7,redirect,0xC348,1,,,
+715,0xC2DA,redirect,0xC349,1,,,
+716,0xC305,redirect,0xC34A,1,,,
+717,0xC34C,redirect,0xC34B,1,,,
+718,0xC375,redirect,0xC34F,27,We're inside the DDS Room.,,
+719,0xC386,redirect,0xC36A,67,It's the DDS Room.  I don't think\nwe'll find any Narc around here.,,2 isla(s) 91 inline
+720,0xC3D1,redirect,0xC3B3,59,"Yeah, this place is too small to\nhide something like Narc.",,1 isla(s) 91 inline
+721,0xC414,redirect,0xC3F1,21,We're in Hojo's lab.,,
+722,0xC433,redirect,0xC406,55,"I don't think we'll find anything\nelse here, Jonathan.",,2 isla(s) 91 inline
+723,0xC460,redirect,0xC443,69,We've already searched this place.\nI don't think Narc's around\nhere.,,1 isla(s) 91 inline
+724,0xC4AF,redirect,0xC48B,5,Move,,
+725,0xC4B4,redirect,0xC490,10,Reception,,
+726,0xC4BD,redirect,0xC49A,10,Finished?,,
+727,0xC4CC,redirect,0xC4A4,15,Satisfied now?,,2 isla(s) 91 inline
+728,0xC4D9,redirect,0xC4B9,7,System,,1 isla(s) 91 inline
+729,0xC4E2,redirect,0xC4C3,28,Let's go back to reception.,,3 isla(s) 91 inline
+730,0xC507,redirect,0xC4E8,23,Let's get out of here.,,
+731,0xC520,redirect,0xC4FF,68,"The terminal's not here, Jonathan.\nThere's no point hanging\naround.",,2 isla(s) 91 inline
+732,0xC54D,redirect,0xC549,71,Let's get out of here.  We\nwouldn't want one of the guards\nto find us.,,2 isla(s) 91 inline
+733,0xC57E,redirect,0xC596,63,There's nothing in here.  Why\ndon't we check around\nelsewhere?,,1 isla(s) 91 inline
+734,0xC5AD,redirect,0xC5DB,41,We're not gonna find anything else\nhere.,,2 isla(s) 91 inline
+735,0xC5D8,redirect,0xC60A,5,Look,,
+736,0xC5DD,redirect,0xC60F,13,What's this?,,
+737,0xC606,redirect,0xC61C,46,That's the Tokugawa Group's\nnetwork terminal.,,1 isla(s) 91 inline
+738,0xC639,redirect,0xC64D,85,It's called the T-Gear99.  All the\ncomputers in the Group are\nconnected via network.,,1 isla(s) 91 inline
+739,0xC68C,redirect,0xC6A5,116,It's used by employees for\ncorrespondence and work.{80238057}It's a special type of hardware not\navailable to the public.,,1 isla(s) 91 inline
+740,0xC6FF,redirect,0xC71C,66,"If this wasn't connected to the\nnetwork, it'd be totally useless.",,
+741,0xC772,redirect,0xC75E,56,"It's a T-Gear99, the Tokugawa\nGroup's network terminal.",,1 isla(s) 91 inline
+742,0xC7B1,redirect,0xC799,4,Use,,
+743,0xC7BA,redirect,0xC79D,29,You mind if we check it out?,,2 isla(s) 91 inline
+744,0xC7D5,redirect,0xC7C0,71,I can't permit that.  You would\nhave access to classified\ninformation.,,1 isla(s) 91 inline
+745,0xC82A,redirect,0xC80A,86,"Of course, you'd need to pass the\nsecurity checks before you could\nget online anyway.",,1 isla(s) 91 inline
+746,0xC865,redirect,0xC863,28,"You can't use it, officers.",,1 isla(s) 91 inline
+747,0xC888,redirect,0xC882,86,It's all medical texts and\npharmacology files.  I wouldn't\nhave a clue what they say.,,2 isla(s) 91 inline
+748,0xC8D9,redirect,0xC8DE,30,I don't see anything helpful.,,
+749,0xC900,redirect,0xC8FC,54,It's a bunch of text discs.  Hojo\nwas quite a reader.,,1 isla(s) 91 inline
+750,0xC943,redirect,0xC935,64,"Even if we could understand them,\nwe've no way of loading them.",,2 isla(s) 91 inline
+751,0xC96C,redirect,0xC97B,40,I wouldn't know what these were\nsaying.,,1 isla(s) 91 inline
+752,0xC991,redirect,0xC9A6,34,Me either.  You'd need an expert.,,
+753,0xC9CA,redirect,0xC9C8,62,All we've got are discs related to\nmedicine.  Nothing useful.,,1 isla(s) 91 inline
+754,0xCA0D,redirect,0xCA09,1,,,
+755,0xCA36,redirect,0xCA0A,1,,,
+756,0xCA5D,redirect,0xCA0B,1,,,
+757,0xCA88,redirect,0xCA0C,1,,,
+758,0xCABB,redirect,0xCA10,1,,,
+759,0xCADC,redirect,0xCA11,1,,,
+760,0xCB03,redirect,0xCA12,1,,,
+761,0xCB22,redirect,0xCA13,37,That's the whiteboard Mr. Hojo\nused.,,1 isla(s) 91 inline
+762,0xCB57,redirect,0xCA3B,30,That's Mr. Hojo's whiteboard.,,
+763,0xCB7E,redirect,0xCA59,1,,,
+764,0xCBBD,redirect,0xCA5A,1,,,
+765,0xCBD2,redirect,0xCA5B,1,,,
+766,0xCBEF,redirect,0xCA5C,1,,,
+767,0xCC12,redirect,0xCA60,1,,,
+768,0xCC37,redirect,0xCA61,1,,,
+769,0xCC52,redirect,0xCA62,1,,,
+770,0xCC75,redirect,0xCA63,1,,,
+771,0xCCB6,redirect,0xCA64,15,      English:,,
+772,0xCCD1,redirect,0xCA73,1,,,
+773,0xCCEC,redirect,0xCA74,1,,,
+774,0xCD1B,redirect,0xCA75,1,,,
+775,0xCD32,redirect,0xCA76,75,I'm pretty sure what's written\nhere is in fact what Mr. Hojo did\nthat day.,,2 isla(s) 91 inline
+776,0xCD5D,redirect,0xCAC7,83,"According to Hojo's liaison at\nBCCH, Ishida, he only received\nthree sets that day.",,2 isla(s) 91 inline
+777,0xCDB6,redirect,0xCB20,22,Is that what he said?,,1 isla(s) 91 inline
+778,0xCDD3,redirect,0xCB39,30,So what happened to the rest?,,
+779,0xCDEE,redirect,0xCB5A,44,"Well, what's written here might be\na cover.",,1 isla(s) 91 inline
+780,0xCE15,redirect,0xCB89,40,You're certain this is his\nhandwriting?,,
+781,0xCE28,redirect,0xCBB1,19,"Yes, I'm positive.",,1 isla(s) 91 inline
+782,0xCE41,redirect,0xCBC7,1,,,
+783,0xCE6A,redirect,0xCBC8,1,,,
+784,0xCEAB,redirect,0xCBC9,1,,,
+785,0xCEF6,redirect,0xCBCA,51,All evidence directly related to\nHojo is gone now.,,2 isla(s) 91 inline
+786,0xCF2B,redirect,0xCC03,25,Who do you think did it?,,1 isla(s) 91 inline
+787,0xCF58,redirect,0xCC1F,41,We can see the reception area\nfrom here.,,1 isla(s) 91 inline
+788,0xCF7D,redirect,0xCC4B,18,Anyone out there?,,1 isla(s) 91 inline
+789,0xCF92,redirect,0xCC60,16,"No, we're fine.",,
+790,0xCFA9,redirect,0xCC70,40,"It's alright, there's nobody out\nthere.",,1 isla(s) 91 inline
+791,0xCFCA,redirect,0xCC9B,85,This plate has holograms of\nvarious K Series products. \nThey're all Mr. Hojo's work.,,3 isla(s) 91 inline
+792,0xD029,redirect,0xCCF9,52,These are the K Series products\nMr. Hojo developed.,,1 isla(s) 91 inline
+793,0xD04A,redirect,0xCD30,43,This is a partial history of the K\nSeries.,,2 isla(s) 91 inline
+794,0xD069,redirect,0xCD61,55,This is a display of K Series\nproducts Hojo worked on.,,
+795,0xD08A,redirect,0xCD98,148,K-3 is a DDS that mimics contact\nlenses.{80238057}It uses a transmucosal delivery\nsystem where the drug is\nabsorbed through the ocular\n mucous membranes.,,5 isla(s) 91 inline
+796,0xD0FB,redirect,0xCE3B,87,It was the first product in our\nDDS line.  It gathered a lot of\nattention at the time.,,2 isla(s) 91 inline
+797,0xD128,redirect,0xCE98,59,That's K-3.  You could think of it\nas a contact lens drug.,,1 isla(s) 91 inline
+798,0xD153,redirect,0xCED6,131,K-5 is a DDS that takes the form\nof a patch.{80238057}It uses a transdermal delivery\nsystem where the drug is\nabsorbed through the skin.,,3 isla(s) 91 inline
+799,0xD1A0,redirect,0xCF62,48,So it's like an ordinary\nelectroporation patch?,,2 isla(s) 91 inline
+800,0xD1B3,redirect,0xCF98,107,The advantage of a transdermal\nsystem is you can supply the drug\n\n for several weeks with one\napplication.,,2 isla(s) 91 inline
+801,0xD1FA,redirect,0xD009,83,In the past it was mainly used for\ndelivering nitroglycerin and angina\nmedication.,,2 isla(s) 91 inline
+802,0xD23D,redirect,0xD062,55,They also use it to treat\nosteoporosis and asthma now.,,2 isla(s) 91 inline
+803,0xD26C,redirect,0xD09F,38,"That's K-5.  It's a patch, basically.",,
+804,0xD295,redirect,0xD0C5,77,K-6 is a DDS where the drug is\nabsorbed through the buccal\nmucous membranes.,,1 isla(s) 91 inline
+805,0xD2D6,redirect,0xD115,56,It's frequently used to treat\nproblems like stomatitis.,,1 isla(s) 91 inline
+806,0xD2F7,redirect,0xD150,38,That's K-6.  It's like a buccal\ndrug.,,1 isla(s) 91 inline
+807,0xD322,redirect,0xD179,153,"That one is a little different from\nthe others.{80238057}That's a massquito, a\nmosquito-type micromachine that\n\n we tried to use for administering\ninjections.",,3 isla(s) 91 inline
+808,0xD393,redirect,0xD21B,121,"The medical establishment fiercely\nopposed it, however, so right now\nit's only used for drawing blood in\n certain cases.",,3 isla(s) 91 inline
+809,0xD3DE,redirect,0xD29D,184,"Companies used to make a\nnumber of self-propelled\nmicromachine capsules for certain\n parts of the body, but it was too\ndifficult making them the right size\nfor the circulatory system.",,3 isla(s) 91 inline
+810,0xD455,redirect,0xD35E,153,Micromachines aren't very\ncommon in medicine.{80238057}At least when it comes to the\ngeneral public.{80238057}The use of nanomachines is even\nfurther down the line.,,2 isla(s) 91 inline
+811,0xD4B8,redirect,0xD3FD,52,That's a massquito.  That's what\ngot loose at BCCH.,,
+812,0xD4D9,redirect,0xD431,118,What a great day that was.  Maybe\nChris will have another one with\nher next time.{80238057}Preferably a malfunctioning one.,,1 isla(s) 91 inline
+813,0xD506,redirect,0xD4AA,54,This ain't the time for one of your\ndamned fantasies!,,2 isla(s) 91 inline
+814,0xD52F,redirect,0xD4E6,35,"That was a close call at AMM,\nhuh?",,1 isla(s) 91 inline
+815,0xD55C,redirect,0xD50C,28,"Yeah, almost sucked us dry.",,
+816,0xD591,redirect,0xD528,54,If I ever see another one of them\nagain I'll lose it.,,2 isla(s) 91 inline
+817,0xD5B8,redirect,0xD564,29,What's this blank space for?,,
+818,0xD5C5,redirect,0xD581,68,That's reserved for K-9.  We\nhaven't revealed it to the public\nyet.,,3 isla(s) 91 inline
+819,0xD602,redirect,0xD5CE,42,We're still gathering data at the\nmoment.,,
+820,0xD62F,redirect,0xD5F8,37,So this is Hojo's latest success....,,1 isla(s) 91 inline
+821,0xD654,redirect,0xD620,36,This is where K-9's gonna be\nadded.,,1 isla(s) 91 inline
+822,0xD677,redirect,0xD647,72,A capsule that allows for even\ndissolution of a drug in\nweightlessness.,,2 isla(s) 91 inline
+823,0xD6A8,redirect,0xD695,64,This is where K-9 is supposed to\ngo.  If only we could find it.,,2 isla(s) 91 inline
+824,0xD6D1,redirect,0xD6DB,65,You think K-9 really is a Narc\ncapsule like that guy was saying?,,
+825,0xD71E,redirect,0xD71C,55,"We can't say for sure yet, but if it\nis... boy oh boy.",,2 isla(s) 91 inline
+826,0xD74F,redirect,0xD759,36,Where the hell could this thing\nbe?,,1 isla(s) 91 inline
+827,0xD76C,redirect,0xD780,24,"We're almost there, Ed.",,
+828,0xD7A9,redirect,0xD798,32,This space is reserved for K-9.,,1 isla(s) 91 inline
+829,0xD7E6,redirect,0xD7BB,5,Back,,
+830,0xD7EF,redirect,0xD7C0,26,He's got a 2D photo here.,,
+831,0xD812,redirect,0xD7DA,104,Mr. Hojo always keeps pictures of\nhis family around.{80238057}That's unusual for a Japanese in\nthe workplace.,,3 isla(s) 91 inline
+832,0xD87B,redirect,0xD84B,89,So that's Hojo....  Doesn't look like\nthe type who'd just leave\neverything and take off.,,2 isla(s) 91 inline
+833,0xD89A,redirect,0xD8AA,57,That's his wife next to him.  He\ntalked about her a lot.,,1 isla(s) 91 inline
+834,0xD8C3,redirect,0xD8E6,41,This is the same photo Lorraine\ngave me.,,1 isla(s) 91 inline
+835,0xD8E8,redirect,0xD912,93,"As you can probably tell, Mr. Hojo\nwas a jealous guy.{80238057}He was very protective of his wife.",,1 isla(s) 91 inline
+836,0xD943,redirect,0xD972,89,It's Hojo's picture.  It's not like\nJapanese to put up pictures of\ntheir family at work.,,3 isla(s) 91 inline
+837,0xD982,redirect,0xD9D4,15,Kenzo Hojo....,,2 isla(s) 91 inline
+838,0xD99D,redirect,0xD9E9,35,He seems like a down-to-earth\nguy.,,1 isla(s) 91 inline
+839,0xD9BE,redirect,0xDA0F,19,Where could he be?,,
+840,0xD9D5,redirect,0xDA22,13,Lorraine....,,1 isla(s) 91 inline
+841,0xD9E4,redirect,0xDA32,18,That's Mrs. Hojo.,,
+842,0xDA01,redirect,0xDA44,53,I don't think she was as happy as\nshe tried to look.,,1 isla(s) 91 inline
+843,0xDA26,redirect,0xDA7C,24,It's a wall videophone.,,1 isla(s) 91 inline
+844,0xDA45,redirect,0xDA97,61,"It isn't connected to an outside\nline, for security reasons.",,1 isla(s) 91 inline
+845,0xDA8C,redirect,0xDAD7,29,It's an internal videophone.,,1 isla(s) 91 inline
+846,0xDAAB,redirect,0xDAF7,60,Don't go picking up the receiver. \nMight be a sensor in it.,,1 isla(s) 91 inline
+847,0xDAF0,redirect,0xDB36,93,They've got a lot of different\nmachines here.  Just what you'd\nexpect for a place like this.,,1 isla(s) 91 inline
+848,0xDB27,redirect,0xDB96,87,"Mr. Hojo used these in his\nresearch.  I don't know what's\nwhat, to tell you the truth.",,1 isla(s) 91 inline
+849,0xDB6C,redirect,0xDBF0,68,There's a master-slave\nmanipulator too.  These cost a lot\nof money.,,2 isla(s) 91 inline
+850,0xDBB3,redirect,0xDC3A,98,Sure do.  Nothing but the latest\nand greatest.{80238057}It's not easy getting your hands on\nthis stuff.,,2 isla(s) 91 inline
+851,0xDC04,redirect,0xDCA2,64,This is very advanced equipment. \nPlease don't touch any of it.,,1 isla(s) 91 inline
+852,0xDC2B,redirect,0xDCE5,36,Big difference from Victor's stuff.,,1 isla(s) 91 inline
+853,0xDC50,redirect,0xDD0C,61,This is equipment Hojo used. \nDon't ask me what they're for.,,1 isla(s) 91 inline
+854,0xDC87,redirect,0xDD4C,44,They really broke the bank with\nthis place.,,
+855,0xDCA4,redirect,0xDD78,88,Better not touch any of it.{80238057}We wouldn't know how to work\nthem if something happened.,,2 isla(s) 91 inline
+856,0xDCF3,redirect,0xDDD6,74,They look more or less like the\nmachines you'd find in a place like\nthis.,,1 isla(s) 91 inline
+857,0xDD2C,redirect,0xDE23,72,"It doesn't look like they're doing\nanything with Narc in here, does\nit?",,2 isla(s) 91 inline
+858,0xDDA5,redirect,0xDE71,33,Can't have a lab without chairs.,,1 isla(s) 91 inline
+859,0xDDB2,redirect,0xDE95,69,These are Mr. Hojo's chairs.  I\nguess it helps having more than\none.,,2 isla(s) 91 inline
+860,0xDE17,redirect,0xDEE0,40,That's one of the chairs Mr. Hojo\nused.,,1 isla(s) 91 inline
+861,0xDE3A,redirect,0xDF0B,29,That's one of Hojo's chairs.,,
+862,0xDE53,redirect,0xDF28,45,Watch you don't trip over any of\nthe chairs.,,1 isla(s) 91 inline
+863,0xDE86,redirect,0xDF58,31,That's one of the chairs here.,,
+864,0xDE99,redirect,0xDF77,20,That's a partition.,,
+865,0xDEB2,redirect,0xDF8B,104,"When DDS development first\nstarted, this area was quite big. \n\n Each K Series product had its own\nteam.",,3 isla(s) 91 inline
+866,0xDF07,redirect,0xDFFC,34,These were used to separate\nthem.,,1 isla(s) 91 inline
+867,0xDF2E,redirect,0xE021,87,"Recently K Series development\nhas become more secretive, so\nonly Mr. Hojo is involved.",,2 isla(s) 91 inline
+868,0xDF91,redirect,0xE07E,36,We don't really need these\nanymore.,,1 isla(s) 91 inline
+869,0xDFB8,redirect,0xE0A5,20,That's a partition.,,1 isla(s) 91 inline
+870,0xDFD7,redirect,0xE0BC,41,That's a partition that was used\nbefore.,,1 isla(s) 91 inline
+871,0xE000,redirect,0xE0E8,67,It's a partition.  These separated\nthe DDS teams from one another.,,2 isla(s) 91 inline
+872,0xE03F,redirect,0xE131,78,Is this some kind of partition? It\ndoesn't look like it's being used\nanymore.,,2 isla(s) 91 inline
+873,0xE078,redirect,0xE185,1,,,
+874,0xE085,redirect,0xE186,1,,,
+875,0xE0AC,redirect,0xE187,1,,,
+876,0xE0CF,redirect,0xE188,1,,,
+877,0xE0FC,redirect,0xE189,44,It's one of the black poppy\ngrowing fields.,,2 isla(s) 91 inline
+878,0xE129,redirect,0xE1BB,31,We're back at the poppy field.,,
+879,0xE142,redirect,0xE1DA,1,,,
+880,0xE169,redirect,0xE1DB,1,,,
+881,0xE18C,redirect,0xE1DC,1,,,
+882,0xE1B1,redirect,0xE1DD,1,,,
+883,0xE1E0,redirect,0xE1DE,1,,,
+884,0xE20D,redirect,0xE1DF,1,,,
+885,0xE276,redirect,0xE1E3,1,,,
+886,0xE2FD,redirect,0xE1E4,1,,,
+887,0xE362,redirect,0xE1E5,1,,,
+888,0xE3A1,redirect,0xE1E6,1,,,
+889,0xE3BC,redirect,0xE1E7,1,,,
+890,0xE3F1,redirect,0xE1E8,1,,,
+891,0xE414,redirect,0xE1E9,1,,,
+892,0xE43D,redirect,0xE1EA,5,Move,,
+893,0xE442,redirect,0xE1EF,10,Reception,,
+894,0xE44B,redirect,0xE1F9,52,We're not finished here.  You just\nwanna leave now?,,1 isla(s) 91 inline
+895,0xE480,redirect,0xE230,70,We've finally found out what\nthey're up to.  We can't just turn\nback.,,
+896,0xE4B7,redirect,0xE279,13,Back Factory,,
+897,0xE4C0,redirect,0xE286,7,System,,
+898,0xE4C9,redirect,0xE28D,64,"No, this thing's already started. \nThere's no turning back now.",,
+899,0xE4F8,redirect,0xE2CD,82,"Calm down, there's got to be\nsomething here.  Why don't we go\ncheck out the back.",,1 isla(s) 91 inline
+900,0xE52D,redirect,0xE322,86,What do you want to do back at\nreception?{80238057}I thought this is where the\npoppies are?,,1 isla(s) 91 inline
+901,0xE590,redirect,0xE37B,69,What do you want to go back\nthere for? There's nothing at\nreception.,,2 isla(s) 91 inline
+902,0xE5BB,redirect,0xE3C6,5,Look,,
+903,0xE5C0,redirect,0xE3CB,26,More fields up there too!,,
+904,0xE5DF,redirect,0xE3E5,37,This looks similar to an\nauditorium.,,1 isla(s) 91 inline
+905,0xE604,redirect,0xE40D,109,They've got this set up in three\nlevels.{80238057}It's designed so each level gets\nthe optimum amount of sunlight.,,5 isla(s) 91 inline
+906,0xE64D,redirect,0xE489,80,"If they've switched all these,\nthey've probably switched the\nones up there too.",,3 isla(s) 91 inline
+907,0xE674,redirect,0xE4E2,66,The fields they've got up top are\nthe same size as this one here.,,1 isla(s) 91 inline
+908,0xE6A1,redirect,0xE527,94,It's a three-level structure.  It's\ndesigned so that sunlight reaches\nevery area inside here.,,1 isla(s) 91 inline
+909,0xE6F2,redirect,0xE588,111,They're not using xenon grow\nlights.{80238057}It looks like they're using optical\nfibers to transport sunlight here.,,4 isla(s) 91 inline
+910,0xE763,redirect,0xE603,120,They must use a mirror to gather\nsunlight at night too.{80238057}They could even control the\namount of light by chaos system.,,3 isla(s) 91 inline
+911,0xE7C0,redirect,0xE684,83,So this place gets constant\nsunlight all year.  Better than any\ntropical paradise.,,1 isla(s) 91 inline
+912,0xE801,redirect,0xE6DA,57,"Somehow I think the word\n""cesspool"" is more appropriate.",,1 isla(s) 91 inline
+913,0xE840,redirect,0xE716,75,The ceiling doesn't look any\ndifferent.  This is definitely the\nsame room.,,
+914,0xE875,redirect,0xE761,101,That ceiling draws in sunlight for\nthe poppies.{80238057}They're able to reduce the\nharvest time this way.,,2 isla(s) 91 inline
+915,0xE8D6,redirect,0xE7CC,76,What are you talking about? This\nis an ordinary solar ray transport\nsystem.,,1 isla(s) 91 inline
+916,0xE909,redirect,0xE81B,83,It's used for drawing in sunlight\nfrom outside.  Any modern\ngrowing field uses it.,,1 isla(s) 91 inline
+917,0xE94A,redirect,0xE871,65,There's another room at the back.\nLooks like some kinda factory.,,1 isla(s) 91 inline
+918,0xE97B,redirect,0xE8B5,29,That's a funny-looking door.,,
+919,0xE988,redirect,0xE8D2,57,It's an automatic door built with\nintelligent materials.,,2 isla(s) 91 inline
+920,0xE9AF,redirect,0xE911,117,"If the room temperature exceeds\na specified level, a group of shape\nmemory alloy springs pop up and\n the door opens.",,3 isla(s) 91 inline
+921,0xEA00,redirect,0xE98F,63,"Basically, the door opens to cool\nthe room if it gets too hot.",,1 isla(s) 91 inline
+922,0xEA33,redirect,0xE9D1,60,Lucky for us the place is like a\ngoddamned sauna right now.,,1 isla(s) 91 inline
+923,0xEA68,redirect,0xEA10,44,You can see the room at the back\nfrom here.,,1 isla(s) 91 inline
+924,0xEA7F,redirect,0xEA3F,55,That's where their Narc factory is.\nAt the back there.,,1 isla(s) 91 inline
+925,0xEABC,redirect,0xEA79,33,Wait till you see how big it is.,,1 isla(s) 91 inline
+926,0xEAE9,redirect,0xEA9D,51,"You sure this time? Alright, let's\ngo have a look.",,1 isla(s) 91 inline
+927,0xEB08,redirect,0xEAD3,52,"Let's go take a look at the Narc\nfactory, Jonathan.",,2 isla(s) 91 inline
+928,0xEB43,redirect,0xEB0D,32,The Narc factory is back there.,,
+929,0xEB78,redirect,0xEB2D,19,That's ridiculous.,,
+930,0xEB89,redirect,0xEB40,45,"I saw it myself, chief.  It's there\nalright.",,1 isla(s) 91 inline
+931,0xEBAC,redirect,0xEB70,43,We can go over that room\nthoroughly later.,,2 isla(s) 91 inline
+932,0xEBD3,redirect,0xEBA1,10,Go inside,,
+933,0xEBDC,redirect,0xEBAB,46,There's a walkway encircling the\npoppy field.,,3 isla(s) 91 inline
+934,0xEC01,redirect,0xEBE2,41,This also leads to the area at the\nback.,,1 isla(s) 91 inline
+935,0xEC28,redirect,0xEC0E,69,Take a look wherever you like.  I\ndon't care.  Knock yourselves out.,,1 isla(s) 91 inline
+936,0xEC6B,redirect,0xEC56,46,"This leads to the factory at the\nback, Gates.",,1 isla(s) 91 inline
+937,0xEC98,redirect,0xEC87,57,They put this walkway here to\nmonitor the growing field.,,1 isla(s) 91 inline
+938,0xECD5,redirect,0xECC3,117,"These are definitely black poppies,\nthe main ingredient of Narc.  The\nsap from their opium pods serves\n as its base.",,1 isla(s) 91 inline
+939,0xED54,redirect,0xED3B,99,So these are black poppies... look\nat their leaves.  They're the same\nas the one Lorraine gave me.,,1 isla(s) 91 inline
+940,0xEDB3,redirect,0xEDA1,128,These must be a new variety\ncreated through genetic\nengineering and selective\n breeding.  I've never seen one like\nthis before.,,1 isla(s) 91 inline
+941,0xEE40,redirect,0xEE24,31,"There's no soil here, is here?",,1 isla(s) 91 inline
+942,0xEE4D,redirect,0xEE46,132,"They're cultivating them\nhydroponically, meaning they can\ngrow them in just a nutrient\n solution.  They don't need any soil\nat all.",,3 isla(s) 91 inline
+943,0xEE8C,redirect,0xEED3,67,"What's more, Tokugawa lead the\nfield when it comes to\nhydroponics.",,1 isla(s) 91 inline
+944,0xEEBF,redirect,0xEF19,25,Is this place automated?,,1 isla(s) 91 inline
+945,0xEED6,redirect,0xEF35,134,"It looks like everything's\ncontrolled by chaos system {D0}{06}\n\n humidity, temperature,\nsunlight....{80238057}It's all running totally by itself.",,1 isla(s) 91 inline
+946,0xEF29,redirect,0xEFBE,78,They could minimize the number\nof people in the know and prevent\nhuman error.,,1 isla(s) 91 inline
+947,0xEF7C,redirect,0xF00F,152,"Look, they've even increased the\ncarbon dioxide in the air to\naccelerate their growth!{80238057}You could do multiple harvests a\nyear under these conditions.",,2 isla(s) 91 inline
+948,0xEFD3,redirect,0xF0AD,77,You could easily make several\ndozen kilos of Narc with all the\npoppies here.,,2 isla(s) 91 inline
+949,0xF038,redirect,0xF100,77,If they've got more fields up there\nthat gives them three times this\namount.,,1 isla(s) 91 inline
+950,0xF07D,redirect,0xF150,84,Who'd ever think black poppies\nwere being grown on this scale at\na place like this?,,2 isla(s) 91 inline
+951,0xF0D8,redirect,0xF1AA,1,,,
+952,0xF0ED,redirect,0xF1AB,1,,,
+953,0xF122,redirect,0xF1AC,1,,,
+954,0xF157,redirect,0xF1AD,1,,,
+955,0xF170,redirect,0xF1AE,1,,,
+956,0xF1B7,redirect,0xF1AF,1,,,
+957,0xF1EC,redirect,0xF1B0,1,,,
+958,0xF233,redirect,0xF1B1,1,,,
+959,0xF240,redirect,0xF1B2,1,,,
+960,0xF27B,redirect,0xF1B3,1,,,
+961,0xF2C8,redirect,0xF1B4,1,,,
+962,0xF2E5,redirect,0xF1B5,12,Look closer,,1 isla(s) 91 inline
+963,0xF2EE,redirect,0xF1C4,57,No! I don't believe this! What\nhappened to the poppies?!,,1 isla(s) 91 inline
+964,0xF31F,redirect,0xF200,54,They've gotta be here\nsomewhere.  Let's keep looking.,,1 isla(s) 91 inline
+965,0xF33E,redirect,0xF239,46,They're not here... all the poppies\nare gone!,,1 isla(s) 91 inline
+966,0xF35F,redirect,0xF26A,34,"They were definitely here, chief.",,1 isla(s) 91 inline
+967,0xF382,redirect,0xF28F,56,"There's no point, Jonathan. \nThey've all been switched.",,
+968,0xF3B1,redirect,0xF2C7,33,The poppies aren't here anymore.,,2 isla(s) 91 inline
+969,0xF3CE,redirect,0xF2F1,5,Pick,,
+970,0xF3D3,redirect,0xF2F6,30,Let's grab some for evidence.,,
+971,0xF3EA,redirect,0xF314,120,Wait! They're connected to laser\nsensors.  See them sticking out\nthe field?{80238057}Touch anything and an alarm will\ngo off!,,4 isla(s) 91 inline
+972,0xF441,redirect,0xF398,36,Son of a bitch! Look but not\ntouch.,,1 isla(s) 91 inline
+973,0xF45A,redirect,0xF3BF,70,There's nothing else we can do\nright now.  Let's keep looking\naround.,,3 isla(s) 91 inline
+974,0xF483,redirect,0xF40E,87,We've got a good idea what's\ngoing on here.  Let's go check out\nthat room at the back.,,2 isla(s) 91 inline
+975,0xF4BC,redirect,0xF46B,48,Shall we take a look at that place\nat the back?,,1 isla(s) 91 inline
+976,0xF4D3,redirect,0xF49E,50,Why don't we take a look at the\nroom in the back.,,1 isla(s) 91 inline
+977,0xF4F2,redirect,0xF4D6,29,Let's take a look elsewhere.,,1 isla(s) 91 inline
+978,0xF511,redirect,0xF4F6,79,Let's check around here a little\nmore to make sure we haven't\nmissed anything.,,2 isla(s) 91 inline
+979,0xF53C,redirect,0xF54B,70,Why don't we take a look\nsomewhere else.  We've already\nlooked there.,,1 isla(s) 91 inline
+980,0xF55B,redirect,0xF594,1,,,
+981,0xF5B2,redirect,0xF595,15,      English:,,
+982,0xF5DD,redirect,0xF5A4,1,,,
+983,0xF5EE,redirect,0xF5A5,1,,,
+984,0xF60D,redirect,0xF5A6,1,,,
+985,0xF616,redirect,0xF5A7,1,,,
+986,0xF64B,redirect,0xF5A8,1,,,
+987,0xF656,redirect,0xF5A9,1,,,
+988,0xF683,redirect,0xF5AA,42,Let's go check out this room at\nthe back.,,1 isla(s) 91 inline
+989,0xF6A0,redirect,0xF5D7,96,There's no need to rush things. \nLet's make sure we've checked\nout this place thoroughly first.,,4 isla(s) 91 inline
+990,0xF6D5,redirect,0xF643,76,Let's search around here a little\nmore.  We don't wanna overlook\nsomething.,,3 isla(s) 91 inline
+991,0xF70C,redirect,0xF698,61,We can save that room at the back\nfor after we're done here.,,2 isla(s) 91 inline
+992,0xF737,redirect,0xF6DB,78,Come take a look at this place in\nthe back! That's where the Narc\nfactory is!,,1 isla(s) 91 inline
+993,0xF776,redirect,0xF72C,33,"You're sure about that, are you?",,1 isla(s) 91 inline
+994,0xF797,redirect,0xF750,136,"Of course.  Even if they did hide\nthe poppies, there's no way they\ncould've gotten rid of that factory\n in such a short amount of time.",,2 isla(s) 91 inline
+995,0xF7E4,redirect,0xF7DE,41,"Alright, let's go take a look back\nhere.",,2 isla(s) 91 inline
+996,0xF803,redirect,0xF80D,86,"Just calm down, there still might\nbe some around here\nsomewhere.  Let's keep looking.",,1 isla(s) 91 inline
+997,0xF84E,redirect,0xF866,104,They couldn't have gotten rid of all\nof them if they were here only 4\nhours ago.  Let's keep searching.,,2 isla(s) 91 inline
+998,0xF885,redirect,0xF8D4,41,Don't give up.  Let's just keep\nlooking.,,1 isla(s) 91 inline
+999,0xF89E,redirect,0xF900,83,"Wait, Jonathan.  We can check that\nout later.  First let's see what's\naround here.",,2 isla(s) 91 inline
+1000,0xF8DF,redirect,0xF959,75,Investigations have a certain order\nto them.  First we search around\nhere.,,2 isla(s) 91 inline
+1001,0xF90E,redirect,0xF9AA,77,We can search there later.  We\nhave to make sure we haven't\nmissed anything.,,
+1002,0xF945,redirect,0xF9F7,1,,,
+1003,0xF95A,redirect,0xF9F8,15,      English:,,1 isla(s) 91 inline
+1004,0xF9A1,redirect,0xFA0A,1,,,
+1005,0xF9FC,redirect,0xFA0B,1,,,
+1006,0xFA47,redirect,0xFA0C,1,,,
+1007,0xFA96,redirect,0xFA0D,1,,,
+1008,0xFAC5,redirect,0xFA0E,1,,,
+1009,0xFB48,redirect,0xFA0F,1,,,
+1010,0xFB6F,redirect,0xFA10,1,,,
+1011,0xFB94,redirect,0xFA11,15,      English:,,
+1012,0xFBD1,redirect,0xFA20,1,,,
+1013,0xFBF8,redirect,0xFA21,1,,,
+1014,0xFC0F,redirect,0xFA22,1,,,
+1015,0xFC22,redirect,0xFA23,1,,,
+1016,0xFC45,redirect,0xFA24,1,,,
+1017,0xFC68,redirect,0xFA25,1,,,
+1018,0xFC9F,redirect,0xFA26,1,,,
+1019,0xFCC6,redirect,0xFA27,1,,,
+1020,0xFCE1,redirect,0xFA28,1,,,
+1021,0xFD1E,redirect,0xFA29,1,,,
+1022,0xFD47,redirect,0xFA2A,1,,,
+1023,0xFD8A,redirect,0xFA2B,1,,,
+1024,0xFD97,redirect,0xFA2C,1,,,
+1025,0xFDB8,redirect,0xFA2D,1,,,
+1026,0xFDF1,redirect,0xFA2E,1,,,
+1027,0xFE18,redirect,0xFA2F,1,,,
+1028,0xFE2D,redirect,0xFA30,1,,,
+1029,0xFE48,redirect,0xFA31,1,,,
+1030,0xFE61,redirect,0xFA32,1,,,
+1031,0xFE7C,redirect,0xFA33,1,,,
+1032,0xFE8B,redirect,0xFA34,1,,,
+1033,0xFE96,redirect,0xFA35,1,,,
+1034,0xFEAF,redirect,0xFA36,1,,,
+1035,0xFEE8,redirect,0xFA37,1,,,
+1036,0xFF17,redirect,0xFA38,1,,,
+1037,0xFF5C,redirect,0xFA39,1,,,
+1038,0xFF75,redirect,0xFA3A,1,,,
+1039,0xFFC0,redirect,0xFA3B,1,,,
+1040,0xFFED,redirect,0xFA3C,1,,,
+1041,0x10034,redirect,0xFA3D,1,,,
+1042,0x1005F,redirect,0xFA3E,1,,,
+1043,0x100B2,redirect,0xFA3F,1,,,
+1044,0x100D1,redirect,0xFA40,1,,,
+1045,0x1015E,redirect,0xFA41,1,,,
+1046,0x1016D,redirect,0xFA42,1,,,
+1047,0x101D8,redirect,0xFA43,1,,,
+1048,0x101EB,redirect,0xFA44,1,,,
+1049,0x1021A,redirect,0xFA45,1,,,
+1050,0x1023B,redirect,0xFA46,1,,,
+1051,0x10284,redirect,0xFA4A,1,,,
+1052,0x10295,redirect,0xFA4B,1,,,
+1053,0x102C0,redirect,0xFA4C,1,,,
+1054,0x10311,redirect,0xFA4D,1,,,
+1055,0x10338,redirect,0xFA4E,1,,,
+1056,0x10355,redirect,0xFA4F,1,,,
+1057,0x1037C,redirect,0xFA50,1,,,
+1058,0x10397,redirect,0xFA51,1,,,
+1059,0x103F4,redirect,0xFA52,1,,,
+1060,0x10409,redirect,0xFA53,1,,,
+1061,0x10452,redirect,0xFA54,1,,,
+1062,0x10467,redirect,0xFA55,1,,,
+1063,0x10480,redirect,0xFA56,1,,,
+1064,0x104A9,redirect,0xFA57,1,,,
+1065,0x10524,redirect,0xFA58,1,,,
+1066,0x1052F,redirect,0xFA59,1,,,
+1067,0x105AE,redirect,0xFA5A,1,,,
+1068,0x105CF,redirect,0xFA5B,1,,,
+1069,0x105DC,redirect,0xFA5C,1,,,
+1070,0x1063F,redirect,0xFA5D,1,,,
+1071,0x10650,redirect,0xFA5E,1,,,
+1072,0x10691,redirect,0xFA5F,1,,,
+1073,0x106BC,redirect,0xFA60,1,,,
+1074,0x106CB,redirect,0xFA61,1,,,
+1075,0x106D8,redirect,0xFA62,1,,,
+1076,0x10703,redirect,0xFA63,1,,,
+1077,0x1071A,redirect,0xFA64,1,,,
+1078,0x1073B,redirect,0xFA65,1,,,
+1079,0x107B0,redirect,0xFA66,1,,,
+1080,0x107DB,redirect,0xFA67,1,,,
+1081,0x10826,redirect,0xFA68,1,,,
+1082,0x1084D,redirect,0xFA69,1,,,
+1083,0x10890,redirect,0xFA6A,1,,,
+1084,0x108DB,redirect,0xFA6B,1,,,
+1085,0x1091A,redirect,0xFA6C,1,,,
+1086,0x10929,redirect,0xFA6D,1,,,
+1087,0x10940,redirect,0xFA6E,1,,,
+1088,0x10949,redirect,0xFA6F,1,,,
+1089,0x10998,redirect,0xFA70,1,,,
+1090,0x109C5,redirect,0xFA71,1,,,
+1091,0x109E2,redirect,0xFA72,1,,,
+1092,0x109F1,redirect,0xFA73,1,,,
+1093,0x10A2C,redirect,0xFA74,1,,,
+1094,0x10A3B,redirect,0xFA75,1,,,
+1095,0x10A52,redirect,0xFA76,1,,,
+1096,0x10A8D,redirect,0xFA77,1,,,
+1097,0x10AAA,redirect,0xFA78,1,,,
+1098,0x10AB9,redirect,0xFA79,1,,,
+1099,0x10ACA,redirect,0xFA7A,1,,,
+1100,0x10ADD,redirect,0xFA7B,1,,,
+1101,0x10AE8,redirect,0xFA7C,1,,,
+1102,0x10B21,redirect,0xFA7D,5,Move,,
+1103,0x10B26,redirect,0xFA82,12,Poppy field,,
+1104,0x10B31,redirect,0xFA8E,93,We've got a good idea of what's\ngoing on at the poppy fields.  Let's\ncheck out this factory.,,2 isla(s) 91 inline
+1105,0x10B64,redirect,0xFAF1,43,Let's check things out here a little\nmore.,,
+1106,0x10B83,redirect,0xFB1C,7,System,,
+1107,0x10B8C,redirect,0xFB23,30,There was nothing back there.,,
+1108,0x10BA7,redirect,0xFB41,37,I thought this is where the Narc\nis?,,1 isla(s) 91 inline
+1109,0x10BDC,redirect,0xFB69,30,"Trying to get away, Jonathan?",,1 isla(s) 91 inline
+1110,0x10BFF,redirect,0xFB8A,63,They've switched all the poppies. \nThere's nothing back there.,,1 isla(s) 91 inline
+1111,0x10C36,redirect,0xFBCC,5,Look,,
+1112,0x10C3B,redirect,0xFBD4,41,"Before they do that, though,\ncomes this.",,1 isla(s) 91 inline
+1113,0x10C64,redirect,0xFC00,124,Here they're extracting the sap\nfrom the pods.{80238057}It has certain alkaloids used for\nmaking drugs like morphine and\ncodeine.,,4 isla(s) 91 inline
+1114,0x10CF5,redirect,0xFC88,86,"Then, by drying the sap you get\nopium.  You can then isolate\nmorphine from the opium.",,3 isla(s) 91 inline
+1115,0x10D48,redirect,0xFCE7,44,You still remember all that from\nnarcotics?,,
+1116,0x10D6F,redirect,0xFD13,44,"I got an award there, remember?\nSo did you!",,1 isla(s) 91 inline
+1117,0x10D9C,redirect,0xFD42,97,What they're doing so far is the\nsame process you'd go through to\nmake normal opium derivatives.,,3 isla(s) 91 inline
+1118,0x10DD3,redirect,0xFDAC,88,They're extracting the sap from\nthe pods here.  That's the main\ningredient of morphine.,,2 isla(s) 91 inline
+1119,0x10E0E,redirect,0xFE0A,57,"After they get the opium, they\nmove on to the next step.",,3 isla(s) 91 inline
+1120,0x10E3B,redirect,0xFE4C,109,Here they're taking the heroin\ncreated from the morphine and\ncombining it with a hallucinogen to\n make Narc.,,5 isla(s) 91 inline
+1121,0x10EBA,redirect,0xFEC8,45,You could say that's the secret\nbehind Narc.,,1 isla(s) 91 inline
+1122,0x10EF9,redirect,0xFEF8,163,"So by combining a natural drug, a\nsynthetic drug and a hallucinogen,\nthey create something with both\n the addictiveness of morphine and\nhallucinogenic properties.",,3 isla(s) 91 inline
+1123,0x10F8A,redirect,0xFFA4,73,"That's what's so unique about\nNarc, and also the scariest part\nabout it.",,2 isla(s) 91 inline
+1124,0x10FCF,redirect,0xFFF3,63,Here they combine the heroin\nwith a hallucinogen to make Narc.,,
+1125,0x11022,redirect,0x10032,48,After they synthesize Narc comes\nthe next step.,,2 isla(s) 91 inline
+1126,0x11061,redirect,0x10068,107,Here they're chemically separating\nthe completed Narc into two.{80238057}They get two capsule types as a\nresult.,,2 isla(s) 91 inline
+1127,0x110CC,redirect,0x100D9,39,Everything on Hojo's CD was the\ntruth.,,
+1128,0x110F9,redirect,0x10100,82,The separate capsules offer no\nnarcotic reaction on their own. \nThat's the trick.,,
+1129,0x1116A,redirect,0x10152,53,Here they're separating the\ncompleted Narc into two.,,2 isla(s) 91 inline
+1130,0x111C3,redirect,0x1018D,55,"After they separate Narc, they go\non to the next step.",,
+1131,0x11202,redirect,0x101C4,89,Here they're placing the separated\nNarc liquid in gelatin and turning it\ninto a capsule.,,3 isla(s) 91 inline
+1132,0x11271,redirect,0x10226,38,And the end result is a Narc\ncapsule.,,1 isla(s) 91 inline
+1133,0x112B2,redirect,0x1024F,130,"Right.  Then for the final step, the\nmark that identifies the different\ncapsules, the drug identification\n code, gets printed on.",,3 isla(s) 91 inline
+1134,0x112FF,redirect,0x102DA,91,"If what this counter says is right,\nthey're pumping out several\nhundred capsules a second.",,1 isla(s) 91 inline
+1135,0x11370,redirect,0x1033B,88,They're turning the Narc liquid\ninto capsules here.{80238057}This step completes the process.,,3 isla(s) 91 inline
+1136,0x113E9,redirect,0x1039C,60,This is where the pods harvested\nfrom those fields come in.,,
+1137,0x11422,redirect,0x103D8,38,The entire system is fully\nautomated.,,1 isla(s) 91 inline
+1138,0x1143D,redirect,0x10401,62,"After that, they extract the opium\nfrom the pod, like we saw.",,1 isla(s) 91 inline
+1139,0x1147A,redirect,0x10442,51,These are the pods picked from\nthe growing fields.,,2 isla(s) 91 inline
+1140,0x1149B,redirect,0x1047B,30,"Hey, the opium pods are gone!",,1 isla(s) 91 inline
+1141,0x114BE,redirect,0x1049C,42,There were mountains of pods\nhere before.,,1 isla(s) 91 inline
+1142,0x114FF,redirect,0x104C9,42,The pods are gone.  Just... totally\ngone.,,
+1143,0x1152C,redirect,0x104F3,25,After that they're done.,,
+1144,0x1154B,redirect,0x1050C,55,This is a completed Narc capsule. \nThe inside's empty.,,2 isla(s) 91 inline
+1145,0x1158A,redirect,0x10549,68,"These are the same capsules I got\nfrom Lorraine, no doubt about it.",,
+1146,0x115BF,redirect,0x1058D,88,They're moving along a conveyor\nbelt.  They probably box them in a\nwarehouse next door.,,3 isla(s) 91 inline
+1147,0x115FC,redirect,0x105EE,45,"The Narc capsule, K-9.  We finally\nfound it.",,
+1148,0x11649,redirect,0x1061B,1,,,
+1149,0x11684,redirect,0x1061C,1,,,
+1150,0x116CD,redirect,0x1061D,1,,,
+1151,0x11714,redirect,0x1061E,1,,,
+1152,0x1171F,redirect,0x1061F,1,,,
+1153,0x1178A,redirect,0x10620,1,,,
+1154,0x117B3,redirect,0x10621,75,The codes are all there.  These\nare different from the ones we\nsaw before.,,2 isla(s) 91 inline
+1155,0x117EA,redirect,0x10672,48,"They switched them, just like the\npoppy fields.",,1 isla(s) 91 inline
+1156,0x11819,redirect,0x106A5,64,We've already seen how they\nextract the opium from the\npoppies.,,3 isla(s) 91 inline
+1157,0x1184E,redirect,0x106EE,60,We've already seen how they\nsynthesize Narc from the opium.,,2 isla(s) 91 inline
+1158,0x11893,redirect,0x10730,49,We've already seen how they split\nNarc into two.,,1 isla(s) 91 inline
+1159,0x118D4,redirect,0x10764,67,We've already seen how they put\nthe Narc liquid into the capsules.,,
+1160,0x1191B,redirect,0x107A7,38,Let's take a look at the other\nareas.,,1 isla(s) 91 inline
+1161,0x11936,redirect,0x107D0,32,Let's look at the other stages.,,1 isla(s) 91 inline
+1162,0x11953,redirect,0x107F3,52,We haven't looked at every part of\nthe process yet.,,1 isla(s) 91 inline
+1163,0x11978,redirect,0x1082A,74,We need to be sure of what's\ngoing on here.  Let's look around\nsome more.,,1 isla(s) 91 inline
+1164,0x119A5,redirect,0x10877,62,"Look, chief.  This is the Narc\nproduction process right here.",,1 isla(s) 91 inline
+1165,0x119E8,redirect,0x108B8,20,Are you two insane?,,
+1166,0x11A0B,redirect,0x108CC,27,We make DDS capsules here.,,1 isla(s) 91 inline
+1167,0x11A36,redirect,0x108EA,21,"Stop lying, Sadaoki!",,
+1168,0x11A51,redirect,0x108FF,27,Where's the Narc? Show me.,,
+1169,0x11A90,redirect,0x1091D,32,"The Narc should be here, Gates.",,1 isla(s) 91 inline
+1170,0x11AD3,redirect,0x10943,67,"I don't care, search wherever you\nwant.  You're wasting your time.",,1 isla(s) 91 inline
+1171,0x11B02,redirect,0x10989,33,Why are you so sure of yourself?,,1 isla(s) 91 inline
+1172,0x11B23,redirect,0x109AD,42,Because I know there isn't any\nNarc here.,,1 isla(s) 91 inline
+1173,0x11B54,redirect,0x109DA,41,You're lying! This is where you\nmake it!,,2 isla(s) 91 inline
+1174,0x11B91,redirect,0x10A09,46,"Look, you can see Narc being\nmade right here.",,1 isla(s) 91 inline
+1175,0x11BBE,redirect,0x10A3A,33,This is where they're making it.,,2 isla(s) 91 inline
+1176,0x11C03,redirect,0x10A61,45,"Go ahead, Gates, search wherever\nyou'd like.",,1 isla(s) 91 inline
+1177,0x11C2E,redirect,0x10A91,54,What's wrong? Aren't you going\nto take a look inside?,,3 isla(s) 91 inline
+1178,0x11C51,redirect,0x10AD0,35,What's going on? Where's the\nNarc?,,2 isla(s) 91 inline
+1179,0x11C7E,redirect,0x10AF9,33,"Where's the Narc, Jonathan?\nEd?!",,
+1180,0x11CB5,redirect,0x10B1A,72,If we don't find anything we'll have\na serious problem to contend\nwith.,,4 isla(s) 91 inline
+1181,0x11CF2,redirect,0x10B6E,47,Let's just all calm down and search\ncarefully.,,2 isla(s) 91 inline

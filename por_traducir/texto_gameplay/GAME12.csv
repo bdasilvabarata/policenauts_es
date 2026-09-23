@@ -1,0 +1,330 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x15DC,redirect,0x12F0,61,It's a reflective faceplate.  We can't\nsee his face at all.{0D},,1 isla(s) 91 inline
+1,0x1613,redirect,0x1330,54,He must be really desperate to\nconceal his identity.{0D},,1 isla(s) 91 inline
+2,0x1634,redirect,0x1369,61,Look at this guy.  Calls us out\nhere then turns up in this.{0D},,3 isla(s) 91 inline
+3,0x165D,redirect,0x13AF,84,It's a spacesuit from the Apollo\nprogram.  The museum probably\nuses it for events.{0D},,3 isla(s) 91 inline
+4,0x169C,redirect,0x140C,66,It'll be easier to move in than the\ndisplays at the Moon Corner.{0D},,1 isla(s) 91 inline
+5,0x16CD,redirect,0x1451,55,"Yeah, the real ones weigh well\nover a hundred pounds.{0D}",,
+6,0x1706,redirect,0x1488,8,Arrest{0D},,
+7,0x170F,redirect,0x1490,38,We're wasting our time playing\nnice.{0D},,
+8,0x172E,redirect,0x14B6,45,Maybe we need to be a little more\nforceful.{0D},,1 isla(s) 91 inline
+9,0x1749,redirect,0x14E6,45,You're going to arrest me? On\nwhat charges?{0D},,1 isla(s) 91 inline
+10,0x1766,redirect,0x1516,14,Trespassing.{0D},,
+11,0x1775,redirect,0x1524,14,Trespassing?{0D},,
+12,0x1780,redirect,0x1532,52,This is the Space Corner.  No\nLunar suits allowed.{0D},,2 isla(s) 91 inline
+13,0x17AB,redirect,0x156C,11,Jonathan!{0D},,
+14,0x17C6,redirect,0x1577,108,"Try anything like that and you can\nforget about me helping you.{80238057}Remember, I've got information\nfor you.{0D}",,2 isla(s) 91 inline
+15,0x1811,redirect,0x15E9,23,"He's right, Jonathan.{0D}",,
+16,0x1832,redirect,0x1600,39,What are you trying to do? Calm\ndown.{0D},,1 isla(s) 91 inline
+17,0x184B,redirect,0x162A,31,You're getting too worked up.{0D},,1 isla(s) 91 inline
+18,0x1864,redirect,0x164C,22,"I'm not kidding, Ed.{0D}",,1 isla(s) 91 inline
+19,0x1879,redirect,0x1665,78,"Look, you wanna go spend some\ntime in a cell or you wanna work\nwith us here?{0D}",,1 isla(s) 91 inline
+20,0x18A0,redirect,0x16B6,21,"Alright, I'll talk.{0D}",,
+21,0x18BD,redirect,0x16CB,21,"Alright, I'll talk.{0D}",,1 isla(s) 91 inline
+22,0x18D6,redirect,0x16E3,47,You guys have watched too many\npolice movies.{0D},,2 isla(s) 91 inline
+23,0x18FF,redirect,0x1718,26,Reminds me of you in LA.{0D},,1 isla(s) 91 inline
+24,0x191A,redirect,0x1735,65,He's just stringing us along.  Let's\nbring this guy in already.{0D},,3 isla(s) 91 inline
+25,0x1937,redirect,0x177F,35,"Chill out for a second, will you?{0D}",,1 isla(s) 91 inline
+26,0x194A,redirect,0x17A5,79,This isn't getting us anywhere.  I\nsay we take this guy in and make\nhim talk.{0D},,2 isla(s) 91 inline
+27,0x197F,redirect,0x17FA,16,Are you crazy?{0D},,
+28,0x1998,redirect,0x180A,32,You trying to ruin everything?{0D},,1 isla(s) 91 inline
+29,0x19B1,redirect,0x182D,6,Talk{0D},,1 isla(s) 91 inline
+30,0x19BC,redirect,0x1836,28,"Okay, let's hear the rest.{0D}",,1 isla(s) 91 inline
+31,0x19DD,redirect,0x1855,24,What else do you have?{0D},,1 isla(s) 91 inline
+32,0x19F0,redirect,0x1870,36,"Alright, what have you got for\nus?{0D}",,1 isla(s) 91 inline
+33,0x19FF,redirect,0x1897,22,Well? Start talking.{0D},,1 isla(s) 91 inline
+34,0x1A16,redirect,0x18B0,46,Looks like he wants to do this the\nhard way.{0D},,2 isla(s) 91 inline
+35,0x1A39,redirect,0x18E4,17,May I help you?{0D},,
+36,0x1A4C,redirect,0x18F5,36,"Oh, the bathroom is that way, sir.{0D}",,2 isla(s) 91 inline
+37,0x1A63,redirect,0x191F,11,Ask about{0D},,
+38,0x1A68,redirect,0x192A,27,"I'm sorry, do I know you?{0D}",,1 isla(s) 91 inline
+39,0x1A81,redirect,0x1948,46,You're in the way.  I can't see the\nexhibit.{0D},,1 isla(s) 91 inline
+40,0x1ABA,redirect,0x1979,42,I don't have anything to say to you\ntwo.{0D},,2 isla(s) 91 inline
+41,0x1ADF,redirect,0x19A9,14,His identity{0D},,1 isla(s) 91 inline
+42,0x1AE8,redirect,0x19BA,34,How do we know we can trust\nyou?{0D},,2 isla(s) 91 inline
+43,0x1B07,redirect,0x19E2,78,"I'm neither enemy nor friend. \nYou could call me... an associate, I\nsuppose.{0D}",,3 isla(s) 91 inline
+44,0x1B42,redirect,0x1A3C,83,"We share an enemy.  Rather, you\ncould say we're being targeted by\nthe same enemy.{0D}",,4 isla(s) 91 inline
+45,0x1B83,redirect,0x1A9B,41,I've got a list of enemies a mile\nlong.{0D},,1 isla(s) 91 inline
+46,0x1BAC,redirect,0x1AC7,28,My identity is irrelevant.{0D},,1 isla(s) 91 inline
+47,0x1BE5,redirect,0x1AE6,44,What is relevant is whom we're up\nagainst.{0D},,2 isla(s) 91 inline
+48,0x1C0E,redirect,0x1B18,59,Why can't you tell us who you\nare? Whose side are you on?{0D},,1 isla(s) 91 inline
+49,0x1C31,redirect,0x1B56,119,"I can't reveal my identity.  Not yet,\nanyway.  My life is in danger.{80238057}As I said before, you can call me\nNine Stars.{0D}",,2 isla(s) 91 inline
+50,0x1C96,redirect,0x1BD3,13,Nine Stars?{0D},,
+51,0x1CC1,redirect,0x1BE0,116,"I can tell you I know a lot about\nboth of you.{80238057}You'll know who I am soon\nenough, provided we survive that\nlong.{0D}",,3 isla(s) 91 inline
+52,0x1D06,redirect,0x1C5D,48,You expect us to just accept that\nand move on?{0D},,
+53,0x1D29,redirect,0x1C8D,22,Do you not trust me?{0D},,1 isla(s) 91 inline
+54,0x1D4E,redirect,0x1CA6,44,Of course not.  We don't know\nwho you are.{0D},,1 isla(s) 91 inline
+55,0x1D6F,redirect,0x1CD5,6,Hojo{0D},,
+56,0x1D7C,redirect,0x1CDB,25,Let's cut to the chase.{0D},,
+57,0x1D9F,redirect,0x1CF4,24,That didn't take long.{0D},,1 isla(s) 91 inline
+58,0x1DC0,redirect,0x1D0F,24,What happened to Hojo?{0D},,
+59,0x1DD7,redirect,0x1D27,62,He betrayed them.  He started\nselling it behind their backs.{0D},,2 isla(s) 91 inline
+60,0x1E28,redirect,0x1D6B,15,"""Them""? ""It""?{0D}",,2 isla(s) 91 inline
+61,0x1E67,redirect,0x1D80,19,So where is Hojo?{0D},,
+62,0x1E7A,redirect,0x1D93,137,He was eliminated a long time ago.\nThat's what happens when you\ncross these guys.{80238057}I'm going to end up just like Hojo\nand that woman!{0D},,3 isla(s) 91 inline
+63,0x1EE7,redirect,0x1E25,28,You're saying Hojo's dead?{0D},,1 isla(s) 91 inline
+64,0x1F06,redirect,0x1E44,96,They've already taken care of his\nbody.  You'll never find it.  Don't\nwaste your time looking.{0D},,2 isla(s) 91 inline
+65,0x1F5F,redirect,0x1EAA,34,You mean it's not on the colony?{0D},,
+66,0x1F80,redirect,0x1ECC,6,....{0D},,
+67,0x1F87,redirect,0x1ED2,16,Is it on Home?{0D},,
+68,0x1FA0,redirect,0x1EE2,39,"That's for you to find out, isn't it?{0D}",,2 isla(s) 91 inline
+69,0x1FA9,redirect,0x1F0F,8,"""Them""{0D}",,
+70,0x1FB2,redirect,0x1F17,15,"Who's ""them""?{0D}",,
+71,0x1FC1,redirect,0x1F26,37,"I can't say.  Not out here, anyway.{0D}",,
+72,0x1FE6,redirect,0x1F4B,17,Is it Tokugawa?{0D},,
+73,0x1FF3,redirect,0x1F5C,27,Is Home's Mafia involved?{0D},,1 isla(s) 91 inline
+74,0x203C,redirect,0x1F7A,29,"It's not that simple, okay?{0D}",,2 isla(s) 91 inline
+75,0x2059,redirect,0x1F9D,75,We saw a politician at Tokugawa's\nparty.  Are guys like him involved\ntoo?{0D},,6 isla(s) 91 inline
+76,0x2098,redirect,0x1FFA,47,"Were Hojo and Lorraine killed by\nthis ""them""?{0D}",,
+77,0x20B7,redirect,0x2029,54,Yeah.  Screw with these guys and\nyou're done.  Done!{0D},,2 isla(s) 91 inline
+78,0x20EE,redirect,0x2065,64,"They'll follow you anywhere, just\nlike they did with Lorraine.{0D}",,1 isla(s) 91 inline
+79,0x211B,redirect,0x20A8,34,You can't even begin to imagine.{0D},,1 isla(s) 91 inline
+80,0x213E,redirect,0x20CD,45,"You'll be hearing from them soon,\nI'm sure.{0D}",,1 isla(s) 91 inline
+81,0x217B,redirect,0x20FD,65,Who are you trying to get away\nfrom by going to Home?\nTokugawa?{0D},,2 isla(s) 91 inline
+82,0x21B6,redirect,0x2144,33,So Home's Mafia isn't involved?{0D},,
+83,0x21E5,redirect,0x2165,32,I can't answer that right now.{0D},,1 isla(s) 91 inline
+84,0x21F8,redirect,0x2188,14,"""That woman""{0D}",,
+85,0x2203,redirect,0x2196,21,"Who's ""that woman""?{0D}",,
+86,0x2210,redirect,0x21AB,78,Hojo's wife.  I think her name was\nLorraine.  Nobody's safe with\nthese guys.{0D},,3 isla(s) 91 inline
+87,0x227D,redirect,0x2202,10,Lorraine{0D},,1 isla(s) 91 inline
+88,0x228E,redirect,0x220F,35,Was Lorraine involved with\ndrugs?{0D},,1 isla(s) 91 inline
+89,0x22A1,redirect,0x2235,26,Why was Lorraine killed?{0D},,
+90,0x22B6,redirect,0x224F,53,Hojo probably told her something\nhe shouldn't have.{0D},,1 isla(s) 91 inline
+91,0x22FD,redirect,0x2287,82,You have no idea what these\npeople are like.  They would kill\nabsolutely anyone.{0D},,3 isla(s) 91 inline
+92,0x233E,redirect,0x22E2,83,"Considering what happened to\nLorraine, running to Home might\nnot do you any good.{0D}",,1 isla(s) 91 inline
+93,0x2381,redirect,0x2338,46,I have a better chance there than\nI do here.{0D},,1 isla(s) 91 inline
+94,0x23A6,redirect,0x2369,6,"""It""{0D}",,
+95,0x23AF,redirect,0x236F,32,"What's the ""it"" you mentioned?{0D}",,1 isla(s) 91 inline
+96,0x23C4,redirect,0x2392,130,"Narc, the semi-synthetic drug.{80238057}They've been using DDSes\ndeveloped at Tokugawa\nPharmaceuticals to float Narc onto\n the market.{0D}",,3 isla(s) 91 inline
+97,0x2475,redirect,0x241D,90,That's the real purpose of the K\nSeries {D0}{06} to get Narc out there\nwithout anyone knowing.{0D},,1 isla(s) 91 inline
+98,0x24F6,redirect,0x247A,67,The newest one is K-9.  It's\nnothing more than a vessel for\nNarc.{0D},,
+99,0x2545,redirect,0x24BD,5,K-9{0D},,
+100,0x2554,redirect,0x24C2,93,I thought the selling point behind\nK-9 is the even dissolution of a\ndrug in weightlessness?{0D},,1 isla(s) 91 inline
+101,0x2587,redirect,0x2522,94,"That's the official story, but a\ncapsule with an osmotic pressure\nsystem is nothing special.{0D}",,2 isla(s) 91 inline
+102,0x25CE,redirect,0x2586,98,K-9's real purpose is carrying and\nconcealing Narc.{80238057}Hojo and I started selling it on our\nown.{0D},,2 isla(s) 91 inline
+103,0x2645,redirect,0x25EE,105,It was my idea.  Everything was\ngoing to plan.{80238057}Nobody should ever have\nsuspected what we were doing.{0D},,1 isla(s) 91 inline
+104,0x26C0,redirect,0x265A,82,We don't believe you.  We didn't\nfind anything in the capsules we\ngot from Hojo.{0D},,
+105,0x26FF,redirect,0x26AC,61,And who's to say it couldn't\nsomehow be traced back to you?{0D},,1 isla(s) 91 inline
+106,0x2748,redirect,0x26EC,94,"You guys aren't seeing the bigger\npicture.  Look, I don't want to end\nup like Hojo, alright?{0D}",,2 isla(s) 91 inline
+107,0x278D,redirect,0x2750,128,"I'll point you in the right direction.\nI'll let you in on the secret behind\nNarc.{80238057}To be more precise, where that\nsecret is.{0D}",,1 isla(s) 91 inline
+108,0x27EC,redirect,0x27D3,22,The capsules' secret{0D},,
+109,0x27FB,redirect,0x27E9,60,Hojo made a copy of the CD-ROM\ncontaining a video on Narc.{0D},,2 isla(s) 91 inline
+110,0x2870,redirect,0x282B,134,He created the original to show to\nthe Mafia and other\norganizations.{80238057}It explains the trick behind the\ncapsules in plain English.{0D},,1 isla(s) 91 inline
+111,0x28DB,redirect,0x28B4,11,A CD-ROM?{0D},,
+112,0x28F8,redirect,0x28BF,44,So this CD explains everything\nabout them?{0D},,1 isla(s) 91 inline
+113,0x2955,redirect,0x28EE,36,Right.  Including how to use\nthem.{0D},,1 isla(s) 91 inline
+114,0x2976,redirect,0x2915,44,Why a CD in this age of optical\ncomputing?{0D},,
+115,0x29B9,redirect,0x2941,53,That's the point {D0}{06} to limit where\nyou can read it.{0D},,2 isla(s) 91 inline
+116,0x29E6,redirect,0x297C,48,It wouldn't stand as evidence in\ncourt either.{0D},,
+117,0x2A2D,redirect,0x29AC,58,That's why Hojo used a CD.  It's\nan archaic data format.{0D},,2 isla(s) 91 inline
+118,0x2A8E,redirect,0x29EC,161,"Load the CD and it'll explain\neverything.  That's all I can say for\nnow.{80238057}If you help me get to Home, I'll tell\nyou everything once my safety's\nbeen secured.{0D}",,2 isla(s) 91 inline
+119,0x2B2F,redirect,0x2A93,12,The CD-ROM{0D},,
+120,0x2B44,redirect,0x2A9F,23,Where is this CD-ROM?{0D},,
+121,0x2B71,redirect,0x2AB6,85,Hojo would've stashed it\nsomewhere.{80238057}I bet they don't even know that\ncopy exists.{0D},,
+122,0x2BEA,redirect,0x2B0B,39,"If I had to guess, I'd say his\nhouse.{0D}",,1 isla(s) 91 inline
+123,0x2C13,redirect,0x2B35,72,There was that CD that didn't\nhave any music on it.  Could that\nbe it?{0D},,2 isla(s) 91 inline
+124,0x2C50,redirect,0x2B83,69,Hojo has stacks of CDs in his\nliving room.  Maybe it's among\nthose?{0D},,
+125,0x2C81,redirect,0x2BC8,69,"The CD can only be read on a\nT-Gear99, Tokugawa's network\nterminal.{0D}",,1 isla(s) 91 inline
+126,0x2D1E,redirect,0x2C10,100,"In addition, it works off a special\nboot method.{80238057}You can't load it on an any other\nread device.{0D}",,2 isla(s) 91 inline
+127,0x2D81,redirect,0x2C7A,52,The CD's got state-of-the-art\ndata encryption too.{0D},,1 isla(s) 91 inline
+128,0x2DA4,redirect,0x2CB1,28,Even BCP couldn't read it?{0D},,
+129,0x2DD1,redirect,0x2CCD,118,"You guys get most your\ntechnology from Tokugawa, don't\nyou?{80238057}Whatever you have, they're\nalready on something else.{0D}",,1 isla(s) 91 inline
+130,0x2E12,redirect,0x2D46,72,"Yeah, that is true.  Almost all our\nequipment is patented by\nTokugawa.{0D}",,1 isla(s) 91 inline
+131,0x2E53,redirect,0x2D91,54,They own the know-how as well. \nNone of it's public.{0D},,1 isla(s) 91 inline
+132,0x2E92,redirect,0x2DCA,54,You'll need to go to a Tokugawa\nfacility to load it.{0D},,1 isla(s) 91 inline
+133,0x2EB3,redirect,0x2E03,58,We can't just waltz in there and\nexpect them to help us.{0D},,1 isla(s) 91 inline
+134,0x2EE0,redirect,0x2E40,27,Who says we're gonna ask?{0D},,1 isla(s) 91 inline
+135,0x2F09,redirect,0x2E5E,17,The boot method{0D},,
+136,0x2F18,redirect,0x2E6F,169,There are a few steps you have to\ngo through to get into the\nsystem.{80238057}You'll need a Tokugawa ID card\nand employee ID codes for all this.\nFirst it'll do a card check.{0D},,5 isla(s) 91 inline
+137,0x2FAF,redirect,0x2F27,22,We have Hojo's card.{0D},,
+138,0x2FCA,redirect,0x2F3D,34,Whatever you do don't lose that.{0D},,
+139,0x3003,redirect,0x2F5F,15,So then what?{0D},,
+140,0x3010,redirect,0x2F6E,162,Then it'll run a check to see if the\nperson using the card really is a\nTokugawa employee.{80238057}Every employee has an ID code\ngiven to them based on family\ncrests.{0D},,4 isla(s) 91 inline
+141,0x30B5,redirect,0x301C,33,You mean those Japanese things?{0D},,
+142,0x30D0,redirect,0x303D,52,Right.  Select the ones it asks for\nand you're in.{0D},,
+143,0x311F,redirect,0x3071,28,"After that, insert the CD.{0D}",,
+144,0x3154,redirect,0x308D,38,This is how they protect their\ndata.{0D},,
+145,0x319D,redirect,0x30B3,79,"So you can't access any of their\nfiles if you're not an employee,\nsupposedly?{0D}",,2 isla(s) 91 inline
+146,0x31E8,redirect,0x3108,78,Exactly.  If you don't clear the\nchecks you'll be staring at a blank\nscreen.{0D},,2 isla(s) 91 inline
+147,0x327D,redirect,0x315C,77,"Remember the order.{80238057}First the card, then the family\ncrests, then the CD.{0D}",,1 isla(s) 91 inline
+148,0x3314,redirect,0x31AC,11,Apologize{0D},,
+149,0x3319,redirect,0x31B7,31,Sorry about before.  Friends?{0D},,
+150,0x3330,redirect,0x31D6,43,"He didn't mean it.  You knew that,\nright?{0D}",,1 isla(s) 91 inline
+151,0x334F,redirect,0x3204,20,"C'mon, lighten up!{0D}",,
+152,0x3362,redirect,0x3218,47,"He's always like this.  Just let it\ngo, yeah?{0D}",,
+153,0x3391,redirect,0x3247,21,So what's the word?{0D},,
+154,0x33A4,redirect,0x325C,24,"Well, I don't know....{0D}",,
+155,0x33B5,redirect,0x3274,74,Alright.  I do want your help as\nwell.  I just wanted to see you\nsquirm.{0D},,1 isla(s) 91 inline
+156,0x3404,redirect,0x32C1,6,Show{0D},,
+157,0x340F,redirect,0x32C7,12,Hojo photo{0D},,
+158,0x341E,redirect,0x32D3,24,"So you know Hojo, huh?{0D}",,
+159,0x3441,redirect,0x32EB,26,"Yeah, that's Kenzo Hojo.{0D}",,
+160,0x3462,redirect,0x3305,27,That's Hojo and his wife.{0D},,2 isla(s) 91 inline
+161,0x348B,redirect,0x3326,24,He's already a corpse.{0D},,1 isla(s) 91 inline
+162,0x34A6,redirect,0x3341,60,Shame about his wife.  She\nshouldn't have gotten involved.{0D},,2 isla(s) 91 inline
+163,0x34DD,redirect,0x3383,19,Policenauts photo{0D},,1 isla(s) 91 inline
+164,0x34F0,redirect,0x3399,30,You think I care about that?{0D},,2 isla(s) 91 inline
+165,0x350F,redirect,0x33BD,88,"You want to do some reminiscing,\ngo to the Beyond Corner.  I don't\nhave time for this.{0D}",,2 isla(s) 91 inline
+166,0x3556,redirect,0x341B,9,ID card{0D},,1 isla(s) 91 inline
+167,0x3561,redirect,0x3427,23,"We'll need this, huh?{0D}",,
+168,0x357E,redirect,0x343E,37,You'll need that to use the\nT-Gear.{0D},,2 isla(s) 91 inline
+169,0x35C1,redirect,0x3469,27,Keep an eye on that card.{0D},,
+170,0x35EA,redirect,0x3484,31,"That a Tokugawa ID, isn't it?{0D}",,1 isla(s) 91 inline
+171,0x360B,redirect,0x34A9,41,You take care of that.  You'll need\nit.{0D},,
+172,0x3634,redirect,0x34D2,6,Back{0D},,
+173,0x363D,redirect,0x34D8,6,Look{0D},,1 isla(s) 91 inline
+174,0x3642,redirect,0x34E1,71,"It's a replica used for events, so it\nmust be relatively lightweight.{0D}",,2 isla(s) 91 inline
+175,0x3675,redirect,0x352E,54,Meaning it'd be a simple process\ngetting it off him.{0D},,2 isla(s) 91 inline
+176,0x369C,redirect,0x356A,55,We can't get much of an idea of\nhis body type either.{0D},,1 isla(s) 91 inline
+177,0x36C1,redirect,0x35A4,28,Who's this handsome devil?{0D},,
+178,0x36E2,redirect,0x35C0,25,Give it a rest already.{0D},,1 isla(s) 91 inline
+179,0x36F9,redirect,0x35DC,35,You fallen in love with yourself?{0D},,1 isla(s) 91 inline
+180,0x3718,redirect,0x3602,48,I always knew you were a\nnarcissistic bastard.{0D},,2 isla(s) 91 inline
+181,0x3747,redirect,0x3638,44,I don't believe you.  At a time like\nthis.{0D},,2 isla(s) 91 inline
+182,0x3764,redirect,0x366A,32,I wish you'd grow up for once.{0D},,1 isla(s) 91 inline
+183,0x3799,redirect,0x368D,35,This wouldn't make a good mirror.{0D},,1 isla(s) 91 inline
+184,0x37B8,redirect,0x36B3,48,There's a tiny guy in here who\nlooks like you!{0D},,2 isla(s) 91 inline
+185,0x37D7,redirect,0x36E9,42,"{D0}{06}sigh{D0}{06} That's my reflection,\nJonathan.{0D}",,1 isla(s) 91 inline
+186,0x3804,redirect,0x3716,48,Wow.  Did your legs just shrink a\ncouple feet?{0D},,2 isla(s) 91 inline
+187,0x3833,redirect,0x374C,38,Would you stop it with that\nalready?{0D},,1 isla(s) 91 inline
+188,0x3852,redirect,0x3775,26,I can see my reflection.{0D},,
+189,0x3871,redirect,0x378F,45,The faceplate makes everything\nlook fatter.{0D},,2 isla(s) 91 inline
+190,0x3896,redirect,0x37C2,40,"I can see your aura in this thing,\nEd!{0D}",,1 isla(s) 91 inline
+191,0x38B5,redirect,0x37ED,38,"Look, there's a halo around my\nhead.{0D}",,1 isla(s) 91 inline
+192,0x38D6,redirect,0x3816,64,This feels kinda weird.  It's like\nwe're talking to ourselves.{0D},,2 isla(s) 91 inline
+193,0x3903,redirect,0x385C,47,It's no good.  His face is\ncompletely hidden.{0D},,1 isla(s) 91 inline
+194,0x3926,redirect,0x388E,8,Remove{0D},,
+195,0x392B,redirect,0x3899,52,Let's get this off and see who\nwe're dealing with.{0D},,1 isla(s) 91 inline
+196,0x3956,redirect,0x38D0,32,No! What are you trying to do!{0D},,1 isla(s) 91 inline
+197,0x397B,redirect,0x38F3,51,I don't have the patience for this\nindirect crap.{0D},,3 isla(s) 91 inline
+198,0x399E,redirect,0x392F,57,We don't have a choice.  He's the\none who contacted us.{0D},,1 isla(s) 91 inline
+199,0x39C5,redirect,0x396B,30,Will you listen to me! Stop!{0D},,1 isla(s) 91 inline
+200,0x39E4,redirect,0x398C,57,It's a portable life-support device\nused during Apollo.{0D},,2 isla(s) 91 inline
+201,0x3A07,redirect,0x39CB,61,It contained equipment like an\noxygen purifier and a radio.{0D},,2 isla(s) 91 inline
+202,0x3A40,redirect,0x3A0E,59,The controls on the chest are for\noperating the backpack.{0D},,1 isla(s) 91 inline
+203,0x3A7B,redirect,0x3A4C,45,This is very faithful to the original\nsuit.{0D},,
+204,0x3AAA,redirect,0x3A79,28,There's the American flag.{0D},,1 isla(s) 91 inline
+205,0x3ABD,redirect,0x3A98,37,We saw this in the Moon Corner\ntoo.{0D},,2 isla(s) 91 inline
+206,0x3AE4,redirect,0x3AC3,67,That's the way things were back\nthen.  National flags everywhere.{0D},,1 isla(s) 91 inline
+207,0x3B17,redirect,0x3B09,37,"Alright, see how you like this one.{0D}",,1 isla(s) 91 inline
+208,0x3B34,redirect,0x3B31,30,Is that the best you can do?{0D},,1 isla(s) 91 inline
+209,0x3B5B,redirect,0x3B52,81,"Your sense of humor leaves a\ngreat deal desired, Jonathan. \nAmong other things.{0D}",,3 isla(s) 91 inline
+210,0x3B90,redirect,0x3BAC,14,What's that?{0D},,
+211,0x3BA3,redirect,0x3BBA,31,Something special about that?{0D},,1 isla(s) 91 inline
+212,0x3BBE,redirect,0x3BDC,31,"You pissed him off, Jonathan.{0D}",,1 isla(s) 91 inline
+213,0x3BDF,redirect,0x3BFE,41,God dammit! He's not talking to us\nnow.{0D},,1 isla(s) 91 inline
+214,0x3C0A,redirect,0x3C2A,56,What now? Apologize? Smack\nthe living shit out of him?{0D},,2 isla(s) 91 inline
+215,0x3C2F,redirect,0x3C68,80,What are we gonna do? I don't\nthink he's in the mood for\nconversation anymore.{0D},,2 isla(s) 91 inline
+216,0x3C5E,redirect,0x3CBE,63,You gonna apologize? You don't\nwanna screw over an informant.{0D},,3 isla(s) 91 inline
+217,0x3C85,redirect,0x3D06,34,What are you two babbling\nabout?{0D},,2 isla(s) 91 inline
+218,0x3C9C,redirect,0x3D2E,15,Knock it off.{0D},,1 isla(s) 91 inline
+219,0x3CBF,redirect,0x3D40,31,I think we hurt his feelings.{0D},,1 isla(s) 91 inline
+220,0x3CDA,redirect,0x3D62,37,What a pain in the ass this guy is.{0D},,1 isla(s) 91 inline
+221,0x3CED,redirect,0x3D8A,35,This is why women don't like you.{0D},,1 isla(s) 91 inline
+222,0x3D10,redirect,0x3DB0,29,What are you talking about?{0D},,1 isla(s) 91 inline
+223,0x3D1B,redirect,0x3DD0,26,Back in the lobby there.{0D},,2 isla(s) 91 inline
+224,0x3D30,redirect,0x3DF0,16,The party too.{0D},,
+225,0x3D4F,redirect,0x3E00,60,You should be more considerate\nof other peoples' feelings.{0D},,1 isla(s) 91 inline
+226,0x3D76,redirect,0x3E3F,40,Are you trying to make me even\nmadder?{0D},,1 isla(s) 91 inline
+227,0x3D97,redirect,0x3E6A,24,How old are you guys?!{0D},,
+228,0x3DB4,redirect,0x3E82,27,We're past apologies now.{0D},,
+229,0x3DD3,redirect,0x3E9D,27,"Look, I said I was sorry.{0D}",,1 isla(s) 91 inline
+230,0x3DE8,redirect,0x3EBB,45,I'm going to require an apology\nafter this.{0D},,1 isla(s) 91 inline
+231,0x3E11,redirect,0x3EEB,74,"Here I am going out on a limb to\nhelp you, and look at how you\ntreat me.{0D}",,1 isla(s) 91 inline
+232,0x3E48,redirect,0x3F38,168,"Alright, I give up.  I can see\ncommon sense doesn't apply to\nyou.{80238057}If you want to know who I am... I\nstill won't tell you.  But, I will still\noffer you information.{0D}",,4 isla(s) 91 inline
+233,0x3EB5,redirect,0x3FEC,53,"I can walk away right now, if that's\nwhat you want?{0D}",,1 isla(s) 91 inline
+234,0x3ED2,redirect,0x4024,68,"If that's the way you're going to\nact, I can just drop everything.{0D}",,2 isla(s) 91 inline
+235,0x3F0F,redirect,0x406E,40,You guys changed your mind\nabout this?{0D},,1 isla(s) 91 inline
+236,0x3F3C,redirect,0x4099,59,Notice he doesn't have an accent\nwhen he gets mad either.{0D},,1 isla(s) 91 inline
+237,0x3F5D,redirect,0x40D7,21,What kind you mean?{0D},,
+238,0x3F80,redirect,0x40EC,46,"A Home accent.  You're a Beyond,\naren't you?{0D}",,1 isla(s) 91 inline
+239,0x3FD3,redirect,0x411D,55,"Okay, we're finished here.  I'm fed\nup with you guys.{0D}",,1 isla(s) 91 inline
+240,0x4008,redirect,0x4157,48,Why does my identity matter so\nmuch? Honestly.{0D},,1 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+241,0x4037,redirect,0x419B,69,Is my identity really that\nimportant? I've got information\nfor you.{0D},,
+242,0x4068,redirect,0x41E0,63,There are things in this world\nyou're better off not knowing.{0D},,3 isla(s) 91 inline
+243,0x4095,redirect,0x4228,56,Just stop it! For your own sake. \nNever mind who I am.{0D},,1 isla(s) 91 inline
+244,0x40C6,redirect,0x4263,60,You should be more concerned\nabout whom you're up against.{0D},,1 isla(s) 91 inline
+245,0x40F9,redirect,0x42A2,33,You want me to leave right now?{0D},,
+246,0x4120,redirect,0x42C3,41,"Okay, that's it.  I'm calling this off.{0D}",,1 isla(s) 91 inline
+247,0x4165,inplace,0x4165,11,hanabi.pak,,sin codigo 91: revisar
+248,0x4170,redirect,0x42EF,2,{0D},,
+249,0x4191,redirect,0x42F1,2,{0D},,
+250,0x41E2,redirect,0x42F3,2,{0D},,
+251,0x4209,redirect,0x42F5,2,{0D},,
+252,0x4214,redirect,0x42F7,2,{0D},,
+253,0x4231,redirect,0x42F9,2,{0D},,
+254,0x4264,redirect,0x42FB,2,{0D},,
+255,0x42D7,redirect,0x42FD,2,{0D},,
+256,0x430C,redirect,0x42FF,2,{0D},,
+257,0x4325,redirect,0x4301,2,{0D},,
+258,0x433A,redirect,0x4303,2,{0D},,
+259,0x4365,redirect,0x4305,2,{0D},,
+260,0x4396,redirect,0x4307,2,{0D},,
+261,0x43AD,redirect,0x4309,2,{0D},,
+262,0x43CE,redirect,0x430B,2,{0D},,1 isla(s) 91 inline
+263,0x43F1,redirect,0x4310,2,{0D},,
+264,0x4424,redirect,0x4312,2,{0D},,
+265,0x4449,redirect,0x4314,2,{0D},,
+266,0x4478,redirect,0x4316,2,{0D},,
+267,0x44A5,redirect,0x4318,2,{0D},,
+268,0x44C0,redirect,0x431A,2,{0D},,
+269,0x44FB,redirect,0x431C,2,{0D},,
+270,0x4534,redirect,0x431E,2,{0D},,
+271,0x454F,inplace,0x454F,12,AMMnois.pak,,sin codigo 91: revisar
+272,0x455B,redirect,0x4320,2,{0D},,
+273,0x457C,redirect,0x4322,2,{0D},,
+274,0x45C9,redirect,0x4324,2,{0D},,1 isla(s) 91 inline
+275,0x45DA,redirect,0x4329,2,{0D},,
+276,0x4645,redirect,0x432B,2,{0D},,
+277,0x4662,redirect,0x432D,2,{0D},,
+278,0x4687,redirect,0x432F,2,{0D},,
+279,0x469E,redirect,0x4331,2,{0D},,
+280,0x46BD,redirect,0x4333,2,{0D},,
+281,0x46EC,redirect,0x4335,2,{0D},,
+282,0x470B,redirect,0x4337,2,{0D},,
+283,0x471C,redirect,0x4339,2,{0D},,1 isla(s) 91 inline
+284,0x4735,redirect,0x433E,2,{0D},,
+285,0x474C,redirect,0x4340,2,{0D},,
+286,0x4753,redirect,0x4342,2,{0D},,
+287,0x475E,redirect,0x4344,2,{0D},,
+288,0x4773,redirect,0x4346,2,{0D},,
+289,0x4780,redirect,0x4348,2,{0D},,
+290,0x47AB,redirect,0x434A,2,{0D},,
+291,0x47BE,redirect,0x434C,2,{0D},,
+292,0x47D9,redirect,0x434E,2,{0D},,
+293,0x47EC,redirect,0x4350,2,{0D},,
+294,0x4807,redirect,0x4352,2,{0D},,
+295,0x4822,redirect,0x4354,2,{0D},,
+296,0x482D,redirect,0x4356,2,{0D},,
+297,0x484E,redirect,0x4358,2,{0D},,
+298,0x488F,redirect,0x435A,2,{0D},,
+299,0x48C0,redirect,0x435C,2,{0D},,
+300,0x490D,redirect,0x435E,2,{0D},,
+301,0x491C,redirect,0x4360,2,{0D},,
+302,0x4963,redirect,0x4362,2,{0D},,
+303,0x49B4,redirect,0x4364,2,{0D},,1 isla(s) 91 inline
+304,0x4A07,redirect,0x4369,2,{0D},,
+305,0x4A7A,redirect,0x436B,2,{0D},,
+306,0x4AB5,redirect,0x436D,2,{0D},,
+307,0x4AFE,redirect,0x436F,2,{0D},,
+308,0x4B3F,redirect,0x4371,2,{0D},,
+309,0x4B90,redirect,0x4373,2,{0D},,
+310,0x4BC1,redirect,0x4375,2,{0D},,
+311,0x4BD8,redirect,0x4377,2,{0D},,
+312,0x4C1B,redirect,0x4379,2,{0D},,
+313,0x4C2A,redirect,0x437B,2,{0D},,
+314,0x4C41,redirect,0x437D,2,{0D},,
+315,0x4C56,redirect,0x437F,2,{0D},,
+316,0x4C93,redirect,0x4381,2,{0D},,
+317,0x4CB4,redirect,0x4383,2,{0D},,
+318,0x4CDB,redirect,0x4385,2,{0D},,
+319,0x4CF2,redirect,0x4387,2,{0D},,
+320,0x4D15,redirect,0x4389,2,{0D},,
+321,0x4D26,redirect,0x438B,2,{0D},,
+322,0x4D3B,redirect,0x438D,2,{0D},,
+323,0x4D46,redirect,0x438F,2,{0D},,
+324,0x4D53,redirect,0x4391,2,{0D},,
+325,0x4D60,redirect,0x4393,2,{0D},,
+326,0x4D79,redirect,0x4395,2,{0D},,1 isla(s) 91 inline
+327,0x4D82,redirect,0x439A,2,{0D},,
+328,0x4D95,redirect,0x439C,12,{89}{BD}{82}{E0}{82}{B5}{82}{C8}{82}{A2}{0D},,

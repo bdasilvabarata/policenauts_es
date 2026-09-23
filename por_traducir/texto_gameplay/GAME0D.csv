@@ -1,0 +1,545 @@
+id,jp_addr,tipo,destino,bytes,original,traduccion,notas
+0,0x2229,redirect,0x21F5,29,We're outside the building.{0D},,
+1,0x223A,redirect,0x2212,33,We're at the Tokugawa Building.{0D},,1 isla(s) 91 inline
+2,0x224F,redirect,0x2236,45,We have to find some way to get\nto Sadaoki.{0D},,2 isla(s) 91 inline
+3,0x2275,redirect,0x2269,54,I'm not sure I wanna go back in\nafter what happened.{0D},,1 isla(s) 91 inline
+4,0x22AA,redirect,0x22A2,70,I don't think we should go back in.\nWe've probably been blacklisted.{0D},,1 isla(s) 91 inline
+5,0x22FF,redirect,0x22EB,29,Shall we try going to BCCH?{0D},,1 isla(s) 91 inline
+6,0x2322,redirect,0x230B,45,We'll probably find more at BCCH\nthan here.{0D},,1 isla(s) 91 inline
+7,0x2353,redirect,0x233B,37,Shall we try going to Hojo's\nhouse?{0D},,1 isla(s) 91 inline
+8,0x2374,redirect,0x2363,57,"You wanna try somewhere else?\nLike Hojo's house, maybe?{0D}",,2 isla(s) 91 inline
+9,0x2399,redirect,0x23A2,2,{0D},,
+10,0x23BA,redirect,0x23A4,6,Move{0D},,
+11,0x23BF,redirect,0x23AA,11,Go inside{0D},,
+12,0x23C8,redirect,0x23B5,7,Drive{0D},,1 isla(s) 91 inline
+13,0x23D1,redirect,0x23C2,8,System{0D},,1 isla(s) 91 inline
+14,0x23DA,redirect,0x23CD,6,Look{0D},,1 isla(s) 91 inline
+15,0x23DF,redirect,0x23D6,64,"I know you're in there, Sadaoki!\nI'm coming for you, fuckface!{0D}",,3 isla(s) 91 inline
+16,0x2412,redirect,0x241F,33,This is the heart of the beast.{0D},,1 isla(s) 91 inline
+17,0x243F,redirect,0x2443,32,"Pretty overwhelming, isn't it?{0D}",,1 isla(s) 91 inline
+18,0x245A,redirect,0x2466,91,"As you can see, it's more or less\nbuilt into the colony.  A pillar in\nmore ways than one.{0D}",,2 isla(s) 91 inline
+19,0x24A7,redirect,0x24C7,66,Chris was right.{80238057}There's no denying it's an\nincredible place.{0D},,1 isla(s) 91 inline
+20,0x24BE,redirect,0x250C,35,It's obvious why it's so popular.{0D},,1 isla(s) 91 inline
+21,0x24F5,redirect,0x2532,45,"Prop's a good name for it, don't\nyou think?{0D}",,1 isla(s) 91 inline
+22,0x252E,redirect,0x2562,54,I can use that elevator to move\naround the building.{0D},,1 isla(s) 91 inline
+23,0x2555,redirect,0x259B,38,It looks like the elevator's moving.{0D},,1 isla(s) 91 inline
+24,0x2576,redirect,0x25C4,40,That's the high-speed linear\nelevator.{0D},,
+25,0x25B3,redirect,0x25EF,81,"It's a glass elevator, so you'd be\nable to see across the colony from\nup there.{0D}",,1 isla(s) 91 inline
+26,0x25EC,redirect,0x2643,70,The Garden's up there.  That's\nprobably where Sadaoki and Gates\nare.{0D},,2 isla(s) 91 inline
+27,0x262D,redirect,0x268F,33,I have to get up there somehow.{0D},,
+28,0x2658,redirect,0x26B0,73,That's the colony's central area. \nIt's a little hard to see from here.{0D},,2 isla(s) 91 inline
+29,0x2685,redirect,0x26FF,90,"If you look straight up, it feels like\nyou're looking down from the top\nof a skyscraper.{0D}",,3 isla(s) 91 inline
+30,0x26C2,redirect,0x2762,51,People with acrophobia don't\nalways like it here.{0D},,1 isla(s) 91 inline
+31,0x26E9,redirect,0x2798,37,I know I ain't dying for this name.{0D},,1 isla(s) 91 inline
+32,0x271E,redirect,0x27C0,33,There's the Tokugawa lettering.{0D},,
+33,0x2737,redirect,0x27E1,43,Nothing disgusts me more than\nthat thing.{0D},,1 isla(s) 91 inline
+34,0x2752,redirect,0x280F,87,"That's the Tokugawa logo. \nThey've borrowed the mitsuba aoi,\nor the three hollyhocks.{0D}",,1 isla(s) 91 inline
+35,0x2783,redirect,0x2869,39,There's a helluva lot riding on\nthis.{0D},,1 isla(s) 91 inline
+36,0x27B4,redirect,0x2893,47,Most of the corruption on Beyond\nspawns here.{0D},,1 isla(s) 91 inline
+37,0x27F7,redirect,0x28C5,85,Beyond's the only place in the\nworld where you look up and see\nsomething like this.{0D},,1 isla(s) 91 inline
+38,0x283A,redirect,0x291D,109,You couldn't blame someone for\nthinking the Prop's structurally\nnecessary.{80238057}Ishida was right on the mark.{0D},,3 isla(s) 91 inline
+39,0x287D,redirect,0x2996,54,It is like standing at the doorway\nto another world.{0D},,1 isla(s) 91 inline
+40,0x28B0,redirect,0x29CF,2,{0D},,
+41,0x2911,redirect,0x29D1,20,Let's head inside.{0D},,
+42,0x2932,redirect,0x29E8,20,Let's head inside.{0D},,
+43,0x2945,redirect,0x29FC,38,Hopefully it'll go better this time.{0D},,1 isla(s) 91 inline
+44,0x296C,redirect,0x2A25,35,We should leave this for a while.{0D},,3 isla(s) 91 inline
+45,0x2993,redirect,0x2A51,46,Things will only get worse if we go\nback in.{0D},,1 isla(s) 91 inline
+46,0x29BE,redirect,0x2A82,52,Let's go somewhere else and try\ncoming back later.{0D},,2 isla(s) 91 inline
+47,0x29E5,redirect,0x2ABC,47,They have to pay for everything\nthey've done.{0D},,4 isla(s) 91 inline
+48,0x2A00,redirect,0x2AF7,65,I'll tear down this goddamned pile\nof shit myself if I have to.{0D},,2 isla(s) 91 inline
+49,0x2A29,redirect,0x2B3E,51,"I'm not going down without a\nfight, you bastards!{0D}",,
+50,0x2A46,redirect,0x2B71,6,Move{0D},,
+51,0x2A4B,redirect,0x2B77,7,Leave{0D},,
+52,0x2A54,redirect,0x2B7E,46,I thought we were gonna go talk\nto Tokugawa?{0D},,1 isla(s) 91 inline
+53,0x2A83,redirect,0x2BAF,47,We can't leave till we've talked to\nTokugawa.{0D},,1 isla(s) 91 inline
+54,0x2AAA,redirect,0x2BE1,38,Let's try not to get the boot again.{0D},,1 isla(s) 91 inline
+55,0x2ACB,redirect,0x2C0D,12,Front Desk{0D},,
+56,0x2AD6,redirect,0x2C19,8,System{0D},,
+57,0x2ADF,redirect,0x2C21,6,Look{0D},,
+58,0x2AE4,redirect,0x2C27,44,That elevator goes straight to the\nGarden.{0D},,2 isla(s) 91 inline
+59,0x2B07,redirect,0x2C59,26,I can use this to go up.{0D},,1 isla(s) 91 inline
+60,0x2B32,redirect,0x2C76,96,It goes directly to the center of\nbuilding.  Apparently a one-way\ntrip takes about 10 minutes.{0D},,1 isla(s) 91 inline
+61,0x2B7F,redirect,0x2CD9,47,I heard they've got 30 elevators\nhere in all.{0D},,2 isla(s) 91 inline
+62,0x2BB2,redirect,0x2D0E,87,It's a high-speed linear elevator. \nYou could call it one of the\nbuilding's arteries.{0D},,3 isla(s) 91 inline
+63,0x2BE7,redirect,0x2D6E,40,"Same as the one we saw at BCCH,\nright?{0D}",,1 isla(s) 91 inline
+64,0x2C0A,redirect,0x2D99,40,Doesn't look like there's anyone\nelse.{0D},,2 isla(s) 91 inline
+65,0x2C2D,redirect,0x2DCA,42,I don't see anyone else hiding\nanywhere.{0D},,1 isla(s) 91 inline
+66,0x2C4E,redirect,0x2DF7,27,What have we got here....{0D},,1 isla(s) 91 inline
+67,0x2C67,redirect,0x2E15,110,"This is the atrium, one of the main\nfeatures of the building.{80238057}It goes straight from one end to\nthe other.{0D}",,1 isla(s) 91 inline
+68,0x2CC6,redirect,0x2E86,32,Imagine falling from up there.{0D},,
+69,0x2CDF,redirect,0x2EA6,101,"You move into weightlessness the\ncloser you get to the center of the\ncolony, not the opposite side.{0D}",,1 isla(s) 91 inline
+70,0x2D08,redirect,0x2F0E,58,It's 3 kilometers from here to the\ncenter of the colony.{0D},,1 isla(s) 91 inline
+71,0x2D2F,redirect,0x2F4B,35,I can't see the Garden from here.{0D},,1 isla(s) 91 inline
+72,0x2D52,redirect,0x2F71,30,It's that cute receptionist.{0D},,1 isla(s) 91 inline
+73,0x2D67,redirect,0x2F92,62,There's a girl sitting there.  She\nmust be the receptionist.{0D},,2 isla(s) 91 inline
+74,0x2D84,redirect,0x2FD6,30,Why don't we go talk to her.{0D},,
+75,0x2D9F,redirect,0x2FF4,10,Approach{0D},,
+76,0x2DA6,redirect,0x2FFE,27,Let's put on a big smile.{0D},,1 isla(s) 91 inline
+77,0x2DC7,redirect,0x301C,40,It's an ad for Tokugawa's space\nhotel.{0D},,1 isla(s) 91 inline
+78,0x2DE6,redirect,0x3047,44,That's about to undergo a change\nof owner.{0D},,2 isla(s) 91 inline
+79,0x2E0B,redirect,0x3079,109,"It's an ad for Hotel California,\nTokugawa's space hotel.{80238057}It's the world's first hotel in low\nHome orbit.{0D}",,3 isla(s) 91 inline
+80,0x2E60,redirect,0x30EF,236,"It has 64 rooms, all with a capsule\nbed, a bath, toilet and sink.{80238057}There's a doctor on hand to treat\nSAS, and it makes three rotations\na minute, creating artificial gravity\n of 0.7 G.{80238057}A 3-day, 2-night stay costs five\nmillion yen.{0D}",,5 isla(s) 91 inline
+81,0x2EED,redirect,0x31EA,70,This is the kinda thing we could\nonly dream about when we were\nkids.{0D},,2 isla(s) 91 inline
+82,0x2F20,redirect,0x3236,40,Going to space is as easy as this\nnow.{0D},,1 isla(s) 91 inline
+83,0x2F4D,redirect,0x3261,70,"The hotel's a torus type.  Or I\nguess you'd say ""Tokugawa\ntype"" now.{0D}",,2 isla(s) 91 inline
+84,0x2F86,redirect,0x32AD,46,I just about throw up every time I\nsee this.{0D},,
+85,0x2FAB,redirect,0x32DB,34,There's the Tokugawa logo again.{0D},,1 isla(s) 91 inline
+86,0x2FD2,redirect,0x3300,39,You starting to like it or\nsomething?{0D},,2 isla(s) 91 inline
+87,0x3005,redirect,0x332D,2,{0D},,
+88,0x302C,redirect,0x332F,2,{0D},,
+89,0x3051,redirect,0x3331,2,{0D},,
+90,0x306C,redirect,0x3333,2,{0D},,
+91,0x309D,redirect,0x3335,2,{0D},,
+92,0x30BC,redirect,0x3337,2,{0D},,
+93,0x30D7,redirect,0x3339,2,{0D},,
+94,0x310E,redirect,0x333B,2,{0D},,
+95,0x312B,redirect,0x333D,2,{0D},,
+96,0x3154,redirect,0x333F,70,It's his Moon base.  Thinks he can\nbuild his shit wherever he wants.{0D},,1 isla(s) 91 inline
+97,0x3197,redirect,0x3388,44,It's a miniature of Tokugawa's\nMoon Plant.{0D},,1 isla(s) 91 inline
+98,0x31C2,redirect,0x33B7,68,It was the first permanent Moon\nbase established by a corporation.{0D},,1 isla(s) 91 inline
+99,0x31EB,redirect,0x33FE,35,That girl really knows her stuff.{0D},,1 isla(s) 91 inline
+100,0x3210,redirect,0x3424,65,"You're gonna need a lot more than\nthat to protect you, Sadaoki.{0D}",,1 isla(s) 91 inline
+101,0x3247,redirect,0x3468,48,It doesn't look like anyone's hiding\nin there.{0D},,1 isla(s) 91 inline
+102,0x326A,redirect,0x349B,84,"That's a kabuto, a traditional\nJapanese samurai helmet. \nTokugawa does this a lot.{0D}",,2 isla(s) 91 inline
+103,0x3297,redirect,0x34F5,82,It's a kabuto.  Tokugawa's known\nfor continually recalling Japan's\nwartime past.{0D},,1 isla(s) 91 inline
+104,0x32DE,redirect,0x354A,36,"It's a katana.  What is he, a Yak?{0D}",,1 isla(s) 91 inline
+105,0x3303,redirect,0x3571,43,He won't be taking this where\nhe's going.{0D},,1 isla(s) 91 inline
+106,0x3324,redirect,0x359F,113,"Looks like a Japanese katana.{80238057}Probably one of those famous\nones, like a Muramasa or\nwhatever they're called.{0D}",,2 isla(s) 91 inline
+107,0x3373,redirect,0x3616,49,A sword isn't out of place in a\nTokugawa lobby.{0D},,
+108,0x33A6,redirect,0x3647,54,Good god.  What's he trying to do\nwith this stuff?  {0D},,1 isla(s) 91 inline
+109,0x33CD,redirect,0x3680,54,"Well, ""Live as in battle.""  That's a\nJapanese maxim.{0D}",,
+110,0x3404,redirect,0x36B6,47,Time for a new chapter in the\nfamily history.{0D},,1 isla(s) 91 inline
+111,0x343B,redirect,0x36E8,89,These are 180-degree\nholographic portraits of the\n\n former heads of the Tokugawa\nGroup.{0D},,2 isla(s) 91 inline
+112,0x3472,redirect,0x3747,91,"They're holograms of Zenzo and\nTadashi Tokugawa, the first and\nsecond heads of the Group.{0D}",,2 isla(s) 91 inline
+113,0x349F,redirect,0x37A8,50,Today's the end of all your bullshit\npropaganda.{0D},,1 isla(s) 91 inline
+114,0x34C8,redirect,0x37DD,65,It's a multivision showing media\nrelated to the Tokugawa Group.{0D},,1 isla(s) 91 inline
+115,0x3513,redirect,0x3821,29,That's a jumbo multivision.{0D},,1 isla(s) 91 inline
+116,0x3566,redirect,0x3841,44,That's the terminal the\nreceptionist uses.{0D},,1 isla(s) 91 inline
+117,0x3591,redirect,0x3870,48,That's the terminal the\nreceptionist must use.{0D},,1 isla(s) 91 inline
+118,0x35BC,redirect,0x38A6,75,She could pull up all sorts of\ninformation on the building in an\ninstant.{0D},,2 isla(s) 91 inline
+119,0x35EF,redirect,0x38F7,164,"That's a byobu, a Japanese folding\nscreen.  They tend to have\npictures or writing on them.{80238057}I guess it would be a gilded\nbyobu, since it's covered in gold\nleaf.{0D}",,5 isla(s) 91 inline
+120,0x366A,redirect,0x39AA,71,Most Japanese-run buildings like\nthis have at least one byobu\ninside.{0D},,1 isla(s) 91 inline
+121,0x36BB,redirect,0x39F4,98,It's a list of some of Tokugawa's\ncompanies.{80238057}They're all well known and\nrespected operations.{0D},,4 isla(s) 91 inline
+122,0x3700,redirect,0x3A62,111,It's a list of some of the major\ncompanies in the Tokugawa\nGroup.{80238057}The receptionist said there's 138\ntotal.{0D},,3 isla(s) 91 inline
+123,0x373D,redirect,0x3ADA,38,There's something on the wall\nthere.{0D},,1 isla(s) 91 inline
+124,0x375E,redirect,0x3B03,39,Maybe information about the\nbuilding?{0D},,2 isla(s) 91 inline
+125,0x3791,redirect,0x3B30,67,I can't tell from here either.  We'll\nneed to take a closer look.{0D},,2 isla(s) 91 inline
+126,0x37D0,redirect,0x3B79,68,There's the front desk.  Why don't\nwe go talk to the receptionist.{0D},,4 isla(s) 91 inline
+127,0x3805,redirect,0x3BC9,37,That's reception.  Let's head over.{0D},,1 isla(s) 91 inline
+128,0x382A,redirect,0x3BF1,75,It's the building's front desk.  That\ncute receptionist is sitting there.{0D},,1 isla(s) 91 inline
+129,0x3851,redirect,0x3C3F,35,This isn't Redwood.  Where is\nhe?{0D},,1 isla(s) 91 inline
+130,0x3874,redirect,0x3C65,36,"AP body armor.  So, these are\nAPs.{0D}",,1 isla(s) 91 inline
+131,0x38A3,redirect,0x3C8C,26,He looks like an AP too.{0D},,
+132,0x38C4,redirect,0x3CA6,51,So does he.  Have they mobilized\nthe entire unit?{0D},,1 isla(s) 91 inline
+133,0x38EB,redirect,0x3CDC,13,Another AP.{0D},,
+134,0x38FC,redirect,0x3CE9,18,Where's Redwood?{0D},,1 isla(s) 91 inline
+135,0x3929,redirect,0x3CFE,27,He's got white blood too.{0D},,
+136,0x3944,redirect,0x3D19,35,He's an AP too.  Where's\nRedwood?{0D},,
+137,0x396B,redirect,0x3D3C,19,This is AP blood.{0D},,
+138,0x398C,redirect,0x3D4F,57,Sorry I got the floor dirty. \nConsider it my kinda wax.{0D},,
+139,0x39D7,redirect,0x3D88,68,Now's not the time to hang around\nhere.  They'll be in the Garden.{0D},,2 isla(s) 91 inline
+140,0x3A10,redirect,0x3DD2,30,I gotta hurry to the Garden!{0D},,
+141,0x3A39,redirect,0x3DF0,17,Get in elevator{0D},,
+142,0x3A4C,redirect,0x3E01,6,Back{0D},,
+143,0x3A59,redirect,0x3E07,30,Stop it! I'll call security!{0D},,1 isla(s) 91 inline
+144,0x3A7C,redirect,0x3E28,41,I'll call security if you keep that\nup!{0D},,
+145,0x3AB3,redirect,0x3E51,11,Uh oh....{0D},,1 isla(s) 91 inline
+146,0x3ACC,redirect,0x3E5F,30,I really will call security!{0D},,
+147,0x3AEF,redirect,0x3E7D,40,"I don't think she's kidding,\nJonathan.{0D}",,2 isla(s) 91 inline
+148,0x3B0C,redirect,0x3EAB,6,Talk{0D},,
+149,0x3B17,redirect,0x3EB1,2,{0D},,
+150,0x3B46,redirect,0x3EB3,2,{0D},,
+151,0x3B69,redirect,0x3EB5,38,Please try to be more\nunderstanding.{0D},,1 isla(s) 91 inline
+152,0x3B82,redirect,0x3EDE,11,Ask about{0D},,
+153,0x3B87,redirect,0x3EE9,10,Tokugawa{0D},,1 isla(s) 91 inline
+154,0x3B94,redirect,0x3EF6,39,We'd like to meet with the\npresident.{0D},,1 isla(s) 91 inline
+155,0x3BC5,redirect,0x3F20,34,We need to have a word with him.{0D},,1 isla(s) 91 inline
+156,0x3BEA,redirect,0x3F45,40,You need to... question the\npresident?{0D},,1 isla(s) 91 inline
+157,0x3BF7,redirect,0x3F70,57,Are you implying President\nTokugawa has broken the law?{0D},,1 isla(s) 91 inline
+158,0x3C44,redirect,0x3FAC,35,Are you sure you're not\nmistaken?{0D},,1 isla(s) 91 inline
+159,0x3C87,redirect,0x3FD2,62,I'm not in the position to speak on\nbehalf of the president.{0D},,
+160,0x3CC4,redirect,0x4010,35,Tell us about President Tokugawa.{0D},,1 isla(s) 91 inline
+161,0x3CED,redirect,0x4036,202,"The president came to Beyond as\none of the Policenauts, later\n\n becoming head of the Tokugawa\nGroup.{80238057}He's also currently director of the\nInternational Space Promotion\nAgency.  A very important man.{0D}",,5 isla(s) 91 inline
+162,0x3D98,redirect,0x410F,39,What's your opinion of the\npresident?{0D},,1 isla(s) 91 inline
+163,0x3DBF,redirect,0x4139,106,"Some don't speak very highly of\nhim, but they're just jealous of his\nsuccess.{80238057}I trust him completely.{0D}",,
+164,0x3E12,redirect,0x41A3,57,He stops and talks to us all the\ntime.  He's very nice.{0D},,1 isla(s) 91 inline
+165,0x3E5B,redirect,0x41DF,42,"Look at you playing up to them,\nSadaoki.{0D}",,1 isla(s) 91 inline
+166,0x3E8A,redirect,0x420C,24,Tokugawa's whereabouts{0D},,1 isla(s) 91 inline
+167,0x3E97,redirect,0x4227,69,We'd like to speak with President\nTokugawa.  Where is he right\nnow?{0D},,2 isla(s) 91 inline
+168,0x3ECE,redirect,0x4272,44,We'd like to meet with President\nTokugawa.{0D},,1 isla(s) 91 inline
+169,0x3EED,redirect,0x42A1,57,"Can you let us through to see\nhim? He's here, isn't he?{0D}",,2 isla(s) 91 inline
+170,0x3F12,redirect,0x42E0,35,We really need to speak with him.{0D},,
+171,0x3F33,redirect,0x4303,47,President Tokugawa is in the\nGarden up above.{0D},,
+172,0x3F66,redirect,0x4332,48,I'm sure he won't mind me letting\nyou through.{0D},,2 isla(s) 91 inline
+173,0x3F9B,redirect,0x4368,56,"Please, go on ahead.  You can use\nthat elevator there.{0D}",,1 isla(s) 91 inline
+174,0x3FCC,redirect,0x43A3,57,"However, I can't let you through\nwithout an invitation.{0D}",,
+175,0x401B,redirect,0x43DC,77,President Tokugawa is currently\nattending a party being held in the\nGarden.{0D},,1 isla(s) 91 inline
+176,0x406E,redirect,0x442C,109,President Tokugawa is in the\nGarden attending a launch party\nfor Tokugawa Pharmaceuticals'\n newest product.{0D},,5 isla(s) 91 inline
+177,0x40C1,redirect,0x44A8,29,Do you have an appointment?{0D},,1 isla(s) 91 inline
+178,0x40D0,redirect,0x44C8,49,I wouldn't mind making an\nappointment with you.{0D},,1 isla(s) 91 inline
+179,0x40E5,redirect,0x44FC,38,"It's rather sudden, so no, we\ndon't.{0D}",,
+180,0x40F8,redirect,0x4522,66,"I'm sorry, but in that case I'm\nafraid there's nothing I can do.{0D}",,2 isla(s) 91 inline
+181,0x4121,redirect,0x456A,120,President Tokugawa is currently\nout on business related to\nBeyond's anniversary.{80238057}He's extremely busy at the\nmoment.{0D},,3 isla(s) 91 inline
+182,0x41A8,redirect,0x45EB,116,"President Tokugawa isn't here\nright now.{80238057}I'm very sorry, but I'll have to ask\nyou to try again some other time.{0D}",,3 isla(s) 91 inline
+183,0x41EF,redirect,0x4668,37,Please don't make my job difficult.{0D},,
+184,0x420E,redirect,0x468D,66,"I cannot let you inside.  I'm sorry,\nbut I don't make the rules!{0D}",,3 isla(s) 91 inline
+185,0x423D,redirect,0x46D8,6,Hojo{0D},,
+186,0x424A,redirect,0x46DE,50,We'd like to know about a man\ncalled Kenzo Hojo.{0D},,
+187,0x4279,redirect,0x4710,89,He's an employee with Tokugawa\nPharmaceuticals.  We need to\nknow when he was last here.{0D},,1 isla(s) 91 inline
+188,0x42B4,redirect,0x476C,67,We'd like to know about a Mr.\nHojo from Tokugawa\nPharmaceuticals.{0D},,1 isla(s) 91 inline
+189,0x42D9,redirect,0x47B2,142,"I'm sorry, but I truly don't know\nanyone by that name.{80238057}He may have been here before,\nbut if he was, he didn't leave a\nlasting impression.{0D}",,1 isla(s) 91 inline
+190,0x4334,redirect,0x4843,35,What about records of any visits?{0D},,1 isla(s) 91 inline
+191,0x434B,redirect,0x4869,89,"What about the video from that\nvirtual recorder?{80238057}It must be stored somewhere,\nright?{0D}",,2 isla(s) 91 inline
+192,0x4394,redirect,0x48C8,97,All data from the virtual recorders\nis processed by computer.{80238057}I can't access them from here.{0D},,3 isla(s) 91 inline
+193,0x440D,redirect,0x4932,42,Plus the data gets deleted every 3\ndays.{0D},,1 isla(s) 91 inline
+194,0x4432,redirect,0x495F,21,"Yeah, that is true.{0D}",,
+195,0x4447,redirect,0x4974,10,Well....{0D},,
+196,0x4454,redirect,0x497E,76,"What about your visitor log? Any\nvisits would be recorded in there,\nright?{0D}",,2 isla(s) 91 inline
+197,0x4479,redirect,0x49D0,22,"Yes, that's correct.{0D}",,
+198,0x448C,redirect,0x49E6,29,Can't you just search that?{0D},,
+199,0x44AF,redirect,0x4A03,38,"Yes, I would be able to check\nthose.{0D}",,1 isla(s) 91 inline
+200,0x44E8,redirect,0x4A2C,94,"I don't have any recollection of\nhim.{80238057}The thing is, all Tokugawa\nemployees look the same.{0D}",,2 isla(s) 91 inline
+201,0x452D,redirect,0x4A90,106,"Yeah, it can be hard to distinguish\nbetween Japanese.{80238057}Even more so between Tokugawa\nemployees, I bet.{0D}",,2 isla(s) 91 inline
+202,0x4566,redirect,0x4B00,45,"But you're of Japanese descent,\naren't you?{0D}",,1 isla(s) 91 inline
+203,0x457D,redirect,0x4B30,39,"Yes, I am, but it's hard even for\nus.{0D}",,1 isla(s) 91 inline
+204,0x45C0,redirect,0x4B5A,117,They all wear the same type of\nsuit and have the same haircut.{80238057}They don't have any real\ndistinguishing features.{0D},,1 isla(s) 91 inline
+205,0x45E7,redirect,0x4BD2,38,"A Mr. Hojo? Sorry, I don't know\nhim.{0D}",,1 isla(s) 91 inline
+206,0x4610,redirect,0x4BFB,37,Do you know his employee ID\nnumber?{0D},,1 isla(s) 91 inline
+207,0x4631,redirect,0x4C23,35,"No, but we have a picture of him.{0D}",,2 isla(s) 91 inline
+208,0x4652,redirect,0x4C4C,81,"I'm sorry, but I honestly don't\nknow him.  We get over 100\nvisitors a day here.{0D}",,2 isla(s) 91 inline
+209,0x469D,redirect,0x4CA3,14,Hojo's visit{0D},,
+210,0x46A8,redirect,0x4CB1,40,Can you check your visitor log for\nus?{0D},,2 isla(s) 91 inline
+211,0x46CF,redirect,0x4CDF,2,{0D},,
+212,0x471A,redirect,0x4CE1,2,{0D},,
+213,0x476F,redirect,0x4CE3,2,{0D},,
+214,0x47BA,redirect,0x4CE5,2,{0D},,
+215,0x4859,redirect,0x4CE7,2,{0D},,
+216,0x4884,redirect,0x4CE9,2,{0D},,
+217,0x4891,redirect,0x4CEB,2,{0D},,
+218,0x48CA,redirect,0x4CED,2,{0D},,
+219,0x48E7,redirect,0x4CEF,2,{0D},,
+220,0x492C,redirect,0x4CF1,2,{0D},,
+221,0x4939,redirect,0x4CF3,2,{0D},,
+222,0x4992,redirect,0x4CF5,2,{0D},,
+223,0x49CB,redirect,0x4CF7,2,{0D},,
+224,0x4A0E,redirect,0x4CF9,2,{0D},,
+225,0x4A63,redirect,0x4CFB,2,{0D},,
+226,0x4A76,redirect,0x4CFD,2,{0D},,
+227,0x4A95,redirect,0x4CFF,41,This information is absolutely\ncorrect?{0D},,1 isla(s) 91 inline
+228,0x4AB8,redirect,0x4D2B,79,The system reads each employee's\npersonal ID card.  It doesn't make\nmistakes.{0D},,2 isla(s) 91 inline
+229,0x4B03,redirect,0x4D80,72,"It also performs a voiceprint scan,\nretinal scan and fingerprint scan.{0D}",,1 isla(s) 91 inline
+230,0x4B48,redirect,0x4DCB,59,This could very well be the first\ntime this has happened.{0D},,2 isla(s) 91 inline
+231,0x4B77,redirect,0x4E0C,113,I have every reason to believe this\nis accurate.{80238057}It's virtually impossible to tamper\nwith the system's data.{0D},,4 isla(s) 91 inline
+232,0x4BDC,redirect,0x4E89,40,Someone who works here\nprobably could.{0D},,
+233,0x4C0B,redirect,0x4EB1,52,Please don't tell anyone we had\nthis conversation!{0D},,
+234,0x4C36,redirect,0x4EE5,8,Ishida{0D},,
+235,0x4C43,redirect,0x4EED,48,Do you know a man from BCCH\ncalled Jun Ishida?{0D},,1 isla(s) 91 inline
+236,0x4C68,redirect,0x4F20,29,Is he one of our employees?{0D},,
+237,0x4C7B,redirect,0x4F3D,63,"Yeah, he's been posted to BCCH\nfrom Tokugawa Pharmaceuticals.{0D}",,
+238,0x4CB8,redirect,0x4F7C,31,The name doesn't ring a bell.{0D},,1 isla(s) 91 inline
+239,0x4CD3,redirect,0x4F9E,33,Can you check on him like Hojo?{0D},,
+240,0x4D02,redirect,0x4FBF,64,"Just a moment....{80238057}Yes, we do have an employee by\nthat name.{0D}",,2 isla(s) 91 inline
+241,0x4D4B,redirect,0x5005,48,Are there any records of him\nhaving been here?{0D},,
+242,0x4D62,redirect,0x5035,53,"Let's see....{80238057}Not in the last several years, no.{0D}",,2 isla(s) 91 inline
+243,0x4D9D,redirect,0x5070,61,Only a small number of VIPs come\nhere on any regular basis.{0D},,
+244,0x4DD4,redirect,0x50AD,27,He was telling the truth.{0D},,1 isla(s) 91 inline
+245,0x4DF3,redirect,0x50CB,40,"I'm sorry, I don't believe I know\nhim.{0D}",,
+246,0x4E1A,redirect,0x50F3,31,Do you have a picture of him?{0D},,
+247,0x4E3D,redirect,0x5112,15,"No, we don't.{0D}",,
+248,0x4E4A,redirect,0x5121,14,The building{0D},,
+249,0x4E55,redirect,0x512F,230,"The Prop, in addition to\nfunctioning as the Tokugawa\nGroup's headquarters here, is\n also one of the most widely known\nexamples of space architecture,\nlikened symbolically to a pillar\n supporting the colony, as its name\nsuggests.{0D}",,3 isla(s) 91 inline
+250,0x4EEE,redirect,0x521E,216,"The surface side contains the\nreception hall, the situation room,\nemployee offices, the auditorium,\n the president's office and the\nall-purpose hall.{80238057}It also has the Garden, one of the\nmain features of the Prop.{0D}",,4 isla(s) 91 inline
+251,0x4F8D,redirect,0x5302,153,"The window side contains most of\nthe building's parking garages, the\nsecurity room, the disaster control\n center and the motor room,\namong other areas.{0D}",,3 isla(s) 91 inline
+252,0x4FD8,redirect,0x53A4,27,The building's facilities{0D},,1 isla(s) 91 inline
+253,0x4FE3,redirect,0x53C2,134,"The building's air conditioning,\nheating, lighting, disaster control\nsystem and employee management\n system are all run by computer.{0D}",,2 isla(s) 91 inline
+254,0x5036,redirect,0x544E,48,Maybe Hojo's entry was\nautomatically recorded?{0D},,
+255,0x5061,redirect,0x547E,124,All information here is processed\nby an 800 gigabyte per second\nsuper high-speed optical fiber\n LAN and satellite link-up.{0D},,1 isla(s) 91 inline
+256,0x50C4,redirect,0x54FD,100,"The Prop has its own CELESS, so\nthe building would be unaffected\nshould a hole open in the colony.{0D}",,1 isla(s) 91 inline
+257,0x5167,redirect,0x5564,12,The Garden{0D},,1 isla(s) 91 inline
+258,0x5170,redirect,0x5573,122,The Garden is our zero-gravity\nevent area located in the center of\nthe building.{80238057}It's accessible via linear elevator.{0D},,3 isla(s) 91 inline
+259,0x51DF,redirect,0x55F6,161,"It consists of an open area\ncovering 20 floors, offering\n\n unobstructed views of the entire\ncolony.{80238057}It's often used for holding parties\nand other functions.{0D}",,1 isla(s) 91 inline
+260,0x5252,redirect,0x569A,47,There's a party going on there at\nthe moment.{0D},,
+261,0x527D,redirect,0x56C9,20,Tokugawa's history{0D},,
+262,0x528C,redirect,0x56DD,21,Founding generation{0D},,
+263,0x5295,redirect,0x56F2,146,The forerunner to the Tokugawa\nGroup began in the late 1950s with\nZenzo Tokugawa.{80238057}It consisted of a local factory called\nTokugawa Industries.{0D},,2 isla(s) 91 inline
+264,0x5310,redirect,0x578A,105,It manufactured parts for lathe\nmachines.{80238057}Its success soon turned it into\nTokugawa Heavy Industries.{0D},,1 isla(s) 91 inline
+265,0x536B,redirect,0x57F6,83,It would later become a leader in\nthe shipbuilding and iron and steel\nindustries.{0D},,2 isla(s) 91 inline
+266,0x53A0,redirect,0x584F,19,Second generation{0D},,2 isla(s) 91 inline
+267,0x53A9,redirect,0x5868,118,"Tadashi Tokugawa took over in\nthe 1980s, expanding Tokugawa\nHeavy Industries' operations to\n include semiconductors.{0D}",,2 isla(s) 91 inline
+268,0x53F6,redirect,0x58E7,78,Tokugawa Electronics soon\nbecame world leader of the\nsemiconductor industry.{0D},,2 isla(s) 91 inline
+269,0x542D,redirect,0x593B,166,"With its early development of\nbiomaterials, rockets and satellites\nin the 1990s, Tokugawa steadily\n laid the foundation for its\noperations in the future Colony\nAge.{0D}",,7 isla(s) 91 inline
+270,0x54AE,redirect,0x59F6,199,"It also participated in the ""free\nflyer"" experiments from their\ninception.{80238057}The data gathered would later be\napplied to its Made in Space\nproducts, with which it has\n achieved numerous successes.{0D}",,5 isla(s) 91 inline
+271,0x551F,redirect,0x5ACC,138,"Tokugawa then acquired a\nmultitude of foreign firms after\nthe millennium, transforming itself\n from a Japanese business to a\nglobal one.{0D}",,4 isla(s) 91 inline
+272,0x5568,redirect,0x5B62,117,This enabled it to profit greatly\nfrom the Third Industrial\nRevolution that came with the\n birth of the Colony Age.{0D},,3 isla(s) 91 inline
+273,0x559D,redirect,0x5BE0,20,Current generation{0D},,
+274,0x55A8,redirect,0x5BF4,118,"Control of Tokugawa was\neventually handed to the current\npresident, Joseph Sadaoki\n Tokugawa, the former Policenaut.{0D}",,5 isla(s) 91 inline
+275,0x55E5,redirect,0x5C79,191,"It quickly expanded into other\nareas central to space\ndevelopment {D0}{06} spaceships,\n space stations, space bases and\nspace colonies, as well as the\ncomputer and sensor equipment\n they require.{0D}",,5 isla(s) 91 inline
+276,0x567A,redirect,0x5D47,153,"Furthermore, it applied its\narchitectural engineering\nknow-how developed at places\n such as the Tokyo Waterfront to\ncolony and space base\nconstruction.{0D}",,8 isla(s) 91 inline
+277,0x5713,redirect,0x5DF8,131,This proved essential to setting up\nspace's infrastructure and bring\nnew advances to an industry faced\n with multiple roadblocks.{0D},,3 isla(s) 91 inline
+278,0x5740,redirect,0x5E84,175,"Having already put a large focus\non space development, Tokugawa\nwent on to attain dominance\n throughout space with its\nmicrogravity and high-vacuum\nMade in Space operations.{0D}",,4 isla(s) 91 inline
+279,0x57D5,redirect,0x5F42,99,"More than a business, it continues\nto lend its support to countless\naspects of space development.{0D}",,2 isla(s) 91 inline
+280,0x581C,redirect,0x5FAB,116,"Since you have a photo of the\nPolicenauts with you, you'll\nalready know the president was a\n part of that program.{0D}",,2 isla(s) 91 inline
+281,0x5845,redirect,0x6025,6,Show{0D},,
+282,0x5850,redirect,0x602B,12,Hojo photo{0D},,
+283,0x585F,redirect,0x6037,48,This man is Kenzo Hojo.  Do you\nrecognize him?{0D},,1 isla(s) 91 inline
+284,0x5888,redirect,0x606A,40,His face doesn't stick out in my\nmind.{0D},,2 isla(s) 91 inline
+285,0x58B7,redirect,0x6098,55,"He doesn't look familiar, no, but I\ncouldn't be sure.{0D}",,3 isla(s) 91 inline
+286,0x58E4,redirect,0x60D8,36,Do you know the man in this\nphoto?{0D},,3 isla(s) 91 inline
+287,0x58FF,redirect,0x6105,47,"I don't believe I've ever met him\nbefore, no.{0D}",,1 isla(s) 91 inline
+288,0x592C,redirect,0x6137,54,"I'm sorry, but I don't think I know\nhim.  Who is he?{0D}",,2 isla(s) 91 inline
+289,0x5943,redirect,0x6173,16,Lorraine photo{0D},,1 isla(s) 91 inline
+290,0x5950,redirect,0x6186,24,"This is you, isn't it?{0D}",,
+291,0x5971,redirect,0x619E,39,Do you need to know about this\nwoman?{0D},,2 isla(s) 91 inline
+292,0x597E,redirect,0x61CB,18,Wait a second {D0}{06}{0D},,1 isla(s) 91 inline
+293,0x5993,redirect,0x61E0,70,"Since you were a Policenaut... that\npicture must be really old, huh?{0D}",,2 isla(s) 91 inline
+294,0x59D0,redirect,0x622C,52,"This has nothing to do with why\nwe're here, sorry.{0D}",,1 isla(s) 91 inline
+295,0x59F1,redirect,0x6263,63,We might end up confusing her. \nBetter not take it out again.{0D},,
+296,0x5A20,redirect,0x62A2,19,Policenauts photo{0D},,1 isla(s) 91 inline
+297,0x5A33,redirect,0x62B8,2,{0D},,
+298,0x5A70,redirect,0x62BA,2,{0D},,
+299,0x5A81,redirect,0x62BC,2,{0D},,
+300,0x5AB6,redirect,0x62BE,2,{0D},,
+301,0x5AEB,redirect,0x62C0,2,{0D},,
+302,0x5AF8,redirect,0x62C2,2,{0D},,
+303,0x5B35,redirect,0x62C4,2,{0D},,
+304,0x5B56,redirect,0x62C6,50,I can't believe you guys were\nPolicenauts.  Wow.{0D},,1 isla(s) 91 inline
+305,0x5B83,redirect,0x62FE,30,Do you recognize this photo?{0D},,
+306,0x5B98,redirect,0x631C,30,"Yes, that's the Policenauts.{0D}",,
+307,0x5BB9,redirect,0x633A,80,They're the Policenauts.  Our\npresident was one of them.  I\nknow all about it.{0D},,2 isla(s) 91 inline
+308,0x5C08,redirect,0x6390,9,ID card{0D},,
+309,0x5C13,redirect,0x6399,49,"That's a Tokugawa ID card, yes. \nWhat about it?{0D}",,1 isla(s) 91 inline
+310,0x5C36,redirect,0x63D0,40,Why are you showing me one of\nour IDs?{0D},,
+311,0x5C53,redirect,0x63F8,6,Back{0D},,
+312,0x5C5C,redirect,0x63FE,83,"With girls like this around, a\ncareer with Tokugawa might not\nbe such a bad idea.{0D}",,2 isla(s) 91 inline
+313,0x5C95,redirect,0x6457,52,Forget about it.  It's a super-elite\norganization.{0D},,2 isla(s) 91 inline
+314,0x5CC0,redirect,0x6491,62,She's an interesting welcome for a\nsuper-elite organization.{0D},,1 isla(s) 91 inline
+315,0x5CE5,redirect,0x64D2,44,A lot of women keep their hair\nshort here.{0D},,1 isla(s) 91 inline
+316,0x5D06,redirect,0x6501,47,Shorter hair is more dynamic in\nzero gravity.{0D},,
+317,0x5D29,redirect,0x6530,38,That kinda boyish haircut suits\nyou.{0D},,1 isla(s) 91 inline
+318,0x5D4C,redirect,0x6559,15,You think so?{0D},,
+319,0x5D59,redirect,0x6568,63,She's got a flirty face.  Like the\nkind you see in teenagers.{0D},,2 isla(s) 91 inline
+320,0x5D7E,redirect,0x65B0,51,It's always hard guessing the age\nof Asian women.{0D},,
+321,0x5DA1,redirect,0x65E3,49,"Yeah, they look younger than they\nactually are.{0D}",,1 isla(s) 91 inline
+322,0x5DBA,redirect,0x6617,15,Just like me.{0D},,
+323,0x5DC7,redirect,0x6626,24,You know what I meant.{0D},,1 isla(s) 91 inline
+324,0x5DD8,redirect,0x6641,49,"It was a joke, Ed.  Jesus, lighten\nup, old man.{0D}",,2 isla(s) 91 inline
+325,0x5DEF,redirect,0x6678,69,"For someone with such a sweet\nface, she sure doesn't take any\ncrap.{0D}",,1 isla(s) 91 inline
+326,0x5E28,redirect,0x66C0,28,Those earrings look heavy.{0D},,1 isla(s) 91 inline
+327,0x5E43,redirect,0x66DF,71,"If you look closely, you can see\nthey have the Tokugawa logo on\nthem.{0D}",,1 isla(s) 91 inline
+328,0x5E64,redirect,0x672C,25,Your earrings too? Wow.{0D},,1 isla(s) 91 inline
+329,0x5E93,redirect,0x6748,39,"More style than Meryl's earring,\nhuh?{0D}",,
+330,0x5EC4,redirect,0x676F,51,They're earrings with the\nTokugawa crest on them.{0D},,1 isla(s) 91 inline
+331,0x5EFB,redirect,0x67A5,32,"Well, hello there, sugar tits.{0D}",,1 isla(s) 91 inline
+332,0x5F18,redirect,0x67C8,27,Umm... thanks... I guess.{0D},,
+333,0x5F3F,redirect,0x67E6,50,I hate wearing this with people\nlike you around.{0D},,1 isla(s) 91 inline
+334,0x5F86,redirect,0x681B,31,"Allow me to apologize, ma'am.{0D}",,1 isla(s) 91 inline
+335,0x5FA1,redirect,0x683D,32,I feel so embarrassed in this.{0D},,
+336,0x5FD6,redirect,0x685D,63,"No, you shouldn't be.  You're\ndoing everyone a great service.{0D}",,1 isla(s) 91 inline
+337,0x6005,redirect,0x689F,89,It's miiiles better than the uniform\nthe guard at Tokugawa\nPharmaceuticals was wearing.{0D},,
+338,0x6050,redirect,0x68F8,30,Don't you get started again.{0D},,1 isla(s) 91 inline
+339,0x6071,redirect,0x6919,19,What do you mean?{0D},,
+340,0x6082,redirect,0x692C,101,"He's, uh... I guess you could say\nhe's a breast man.{80238057}He takes it to a whole other level,\nthough.{0D}",,1 isla(s) 91 inline
+341,0x609D,redirect,0x6994,7,Touch{0D},,
+342,0x60A2,redirect,0x699B,81,"Well, if Ed says I'm a breast man, I\nsuppose I better live up to my\nreputation.{0D}",,3 isla(s) 91 inline
+343,0x60D3,redirect,0x69F5,5,No!{0D},,
+344,0x60DA,redirect,0x69FA,24,I'll only be a moment.{0D},,
+345,0x60EF,redirect,0x6A12,6,Aah!{0D},,
+346,0x60F8,redirect,0x6A18,31,"I would have to say... a ""D"".{0D}",,1 isla(s) 91 inline
+347,0x6107,redirect,0x6A3A,47,(She's bigger than the stewardess\nAND Chris!){0D},,1 isla(s) 91 inline
+348,0x613E,redirect,0x6A6C,28,(She's number one so far.){0D},,
+349,0x6165,redirect,0x6A88,33,What do you think you're doing!{0D},,1 isla(s) 91 inline
+350,0x6178,redirect,0x6AAC,46,"For god's sake, Jonathan,\nanywhere but here!{0D}",,1 isla(s) 91 inline
+351,0x619F,redirect,0x6ADD,31,That's an interesting outfit.{0D},,2 isla(s) 91 inline
+352,0x61AA,redirect,0x6B02,40,This is the uniform they make us\nwear.{0D},,
+353,0x61D1,redirect,0x6B2A,41,I wonder if Sadaoki came up with\nthese.{0D},,1 isla(s) 91 inline
+354,0x61F8,redirect,0x6B56,42,"Still, nice change from Chris' lab\ncoat.{0D}",,1 isla(s) 91 inline
+355,0x621F,redirect,0x6B83,55,"Doesn't really match Tokugawa's\npersonality, does it?{0D}",,
+356,0x624C,redirect,0x6BBA,91,Our uniforms change every\nmonth.{80238057}Each one is created by a\nnoteworthy fashion designer.{0D},,2 isla(s) 91 inline
+357,0x62B1,redirect,0x6C1B,48,It's a holographic print of the\nTokugawa logo.{0D},,
+358,0x62D4,redirect,0x6C4B,47,Just in case you didn't see it on\nthe way in.{0D},,1 isla(s) 91 inline
+359,0x62FB,redirect,0x6C7D,65,It's here to prevent anyone from\ncreating counterfeit uniforms.{0D},,1 isla(s) 91 inline
+360,0x6340,redirect,0x6CC1,45,Nice skin.  Very nice.  It looks so\nsmooth.{0D},,1 isla(s) 91 inline
+361,0x636B,redirect,0x6CF1,46,She's a cute girl.  She looks part\nJapanese.{0D},,1 isla(s) 91 inline
+362,0x63A4,redirect,0x6D22,29,She reminds me of Lorraine.{0D},,
+363,0x63CD,redirect,0x6D3F,51,She's like a walking advertisement\nfor the place.{0D},,2 isla(s) 91 inline
+364,0x6414,redirect,0x6D78,64,Why don't they just tattoo it on\nher face while they're at it.{0D},,1 isla(s) 91 inline
+365,0x6427,redirect,0x6DBB,42,Our logo has become a fashion\nitem here.{0D},,
+366,0x645E,redirect,0x6DE5,35,Somehow that doesn't surprise\nme.{0D},,1 isla(s) 91 inline
+367,0x6479,redirect,0x6E0B,75,Tourists from Home often buy\nclothes and stuff with it when\nthey're here.{0D},,1 isla(s) 91 inline
+368,0x64AC,redirect,0x6E59,54,That's a display of select Tokugawa\nGroup companies.{0D},,1 isla(s) 91 inline
+369,0x64D3,redirect,0x6E92,216,"The Tokugawa Group is divided\ninto 138 companies.{80238057}Its main divisions include\nTokugawa Heavy Industries,\nTokugawa Electronics, Tokugawa\n Construction, Tokugawa\nPharmaceuticals, Tokugawa Foods\nand Tokugawa Mining.{0D}",,7 isla(s) 91 inline
+370,0x6546,redirect,0x6F7F,70,"If you would like to know more, I\nwould be happy to talk about\nthem.{0D}",,2 isla(s) 91 inline
+371,0x6581,redirect,0x6FCE,55,What can you tell us about\nTokugawa Heavy Industries?{0D},,1 isla(s) 91 inline
+372,0x659A,redirect,0x7008,35,That's Tokugawa Heavy Industries.{0D},,2 isla(s) 91 inline
+373,0x65AD,redirect,0x7031,76,It's primarily a systems integrator\nfor spaceship and rocket\nconstruction.{0D},,2 isla(s) 91 inline
+374,0x65F6,redirect,0x7083,72,It's become famous in recent years\nfor its EMPS and machine tools\ntoo.{0D},,2 isla(s) 91 inline
+375,0x6631,redirect,0x70D1,50,What can you tell us about\nTokugawa Electronics?{0D},,2 isla(s) 91 inline
+376,0x664A,redirect,0x7109,30,That's Tokugawa Electronics.{0D},,2 isla(s) 91 inline
+377,0x665D,redirect,0x712D,84,"It makes computer and sensor\nequipment for satellites,\nspaceships and space bases.{0D}",,2 isla(s) 91 inline
+378,0x66A4,redirect,0x7187,90,"In addition, it's known for its home\nelectronics incorporating applied\nspace technology.{0D}",,5 isla(s) 91 inline
+379,0x66DB,redirect,0x71F0,75,It's also responsible for\ncutting-edge medical and\nobservation equipment.{0D},,1 isla(s) 91 inline
+380,0x6712,redirect,0x723E,44,What can you tell us about\nTokugawa Foods?{0D},,1 isla(s) 91 inline
+381,0x6729,redirect,0x726D,24,That's Tokugawa Foods.{0D},,1 isla(s) 91 inline
+382,0x673C,redirect,0x7288,131,"It produces a wide range of\nproducts, from biofoods developed\nthrough space bioengineering, to\n space foods and functional foods.{0D}",,3 isla(s) 91 inline
+383,0x678B,redirect,0x7314,94,It's particularly notable for its\ncalcium foods for those active in\nweightless environments.{0D},,3 isla(s) 91 inline
+384,0x67B6,redirect,0x737B,54,What can you tell us about\nTokugawa Pharmaceuticals?{0D},,1 isla(s) 91 inline
+385,0x67E3,redirect,0x73B4,34,That's Tokugawa Pharmaceuticals.{0D},,1 isla(s) 91 inline
+386,0x67FC,redirect,0x73D9,83,Its main focus is the development\nof new drugs and substances\nunder zero gravity.{0D},,3 isla(s) 91 inline
+387,0x6831,redirect,0x7435,122,"It's well known for its\nimmunosuppressive drugs for\norgan transplant recipients, as well\n as its organ storage solution.{0D}",,4 isla(s) 91 inline
+388,0x6874,redirect,0x74BB,161,"Of course, immunosuppressants\nare no longer used as they once\nwere.{80238057}This was before they could\nsupport a patient's immune system\nwith antibodies like today.{0D}",,4 isla(s) 91 inline
+389,0x6905,redirect,0x7568,166,"I can see Ishida's point.{80238057}They slap a pretty picture on the\nwhole thing, but at the end of the\nday they're still making a fortune\n saturating Beyonds with drugs.{0D}",,5 isla(s) 91 inline
+390,0x696A,redirect,0x761D,55,Today's party is related to\nTokugawa Pharmaceuticals.{0D},,1 isla(s) 91 inline
+391,0x699F,redirect,0x7657,51,What can you tell us about\nTokugawa Construction?{0D},,1 isla(s) 91 inline
+392,0x69B8,redirect,0x768D,31,That's Tokugawa Construction.{0D},,
+393,0x69CB,redirect,0x76AC,79,"It constructs space colonies, space\nstations, Moon bases and planetary\nbases.{0D}",,2 isla(s) 91 inline
+394,0x6A1E,redirect,0x7701,90,It was responsible for introducing\nthe cost-effective torus type to\ncolony construction.{0D},,2 isla(s) 91 inline
+395,0x6A59,redirect,0x7761,59,"People often call the torus type\nthe ""Tokugawa type"" now.{0D}",,3 isla(s) 91 inline
+396,0x6A8E,redirect,0x77A5,61,It's presently the largest general\ncontractor in the world.{0D},,1 isla(s) 91 inline
+397,0x6AC5,redirect,0x77E8,45,What can you tell us about\nTokugawa Mining?{0D},,
+398,0x6ADE,redirect,0x7815,25,That's Tokugawa Mining.{0D},,
+399,0x6AF1,redirect,0x782E,142,It was the first company to\nestablish a factory on the Moon.{80238057}It mines and processes Lunar\nminerals and distributes them\nthroughout space.{0D},,2 isla(s) 91 inline
+400,0x6B42,redirect,0x78C2,88,"It handles minerals such as\nilmenite, magnesium, uranium,\niron, titanium and chromium.{0D}",,2 isla(s) 91 inline
+401,0x6B7D,redirect,0x7920,91,"It also processes helium-3, found\nin trace amounts on Earth but in\nabundance on the Moon.{0D}",,2 isla(s) 91 inline
+402,0x6BC4,redirect,0x7981,118,There's a miniature of the\nTokugawa Moon Plant located\nbehind you.{80238057}Feel free to take a look if you're\ninterested.{0D},,3 isla(s) 91 inline; cadena 92: 2 fragmentos unidos
+403,0x6C11,redirect,0x7A1A,88,That's a multivision behind me.  It\nruns information pertaining to the\nTokugawa Group.{0D},,5 isla(s) 91 inline
+404,0x6C6C,redirect,0x7A81,69,"Funny how it's only showing the\ntwo places we've been to, isn't it?{0D}",,1 isla(s) 91 inline
+405,0x6C9B,redirect,0x7AC9,23,I agree.  VERY funny.{0D},,2 isla(s) 91 inline
+406,0x6CC2,redirect,0x7AE6,79,It's displaying images of Tokugawa\nPharmaceuticals and the\nTokugawa Building.{0D},,2 isla(s) 91 inline
+407,0x6CF5,redirect,0x7B3B,46,You just can't get away from that\nlogo here.{0D},,2 isla(s) 91 inline
+408,0x6D4A,redirect,0x7B6F,44,That's the terminal the\nreceptionist uses.{0D},,3 isla(s) 91 inline
+409,0x6D6F,redirect,0x7BA4,43,This is linked to the building's\nnetwork.{0D},,1 isla(s) 91 inline
+410,0x6DA4,redirect,0x7BD2,48,We use it for various\nadministrative purposes.{0D},,1 isla(s) 91 inline
+411,0x6DF9,redirect,0x7C05,49,Maybe there's a record of Hojo's\nvisit in this.{0D},,2 isla(s) 91 inline
+412,0x6E2C,redirect,0x7C3C,92,It looks like it records your voice\nprint and picture too.  It wouldn't\nmake any mistakes.{0D},,2 isla(s) 91 inline
+413,0x6E61,redirect,0x7C9E,84,"I can also tell you about the\nhistory of the Tokugawa Group, if\nyou're interested.{0D}",,3 isla(s) 91 inline
+414,0x6EA8,redirect,0x7CFB,49,There's a hologram over there of\nall its heads.{0D},,2 isla(s) 91 inline
+415,0x6ECF,redirect,0x7D32,73,You can also take a look at the\nhologram inside the case if you'd\nlike.{0D},,
+416,0x6EFA,redirect,0x7D7B,27,Shall I go over it again?{0D},,1 isla(s) 91 inline
+417,0x6F13,redirect,0x7D99,20,"No, we got it all.{0D}",,
+418,0x6F38,redirect,0x7DAD,55,"No, don't bother.  They make you\nremember a lot, huh?{0D}",,2 isla(s) 91 inline
+419,0x6F5D,redirect,0x7DEA,61,Must be harder being a\nreceptionist than most people\nthink.{0D},,1 isla(s) 91 inline
+420,0x6F72,redirect,0x7E2A,46,Listening to all that crap is hard\nwork too.{0D},,2 isla(s) 91 inline
+421,0x6F89,redirect,0x7E5E,28,You idiot!  She heard you!{0D},,1 isla(s) 91 inline
+422,0x6FA2,redirect,0x7E7D,29,"Ha ha ha, I don't think so.{0D}",,1 isla(s) 91 inline
+423,0x6FCB,redirect,0x7E9D,34,"C'mon, Ed! Let's go see Sadaoki!{0D}",,
+424,0x6FEE,redirect,0x7EBF,30,Excuse me! Stop right there.{0D},,1 isla(s) 91 inline
+425,0x7011,redirect,0x7EE0,27,I'll call security again!{0D},,1 isla(s) 91 inline
+426,0x7028,redirect,0x7EFE,39,She looks serious.  We'd better\nstop.{0D},,
+427,0x7041,redirect,0x7F25,77,I really don't wanna get thrown\nout again.  Let's avoid the rough\napproach.{0D},,1 isla(s) 91 inline
+428,0x706E,redirect,0x7F75,44,"Let's go, Ed! Sadaoki's gotta be\nup there!{0D}",,2 isla(s) 91 inline
+429,0x7097,redirect,0x7FA7,9,May we?{0D},,
+430,0x70AE,redirect,0x7FB0,37,Wait! Do you have a search\nwarrant?{0D},,1 isla(s) 91 inline
+431,0x70DD,redirect,0x7FD8,38,I don't need a warrant with\nSadaoki.{0D},,1 isla(s) 91 inline
+432,0x7104,redirect,0x8004,7,Stop!{0D},,
+433,0x7113,redirect,0x800B,21,This is awkward....{0D},,
+434,0x7124,redirect,0x8020,45,Forget this.  We'll find Sadaoki\nourselves.{0D},,3 isla(s) 91 inline
+435,0x7153,redirect,0x8056,33,You want me to call the police?{0D},,1 isla(s) 91 inline
+436,0x7170,redirect,0x807A,27,Umm... we ARE the police.{0D},,1 isla(s) 91 inline
+437,0x718F,redirect,0x8098,13,Let's move!{0D},,
+438,0x71A4,redirect,0x80A5,14,I said stop!{0D},,1 isla(s) 91 inline
+439,0x71BB,redirect,0x80B6,12,No can do?{0D},,
+440,0x71C4,redirect,0x80C2,28,Let's get in the elevator!{0D},,
+441,0x71DB,redirect,0x80DE,2,{0D},,
+442,0x721C,redirect,0x80E0,2,{0D},,
+443,0x7259,redirect,0x80E2,2,{0D},,
+444,0x7272,redirect,0x80E4,2,{0D},,
+445,0x72B3,redirect,0x80E9,2,{0D},,
+446,0x72DE,redirect,0x80EB,2,{0D},,
+447,0x72F1,redirect,0x80ED,2,{0D},,
+448,0x732C,redirect,0x80EF,2,{0D},,
+449,0x7349,redirect,0x80F1,36,Let's go! Sadaoki's in the\nGarden!{0D},,1 isla(s) 91 inline
+450,0x7372,redirect,0x8118,71,Stop! The building is off-limits to\nthe general public at the moment.{0D},,2 isla(s) 91 inline
+451,0x7399,redirect,0x8165,31,We're old friends of Sadaoki.{0D},,
+452,0x73BE,redirect,0x8184,34,Stop it! I'm going to get angry.{0D},,cadena 92: 2 fragmentos unidos
+453,0x73DB,redirect,0x81A9,38,"Man, I don't think I wanna test\nher.{0D}",,
+454,0x73EE,redirect,0x81CF,60,Can you please let us through?\nSadaoki's a friend of ours.{0D},,
+455,0x741D,redirect,0x820B,47,You expect me to believe\nsomething like that?{0D},,
+456,0x743C,redirect,0x823A,42,"Besides, the party is a formal\noccasion.{0D}",,
+457,0x7457,redirect,0x8264,25,This is my formal wear.{0D},,
+458,0x74A8,redirect,0x827D,6,....{0D},,
+459,0x74AF,redirect,0x8283,32,"I sleep in it too.  Right, Ed?{0D}",,
+460,0x74D4,redirect,0x82A3,62,"C'mon, Jonathan, show her proof\nwe're friends with Tokugawa!{0D}",,
+461,0x750F,redirect,0x82E1,23,"Gentlemen, please....{0D}",,
+462,0x751E,redirect,0x82F8,42,Show her proof we know\nTokugawa already!{0D},,
+463,0x7553,redirect,0x8322,2,{0D},,
+464,0x7590,redirect,0x8324,2,{0D},,
+465,0x75B1,redirect,0x8326,2,{0D},,
+466,0x75CE,redirect,0x8328,2,{0D},,
+467,0x75F9,redirect,0x832A,2,{0D},,
+468,0x7614,redirect,0x832C,2,{0D},,
+469,0x7629,redirect,0x832E,2,{0D},,
+470,0x7664,redirect,0x8330,2,{0D},,
+471,0x76B5,redirect,0x8332,2,{0D},,
+472,0x76F6,redirect,0x8334,2,{0D},,
+473,0x772D,redirect,0x8336,2,{0D},,
+474,0x774A,redirect,0x8338,2,{0D},,
+475,0x7767,redirect,0x833A,2,{0D},,
+476,0x7790,redirect,0x833C,2,{0D},,
+477,0x77A1,redirect,0x833E,2,{0D},,
+478,0x77C0,redirect,0x8340,2,{0D},,
+479,0x77E5,redirect,0x8342,2,{0D},,
+480,0x7896,redirect,0x8344,2,{0D},,
+481,0x78B3,redirect,0x8346,2,{0D},,
+482,0x78C4,redirect,0x8348,2,{0D},,
+483,0x7905,redirect,0x834A,2,{0D},,
+484,0x7934,redirect,0x834C,2,{0D},,
+485,0x7979,redirect,0x834E,2,{0D},,
+486,0x7992,redirect,0x8350,2,{0D},,
+487,0x79B9,redirect,0x8352,2,{0D},,
+488,0x79D6,redirect,0x8354,26,I'm inside the elevator.{0D},,
+489,0x79EF,inplace,0x79EF,11,elback.pak,,sin codigo 91: revisar
+490,0x79FA,inplace,0x79FA,9,yure.pak,,sin codigo 91: revisar
+491,0x7A03,redirect,0x836E,2,{0D},,
+492,0x7A2A,redirect,0x8370,2,{0D},,
+493,0x7A41,redirect,0x8372,2,{0D},,
+494,0x7A62,redirect,0x8374,6,Move{0D},,
+495,0x7A67,redirect,0x837A,6,Exit{0D},,
+496,0x7A70,redirect,0x8380,53,We finally made it in here and now\nyou wanna leave?{0D},,
+497,0x7AA7,redirect,0x83B5,46,"C'mon, Jonathan, let's get up to\nthe Garden.{0D}",,
+498,0x7ACE,redirect,0x83E3,8,System{0D},,
+499,0x7AD7,redirect,0x83EB,30,"No, I'm going to the Garden.{0D}",,
+500,0x7AF8,redirect,0x8409,60,"I know it's gotta be a trap, but I've\ngot no other choice.{0D}",,
+501,0x7B37,redirect,0x8445,9,Get off{0D},,
+502,0x7B4C,redirect,0x844E,2,{0D},,
+503,0x7B6B,redirect,0x8450,6,Look{0D},,
+504,0x7B70,redirect,0x8456,22,It's not gonna move.{0D},,
+505,0x7B89,redirect,0x846C,15,It's no good.{0D},,
+506,0x7B92,redirect,0x847B,30,The panel's short-circuited.{0D},,
+507,0x7BAB,redirect,0x8499,26,It won't respond at all.{0D},,
+508,0x7BDC,redirect,0x84B3,41,This is what we used to work it\nbefore.{0D},,
+509,0x7C09,redirect,0x84DC,54,This button here will take the\nelevator straight up.{0D},,
+510,0x7C28,redirect,0x8512,58,This is the elevator's panel.  We\ncan use this to go up.{0D},,
+511,0x7C61,redirect,0x854C,54,It looks like this elevator only goes\nto the Garden.{0D},,
+512,0x7C96,redirect,0x8582,14,Press button{0D},,
+513,0x7C9F,redirect,0x8590,59,The panel's totally dead.  It won't\nlet me go up or down.{0D},,
+514,0x7CD6,redirect,0x85CB,52,It doesn't look like I can use any of\nthe buttons.{0D},,
+515,0x7CF7,redirect,0x85FF,21,Back to the Garden.{0D},,
+516,0x7D14,redirect,0x8614,23,"Garden, here we come.{0D}",,
+517,0x7D2B,redirect,0x862B,123,It's an ad for a Tokugawa\nshareholder tour.{80238057}They give you a tour of the\nTokugawa Moon Plant.  There's\none every month.{0D},,
+518,0x7D8C,redirect,0x86A6,30,Sounds absolutely thrilling.{0D},,
+519,0x7DB1,redirect,0x86C4,38,It's an ad for a Tokugawa Moon\ntour.{0D},,
+520,0x7DD0,redirect,0x86EA,73,I see what he was talking about\nnow.  So this is what gave Ed his\nidea?{0D},,
+521,0x7E01,redirect,0x8733,38,Maybe this is where Ed got his\nidea.{0D},,
+522,0x7E2C,redirect,0x8759,26,"This is for you too, Ed.{0D}",,
+523,0x7E49,redirect,0x8773,42,I couldn't climb outside at this\nheight.{0D},,
+524,0x7E74,redirect,0x879D,39,Looks like I'll be taking the stairs.{0D},,
+525,0x7E97,redirect,0x87C4,52,It's a window.  It lets you see\nacross the colony.{0D},,
+526,0x7ED2,redirect,0x87F8,38,This is probably bullet-proof\nglass.{0D},,
+527,0x7EF9,redirect,0x881E,70,It's a window.  You'll get a\npanoramic view of the colony from\nhere.{0D},,
+528,0x7F30,redirect,0x8864,129,"The elevator moves through an\narea of extremely high pressure,\nso it's built with the same kinda\n glass you find in spaceships.{0D}",,
+529,0x7F7D,redirect,0x88E5,31,It's the elevator's handrail.{0D},,
+530,0x7F96,redirect,0x8904,61,"The elevator moves pretty fast, so\nyou might wanna hold on.{0D}",,
+531,0x7FBD,redirect,0x8941,42,That looks like an emergency\nvideophone.{0D},,
+532,0x7FDE,redirect,0x896B,44,Wish I could call for some backup\non this.{0D},,
+533,0x8001,redirect,0x8997,36,There's a monitor above the\nphone.{0D},,
+534,0x8026,redirect,0x89BB,6,Call{0D},,
+535,0x802D,redirect,0x89C1,34,"No, that's only for emergencies!{0D}",,
+536,0x804A,redirect,0x89E3,32,Quit acting like a 5-year-old!{0D},,
+537,0x806B,redirect,0x8A03,47,The line's dead.  I guess that's no\nsurprise.{0D},,
+538,0x8090,redirect,0x8A32,34,It won't work.  The line's dead.{0D},,
+539,0x80AB,redirect,0x8A54,83,It's a videophone monitor.  It's off.\nNormally it displays views of the\nbuilding.{0D},,
+540,0x80E6,redirect,0x8AA7,37,The monitor's not showing\nanything.{0D},,
+541,0x810B,redirect,0x8ACC,51,The display says we've stopped at\nthe 20th floor.{0D},,
+542,0x8134,redirect,0x8AFF,66,That's the floor number display. \nThe Garden was the 40th floor.{0D},,
+543,0x8161,redirect,0x8B41,77,That's the elevator's floor number\ndisplay.  Thing goes up to three\ndigits.{0D},,
