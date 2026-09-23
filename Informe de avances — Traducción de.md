@@ -464,8 +464,6 @@ Extendida a los archivos nuevos de esta sesión, sobre la misma lógica que ya e
 ## 19. Pendientes actualizados
 
 ### Alta prioridad
-- [ ] **Verificador de ancho de línea** (sigue arrastrándose de la sesión anterior — ahora más urgente: los slots de `MENU.BIN` son mucho más ajustados que los de `GAME*.SZ`, no hay margen para improvisar).
-- [ ] **Confirmar en emulador** los hallazgos de esta sesión: fusión de líneas en `.MOV`, corrección de `offset_fin`, traducciones cargadas en `MENU.BIN`/`ITP.BIN`, y si las dos copias duplicadas (§16.3) son ambas alcanzables en el juego real.
 - [ ] **Ubicar** `"Autosave File will be deleted... Are you sure you want to start a new game?"` — candidato más fuerte es `ENGLISH.PAK`, sin resolver.
 
 ### Prioridad media
