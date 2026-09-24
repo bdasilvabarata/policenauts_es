@@ -490,3 +490,42 @@ Extendida a los archivos nuevos de esta sesión, sobre la misma lógica que ya e
 ## 20. Estimación de cobertura
 
 Con el trabajo de esta sesión sumado a lo ya resuelto (diálogo completo vía `GAME*.SZ`, subtítulos de video, voces de sistema, menú principal y de opciones), la porción de texto **traducible con las herramientas ya construidas** ronda el 90% del contenido visible al jugador. Lo que queda afuera de ese número es, en su mayoría, contenido de bajo impacto (minijuegos, un puñado de mensajes de sistema aislados) más un archivo de formato todavía no identificado (`ENGLISH.PAK`) y el disco 2 completo (mismo mecanismo que el disco 1, solo falta repetir el pipeline ya validado).
+
+## 21. Corrección de sz_text.py build — integridad de reubicación
+
+### 21.1 Auto-completado del terminador final
+
+Problema: casi todas las cadenas de GAME*.SZ terminan en un token de control fijo (típicamente {0D}, retorno de carro) que el motor usa para saber cuándo cortar el texto. Con cientos de filas por archivo, confiar en que el traductor se acuerde de escribirlo al final de cada traducción, siempre, sin excepción, no es una expectativa realista.
+
+Solución: sz_text.py build ahora compara, fila por fila, el terminador de control del original contra el final de la traduccion; si falta, lo agrega automáticamente (copiado del propio original de esa fila, nunca inventado) y lo reporta al final de la corrida. No pisa un terminador que el traductor ya haya puesto a mano.
+
+### 21.2 Bug real encontrado: bytes "sin dueño" por cobertura accidental
+
+Síntoma: al reconstruir GAME00.SZ con traducciones cargadas, build abortaba con VERIFICACIÓN: FALLO — 5 tramos de bytes distintos de cero sin dueño en el resultado, que no existían en el archivo original.
+
+Diagnóstico (llevó varias vueltas, documentado acá porque el camino en sí es útil para el próximo bug parecido):
+
+Primera hipótesis (incorrecta): que estos 5 tramos eran simplemente re-agrupamientos de tramos ya conocidos de antes, por límites de reporte. Se implementó una corrección basada en esa hipótesis — no tuvo ningún efecto, lo cual fue en sí mismo información valiosa: descartó la hipótesis.
+Se comparó la lista completa (con --limit alto) de tramos "sin dueño" del archivo original contra la del resultado, dirección por dirección. Los primeros 38 coincidían exactamente; los 5 nuevos eran genuinamente nuevos, no un reagrupamiento.
+Comparando el contexto de bytes alrededor de uno de los 5 (antes/después del build), se encontró la causa real: el archivo tiene 27 anclas 0x91 "sueltas" (sin destino válido dentro del archivo — probablemente vestigios del hack DATCH original). El código ya sabía que había que dejarlas fijas (fixed), pero solo las eximía de la verificación de integridad si, por casualidad de posición, quedaban dentro del rango de bytes de una cadena reconocida vecina — una cobertura accidental, no una protección real. Cuando esa cadena vecina se traducía y se reubicaba a otro lugar del pool, la ancla suelta quedaba expuesta por primera vez, sin nada que la "tapara" en el nuevo análisis.
+
+Corrección aplicada: los 3 bytes propios de cada una de las 27 anclas sueltas ahora se agregan siempre al conjunto de "bytes sin dueño permitidos", sin depender de si algo vecino los cubre por casualidad.
+
+### 21.3 Volcado de diagnóstico ante fallo de verificación
+
+Mientras se investigaba el bug de 21.2, se agregó una mejora permanente a build: si la verificación falla, en vez de simplemente negarse a escribir el archivo, ahora vuelca el resultado (sin verificar, claramente marcado con sufijo .SINVERIFICAR, nunca para usar como parche real) a un archivo aparte para poder inspeccionarlo con las herramientas ya existentes (hexdump, findhex, o el propio sz_text.py dump apuntado al volcado). Sin esto, un fallo de verificación no dejaba nada que mirar.
+
+### 21.4 Primera prueba real: GAME00.SZ
+
+Con la corrección de 21.2 aplicada, GAME00.SZ (335 filas, 74 traducidas en esta primera tanda) pasó verificación limpia por primera vez. Se reempaquetó en GAME1.DPK (dpk_patch.py replace), se probó en emulador: el juego no crashea. El texto traducido está disperso en varias escenas distintas (menú de opciones, diálogos de guardado, etc.), así que todavía no se confirmó visualmente cada aparición — queda como pendiente de verificación, no como validado al 100%.
+
+## 22. Pendientes actualizados (incremento sobre la sección 19 de la continuación anterior)
+Alta prioridad
+ Confirmar visualmente en emulador cada aparición de texto traducido de GAME00.SZ — están dispersas en varias escenas (menú de opciones, flujo de guardado/carga, etc.), no se revisaron todas todavía.
+ Repetir el mismo build+prueba para el resto de los GAME*.SZ (por ahora solo se probó GAME00).
+Ya resuelto en esta vuelta (bajado de pendientes)
+ Bug de verificación de integridad en sz_text.py build (bytes sin dueño por cobertura accidental) — corregido y confirmado con una prueba real.
+ Auto-completado del terminador de control final, para no depender de que el traductor lo escriba a mano en cientos de filas.
+Sin cambios desde la continuación anterior
+
+Todo lo demás de la sección 19 (verificador de ancho de línea, ENGLISH.PAK sin resolver, DATA.DPK/.XDT sin explorar, créditos, disco 2, etc.) sigue igual.
