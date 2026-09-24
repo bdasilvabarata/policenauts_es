@@ -45,6 +45,7 @@ import argparse
 import bisect
 import csv
 import os
+import re
 import sys
 
 NEG = bytes((-i) & 0xFF for i in range(256))
@@ -436,6 +437,7 @@ def cmd_build(args):
         tr[a] = c
 
     new, changed = {}, set()
+    autocompletados = []
     for r in rows:
         a = r['anchor']
         c = tr.get(a)
@@ -443,6 +445,18 @@ def cmd_build(args):
             warns.append(f"id {c.get('id')} ({c['jp_addr']}): la columna 'original' no "
                          f"coincide con el binario actual")
         cell = (c.get('traduccion') or '') if c is not None else ''
+        # Auto-completar el terminador de control final (ej. '{0D}') si la
+        # traduccion no lo trae -- casi siempre es un olvido, no una
+        # decision deliberada, y a esta escala (cientos de filas) confiar
+        # en que nadie se olvide nunca no es realista. Solo actua sobre el
+        # ORIGINAL de esta fila puntual, nunca inventa un terminador que
+        # esa fila no tenia.
+        if cell.strip() and c is not None:
+            term = re.search(r'(\{[0-9A-Fa-f]+\})+$', c.get('original', ''))
+            term = term.group(0) if term else ''
+            if term and not cell.endswith(term):
+                cell = cell + term
+                autocompletados.append((c.get('id'), c.get('jp_addr'), term))
         try:
             check_reserved(cell, cmap)
         except ValueError as e:
@@ -465,6 +479,14 @@ def cmd_build(args):
             changed.add(a)
         else:
             new[a] = r['text']
+    if autocompletados:
+        print(f"(se auto-completo el terminador final en {len(autocompletados)} fila(s) "
+              f"donde faltaba -- copiado del propio 'original' de cada una)")
+        for i, addr, term in autocompletados[:10]:
+            print(f"  id={i} ({addr}): agregado {term!r}")
+        if len(autocompletados) > 10:
+            print(f"  ... ({len(autocompletados) - 10} mas)")
+        print()
     # ---- avisos de tamano de caja (no bloquean)
     orig_stats = [line_stats(r['text']) for r in rows]
     lim_w = args.max_line or max(w for _, w in orig_stats)
@@ -487,6 +509,15 @@ def cmd_build(args):
 
     # ---- auditoria previa
     lo, hi_old, runs_unowned, _, unknown91 = audit_block(en, rows)
+    # bytes que YA eran huerfanos (no-cero, sin dueno) antes de tocar nada --
+    # la comparacion de seguridad real es POR BYTE contra este set, no por
+    # tramo completo: si el reflow limpia un vecino que antes tambien era
+    # huerfano, el tramo se puede partir en pedazos mas chicos sin que eso
+    # sea un problema nuevo -- lo que importa es si CADA byte puntual ya
+    # era huerfano antes, no como el reporte agrupa los tramos.
+    was_orphan_before = set()
+    for s0, e0 in runs_unowned:
+        was_orphan_before.update(range(s0, e0))
 
     body = bytearray(en[:-2])
     trailer = bytes(en[-2:])
@@ -542,6 +573,7 @@ def cmd_build(args):
         pinned.add(k)
         for x in range(k, k + 3):
             fixed[x] = 1
+            keep_unowned.add(x)          # la ancla suelta en si es huerfana por diseno
         t = redirect_target(en, k)
         if t is not None and t < nb:
             _, ivs2, _, _, _ = read_string(en, t, args.window)
@@ -675,7 +707,9 @@ def cmd_build(args):
         problems.append(f"... y {bad_txt - 5} filas mas con texto distinto")
     if rows2:
         _, _, runs2, _, unk2 = audit_block(new_view, rows2)
-        bad_runs = [r for r in runs2 if not all(x in keep_unowned for x in range(r[0], r[1]))]
+        bad_runs = [r for r in runs2
+                   if not all(x in keep_unowned or x in was_orphan_before
+                              for x in range(r[0], r[1]))]
         if bad_runs:
             problems.append(f"{len(bad_runs)} tramos no cero sin dueno en el resultado "
                             f"(primero en 0x{bad_runs[0][0]:X})")
@@ -722,7 +756,12 @@ def cmd_build(args):
         for pr in problems:
             print("  - " + pr)
         if not args.force:
-            print("no se escribio el archivo (usa --force para escribirlo igual)")
+            diag_path = args.out + '.SINVERIFICAR'
+            open(diag_path, 'wb').write(bytes(out))
+            print(f"no se escribio {args.out} (usa --force para escribirlo igual)")
+            print(f"\nvolcado SIN VERIFICAR para diagnostico (NO USAR como parche): {diag_path}")
+            print(f"  inspecciona ahi con hexdump/findhex el primer offset del problema, "
+                  f"y compara contra {args.en}")
             return 1
     else:
         print("\nVERIFICACION: OK (se releyo el resultado: mismas filas, mismo texto, "
